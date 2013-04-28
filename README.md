@@ -17,7 +17,7 @@
 [metaprogramming]: http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476
 [rails-3-way]: http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
 [rails-antipatterns]: http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
-[crafting-rails-applications]: http://pragprog.com/book/jvrails/crafting-rails-applications
+[crafting-rails-apps]: http://pragprog.com/book/jvrails/crafting-rails-applications
 [rails-recipes]: http://pragprog.com/book/rr2/rails-recipes
 [professional-js]: http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html
 [javascript-ninja]: http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X
