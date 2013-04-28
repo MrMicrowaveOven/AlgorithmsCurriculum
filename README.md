@@ -7,6 +7,7 @@
 * [/r/dailyprogrammer][dailyprogrammer]
     * do all easy problems, then all the hard ones
 * [Cracking the Coding Interview][cracking-the-coding-interview]
+* [RailsCasts of Interest][rails-casts]
 
 [metaprogramming]: http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476
 [rails-3-way]: http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
@@ -14,3 +15,4 @@
 [javascript-ninja]: http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
 [cracking-the-coding-interview]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+[rails-casts]: ./rails-casts-of-interest.md
