@@ -6,6 +6,7 @@
 * [Rails 3 Way][rails-3-way]
 * [Rails Recipes: Rails 3 Edition][rails-recipes]
 * [Secrets of the JavaScript Ninja][javascript-ninja]
+* [Professional JavaScript for Web Developers (3ed)][professional-js]
 * [/r/dailyprogrammer][dailyprogrammer]
     * do all easy problems, then all the hard ones
 * [Cracking the Coding Interview][cracking-the-coding-interview]
@@ -14,6 +15,7 @@
 [metaprogramming]: http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476
 [rails-3-way]: http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
 [rails-recipes]: http://pragprog.com/book/rr2/rails-recipes
+[professional-js]: http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html
 [javascript-ninja]: http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
 [cracking-the-coding-interview]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
