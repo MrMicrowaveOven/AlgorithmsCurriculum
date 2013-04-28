@@ -1,5 +1,7 @@
 # Post-Course Curriculum
 
+## Readings and Problems
+
 * [Metaprogramming Ruby][metaprogramming]
 * [Rails 3 Way][rails-3-way]
 * [Rails Recipes: Rails 3 Edition][rails-recipes]
@@ -16,3 +18,11 @@
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
 [cracking-the-coding-interview]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
 [rails-casts]: ./rails-casts-of-interest.md
+
+## Interviewing Problems & Advice
+
+* [Interviewing problems][iview-problems]
+* [Interviewing tips][iview-tips]
+
+[iview-problems]: ./interview-problems.md
+[iview-tips]: ./interviewing-tips.md
