@@ -23,6 +23,8 @@
 
 * [Interviewing problems][iview-problems]
 * [Interviewing tips][iview-tips]
+* [Front-End Dev Questions][front-end-questions]
 
 [iview-problems]: ./interview-problems.md
 [iview-tips]: ./interviewing-tips.md
+[front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
