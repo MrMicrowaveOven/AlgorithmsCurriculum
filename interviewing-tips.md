@@ -26,6 +26,17 @@ fit. Lots of companies have openings they don't list.
 * Lookup the right capitalization, spelling of the techs you used. It
   looks really dumb if you get this wrong.
 
+## GitHub
+
+Now is the time to clean up your repos!
+
+* Remove early projects
+* Remove unfinished projects
+* Make sure that all projects have custom READMEs and descriptions
+* Fix code style and refactor! This is your portfolio. Make it
+  something that you are proud of, and is the most accurate
+  representation of the best code that you can write.
+
 ## Whiteboarding style
 
 * Be confident; even if you don't know the answer, try to engage the
