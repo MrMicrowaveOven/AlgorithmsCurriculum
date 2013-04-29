@@ -2,6 +2,7 @@
 
 ## Readings and Problems
 
+* [Agile Web Development with Rails (4th Edition)][agile-web-dev]
 * [Metaprogramming Ruby][metaprogramming]
 * [Rails 3 Way][rails-3-way]
 * [Rails Antipatterns][rails-antipatterns]
@@ -13,7 +14,9 @@
     * do all easy problems, then all the hard ones
 * [Cracking the Coding Interview][cracking-the-coding-interview]
 * [RailsCasts of Interest][rails-casts]
+* [Well Grounded Rubyist][well-grounded-rubyist]
 
+[agile-web-dev]: http://pragprog.com/book/rails4/agile-web-development-with-rails
 [metaprogramming]: http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476
 [rails-3-way]: http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
 [rails-antipatterns]: http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
@@ -24,6 +27,7 @@
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
 [cracking-the-coding-interview]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
 [rails-casts]: ./rails-casts-of-interest.md
+[well-grounded-rubyist]: http://www.manning.com/black2/
 
 ## Interviewing Problems & Advice
 
