@@ -38,11 +38,15 @@
 ## Interviewing Problems & Advice
 
 * [Interviewing problems][whiteboard-problems]
+* [More interviewing problems][more-problems]
+* [Solutions to additional problems][more-solutions]
 * [Interviewing tips][iview-tips]
 * [Rails Dev Quesitons][rails-dev-questions]
 * [Front-End Dev Questions][front-end-questions]
 
 [whiteboard-problems]: ./whiteboard-problems.md
+[more-problems]: ./more_problems.md
+[more-solutions]: ./more_solutions.md
 [iview-tips]: ./interviewing-tips.md
 [rails-dev-questions]: https://gist.github.com/ryansobol/5252653
 [front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
