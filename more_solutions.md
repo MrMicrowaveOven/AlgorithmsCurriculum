@@ -7,7 +7,7 @@
   **Solution:**
 
   ```ruby
-  def move_zeros(array)
+    def move_zeros(array)
       # maintain two indicies
       # one starts at the beginning
       # one starts at the end
@@ -15,26 +15,26 @@
       # decrement end index until non zero value is found
       # swap values at start and end indecies
       # continue, ending when start index > end index
-  
+
       start = 0
       end = array.length -1
-  
+
       while true
         until array[start] == 0
           start += 1
         end
-  
+
         until array[end] != 0
           end -= 1
         end
-  
+
         if start >= end
           break
         end
-  
+
         array[start], array[end] = array[end], array[start]
       end
-  end
+    end
   ```
 
 0. Implement the 'look and say' function. 'Look and say' takes an input array and outputs an array that describes the count of the elements in the input array as they appear in order. Ex:
@@ -49,35 +49,35 @@
   **Solution:**
 
   ```ruby
-  def look_and_say(array)
-    # maintain a current count
-    # maintain a current element
-    # push both onto new array when a different element is detected
+    def look_and_say(array)
+      # maintain a current count
+      # maintain a current element
+      # push both onto new array when a different element is detected
 
-    cur_el = array[0]
-    cur_count = 0
+      cur_el = array[0]
+      cur_count = 0
 
-    output = []
+      output = []
 
-    array.each do |el|
-      if el == cur_el
-        cur_count += 1
-      else
-        output << cur_count
-        output << cur_el
+      array.each do |el|
+        if el == cur_el
+          cur_count += 1
+        else
+          output << cur_count
+          output << cur_el
 
-        cur_el = el
-        cur_count = 1
+          cur_el = el
+          cur_count = 1
+        end
       end
+
+      # push the last set
+
+      output << cur_count
+      output << cur_el
+
+      output
     end
-
-    # push the last set
-
-    output << cur_count
-    output << cur_el
-
-    output
-  end
   ```
 
 0. Given an input stream of numbers, implement a function that would return a single number from the stream with an equal chance probability of being selected when compared with all other numbers in the stream. So, if the stream were 10 in size, any given number should have a 1 in 10 chance of being returned. Implement this in O(1) memory space (yes, constant memory).
@@ -85,38 +85,38 @@
   **Solution:**
 
   ```ruby
-  # The trick here is a bit of math. Consider:
+    # The trick here is a bit of math. Consider:
 
-  # If we had just one element in the stream, which would we return? 
-  # A: The single element we have.
+    # If we had just one element in the stream, which would we return? 
+    # A: The single element we have.
 
-  # If we now had two elements, which would we return? 
-  # A: We could either return the one we stored from the previous iteration, 
-  # or we can return the new element.
+    # If we now had two elements, which would we return? 
+    # A: We could either return the one we stored from the previous iteration, 
+    # or we can return the new element.
 
-  # How do we pick? We could just flip a coin. Probability that we replace 
-  # the number we had with the new number is 50%. Probability that we don't is also 50%.
-  # So, whatever number we store has an equal chance of being stored.
-  # If we simply return that number, we are returning that number with a 50% chance.
+    # How do we pick? We could just flip a coin. Probability that we replace 
+    # the number we had with the new number is 50%. Probability that we don't is also 50%.
+    # So, whatever number we store has an equal chance of being stored.
+    # If we simply return that number, we are returning that number with a 50% chance.
 
-  # This also works as the stream gets larger. Prove to yourself that it does.
+    # This also works as the stream gets larger. Prove to yourself that it does.
 
-  def random(stream)
-    # stream is an ambiguous data type that. We assume we can iterate over it.
+    def random(stream)
+      # stream is an ambiguous data type that. We assume we can iterate over it.
 
-    number_stored = nil
-    numbers_seen_so_far = 0
+      number_stored = nil
+      numbers_seen_so_far = 0
 
-    stream.each do |el|
-      numbers_sees_so_far += 1
+      stream.each do |el|
+        numbers_sees_so_far += 1
 
-      if Random.rand(numbers_seen_so_far) == 0
-        number_stored = el
+        if Random.rand(numbers_seen_so_far) == 0
+          number_stored = el
+        end
       end
-    end
 
-    number_stored
-  end
+      number_stored
+    end
   ```
 
 0. Given an input stream of numbers, implement a function that would return the median of all numbers seen so far. Total runtime should be O(n log n). Determining the median should be a O(1) operation. Memory usage can be O(n).
@@ -153,32 +153,32 @@
   **Solution:**
 
   ```ruby
-  # Perform an in-order traversal
+    # Perform an in-order traversal
 
-  def next(node)
-    if node.right # If the node has a right child, return the left most node 
-                  # in the right child
-      left_most_node(node.right)
-    elsif node = node.parent.left  # If the node is a left child, return the parent
-      node.parent
-    else # move up the parent until parent is a left child. then, return parent's parent
+    def next(node)
+      if node.right # If the node has a right child, return the left most node 
+                    # in the right child
+        left_most_node(node.right)
+      elsif node = node.parent.left  # If the node is a left child, return the parent
+        node.parent
+      else # move up the parent until parent is a left child. then, return parent's parent
+        current_node = node
+        until current_node = current_node.parent.left
+          current_node = current_node.parent
+        end
+
+        current_node.parent
+      end
+    end
+
+    def left_most_node(node)
       current_node = node
-      until current_node = current_node.parent.left
-        current_node = current_node.parent
+      while current_node.left
+        current_node = current_node.left
       end
 
-      current_node.parent
+      current_node
     end
-  end
-
-  def left_most_node(node)
-    current_node = node
-    while current_node.left
-      current_node = current_node.left
-    end
-
-    current_node
-  end
   ```
 
 0. Given two singly-linked lists of (potentially) differing lengths that converge at some point, find the node at which they converge.
@@ -201,77 +201,77 @@
   **Solution:**
 
   ```ruby
-  # Each node in the stack maintains a reference to the largest
-  # node in the stack at the time it was pushed in. To determine
-  # the largest node, we only need to look at the head of the
-  # stack.
+    # Each node in the stack maintains a reference to the largest
+    # node in the stack at the time it was pushed in. To determine
+    # the largest node, we only need to look at the head of the
+    # stack.
 
-  class Node
-    attr_reader :value
-    attr_accessor :max, next
+    class Node
+      attr_reader :value
+      attr_accessor :max, next
 
-    def initialize(value)
-      @value = value
-      @next, @max = nil
-    end
-  end
-
-  class MaxStack
-    def initialize
-      @head = nil
+      def initialize(value)
+        @value = value
+        @next, @max = nil
+      end
     end
 
-    def push(value)
-      n = Node.new(value)
-
-      if @head && n.max < @head.max
-        n.max = @head.max
-      else
-        n.max = n
+    class MaxStack
+      def initialize
+        @head = nil
       end
 
-      n.next = @head
-      @head = n
-    end
+      def push(value)
+        n = Node.new(value)
 
-    def pop
-      n = @head
-      @head = @head.next
+        if @head && n.max < @head.max
+          n.max = @head.max
+        else
+          n.max = n
+        end
 
-      n.value
-    end
+        n.next = @head
+        @head = n
+      end
 
-    def max
-      @head.max.value
+      def pop
+        n = @head
+        @head = @head.next
+
+        n.value
+      end
+
+      def max
+        @head.max.value
+      end
     end
-  end
   ```
 
 0. Consider the following:
 
   ```javascript
-  // First case:
-  var yell = function(message) {
-    setTimeout(function() {
-      alert(message);
-    }, 500);
-  };
+    // First case:
+    var yell = function(message) {
+      setTimeout(function() {
+        alert(message);
+      }, 500);
+    };
 
-  m = "foo";
-  yell(m);
-  m = "bar";
+    m = "foo";
+    yell(m);
+    m = "bar";
 
-  // Second case:
-  var yell = function(message) {
-    setTimeout(function() {
-      alert(message.body);
-    }, 500);
-  };
+    // Second case:
+    var yell = function(message) {
+      setTimeout(function() {
+        alert(message.body);
+      }, 500);
+    };
 
-  m = {};
-  m.body = "foo";
-  yell(m);
-  m.body = "bar";
+    m = {};
+    m.body = "foo";
+    yell(m);
+    m.body = "bar";
   ```
 
   What will the alert message be in each case?
