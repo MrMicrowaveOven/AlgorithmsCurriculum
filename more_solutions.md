@@ -8,32 +8,32 @@
 
   ```ruby
   def move_zeros(array)
-    # maintain two indicies
-    # one starts at the beginning
-    # one starts at the end
-    # increment start index until a zero value is found
-    # decrement end index until non zero value is found
-    # swap values at start and end indecies
-    # continue, ending when start index > end index
-
-    start = 0
-    end = array.length -1
-
-    while true
-      until array[start] == 0
-        start += 1
+      # maintain two indicies
+      # one starts at the beginning
+      # one starts at the end
+      # increment start index until a zero value is found
+      # decrement end index until non zero value is found
+      # swap values at start and end indecies
+      # continue, ending when start index > end index
+  
+      start = 0
+      end = array.length -1
+  
+      while true
+        until array[start] == 0
+          start += 1
+        end
+  
+        until array[end] != 0
+          end -= 1
+        end
+  
+        if start >= end
+          break
+        end
+  
+        array[start], array[end] = array[end], array[start]
       end
-
-      until array[end] != 0
-        end -= 1
-      end
-
-      if start >= end
-        break
-      end
-
-      array[start], array[end] = array[end], array[start]
-    end
   end
   ```
 
