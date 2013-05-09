@@ -28,14 +28,31 @@
 0. Consider the following:
 
   ```javascript
-    var string = 'foo';
-    setTimeout(function() {
-      alert(string);
-    }, 500);
-    string = 'bar';
+    // First case:
+    var yell = function(message) {
+      setTimeout(function() {
+        alert(message);
+      }, 500);
+    };
+
+    m = "foo";
+    yell(m);
+    m = "bar";
+
+    // Second case:
+    var yell = function(message) {
+      setTimeout(function() {
+        alert(message.body);
+      }, 500);
+    };
+
+    m = {};
+    m.body = "foo";
+    yell(m);
+    m.body = "bar";
   ```
 
-  What will the alert message be?
+  What will the alert message be in each case?
 
 0. Given a set of disjointed intervals and an additional interval, write a method that would merge the additional interval into the set. Ex:
 
