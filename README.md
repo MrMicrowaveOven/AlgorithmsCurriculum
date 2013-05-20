@@ -1,10 +1,10 @@
 # Post-Course Curriculum
 
 ## Daily Schedule
-09:00AM - 12:00PM: Whiteboard problems
-12:00PM - 01:00PM: Lunch
-01:00PM - 03:00PM: Apply to jobs
-03:00PM - 06:00PM: Build Rails/JS projects and do readings
+09:00AM - 12:00PM: Whiteboard problems    
+12:00PM - 01:00PM: Lunch    
+01:00PM - 03:00PM: Apply to jobs    
+03:00PM - 06:00PM: Build Rails/JS projects and do readings    
 
 As much as possible, try to schedule interviews from 12:00 - 03:00PM.
 That way, you'll be able to do as much whiteboarding and app building
