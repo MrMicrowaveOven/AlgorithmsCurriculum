@@ -83,7 +83,7 @@ should get to the point where any of these are easy for you.
   arrange the marbles however you like, but each marble must be in a
   jar.
 
-* Problem: You have 2 ropes and a lighter. Each rope takes one hour to burn through. However, the ropes burn at varying rate along their lengths - so cutting a rope in half and lighting it up doesn't mean you measure 1/2 an hour. How do you determine when 45 minutes have passed?
+* Problem: You have 2 ropes. Each rope takes one hour to burn through. However, the ropes burn at varying rate along their lengths - so cutting a rope in half and lighting it up doesn't mean you measure 1/2 an hour. How do you determine when 45 minutes have passed?
 
 ## Hard problems
 
