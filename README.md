@@ -7,7 +7,7 @@
 03:00PM - 06:00PM: Build Rails/JS projects and do readings    
 06:00PM - 09:00PM: Network(meetups / events), blog, and build Rails/JS projects
 
-9pm:               Stop programming. Sleep + Hang Out with friends (read: other classmantes + developers). 
+9pm:               Stop programming. Sleep + Hang Out with friends (read: other classmates + developers). 
 
                      Happy + Highly Productive developers are the most impressive kind
 
