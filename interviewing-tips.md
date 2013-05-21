@@ -169,6 +169,8 @@ Now is the time to clean up your repos!
 * If you hit a hard part, tell the interviewer that you recognize that
   your approach to the problem has hit a snag, and that you'll have to
   fix something.
+* Listen to the interviewer. They are trying to help you. They get
+  annoyed if they feel like you don't listen.
 
 ## Your questions when interviewing
 
