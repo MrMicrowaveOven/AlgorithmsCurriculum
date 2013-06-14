@@ -1,5 +1,7 @@
 # Post-Course Curriculum
 
+[TODO](./TODO.md)
+
 ## Daily Schedule
 09:00AM - 12:00PM: Whiteboard problems    
 12:00PM - 01:00PM: Lunch    
