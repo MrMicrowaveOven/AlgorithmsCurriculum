@@ -9,10 +9,6 @@
 03:00PM - 06:00PM: Build Rails/JS projects and do readings    
 06:00PM - 09:00PM: Network (meetups/events), blog, and build Rails/JS projects
 
-9pm:               Stop programming. Sleep + hang out with friends (read: other classmates + developers). 
-
-                     Happy + highly productive developers are the most impressive kind
-
 As much as possible, try to schedule interviews from 12:00PM - 03:00PM.
 That way, you'll be able to do as much whiteboarding and app building
 together as possible.
