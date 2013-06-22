@@ -9,6 +9,7 @@
     * Hashes
     * Trees
     * Graphs
+
 * Computer science
 
     * OS
@@ -98,10 +99,14 @@
     * Plugins & extensions (Thorax, Marionette, etc.)
     * Zombie views
 
-* Testing & TDD
+* Other
 
-    * Ruby, Rails, and JavaScript
-    * RSpec, Capybara, Jasmine
+    * Testing & TDD
+    * Performance testing (benchmarking)
+
+        * Chrome Dev Tools for JS
+        * Tools for Rails performance testing
+        * Ruby benchmarking
 
 * Getting a job
 
