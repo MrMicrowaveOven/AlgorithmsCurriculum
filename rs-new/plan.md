@@ -11,20 +11,22 @@ part of App Academy, you have real-world, valuable skills that companies
 in the SF Bay Area want and need. Fundamentally, you have everything you
 need to find a good, well-paying job in software development.
 
-And you will be rejected many, many times in the next 3-9 weeks. Why?
-Because that's what a job hunt is all about. Reach out to App Academy
-alumni, ask them about their job hunt process. Here is the story
-successful job hunters tell (regardless of industry pretty much): they
-applied to a lot of places, got rejected from most, got a lowball offer,
-applied some more, did well on some interviews, were crap on others,
-studied, applied some more, got an offer, got rejected some more, got
-another offer, negotiated, accepted an offer from a sweet tech company
-for $80-100k+ and started their jobs happily collecting their paychecks.
-The really good ones then pay it forward to their fellow App Academy
-alums and get them interviews and jobs at all the places they got offers
-or interviews from.
+You have doubts. You're not sure if you're good enough. You're scared of
+getting rejected. All normal. What you'll need over the next 3-9 weeks
+is not so much confidence as it is hustle. If you put in the work -
+study, practice, apply - you'll do well. 
 
-A job hunt is draining. But you shall find a job before you are fully
+Here is the story successful job hunters tell: they applied to a lot of
+places, got rejected from most, got a lowball offer, applied some more,
+did well on some interviews, were crap on others, studied, applied some
+more, got an offer, got rejected some more, got another offer,
+negotiated, accepted an offer from a sweet tech company for $80-100k+
+and started their jobs happily collecting their paychecks.  The really
+good ones then pay it forward to their fellow App Academy alums and get
+them interviews and jobs at all the places they got offers or interviews
+from.
+
+A job hunt can be draining. But you shall find a job before you are fully
 drained. You will feel judged, you will feel inadequate. Oh well. There
 is a sweet job and a sweet new life waiting for you at the end of this
 road. If you work hard, it's yours.

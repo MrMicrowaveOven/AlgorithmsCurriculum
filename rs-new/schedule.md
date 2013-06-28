@@ -25,6 +25,8 @@
 * Redraft resume
 * Trade resumes for review
 * Finalize resumes as PDFs
+* Set up and/or polish LinkedIn profile with resume information and
+  skills.
 * Delete junk Tumblr posts
 * Pick 5 Tumblr posts to polish & do so
 
@@ -40,7 +42,7 @@
 * Send out 3 applications (!)
 
     * But I'm not ready! Tough. Do it. Cover letter, resume attached,
-      links at the bottom, go.
+      links at the bottom, go. 
 
 * List additional 20 companies to apply to (should have 40 after this)
 * Practice resume questions in groups of 3
@@ -79,5 +81,15 @@
 * **Project**: Build a full Rails + Backbone to-do app. Do not reuse or
   look at any other code. 
 
+## w2d2
+
+* Sign up for AngelList and WhiteTruffle and fill out your profile
+* Indicate your interest in at least 50 companies on AngelList
+* Practice JavaScript interview questions with a partner - by the end
+  you should be able to nail them every time
+
+## w2d3
+
+* Practice Rails interview questions with a partner
 
 
