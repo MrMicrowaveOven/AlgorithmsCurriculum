@@ -3,7 +3,6 @@
 ## Fundamental Skills
 
 * Data structures & algorithms
-    
     * Big O notation
     * Arrays, linked lists, strings
     * Hashes
@@ -11,7 +10,6 @@
     * Graphs
 
 * Computer science
-
     * OS
     * Compilers
     * Bits & bytes
@@ -21,19 +19,16 @@
     * Design patterns
 
 * Servers & deployment
-
     * Linux
     * Bash
     * Ports
 
 * Communications
-    
     * TCP/IP
     * HTTP
     * OSI
 
 * Databases
-
     * Execution plan
     * Servers
     * Scaling: sharding, mirroring, master/slave, etc.
@@ -43,7 +38,6 @@
 ## Practical Skills
 
 * Ruby
-
     * Metaprogramming
     * Introspection
     * Regular expressions
@@ -52,7 +46,6 @@
     * Procs, lambdas, method objects
 
 * Rails
-
     * Background processing
     * Asset pipeline
     * Caching
@@ -73,7 +66,6 @@
     * Rendering/streaming data/file
 
 * JavaScript
-
     * DOM manipulation
     * XHR
     * Prototypes & prototypal inheritance
@@ -94,16 +86,13 @@
 
 
 * Backbone
-
     * Extending base classes
     * Plugins & extensions (Thorax, Marionette, etc.)
     * Zombie views
 
 * Other
-
     * Testing & TDD
     * Performance testing (benchmarking)
-
         * Chrome Dev Tools for JS
         * Tools for Rails performance testing
         * Ruby benchmarking
