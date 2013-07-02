@@ -315,7 +315,7 @@
   ```ruby
     def weighted_random_index(arr)
       sum, cumulative_sum = arr.inject(:+), 0
-      random = rand(0..sum)
+      random = rand * sum
 
       arr.each_with_index do |el, i|
         cumulative_sum += el
