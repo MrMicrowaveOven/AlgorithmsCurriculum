@@ -311,6 +311,18 @@
 
 0. Given an array, return an index with a probability weighted by the value at that index. For example, for the array `[4,6,8]`, index 0 should be returned with 4 in 18 odds, index 1 should be returned with 6 in 18 odds, and index 2 should be return with 8 in 18 odds. Implement this with an O(n) time.
 
+  **Solution:**
+  ```ruby
+    def weighted_random_index(arr)
+      sum, cumulative_sum = arr.inject(:+), 0
+      random = rand(0..sum)
+
+      arr.each_with_index do |el, i|
+        cumulative_sum += el
+        return i if cumulative_sum >= random
+      end
+    end
+  ```
 0. Given a string, determine the longest substring with only two unique characters. Ex:
 
   ```
