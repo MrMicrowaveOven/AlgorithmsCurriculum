@@ -310,3 +310,36 @@
 0. Implement an LRU cache.
 
 0. Given an array, return an index with a probability weighted by the value at that index. For example, for the array `[4,6,8]`, index 0 should be returned with 4 in 18 odds, index 1 should be returned with 6 in 18 odds, and index 2 should be return with 8 in 18 odds. Implement this with an O(n) time.
+
+0. Given a string, determine the longest substring with only two unique characters. Ex:
+
+  ```
+  longest_substring("abdfkssssjjjeiee") == "ssssjjj"
+  ```
+
+0. Given a list of numbers in an array, replace all the numbers with the product of all other numbers. Do this in O(n) time without using division.
+
+  **Solution:**
+  ```ruby
+     def productify(arr)
+       left_arr, right_arr = Array.new(arr.size, arr[0]), Array.new(arr.size, arr[-1])
+       results = Array.new(arr.size)
+
+       # Build two arrays, where each term is the product of the previous terms in arr,
+       # one starting from the left, the other from the right
+       (1...arr.size).each do |i|
+         left_arr[i] = arr[i] * left_arr[i-1]
+         right_arr[-(i+1)] = arr[-(i+1)] * right_arr[-i]
+       end
+
+       # Assign values for result edge cases
+       results[0], results [-1] = right_arr[1], left_arr[-2]
+  
+       # Multiply left and right terms to determine result
+       (1...(arr.size-1)).each do |i|
+         results[i] = left_arr[i-1]*right_arr[i+1]
+       end
+  
+       results
+     end
+  ```
