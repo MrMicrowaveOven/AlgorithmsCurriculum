@@ -187,3 +187,17 @@ working along two tracks:
 
 There is a daily schedule provided for you. 
 
+## Documents
+
+There will be two documents that you will keep updated throughout your
+job hunt process.
+
+  1. Application spreadsheet: you will each have your own spreadsheet of
+     all the companies you're applying to along with the status of your
+     application process.
+  2. Interview problem spreadsheet: there will be one master list of
+     interview problems. Every time you have an interview (HR call,
+     technical phone screen, in-person), you will record as many
+     questions as you can remember in that list. 
+
+
