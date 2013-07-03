@@ -4,7 +4,6 @@
 
 The job hunt begins.
 
-
 Most of your applications will follow this process:
 
 * Apply

@@ -182,6 +182,75 @@ What you'll be doing:
   * Study
   * Practice more
 
+## Note on Job Requirements
+
+**Ignore job requirements**. If a place is hiring a senior Rails dev,
+they probably want entry-level people, too. Look up if there is a more
+appropriate position to apply for on their company website. Send a
+resume to the most relevant, even if it doesn't look like a perfect
+fit. Lots of companies have openings they don't list.
+
+Furthermore, if it says Python or Django or JavaScript, you're good for
+those too. Apply. If you see a bunch of additional technologies on the
+job requirements list that you don't know, don't worry about it. Apply,
+let them take a look at your projects and resume, and let them decide if
+they'd like to talk to you. Oftentimes they simply pack the requirements
+list with a lot of "nice-to-haves." 
+
+Definitely don't be deterred by a requirement of a 4-year degree. All
+companies simply want competent developers and they have their various
+strategies of going about finding those developers. You are a competent
+developer, so apply and see if you and the company are a good fit.
+
+## Resume
+
+* Limit to one page
+* Focus strongly on your projects, technology.
+* Lookup the right capitalization, spelling of the techs you used. It
+  looks really dumb if you get this wrong.
+
+## GitHub
+
+Now is the time to clean up your repos!
+
+* Remove early projects
+* Remove unfinished projects
+* Make sure that all projects have custom READMEs and descriptions
+* Fix code style and refactor! This is your portfolio. Make it
+  something that you are proud of, and is the most accurate
+  representation of the best code that you can write.
+
+## Whiteboarding style
+
+* Be confident; even if you don't know the answer, try to engage the
+  problem, don't give up. If you keep telling an interviewer you don't
+  know how to do something, they'll start to believe you.
+* Take a few seconds to think about the problem before starting. You
+  don't have to have the whole solution in your head; these problems
+  are meant to be worked over on a board. But you should have a bit of
+  direction.
+* Ask clarifying questions as necessary.
+* Talk through the problem; they want to see the process going on in
+  your head. If you don't talk, the interviewer doesn't learn how you
+  break-down and analyze a problem.
+* The interviewer may give you hints. They will ask questions to keep
+  you on track. Don't be flustered or think you're failing; this is
+  normal.
+* Don't explicitly ask for hints, though. If you are truly stuck
+  or don't know how to begin, ask questions.
+* Start by solving a simpler version of the problem, or provide a very
+  simplistic solution, even if it is slow, just to get get some
+  partial credit points on the board.
+* If they ask you "does this work", take a moment to think. Walk
+  through the steps; out loud is fine. If you say yes, say it like you
+  believe it; interviewers don't like to think people are just
+  praying they'll get the answer right.
+* If you hit a hard part, tell the interviewer that you recognize that
+  your approach to the problem has hit a snag, and that you'll have to
+  fix something.
+* Listen to the interviewer. They are trying to help you. They get
+  annoyed if they feel like you don't listen.
+
 ## The Plan
 
 Everyday for the next 3-9 weeks (until you're jobbed), you will be
@@ -191,6 +260,7 @@ working along two tracks:
   2. Nailing interviews (technical interviews)
 
 There is a daily schedule provided for you. 
+
 
 ## Documents
 
