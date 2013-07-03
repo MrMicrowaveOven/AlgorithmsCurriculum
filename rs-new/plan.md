@@ -13,14 +13,14 @@ need to find a good, well-paying job in software development.
 
 You have doubts. You're not sure if you're good enough. You're scared of
 getting rejected. All normal. What you'll need over the next 3-9 weeks
-is not so much confidence as it is hustle. If you put in the work -
+is not so much confidence as hustle. If you put in the work -
 study, practice, apply - you'll do well. 
 
 Here is the story successful job hunters tell: they applied to a lot of
 places, got rejected from most, got a lowball offer, applied some more,
 did well on some interviews, were crap on others, studied, applied some
 more, got an offer, got rejected some more, got another offer,
-negotiated, accepted an offer from a sweet tech company for $80-100k+
+negotiated, accepted an offer from a sweet tech company for $70-100k+
 and started their jobs happily collecting their paychecks.  The really
 good ones then pay it forward to their fellow App Academy alums and get
 them interviews and jobs at all the places they got offers or interviews
@@ -100,10 +100,10 @@ Note that each step has a big success dropoff rate. So, 100 applications
 results in 20 phone screens which results in 5 technical screens which
 results in 1 offer. Maybe.
 
-Your job hunt is a numbers game. You will be sending out many, many,
-many applications, and you will interview at many, many, many places. A
-few will work out. Most will not. That is absolutely fine and to be
-expected. 
+Your job hunt is, in part, a numbers game. You will be sending out many,
+many, many applications, and you will interview at many, many, many
+places. A few will work out. Most will not. That is absolutely fine and
+to be expected. 
 
 Our most successful students put in the most work in this final leg of
 the process. They applied to the most number of places, interviewed the
@@ -159,15 +159,20 @@ also immediately useful. You're a developer. Not a junior developer, not
 an entry-level developer, not an aspiring developer. You are a
 developer.
 
+The HR person will likley also want to make sure you've done your
+homework on the company. So do your homework on the company. They may
+ask why you're interested in the company. Have a good answer.
+
 What you'll be doing:
 
   * Practice resume questions with others
+  * Get to know the company you're applying to
 
 ### 3. Technical Phone Screen + On-Site Interviews
 
 **Most important thing: performance on technical interview questions**
 
-These two stages are grouped together because the criteria upon which
+These two stages are grouped together because the criterion upon which
 you will be judged is the same: your performance on the technical
 interview questions. 
 
