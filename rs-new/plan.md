@@ -1,8 +1,9 @@
 # Getting Jobbed
 
 You must find a job within the next 9 weeks. It will not be easy. Take
-solace only in your skills, your hustle, and in your colleagues and
-predecessors. 
+solace only in your skills and your hustle. Know that you are going
+through this with your classmates, and know that many have successfully
+gone before you.
 
 ## Real Talk
 
@@ -13,7 +14,7 @@ need to find a good, well-paying job in software development.
 
 You have doubts. You're not sure if you're good enough. You're scared of
 getting rejected. All normal. What you'll need over the next 3-9 weeks
-is not so much confidence as hustle. If you put in the work -
+is not so much confidence as **hustle**. If you put in the work -
 study, practice, apply - you'll do well. 
 
 Here is the story successful job hunters tell: they applied to a lot of
@@ -31,22 +32,24 @@ drained. You will feel judged, you will feel inadequate. Oh well. There
 is a sweet job and a sweet new life waiting for you at the end of this
 road. If you work hard, it's yours.
 
-## Application Process Overview
+## (Typical) Application Process Overview
 
 The application process is pretty much the same everywhere:
 
   1. Apply by email
       
       This usually entails sending a cover letter (i.e. the email
-      itself) and resume to the company's HR/recruting person.
+      itself) and resume to the company's HR/recruting person. Your
+      cover letter would include relevant links to GitHub, projects,
+      LinkedIn, etc.
 
   2. Phone screen with recruiter
 
       The recruiter/HR person will call you and ask about your
       background and get a feel for you as a person and a technical
-      candidate. This will not entail any actual technical questions
-      except for "buzz word" questions (i.e. where the recruiter just
-      wants to see if you know the lingo - you do).
+      candidate. This may entail basic technical questions,
+      but the questions will be very basic, often with one-word answers
+      ("buzz-word" questions).
 
   3. Technical phone screen
 
@@ -58,10 +61,11 @@ The application process is pretty much the same everywhere:
   4. Technical in-person interviews
 
       This is the final stage in the interview process. You will usually
-      go on-site for this interview and meet with anywhere from 3-10
+      go on-site for this interview and meet with anywhere from 3-4+
       people over the course of 3-6+ hours. You will have multiple
       technical interviews where you will solve technical problems on a
-      whiteboard and/or your computer. This is the most challenging
+      whiteboard and/or a computer (possibly yours, so make sure to
+      bring it. This is the most challenging
       phase and the one with the highest chance of yielding you an
       offer. Different companies handle this phase differently and so
       they may break it up over two days, have different numbers of
@@ -75,30 +79,30 @@ The application process is pretty much the same everywhere:
       giving you an offer, they will usually tell you over the phone and
       then send the related paperwork. DO NOT accept the first offer you
       get. Always thank the company for the offer and let them know
-      you're interviewing other places; ask when they'd like a response
-      back from you. If they do not give you an offer, thank them for
-      considering you as a candidate, ask them for some feedback to help
-      you improve in other interviews, and be on your merry way.
+      you're interviewing other places; ask if you could have two weeks
+      to get back to them.  If they do not give you an offer, thank them
+      for considering you as a candidate, ask them for some feedback to
+      help you improve in other interviews, and be on your merry way.
 
   6. Negotiation and Decision
 
       The position you want to be in: two offers from two companies you
       like. You then play one against the other to improve your pay by
-      $5-10k+, and then accept the offer you consider best (i.e. best
-      combination of your interest in that company, how much you'll be
-      learning, pay, etc.). Sign on the dotted line and let any other
-      companies from whom you had an offer (or were in the middle of the
-      interview process) know that you've accepted an offer elsewhere.
-      Thank them for the offer (or for considering you as a candidate)
-      and be on your merry way. Let them know about other App Academy
-      students who may be good fits for the role. Congratulations,
-      you're done. You are now officially a successful App Academy alum.
+      $5-10k+, and then accept the offer you consider best. Sign on the
+      dotted line and let any other companies from whom you had an offer
+      (or were in the middle of the interview process) know that you've
+      accepted an offer elsewhere.  Thank them for the offer (or for
+      considering you as a candidate) and be on your merry way. Let them
+      know about other App Academy students who may be good fits for the
+      role. Congratulations, you're done. You are now officially a
+      successful App Academy alum.
 
 ## Numbers, Numbers, Numbers
 
 Note that each step has a big success dropoff rate. So, 100 applications
 results in 20 phone screens which results in 5 technical screens which
-results in 1 offer. Maybe.
+results in 1 offer. Maybe. These are obviously rough numbers and your
+mileage may vary.
 
 Your job hunt is, in part, a numbers game. You will be sending out many,
 many, many applications, and you will interview at many, many, many
@@ -127,8 +131,9 @@ We'll cover just the steps up to getting the offer:
 *Necessary:*
 
   * Short (< 10 sentences), congenial cover letter (i.e. email) presenting
-    yourself, your intention, and your interest in the company
+    yourself, your intention, and your interest in the company.
   * Short (not longer than 1 page), clear resume with skills highlighted
+    and primary projects described (with technologies used).
   * Easy links to personal portfolio/project(s) on resume and in cover
     letter.
 
@@ -184,11 +189,11 @@ What you'll be doing:
 
 ## Note on Job Requirements
 
-**Ignore job requirements**. If a place is hiring a senior Rails dev,
-they probably want entry-level people, too. Look up if there is a more
+**Ignore job requirements**. If a place is hiring a 'senior' Rails dev,
+they may want entry-level people, too. Look up if there is a more
 appropriate position to apply for on their company website. Send a
-resume to the most relevant, even if it doesn't look like a perfect
-fit. Lots of companies have openings they don't list.
+resume to the most relevant, even if it doesn't look like a perfect fit.
+Lots of companies have openings they don't list.
 
 Furthermore, if it says Python or Django or JavaScript, you're good for
 those too. Apply. If you see a bunch of additional technologies on the
@@ -205,7 +210,7 @@ developer, so apply and see if you and the company are a good fit.
 ## Resume
 
 * Limit to one page
-* Focus strongly on your projects, technology.
+* Focus strongly on your projects and the technologies used.
 * Lookup the right capitalization, spelling of the techs you used. It
   looks really dumb if you get this wrong.
 
@@ -220,11 +225,10 @@ Now is the time to clean up your repos!
   something that you are proud of, and is the most accurate
   representation of the best code that you can write.
 
-## Whiteboarding style
+## Technical Interview (i.e. "Whiteboarding") Style
 
 * Be confident; even if you don't know the answer, try to engage the
-  problem, don't give up. If you keep telling an interviewer you don't
-  know how to do something, they'll start to believe you.
+  problem, don't give up. 
 * Take a few seconds to think about the problem before starting. You
   don't have to have the whole solution in your head; these problems
   are meant to be worked over on a board. But you should have a bit of
@@ -233,21 +237,28 @@ Now is the time to clean up your repos!
 * Talk through the problem; they want to see the process going on in
   your head. If you don't talk, the interviewer doesn't learn how you
   break-down and analyze a problem.
+* Don't feel that you have to rush through things. Be methodical and go
+  only as quickly as your logic process allows.
 * The interviewer may give you hints. They will ask questions to keep
-  you on track. Don't be flustered or think you're failing; this is
-  normal.
+  you on track - pay attention to these. 
+* If you get flustered or nervous, remember that the whole idea is to
+  work through the problem - it should entail some struggle and sticking
+  points. Just keep talking and working through it. Maybe take a second
+  to step back and think.
 * Don't explicitly ask for hints, though. If you are truly stuck
   or don't know how to begin, ask questions.
 * Start by solving a simpler version of the problem, or provide a very
   simplistic solution, even if it is slow, just to get get some
-  partial credit points on the board.
-* If they ask you "does this work", take a moment to think. Walk
-  through the steps; out loud is fine. If you say yes, say it like you
-  believe it; interviewers don't like to think people are just
+  partial credit points on the board. It often also helps to have
+  something up to polish and edit instead of trying to do it perfectly
+  from scratch.
+* If they ask "Does this work?", take a moment to think. Walk through
+  the code step-by-step (out loud is fine). If you say yes, say it like
+  you believe it - interviewers don't like to think people are just
   praying they'll get the answer right.
-* If you hit a hard part, tell the interviewer that you recognize that
-  your approach to the problem has hit a snag, and that you'll have to
-  fix something.
+* If you hit a hard part or see a mistake in your code/logic, tell the
+  interviewer that you recognize that your approach to the problem has
+  hit a snag, and that you'll have to fix something.
 * Listen to the interviewer. They are trying to help you. They get
   annoyed if they feel like you don't listen.
 
@@ -259,13 +270,16 @@ working along two tracks:
   1. Getting interviews (applications & phone screens)
   2. Nailing interviews (technical interviews)
 
-There is a daily schedule provided for you. 
+There is a daily schedule provided for you. We'll be adjusting as we go
+to focus on areas that need more attention, but it should provide a good
+basic framework.
 
 
 ## Documents
 
-There will be two documents that you will keep updated throughout your
-job hunt process.
+Staying organized during this process will be important. There will be
+two documents that you will keep updated throughout your job hunt
+process.
 
   1. Application spreadsheet: you will each have your own spreadsheet of
      all the companies you're applying to along with the status of your
@@ -274,5 +288,8 @@ job hunt process.
      interview problems. Every time you have an interview (HR call,
      technical phone screen, in-person), you will record as many
      questions as you can remember in that list. 
+
+These lists will be enormously valuable to you, to your classmates, and
+to future App Academy students. Maintain them meticulously.
 
 
