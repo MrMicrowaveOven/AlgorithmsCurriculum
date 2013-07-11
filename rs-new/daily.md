@@ -3,28 +3,48 @@
 Let's get some jobs.
 
 ## w9d6-w9d7
+
+#### Getting Interviews
   * Read Post-Course Curriculum Docs
   * Draft your resume
     * Resume guide
+      * 1 page
+      * Recent projects, education (including App Academy), work
+        experience, other
+      * Relevant links
+    * Sample resumes in repo
   * Draft your cover letter
     * Put links to GitHub, LinkedIn, project, blog at the bottom
     * Put in some dummy text about why you're interested in the company
+
+#### Nailing Interviews
   * Read Rails Guide on Associations & Querying
 
 ## w1d1
+
+#### Getting Interviews
   * Trade resumes for review
   * Trade cover letters for review
   * Clean out GitHub
   * Write READMEs for remaining projects
-  * `omniauth`
   * Polish project
     * Add Bootstrap or Foundation
     * Add Omniauth login
     * Make guest account
 
+#### Nailing Interviews
+  * `omniauth`
+
 ## w1d2
+
+#### Getting Interviews
   * Finalize resumes (PDFs)
   * LinkedIn profile
+  * Sign up for White Truffle, AngelList, etc.
+    * Write profile
+    * Express interest in at least 50 companies
+
+#### Nailing Interviews
   * `mailman` + ActionMailer
   * Background processes & `delayed_job`
   * Polish project
@@ -32,11 +52,13 @@ Let's get some jobs.
     * Add welcome email for users in a background process
 
 ## w1d3
-  * Sign up for White Truffle, AngelList, etc.
-    * Write profile
-    * Express interest in at least 50 companies
+
+#### Getting Interviews
   * Copy [job application spreadsheet][job-hunt-sheet]
-    * Email link to your copy to contact@appacademy.io
+    * Email link to your copy to contact@appacademy.io &
+      simon@appacademy.io 
+
+#### Nailing Interviews
   * Pagination with `kaminari` (& `will_paginate`)
   * File upload with `paperclip` 
   * Controllers: rendering/streaming data/file
