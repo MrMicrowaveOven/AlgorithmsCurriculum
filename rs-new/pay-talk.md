@@ -3,9 +3,9 @@
 ## Discussions about pay
 
 Companies will ask you how much you're expecting to get paid. DO NOT
-EVER GIVE THEM A NUMBER. Always tell them that you're expecting offers
-commensurate with your skill level and that you're sure that they will
-give you a fair offer.
+EVER GIVE THEM A NUMBER. Always tell them that you're expecting
+competitive offers commensurate with your skill level and that you're
+sure that they will give you a fair offer.
 
 Never, never, never be the first one to mention a number. You are almost
 guaranteed to lowball yourself, or run the risk of betraying an
@@ -17,16 +17,10 @@ on the final value of the offer you accept - so just never do it.
 
 Negotiation is a standard part of the job application process. The most
 important factor is the number of offers you have on the table, so
-before even thinking about negotiating, get multiple offers (at least
-2!). 
+before negotiating, get multiple offers.
 
 Once you have multiple offers, you can let the companies know about your
-highest offer. You would say something like: "I'd like to make a
-decision soon and I just want to make sure everybody gets a chance to
-revise their offers so that I can make an informed decision. Company X
-is currently offering me $XX. I understand if your offer is final as it
-stands, but I just wanted to let you know. Do you think you could let me
-know in the next few days?" Allow the companies to revise their offers
+highest offer. Allow the companies to revise their offers
 (should they choose to) and then make a final decision.
 
 ## Always be Civil
@@ -36,5 +30,4 @@ nice, congenial adjectives. The software development industry in SF is
 not that big and you'll likely cross paths with many of the people you
 talk to again. So always say thank you, don't do stupid things, stick to
 your word, etc. etc.
-
 
