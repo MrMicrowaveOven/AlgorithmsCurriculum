@@ -12,7 +12,7 @@ Let's get some jobs.
       * Recent projects, education (including App Academy), work
         experience, other
       * Relevant links
-    * Sample resumes in repo
+    * Sample resumes in repo (`sample_resumes/` folder)
   * Draft your cover letter
     * Put links to GitHub, LinkedIn, project, blog at the bottom
     * Put in some dummy text about why you're interested in the company
@@ -27,13 +27,13 @@ Let's get some jobs.
   * Trade cover letters for review
   * Clean out GitHub
   * Write READMEs for remaining projects
-  * Polish project
-    * Add Bootstrap or Foundation
-    * Add Omniauth login
-    * Make guest account
 
 #### Nailing Interviews
   * `omniauth`
+  * Polish project (getting interviews + nailing interviews)
+    * Add Bootstrap or Foundation
+    * Add Omniauth login
+    * Make guest account
 
 ## w1d2
 
@@ -75,10 +75,15 @@ Let's get some jobs.
 [job-hunt-sheet]: https://docs.google.com/spreadsheet/ccc?key=0Aoq1T2Vij8pudC1vQ25XdFpPMlRoRDZoVHlhMXdOSHc&usp=sharing
 
 ## w1d4
+
+#### Getting Interviews
   * Clean up Tumblr
   * Polish 3 posts
+
+#### Nailing Interviews
   * Interview problem practice:
-    * Big O notation
+    * [Time Complexity & Big O notation][big-o]
+      * TODO: Big O exercises
     * Linked List
       * Build a `LinkedList` class
       * You'll probably also want a `Node` class
@@ -89,16 +94,26 @@ Let's get some jobs.
         * `pop`
         * `reverse`
         * `each`
+        * `index` (a search)
       * Now do the same but make the list doubly-linked (child and
         parent)
+      * Specify the time complexities of each operation with a short
+        explanation why
     * Searching & sorting arrays
       * Binary search
       * Merge sort
       * Bubble sort
       * Quicksort
 
+[big-o]: ./data_structs_and_algs/big_o.md
+
 ## w1d5
+
+#### Getting Interviews
   * Polish 3 more Tumblr posts
+  * Apply to 5 companies
+
+#### Nailing Interviews
   * Strings + arrays deux
     * Permutations
     * Combinations
@@ -107,6 +122,8 @@ Let's get some jobs.
     * Longest repeated substring
 
 ## w1d6-w1d7
+
+#### Nailing Interviews
   * Build `MyHash` class
     * Write your own hash function
     * Insert
