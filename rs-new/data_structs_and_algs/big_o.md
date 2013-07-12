@@ -22,6 +22,15 @@ So, when you're thinking about Big O, think about what happens with big
 values for `n`. We care about average case and worst case, not best
 case.
 
+#### What we do with constant coefficients
+
+Oftentimes, you'll have some constant coefficients in the analysis.
+Because we care about the time complexity as `n` grows very, very large,
+we usually will simply throw out the constant.  We care more about the
+*class of complexity* than about the precision of the complexity
+analysis.
+
+
 ## Examples
 
 ### Linear time complexity
@@ -39,19 +48,7 @@ array, and the array's elements are randomly distributed, then chances
 are you find it somewhere in the middle and so only have to do `0.5 * n`
 operations (`O(0.5*n)`).
 
----
-
-#### What we do with constant coefficients
-
-Oftentimes, you'll have some constant coefficients in the analysis (in
-the case above, `0.5`). Because we care about the time complexity as `n`
-grows very, very large, we usually will simply throw out the constant.
-We care more about the *class of complexity* than about the precision of
-the complexity analysis.
-
----
-
-Back to our linear search. So, `O(0.5*n)` simply becomes `O(n)`. 
+Because we strip out the constants, `O(0.5*n)` simply becomes `O(n)`. 
 
 What happens though if the element is not in the array? For an array of
 1000 elements, 1000 simple operations will be done. This is called the
