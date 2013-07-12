@@ -140,7 +140,7 @@ Let's get some jobs.
   * Compile list of 25 companies you will apply to
 
 ## w2d1
-  * Apply to 5 companies
+  * Apply to 10 companies
   * Trees (Binary tree)
     * Traversal order
       * Pre-order
