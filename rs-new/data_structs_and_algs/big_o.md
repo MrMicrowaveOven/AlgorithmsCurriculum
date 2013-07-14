@@ -133,7 +133,7 @@ So, you've seen what it means to have different time complexities and
 should have a sense of which is better than which but just to restate
 the obvious:
 
-Constant < Logarithmic < Linear < Exponential
+Constant < Logarithmic < Linear < Polynomial < Exponential
 
 i.e. Something that happens in constant time is best of all and in
 exponential time worst of all. Constat time is fastest, exponential time
