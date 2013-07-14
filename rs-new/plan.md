@@ -21,7 +21,7 @@ Here is the story successful job hunters tell: they applied to a lot of
 places, got rejected from most, got a lowball offer, applied some more,
 did well on some interviews, were crap on others, studied, applied some
 more, got an offer, got rejected some more, got another offer,
-negotiated, accepted an offer from a sweet tech company for $70-100k+
+negotiated, accepted an offer from a sweet tech company for $80-100k+
 and started their jobs happily collecting their paychecks.  The really
 good ones then pay it forward to their fellow App Academy alums and get
 them interviews and jobs at all the places they got offers or interviews
