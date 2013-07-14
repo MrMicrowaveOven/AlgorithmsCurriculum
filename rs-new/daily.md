@@ -42,7 +42,7 @@ Let's get some jobs.
   * LinkedIn profile
   * Sign up for White Truffle, AngelList, etc.
     * Write profile
-    * Express interest in at least 50 companies
+    * Express interest in at least 75 companies
 
 #### Nailing Interviews
   * `mailman` + ActionMailer
@@ -111,7 +111,7 @@ Let's get some jobs.
 
 #### Getting Interviews
   * Polish 3 more Tumblr posts
-  * Apply to 5 companies
+  * Apply to 10 companies
 
 #### Nailing Interviews
   * Strings + arrays deux
@@ -137,7 +137,7 @@ Let's get some jobs.
     * Know how to set database constraints and defaults
     * Know how to build model callbacks in the model itself and in
       Observers
-  * Compile list of 25 companies you will apply to
+  * Compile list of 50 companies you will apply to
 
 ## w2d1
   * Apply to 10 companies
@@ -154,7 +154,7 @@ Let's get some jobs.
     * Find node
 
 ## w2d2
-  * Apply to 5 companies
+  * Apply to 10 companies
   * Learning more gems
     * `acts_as_taggable_on`
     * `friendly_id`
@@ -171,7 +171,7 @@ Let's get some jobs.
     * Polymorphic associations
 
 ## w2d3
-  * Apply to 5 companies
+  * Apply to 10 companies
   * Databases reading
     * Indexing
     * Basic query optimization (N+1)
@@ -184,7 +184,7 @@ Let's get some jobs.
     * Advanced routing
 
 ## w2d4
-  * Apply to 5 companies
+  * Apply to 10 companies
   * Advanced JavaScript
     * Prototypal inheritance
     * Closures & scope
@@ -200,7 +200,7 @@ Let's get some jobs.
     * Errors and error handling
 
 ## w2d5
-  * Apply to 5 companies
+  * Apply to 10 companies
   * Advanced JavaScript in the browser
     * DOM manipulation w/o jQuery
       * Build a simple To-Do app in the browser, no jQuery
@@ -217,32 +217,32 @@ Let's get some jobs.
     * Singleton classes
     * Procs, lambdas, and methods objects
   * Regular expressions (Rubular)
-  * Compile list of 30 companies to apply to
+  * Compile list of 50 companies to apply to
 
 ## w3d1
-  * Apply to 6 companies
+  * Apply to 10 companies
   * HTML5/CSS3 overview
   * HTTP, headers, client detection
   * TCP/IP
   * Whiteboard problems
 
 ## w3d2
-  * Apply to 6 companies
+  * Apply to 10 companies
   * Web servers overview
     * Log
     * Thin, Unicorn, Pow
   * Whiteboard problems
 
 ## w3d3
-  * Apply to 6 companies
+  * Apply to 10 companies
   * Whiteboard problems
 
 ## w3d4
-  * Apply to 6 companies
+  * Apply to 10 companies
   * Whiteboard problems
 
 ## w3d5
-  * Apply to 6 companies
+  * Apply to 10 companies
   * Whiteboard problems
 
 ## w3d6-w3d7
