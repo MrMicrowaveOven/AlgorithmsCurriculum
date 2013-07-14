@@ -60,11 +60,12 @@ Linear time complexity is oftentimes the naive solution to a problem
 binary search which happens in logarithmic time (which we'll cover
 shortly).
 
-### Quadratic & Exponential time complexity
+### Polynomial & Exponential time complexity
 
-Quadratic time would be `O(n^2)`. Exponential would be `O(2^n)`.
-They are descriptions of very different time complexities. 
-`O(2^n)` is far slower than `O(n^2)`. 
+Polynomial time would be `O(n^2)` (this special case of the exponent
+being 2 is called *quadratic*) . Exponential would be `O(2^n)`.  They
+are descriptions of very different time complexities.  `O(2^n)` is far
+slower than `O(n^2)`. 
 
 `O(2^n)` says that for each additional input, the number of basic
 operations doubles. This class of time complexity is rare and an example
