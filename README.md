@@ -2,16 +2,15 @@
 
 [TODO](./TODO.md)
 
-## Daily Schedule
-09:00AM - 12:00PM: Whiteboard problems    
-12:00PM - 01:00PM: Lunch    
-01:00PM - 03:00PM: Apply to jobs    
-03:00PM - 06:00PM: Build Rails/JS projects and do readings    
-06:00PM - 09:00PM: Network (meetups/events), blog, and build Rails/JS projects
+Read [The Plan][the-plan]
 
-As much as possible, try to schedule interviews from 12:00PM - 03:00PM.
-That way, you'll be able to do as much whiteboarding and app building
-together as possible.
+[the-plan]: ./rs-new/plan.md
+
+## Daily Schedule
+
+See the [Daily Schedule][daily-schedule] document.
+
+[daily-schedule]: ./rs-new/daily.md
 
 ## Essential Readings
 
