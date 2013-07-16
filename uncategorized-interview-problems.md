@@ -133,3 +133,41 @@ function loadImage(imgEl, imgSrc) {
 0. You are given an array and you want to find the k-largest elements.
    Devise an algorithm and describe the order of growth.
 0. What's the difference between an inner join and a left join?
+
+## More
+
+Model an intersection's traffic flow with traffic lights using object
+oriented programming (assume cars can't turn).
+
+Show your process for building a User association of following / being
+followed by other users.  show everything from writing the migrations,
+to making the models and controllers (assume ajax calls from the front
+end).
+
+Find the best way to calculate whether (return true / false) a given
+ransom note could be made from the text of a given magazine.  same
+question, but try to use partial or whole words where possible from
+the magazine.  try to find the way to make the fewest number of 'cuts'
+from the magazine.  i.e. the bigger the word chunks, the fewer the
+cuts.
+
+## More
+
+In which direction (left-to-right or right-to-left) does your browser
+parse CSS?  Which is a more efficient operation for your browser and
+why:
+
+    .foo .li {text_align: center;}
+    .li .foo {text_align: center;}
+  
+Explain the difference between the module pattern and the constructor
+pattern in prototypal inheritance (JavaScript).
+  
+Build the Rails migration, views, models and controllers to meet the
+following requirements:
+  
+* Allows for both job-seekers and recruiters
+* Recruiters can post jobs.
+* Both job-seekers and recruiters can initiate introductions.
+* Once the other party has accepted, send an email to both parties.
+
