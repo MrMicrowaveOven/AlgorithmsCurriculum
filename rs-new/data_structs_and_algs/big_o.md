@@ -136,7 +136,7 @@ the obvious:
 Constant < Logarithmic < Linear < Polynomial < Exponential
 
 i.e. Something that happens in constant time is best of all and in
-exponential time worst of all. Constat time is fastest, exponential time
+exponential time worst of all. Constant time is fastest, exponential time
 slowest.
 
 When developing an algorithm, try to find ways to have it happen in a
