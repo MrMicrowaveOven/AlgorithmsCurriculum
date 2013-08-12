@@ -13,19 +13,25 @@
 * Get a simple portfolio site up.
     * Just the content for now, do the styling tomorrow.
 * [Polish your personal pitch][personal-pitch]
+* [Write cover letter][cover-letter]
 
-[resume]: resume.md
-[github]: githubcurating.md
-[personal-pitch]: ./rs-new/personal_pitch.md
+[resume]: ./self-presentation/resume.md
+[github]: ./self-presentation/github.md
+[personal-pitch]: ./self-presentation/personal_pitch.md
+[cover-letter]: ./self-presentation/cover_letter.md
 
 **W1D2**
 
-* [Apply to Fortune 500 companies][fortune500apps]
-[fortune500apps]: fortune500apps.md
+* [Apply to Fortune 500 companies][fortune500]
 * Style your portfolio site.
+
+[fortune500]: ./mass-applying/fortune500.md
 
 **W1D3**
 
+* [Update your LinkedIn profile][linkedin]
+
+[linkedin]: ./self-presentation/linkedin.md
 
 **W1D4**
 
