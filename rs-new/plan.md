@@ -207,12 +207,6 @@ companies simply want competent developers and they have their various
 strategies of going about finding those developers. You are a competent
 developer, so apply and see if you and the company are a good fit.
 
-## Resume
-
-* Limit to one page
-* Focus strongly on your projects and the technologies used.
-* Lookup the right capitalization, spelling of the techs you used. It
-  looks really dumb if you get this wrong.
 
 ## GitHub
 
