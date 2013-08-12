@@ -11,7 +11,7 @@
 * [Format your résumé][resume]
 * [Clean up your Github][github]
 * Get a simple portfolio site up.
-    * Just the content for now, styling will come tomorrow.
+    * Just the content for now, do the styling tomorrow.
 * [Polish your personal pitch][personal-pitch]
 
 [resume]: resume.md
