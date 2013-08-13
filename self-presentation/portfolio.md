@@ -30,11 +30,6 @@ We recommend [namecheap.com][namecheap] for registering domains.
 
 Canonical names make your hostname point to another. You want www.mycoolurl.com to point to www.myuncoolurl.herokuapp.com.
 
-[namecheap.com setup][namecheap-tutorial]    
-[heroku setup][heroku-tutorial]
-
-[heroku-tutorial]: https://devcenter.heroku.com/articles/custom-domains
-[namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
 
  On namecheap.com: 
     1 Log in.
@@ -49,3 +44,10 @@ Canonical names make your hostname point to another. You want www.mycoolurl.com 
  In your terminal
     1 Navigate to the directory that holds your portfolio's repo.
     2 Run "heroku domains:add www.mycoolurl.com".
+
+
+[namecheap.com setup][namecheap-tutorial]    
+[heroku setup][heroku-tutorial]
+
+[heroku-tutorial]: https://devcenter.heroku.com/articles/custom-domains
+[namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
