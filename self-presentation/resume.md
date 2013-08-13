@@ -41,12 +41,15 @@ Bonus points:
 * If you did something very quantitative, eg. as a financial analyst.
 
 Things you must LEAVE OUT:
-	* Service jobs that paid the bills (waiter, grocery clerk, library assistant...).
-	* Jobs or internships having little to do with the web.
+
+* Service jobs that paid the bills (waiter, grocery clerk, library assistant...).
+* Jobs or internships having little to do with the web.
+
 Things you should  INCLUDE:
-	* Jobs where the web was involved.
-		* Where appropriate, highlight that you made yourself more technical to above and beyond the call of duty.
-	* Jobs where number-crunching was involved.
+
+* Jobs where the web was involved.
+   * Where appropriate, highlight that you made yourself more technical to above and beyond the call of duty.
+* Jobs where number-crunching was involved.
 
 ## Education
 * Don't mention App Academy
