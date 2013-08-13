@@ -19,11 +19,6 @@ Note that this letter is much longer than yours needs to be and the language is 
 
 [example-cover-letter]: http://www.eliteresumewriting.com/images/Sales%20Sample%20Cover%20Letter.jpg
 
-# Applying like a boss
-
-Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and paste your cover letter in the body of the email.
-
-The subject line is just to find your email in an crowded inbox. "Junior Rails Engineer - San Francisco" is much better than "Applying to CoolCompany, inc".
 
 # Sample Cover Letter
 
@@ -43,3 +38,12 @@ The subject line is just to find your email in an crowded inbox. "Junior Rails E
     Best,
     
     [my name]
+
+
+# Emailing like a boss
+
+**Etiquette**
+
+Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and also paste your cover letter in the body of the email.
+
+The subject line is just to find your email in an crowded inbox. "Junior Rails Engineer - San Francisco" is much better than "Applying to CoolCompany, inc".

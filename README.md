@@ -2,6 +2,7 @@
 
 
 [New York Tech Companies][ny-tech]
+
 [Bay Area Tech Companies][bay-tech]
 
 
@@ -19,7 +20,7 @@
 * [Format your résumé][resume]
 * [Clean up your Github][github]
 * [Get a simple portfolio site up][portfolio]
-     * Just do the content for now. We'll do styling tomorrow.
+     * Just put up the content for now. We'll do styling tomorrow.
 * [Polish your personal pitch][personal-pitch]
 * [Write your cover letter][cover-letter]
 
