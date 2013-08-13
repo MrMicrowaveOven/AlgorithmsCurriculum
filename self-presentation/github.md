@@ -8,7 +8,7 @@
 * Rename the repos you keep.
 * Give them useful *readmes*.
     * Do this in your browser so that their last commit is not from 'App Academy Student'.
-    * Keep some projects and name them explicitely.
+    * Keep some projects and name them explicitly.
 
 ## Nice Repos to Keep
 * ActiveRecord Lite
