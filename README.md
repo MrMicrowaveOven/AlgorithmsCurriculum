@@ -1,6 +1,10 @@
 # Post-Course Curriculum
 
 
+[New York Tech Companies][https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0]
+[Bay Area Tech Companies][https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0]
+
+
 ## Week 1: The Warm Up
 * Prepare your résumé and Github.
 * Polish your pitch.
@@ -10,19 +14,20 @@
 
 * [Format your résumé][resume]
 * [Clean up your Github][github]
-* Get a simple portfolio site up.
-    * Just the content for now, do the styling tomorrow.
+* [Get a simple portfolio site up][portfolio]
+     * Just do the content for now. We'll do styling tomorrow.
 * [Polish your personal pitch][personal-pitch]
-* [Write cover letter][cover-letter]
+* [Write your cover letter][cover-letter]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
+[portfolio]: ./self-presentation/portfolio.md
 [personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
 
 **W1D2**
 
-* [Apply to Fortune 500 companies][fortune500]
+* [Apply to big tech companies][fortune500]
 * Style your portfolio site.
 
 [fortune500]: ./mass-applying/fortune500.md

@@ -5,16 +5,18 @@
 
 You don't have to delete all non-web-related experience from your LinkedIn.
 
-If you're going to keep it, put it at the bottom of your page. Your layout might look like this:
-    1. Background
-    2. Skills & Expertise
-    3. Projects
-    4. Education / Experience (whichever is more impressive)
+If you're going to keep it, put it at the bottom of your page.
+
+Your layout might look like this:
+    1 Background
+    2 Skills & Expertise
+    3 Projects
+    4 Education / Experience (whichever is most impressive)
 
 
 ## Content
 
-Your title is 'web developer' or 'Rails/Front-End Developer' ("full stack" implies a couple years' experience).
+Your title is 'web developer' ("full stack" implies a couple years' experience).
 You can add "for hire" or something to that effect in your title.
 
 Have an exciting summary
