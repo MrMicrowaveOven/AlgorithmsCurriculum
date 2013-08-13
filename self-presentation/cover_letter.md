@@ -47,3 +47,16 @@ Note that this letter is much longer than yours needs to be and the language is 
 Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and also paste your cover letter in the body of the email.
 
 The subject line is just to find your email in an crowded inbox. "Junior Rails Engineer - San Francisco" is much better than "Applying to CoolCompany, inc".
+
+**Signatures**
+
+Set up a signature with your mail client. Include the link to your portfolio site.
+
+You could try something like this:
+
+    Best,
+    
+    Mark Zuckerberg
+    markzuckerberg.com
+    (415) 643 9844
+    @finkd
