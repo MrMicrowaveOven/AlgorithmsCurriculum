@@ -4,14 +4,13 @@
 
 No need to go crazy with your personal site. Maybe a jQuery animation here and there if it tickles your fancy.
 
-Include:
-    * A Personal summary
+ Include:
+    * A personal summary
     * A list of your projects with short descriptions
-        * Pull the descriptions from your résumé.
-        * For each project include a live link and a link to its Github repo.
-    * Easy access to your email (eg. a link at the bottom of your personal summary).
-    * Links to your blog / Twitter / etc if they're well maintained.
-
+        * Pull the descriptions from your résumé
+        * For each project include a live link and a link to its Github repo
+    * Easy access to your email (e.g. a link at the bottom of your personal summary)
+    * Links to your blog / Twitter / etc if they're well maintained
 
 ## Publishing
 
@@ -26,15 +25,16 @@ We recommend [namecheap.com][namecheap] for registering domains.
 
 [namecheap]: http://www.namecheap.com/
 
+
 **3. Set up a CNAME**
 
-A canonical name will make your hostname point to another. You want www.mycoolurl.com to point to www.myuncoolurl.herokuapp.com.
+Canonical names make your hostname point to another. You want www.mycoolurl.com to point to www.myuncoolurl.herokuapp.com.
 
-[namecheap.com setup][namecheap-tutorial]
-[namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
-
+[namecheap.com setup][namecheap-tutorial]    
 [heroku setup][heroku-tutorial]
+
 [heroku-tutorial]: https://devcenter.heroku.com/articles/custom-domains
+[namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
 
  On namecheap.com: 
     1 Log in.

@@ -1,8 +1,8 @@
 # Post-Course Curriculum
 
 
-[New York Tech Companies][ny-tech]
 
+[New York Tech Companies][ny-tech]    
 [Bay Area Tech Companies][bay-tech]
 
 
