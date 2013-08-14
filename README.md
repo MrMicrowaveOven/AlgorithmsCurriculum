@@ -22,7 +22,7 @@
 * [Get a simple portfolio site up][portfolio]
      * Just put up the content for now. We'll do styling tomorrow.
 * [Polish your personal pitch][personal-pitch]
-* [Write your cover letter][cover-letter]
+* [Write your standard cover letter][cover-letter]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md

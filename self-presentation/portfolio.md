@@ -16,12 +16,12 @@ No need to go crazy with your personal site. Maybe a jQuery animation here and t
 
 **1. Deploy to Heroku**
 
-Push your git repo to a Heroku app.
+Push your git repo to a Heroku app (if you choose a simpler hosting service, you might not need to set up Pingdom; see below).    
 
 
 **2. Register a domain**
 
-We recommend [namecheap.com][namecheap] for registering domains.
+We recommend [namecheap.com][namecheap] for registering domains.    
 
 [namecheap]: http://www.namecheap.com/
 
@@ -31,23 +31,37 @@ We recommend [namecheap.com][namecheap] for registering domains.
 Canonical names make your hostname point to another. You want www.mycoolurl.com to point to www.myuncoolurl.herokuapp.com.
 
 
- On namecheap.com: 
-    1 Log in.
-    2 Hover over "My account" and click "manage domains".
-    3 Click on your domain.
-    4 Click "All Host records" in the blue menu on the left.
-    5 In "www" row
-        * Enter the URL you want to point to under the "IP Address/URL" column.
-        * Select CNAME (Alias) under "Record Type"
-    6 Click "Save Changes".
+ On namecheap.com:    
+    1 Log in.    
+    2 Hover over "My account" and click "manage domains".    
+    3 Click on your domain.    
+    4 Click "All Host records" in the blue menu on the left.    
+    5 In the "www" row    
+        * Enter the URL you want to point to under the "IP Address/URL" column.    
+        * Select CNAME (Alias) under "Record Type".    
+    6 Click "Save Changes".    
 
- In your terminal
-    1 Navigate to the directory that holds your portfolio's repo.
-    2 Run "heroku domains:add www.mycoolurl.com".
+ In your terminal    
+    1 Navigate to the directory that holds your portfolio's repo.    
+    2 Run "heroku domains:add www.mycoolurl.com".    
 
 
 [namecheap.com setup][namecheap-tutorial]    
-[heroku setup][heroku-tutorial]
+[heroku setup][heroku-tutorial]    
 
 [heroku-tutorial]: https://devcenter.heroku.com/articles/custom-domains
 [namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
+
+
+**4. Set up Pingdom**
+
+Pingdom pings a URL at regular intervals. This is originally intended to detect network breakdowns quickly. If Pingdom gets a 404 from the URL you set it to, it'll notify you that the site is down.    
+
+Another use case is keeping your Heroku app wound up. When no one visits your Heroku app for a while, Heroku saves itself server space and winds down your app (this is also to encourage you to buy Heroku's premium services). This means the next time someone visits your page it'll be *very* slow to load. To avoid this, set up Pingdom so that Heroku is regularly handling requests to your site.
+
+Go to [Pingdom.com][pingdom] and sign up for a Pingdom Personal Account. Then set up a check for your portfolio URL.    
+You'll probably want to set this up for your projects too. Pingdom grants you one free check per account. If you want to keep using Pingdom you'll have to open another account using a different email address. Or you can use [New Relic][new-relic]. New Relic has more functionaliy so it takes a little extra time to set up.
+
+[pingdom]: https://www.pingdom.com/signup/
+[new-relic]: http://newrelic.com/
+
