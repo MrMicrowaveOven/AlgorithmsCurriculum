@@ -1,3 +1,16 @@
+# Foreword
+
+**Don't Advertise App Academy**
+
+Few companies realize how selective App Academy is and what an accomplishment it is to complete the course. Meanwhile employers don't like feeling flooded by candidates with the same profile. There is also a lingering suspicion among old school engineers that a graduate from a programming course is not "one of them".
+
+You don't gain much by telling companies you were at App Academy. We strongly recommend you leave it out of your application materials (cover letter, portfolio, LinkedIn...). At interviews you might be asked where you learned to code. At that point you can say you did App Academy. Until then, don't volunteer the information. This way fewer companies will nix you before giving you fair consideration.
+
+**Don't Call Yourself 'Full Stack'**
+
+App Academy trained you in the full stack, but calling yourself a 'full stack engineer' is a little premature. 'Full stack' often means "so experienced I can build whatever you throw at me". For now just call yourself a web developer. Make it clear you are very strong in both Rails and JavaScript.
+
+
 # Cover Letter
 
 Maybe there is one crazy HR person out there that will read your cover letter closely. They will find your pitch unsatisfactory and move on to the next candidate. Then they will find that candidate's pitch too weak, and move on to the next. And to the next. And the next. This will go on until they've selected only the applicants who have a poor sense of time management. Those people will fit right into the company culture.
@@ -18,11 +31,6 @@ Here's an [example][example-cover-letter] of some cool templating. Note that thi
 
 [example-cover-letter]: http://www.eliteresumewriting.com/images/Sales%20Sample%20Cover%20Letter.jpg
 
-# Applying like a boss
-
-Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and paste your cover letter in the body of the email.
-
-The subject line is just to find your email in an crowded inbox. "Rails Engineer - San Francisco" is much better than "Applying to CoolCompany, inc".
 
 # Sample Cover Letter
 
