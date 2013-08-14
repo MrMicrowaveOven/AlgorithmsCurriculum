@@ -32,10 +32,12 @@
 
 **W1D2**
 
-* [Apply to big tech companies][fortune500]
+* [Apply to big tech companies.][fortune500]
 * Style your portfolio site.
+* [Pick a few Meetups near you.][meetups]
 
 [fortune500]: ./mass-applying/fortune500.md
+[meetups]: ./engineering_culture/meetups.md
 
 **W1D3**
 
