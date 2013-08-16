@@ -55,6 +55,9 @@
 
 **W2D1**
 
+* Memorize a few [insightful questions][good-questions].
+
+[good-questions]: ./self-presentation/good_questions.md
 
 **W2D2**
 
@@ -72,6 +75,9 @@
 
 **W3D1**
 
+* Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
+
+[ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 
 **W3D2**
 
