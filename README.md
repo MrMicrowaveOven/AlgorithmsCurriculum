@@ -14,6 +14,7 @@
 * Prepare your résumé and Github.
 * Polish your pitch.
 * Apply to large companies.
+* Apply to 125 companies.
 
 **W1D1**
 
@@ -23,12 +24,14 @@
      * Just put up the content for now. We'll do styling tomorrow.
 * [Polish your personal pitch][personal-pitch]
 * [Write your standard cover letter][cover-letter]
+* Apply to [companies][applyathon_week_1]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
 [portfolio]: ./self-presentation/portfolio.md
 [personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
+[applyathon_week_1]: ./mass-applying/applyathon_week_1.md
 
 **W1D2**
 
@@ -53,6 +56,8 @@
 
 ## Week 2: Spray and Pray
 
+* Apply to 150 companies.
+
 **W2D1**
 
 * Memorize a few [insightful questions][good-questions].
@@ -72,6 +77,8 @@
 
 
 ## Week 3: Keep Spraying
+
+* Apply to 125 companies.
 
 **W3D1**
 
