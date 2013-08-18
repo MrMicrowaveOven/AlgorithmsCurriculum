@@ -27,29 +27,26 @@ Bonus (if they're good):
 * Twitter
 
 ## Technical
-* List your past projects (may include asteroids and snake) and the technologies you used.
+* List your past projects and the technologies you used.
 * For each project, highlight one cool feature.
 	* Even better: summarize a problem you encountered and solved.
 * Look up how to spell and capitalize the technologies you mention.
 
 ## Work
-Unless you worked as a web developer, this section mainly proves one thing:
-you are a functional member of society.
+Unless you worked as a web developer, this section is mainly to prove one thing:
+I am a functional member of society.
 
-Bonus points:
-* If you worked with the web, eg. as a QA tester.
-* If you did something very quantitative, eg. as a financial analyst.
 
-Things you must LEAVE OUT:
+Things to LEAVE OUT:
 
 * Service jobs that paid the bills (waiter, grocery clerk, library assistant...).
-* Jobs or internships having little to do with the web.
+* Jobs or internships having nothing to do with computers or the web.
 
-Things you should  INCLUDE:
+Things to INCLUDE:
 
-* Jobs where the web was involved.
-   * Where appropriate, highlight that you made yourself more technical to above and beyond the call of duty.
-* Jobs where number-crunching was involved.
+* Jobs where the web or some other computer technology was involved (eg. QA Tester).
+   * Highlight a time when you taught yourself something technical on the job.
+* Jobs where number-crunching was involved (analyst-type roles)
 
 ## Education
 * Don't mention App Academy
@@ -58,5 +55,4 @@ Things you should  INCLUDE:
 ## Personal
 Only include this section if:
 * You have a lot of whitespace.
-* You have smart-person hobbies (eg. chess).
-* You have athletic-person hobbies (eg. triathlons).
+* You have smart-person hobbies or talents (like chess).

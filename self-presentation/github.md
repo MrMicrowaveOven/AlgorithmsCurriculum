@@ -2,15 +2,15 @@
 
 ## Delete and format
 * Delete most of your repositories.
-    * Delete your very early repos.
-    * Delete your incomplete projects.
-    * Delete all the mini Rails apps, except where you did something cool (eg. nesting comments in Reddit).
-* Rename the repos you keep.
-* Give them useful *readmes*.
-    * Do this in your browser so that their last commit is not from 'App Academy Student'.
-    * Keep some projects and name them explicitly.
+    * Delete the very early ones.
+    * Delete incomplete projects.
+    * Delete the mini Rails apps, except if you did something cool with them, like nesting comments in Reddit.
+* Rename the repos that you keep.
+    * Give them enticing descriptions and useful ReadMe's.
+    * If your code is crowded with lines you'd commented out while trying something different, make sure to remove those.
+    * Do this in your browser so that their last commit is from you and not 'App Academy Student'.
 
-## Nice Repos to Keep
+## Cool Repos to Keep
 * ActiveRecord Lite
 * Rails Lite
 * Asteroids

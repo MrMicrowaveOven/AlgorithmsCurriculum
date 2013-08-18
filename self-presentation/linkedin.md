@@ -33,8 +33,8 @@ A profile picture doesn't hurt.
 * Backbone.js
 * SQL
 * Git
-* HTML 5
-* CSS 3
+* HTML
+* CSS
 * TDD
 * Web Development
 * MVC
