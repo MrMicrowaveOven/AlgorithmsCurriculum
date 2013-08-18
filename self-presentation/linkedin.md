@@ -3,15 +3,15 @@
 
 ## Layout
 
-You don't have to delete all non-web-related experience from your LinkedIn.
+Contrary to your résumé, no need to delete all non-web-related experience from your LinkedIn.
 
-If you're going to keep it, put it at the bottom of your page.
+If you're going to keep something non-web-related though, put it at the bottom of your page.
 
- Your layout might look like this:
-    1 Background
-    2 Skills & Expertise
-    3 Projects
-    4 Education / Experience (whichever is most impressive)
+Your layout might look like this:    
+1. Summary    
+2. Skills & Expertise    
+3. Projects    
+4. Education / Experience (whichever is most impressive)    
 
 
 ## Content
