@@ -23,7 +23,9 @@
 * [Polish your personal pitch][personal-pitch]
 * [Write your standard cover letter][cover-letter]
 * Setup your [application tracker][application-tracking]
-* Apply to [20 companies][applyathon_week_1]
+* Apply to 20 companies near you:
+    * [New York][ny_applyathon1]
+    * [San Francisco][sf-applyathon1]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
@@ -31,13 +33,14 @@
 [personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
 [application-tracking]: ./mass-applying/application_tracking.md
-[applyathon_week_1]: ./mass-applying/applyathon_week_1.md
 
 **W1D2**
 
 * [Apply to the big tech companies.][fortune500]
 * [Clean up your Github][github]
-* * Apply to [20 companies][applyathon_week_1]
+* Apply to 20 companies near you:
+    * [New York][ny_applyathon1]
+    * [San Francisco][sf-applyathon1]
 
 [fortune500]: ./mass-applying/fortune500.md
 
@@ -46,20 +49,29 @@
 * [Update your LinkedIn profile][linkedin]
 * Style your portfolio site.
 * [Choose which Meetups you'll attend.][meetups]
-* Apply to [35 companies][applyathon_week_1]
+* Apply to 35 companies near you:
+    * [New York][ny_applyathon1]
+    * [San Francisco][sf-applyathon1]
 
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering_culture/meetups.md
 
 **W1D4**
 
-* Apply to [35 companies][applyathon_week_1]
+* Apply to 35 companies near you:
+    * [New York][ny_applyathon1]
+    * [San Francisco][sf-applyathon1]
 
 
 **W1D5**
 
-* * Apply to [15 companies][applyathon_week_1]
+* Apply to 15 companies near you:
+    * [New York][ny_applyathon1]
+    * [San Francisco][sf-applyathon1]
 
+
+[ny_applyathon1]: ./mass-applying/applyathon/ny_week_1.md
+[sf-applyathon1]: ./mass-applying/applyathon/sf_week_1.md
 
 ## Week 2: Spray and Pray
 
