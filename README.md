@@ -13,7 +13,7 @@
 * Prepare your résumé and Github.
 * Polish your pitch.
 * Apply to the big companies.
-* Apply to 125 companies.
+* Apply to 125 companies in your area.
 
 **W1D1**
 
