@@ -47,7 +47,7 @@ The language is intentionally casual. Make it more formal if the company seems l
     I would love to connect to talk more about your product and the engineering profile you're looking for.
 
     My résumé is attached for your convenience. You can also see my sample projects here: www.markzuckerberg.com,
-    and read some code I've written here: www.github.com/markzuckerberg.
+    and read some of the code I've written here: www.github.com/markzuckerberg.
     I look forward to being in touch.
     
     Best,
@@ -56,7 +56,7 @@ The language is intentionally casual. Make it more formal if the company seems l
 
 
  Addressing the letter when you don't know the name of the person reading it:
-* Use *"Hello [company name] team"* if they're a laidback company.
+* Use *"Hello [company] team"* if they're a laidback company.
 * Use *"Dear Sir or Madam"* if they seem stiff.
 
 # Emailing like a boss
