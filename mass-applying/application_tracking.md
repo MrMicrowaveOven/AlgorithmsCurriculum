@@ -2,10 +2,12 @@
 
 Tame the sea of applications! Make a Google Doc!
 
-Copy [this template][google-doc] into a new doc. **Name it like so: "cohort_location_acronym cohort_start_month - first_name last_name".**
+Copy [this template][google-doc] into a new doc.    
 
-If your name is John Doe and you joined App Academy in New York last April, your doc is titled:
-"NY April - John Doe"
+**Name it like so: "cohort_location_acronym cohort_start_month - first_name last_name".**
+
+If your name is John Doe and you joined App Academy in New York last April, your doc is titled:    
+*NY April - John Doe*
 
 Share it with simon@appacademy.io
 

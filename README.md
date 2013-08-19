@@ -17,12 +17,12 @@
 
 **W1D1**
 
-* [Get a simple portfolio site up][portfolio]
+* [Get a simple portfolio site up.][portfolio]
      * Just put up the content for now. We'll do styling tomorrow.
-* [Format your résumé][resume]
-* [Polish your personal pitch][personal-pitch]
-* [Write your standard cover letter][cover-letter]
-* Setup your [application tracker][application-tracking]
+* [Format your résumé.][resume]
+* [Polish your personal pitch.][personal-pitch]
+* [Write your standard cover letter.][cover-letter]
+* Setup your [application tracker.][application-tracking]
 * Apply to 20 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
@@ -37,7 +37,7 @@
 **W1D2**
 
 * [Apply to the big tech companies.][fortune500]
-* [Clean up your Github][github]
+* [Clean up your Github.][github]
 * Apply to 20 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
@@ -46,7 +46,7 @@
 
 **W1D3**
 
-* [Update your LinkedIn profile][linkedin]
+* [Update your LinkedIn profile.][linkedin]
 * Style your portfolio site.
 * [Choose which Meetups you'll attend.][meetups]
 * Apply to 35 companies near you:
