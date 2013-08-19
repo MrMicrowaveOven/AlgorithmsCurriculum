@@ -22,7 +22,7 @@
 * [Format your résumé.][resume]
 * [Polish your personal pitch.][personal-pitch]
 * [Write your standard cover letter.][cover-letter]
-* Setup your [application tracker.][application-tracking]
+* Set up your [application tracker.][application-tracking]
 * Apply to 20 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
