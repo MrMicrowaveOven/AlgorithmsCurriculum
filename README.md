@@ -22,6 +22,7 @@
 * [Format your résumé][resume]
 * [Polish your personal pitch][personal-pitch]
 * [Write your standard cover letter][cover-letter]
+* Setup your [application tracker][application-tracking]
 * Apply to [20 companies][applyathon_week_1]
 
 [resume]: ./self-presentation/resume.md
@@ -29,6 +30,7 @@
 [portfolio]: ./self-presentation/portfolio.md
 [personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
+[application-tracking]: ./mass-applying/application_tracking.md
 [applyathon_week_1]: ./mass-applying/applyathon_week_1.md
 
 **W1D2**
