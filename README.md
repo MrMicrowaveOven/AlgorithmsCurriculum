@@ -1,30 +1,28 @@
 # Post-Course Curriculum
 
 
+[New York Tech Companies][ny-tech-companies]    
+[Bay Area Tech Companies][bay-tech-companies]
 
-[New York Tech Companies][ny-tech]    
-[Bay Area Tech Companies][bay-tech]
 
-
-[ny-tech]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
-[bay-tech]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
+[ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
+[bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
 
 ## Week 1: The Warm Up
 * Prepare your résumé and Github.
 * Polish your pitch.
-* Apply to large companies.
+* Apply to the big companies.
 * Apply to 125 companies.
 
 **W1D1**
 
-* [Format your résumé][resume]
-* [Clean up your Github][github]
 * [Get a simple portfolio site up][portfolio]
      * Just put up the content for now. We'll do styling tomorrow.
+* [Format your résumé][resume]
 * [Polish your personal pitch][personal-pitch]
 * [Write your standard cover letter][cover-letter]
-* Apply to [companies][applyathon_week_1]
+* Apply to [20 companies][applyathon_week_1]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
@@ -35,23 +33,30 @@
 
 **W1D2**
 
-* [Apply to big tech companies.][fortune500]
-* Style your portfolio site.
-* [Pick a few Meetups near you.][meetups]
+* [Apply to the big tech companies.][fortune500]
+* [Clean up your Github][github]
+* * Apply to [20 companies][applyathon_week_1]
 
 [fortune500]: ./mass-applying/fortune500.md
-[meetups]: ./engineering_culture/meetups.md
 
 **W1D3**
 
 * [Update your LinkedIn profile][linkedin]
+* Style your portfolio site.
+* [Choose which Meetups you'll attend.][meetups]
+* Apply to [35 companies][applyathon_week_1]
 
 [linkedin]: ./self-presentation/linkedin.md
+[meetups]: ./engineering_culture/meetups.md
 
 **W1D4**
 
+* Apply to [35 companies][applyathon_week_1]
+
 
 **W1D5**
+
+* * Apply to [15 companies][applyathon_week_1]
 
 
 ## Week 2: Spray and Pray
@@ -97,7 +102,7 @@
 
 **W3D5**
 
-HIRING DAY
+==> HIRING DAY <==
 
 
 ## Week 4: Precision
