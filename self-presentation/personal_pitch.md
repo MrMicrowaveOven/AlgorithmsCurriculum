@@ -27,6 +27,9 @@ If you're good at selling yourself, this is where you shine. Otherwise no worrie
 Have a 30-second answer ready for each of these. It looks bad if you hesitate or stammer.
 
 * Why do you want to be a programmer?
+* How did you teach yourself to program?
+    * Here it makes sense to bring up App Academy.
+* How do you go about picking up a new technology?
 * Why do you want to work at our company?
 * What kinds of problems do you like to work on?
 * What do you like about Ruby?
@@ -34,7 +37,7 @@ Have a 30-second answer ready for each of these. It looks bad if you hesitate or
 
 ## Bonus
 
-We've observed these quirky questions a lot. An quick and enthusiastic response will have an awesome effect.
+We've observed these quirky questions a lot. An quick and enthusiastic response will make you shine.
 
 *"Tell me about an interesting problem you solved."*
 A lot of great options here. Your answer doesn't have to be from a personal project. For example using the Ruby object as a simple data structure to store association parameters when you were cloning [Active-Record][active-record-lite] was pretty sweet.
@@ -44,3 +47,17 @@ A lot of great options here. Your answer doesn't have to be from a personal proj
 * What's your favorite Ruby gem (other than Rails)?
 
 [active-record-lite]: https://github.com/appacademy/sql-curriculum/blob/master/projects/w3d5-build-your-own-ar.md#part-a-storing-association-parameters
+
+
+## Prep time!
+
+Outline your 60-second life story following the model above.    
+Find the student you paired with on W1D1 of App Academy. Pick a famous tech company and ask them the big questions:
+
+* "Tell me about yourself. What have you done in your career and why do you want to work at [famous company]?"
+* Why do you want to be a programmer?
+* How did you teach yourself to program?
+
+Then rotate, give each other feedback, and do it all again once more.
+
+This will help you sound a lot more professional at your interview. On top of this, you can observe your interviewer and build a connection more easily if you're not trying to come up with answers on the spot.

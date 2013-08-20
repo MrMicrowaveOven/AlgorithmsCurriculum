@@ -1,10 +1,11 @@
 # Post-Course Curriculum
 
-
+[Progress Report Form][progress-report]
 [New York Tech Companies][ny-tech-companies]    
 [Bay Area Tech Companies][bay-tech-companies]
 
 
+[progress-report]: 
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
@@ -20,7 +21,6 @@
 * [Get a simple portfolio site up.][portfolio]
      * Just put up the content for now. We'll do styling tomorrow.
 * [Format your résumé.][resume]
-* [Polish your personal pitch.][personal-pitch]
 * [Write your standard cover letter.][cover-letter]
 * Set up your [application tracker.][application-tracking]
 * Apply to 20 companies near you:
@@ -58,13 +58,16 @@
 
 **W1D4**
 
+* Send us your [professional contact information][business-cards]
 * Apply to 35 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
 
+[business-cards]: ./self-presentation/business_cards.md
 
 **W1D5**
 
+* [Polish your personal pitch.][personal-pitch]
 * Apply to 15 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
@@ -73,14 +76,17 @@
 [ny_applyathon1]: ./mass-applying/applyathon/ny_week_1.md
 [sf-applyathon1]: ./mass-applying/applyathon/sf_week_1.md
 
+
 ## Week 2: Spray and Pray
 
 * Apply to 150 companies.
 
 **W2D1**
 
+* Read about a [typical technical interview][typical-interview]
 * Memorize a few [insightful questions][good-questions].
 
+[typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
 
 **W2D2**

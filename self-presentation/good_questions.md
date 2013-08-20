@@ -8,6 +8,10 @@
 
 ## Generic Questions
 
-What are the common traits of some of your top performers?
+* What do you love about working at [company]?
+* What are the common traits of some of your top performers?
+* What do new hires do to get a handle on your code base?
+* What's your company's philosophy on testing?
+* Can you tell me about your deployment process?
 
-What do new hires do to get a handle on your code base?
+## Things worth asking about
