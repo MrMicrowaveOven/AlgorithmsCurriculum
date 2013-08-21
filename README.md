@@ -58,12 +58,14 @@
 
 **W1D4**
 
-* Send us your [professional contact information][business-cards]
+* Send us your [professional contact information][business-cards].
+* Work on your [personal projects][personal-projects].
 * Apply to 35 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
 
 [business-cards]: ./self-presentation/business_cards.md
+[personal-projects]: ./self-presentation/personal_projects.md
 
 **W1D5**
 
@@ -83,14 +85,17 @@
 
 **W2D1**
 
-* Read about a [typical technical interview][typical-interview]
+* Read about [job search etiquette][job-search-etiquette]
+
+[job-search-etiquette]: ./self-presentation/job_search_etquette.md
+
+**W2D2**
+
+* Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
 
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
-
-**W2D2**
-
 
 **W2D3**
 
@@ -118,6 +123,8 @@
 
 
 **W3D4**
+
+* Work on your [personal projects][personal-projects] some more.
 
 
 **W3D5**
@@ -175,18 +182,10 @@
 
 * [Cracking the Coding Interview][cracking-the-coding-interview]
 * [Daily Programmer Subreddit][dailyprogrammer]
-* [Interviewing problems][whiteboard-problems]
-* [More interviewing problems][more-problems]
-* [Solutions to additional problems][more-solutions]
-* [Interviewing tips][iview-tips]
 * [Rails Dev Quesitons][rails-dev-questions]
 * [Front-End Dev Questions][front-end-questions]
 
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
 [cracking-the-coding-interview]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
-[whiteboard-problems]: ./whiteboard-problems.md
-[more-problems]: ./problems/more_problems.md
-[more-solutions]: ./problems/more_solutions.md
-[iview-tips]: ./interviewing-tips.md
 [rails-dev-questions]: https://gist.github.com/ryansobol/5252653
 [front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions

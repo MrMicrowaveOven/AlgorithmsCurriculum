@@ -102,16 +102,3 @@ def closest_points(points)
   end
 end
 
-def permutations(str)
-  result = []
-  
-  return [str] if str.size == 1    
-  
-  str.size.times do |i|
-    str[0], str[i] = str[i], str[0]
-    result += permutations(str[1..-1]).each {|el| el.prepend(str[0])}
-    str[0], str[i] = str[i], str[0]
-  end
-  
-  result
-end

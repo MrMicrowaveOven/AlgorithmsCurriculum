@@ -1,41 +1,3 @@
-0. Given an array, move all zeros to the end. The order of non-zero elements does not matter. Algorithm should be O(n) Ex:
-
-  ```
-  move_zeros([1,2,0,3,4,0,5,6,0]) == [1,2,6,3,4,5,0,0,0]
-  ```
-
-  **Solution:**
-
-  ```ruby
-    def move_zeros(array)
-      # maintain two indicies
-      # one starts at the beginning
-      # one starts at the end
-      # increment start index until a zero value is found
-      # decrement end index until non zero value is found
-      # swap values at start and end indecies
-      # continue, ending when start index > end index
-
-      start = 0
-      end = array.length -1
-
-      while true
-        until array[start] == 0
-          start += 1
-        end
-
-        until array[end] != 0
-          end -= 1
-        end
-
-        if start >= end
-          break
-        end
-
-        array[start], array[end] = array[end], array[start]
-      end
-    end
-  ```
 
 0. Implement the 'look and say' function. 'Look and say' takes an input array and outputs an array that describes the count of the elements in the input array as they appear in order. Ex:
 
@@ -80,45 +42,6 @@
     end
   ```
 
-0. Given an input stream of numbers, implement a function that would return a single number from the stream with an equal chance probability of being selected when compared with all other numbers in the stream. So, if the stream were 10 in size, any given number should have a 1 in 10 chance of being returned. Implement this in O(1) memory space (yes, constant memory).
-
-  **Solution:**
-
-  ```ruby
-    # The trick here is a bit of math. Consider:
-
-    # If we had just one element in the stream, which would we return? 
-    # A: The single element we have.
-
-    # If we now had two elements, which would we return? 
-    # A: We could either return the one we stored from the previous iteration, 
-    # or we can return the new element.
-
-    # How do we pick? We could just flip a coin. Probability that we replace 
-    # the number we had with the new number is 50%. Probability that we don't is also 50%.
-    # So, whatever number we store has an equal chance of being stored.
-    # If we simply return that number, we are returning that number with a 50% chance.
-
-    # This also works as the stream gets larger. Prove to yourself that it does.
-
-    def random(stream)
-      # stream is an ambiguous data type that. We assume we can iterate over it.
-
-      number_stored = nil
-      numbers_seen_so_far = 0
-
-      stream.each do |el|
-        numbers_sees_so_far += 1
-
-        if Random.rand(numbers_seen_so_far) == 0
-          number_stored = el
-        end
-      end
-
-      number_stored
-    end
-  ```
-
 0. Given an input stream of numbers, implement a function that would return the median of all numbers seen so far. Total runtime should be O(n log n). Determining the median should be a O(1) operation. Memory usage can be O(n).
 
   **Solution:**
@@ -136,65 +59,6 @@
   # total computational time is on the order O(n log n).
   ```
 
-0. Given two *sorted* arrays, find the median element amongst the two arrays. That is, if both arrays were combined, find the median element from the combined array. Assume that there is not enough memory to actually combine both arrays. Hint: there is an O(log n + log m) solution.
-
-  **Solution:**
-
-  ```
-  # Since they are sorted, you can find the middle element of each to find
-  # the medians of each list. The actual median is now somewhere in between
-  # these two numbers. You can then discard the non-relevant portions of
-  # each list. Repeat the process. When the middle elements from both lists
-  # converge, you have now found the median element.
-  ```
-
-0. Given a node in a Binary Search Tree, find the node with the next largest value. Assume you don't have the root of the tree, just a single node from it.
-
-  **Solution:**
-
-  ```ruby
-    # Perform an in-order traversal
-
-    def next(node)
-      if node.right # If the node has a right child, return the left most node 
-                    # in the right child
-        left_most_node(node.right)
-      elsif node = node.parent.left  # If the node is a left child, return the parent
-        node.parent
-      else # move up the parent until parent is a left child. then, return parent's parent
-        current_node = node
-        until current_node = current_node.parent.left
-          current_node = current_node.parent
-        end
-
-        current_node.parent
-      end
-    end
-
-    def left_most_node(node)
-      current_node = node
-      while current_node.left
-        current_node = current_node.left
-      end
-
-      current_node
-    end
-  ```
-
-0. Given two singly-linked lists of (potentially) differing lengths that converge at some point, find the node at which they converge.
-
-  **Solution:**
-
-  ```
-  # Imagine two runners, running at the same speed across the linked lists.
-  # If one list is longer than the other, that list's runner will reach
-  # the end first. The distance between the two runners is the difference
-  # in length between the two lists. Knowing this, we can traverse the
-  # longer list first, moving through it an amount equivalent to the
-  # difference in distance between the two lists. Then, travesing both
-  # lists at equal speed will result in the two runners colliding at the 
-  # intersection point.
-  ```
 
 0. Implement a stack with a 'bonus' method that returns the maximum value of the stack. The `max` method should take O(1) time.
 
@@ -309,49 +173,9 @@
 
 0. Implement an LRU cache.
 
-0. Given an array, return an index with a probability weighted by the value at that index. For example, for the array `[4,6,8]`, index 0 should be returned with 4 in 18 odds, index 1 should be returned with 6 in 18 odds, and index 2 should be return with 8 in 18 odds. Implement this with an O(n) time.
-
-  **Solution:**
-  ```ruby
-    def weighted_random_index(arr)
-      sum, cumulative_sum = arr.inject(:+), 0
-      random = rand * sum
-
-      arr.each_with_index do |el, i|
-        cumulative_sum += el
-        return i if cumulative_sum >= random
-      end
-    end
-  ```
 0. Given a string, determine the longest substring with only two unique characters. Ex:
 
   ```
   longest_substring("abdfkssssjjjeiee") == "ssssjjj"
   ```
 
-0. Given a list of numbers in an array, replace all the numbers with the product of all other numbers. Do this in O(n) time without using division.
-
-  **Solution:**
-  ```ruby
-     def productify(arr)
-       left_arr, right_arr = Array.new(arr.size, arr[0]), Array.new(arr.size, arr[-1])
-       results = Array.new(arr.size)
-
-       # Build two arrays, where each term is the product of the previous terms in arr,
-       # one starting from the left, the other from the right
-       (1...arr.size).each do |i|
-         left_arr[i] = arr[i] * left_arr[i-1]
-         right_arr[-(i+1)] = arr[-(i+1)] * right_arr[-i]
-       end
-
-       # Assign values for result edge cases
-       results[0], results [-1] = right_arr[1], left_arr[-2]
-  
-       # Multiply left and right terms to determine result
-       (1...(arr.size-1)).each do |i|
-         results[i] = left_arr[i-1]*right_arr[i+1]
-       end
-  
-       results
-     end
-  ```

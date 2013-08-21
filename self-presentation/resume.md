@@ -3,7 +3,7 @@
 * What's on there makes a big difference.
 * What's not on there, and how you lay everything out, makes an equally big difference.
 
-No one likes opening Word documents. When your résumé is done, export it to PDF.
+No one likes opening Word documents. When your résumé is done, export it to a PDF.
 
 
 # Layout
@@ -12,9 +12,15 @@ No one likes opening Word documents. When your résumé is done, export it to PD
 
 
 # Content
-* Have a high bar for what goes on your résumé:
-	* Ask yourself: would I score points for talking about this more than 5 minutes during an interview?
-	* If the answer is no, leave it out.
+
+In the world of people, having a diversity of interests and experiences is a beautiful thing. In the world of tech recruiting, expertise is much more valuable. Avoid letting your résumé suggest you were at one point unsure of what you wanted to do in life.
+ 
+You don't want to leave out large chunks of time either. If you did one thing for over a year, include it. You knew what you wanted, but then you changed your mind. In this case, be ready to have a very good answer for anyone who asks you why you changed your mind.
+
+ Use this bar for what goes on your résumé:
+* Ask yourself: would I score real points with my interviewer for talking about this more than 5 minutes?
+* If the answer is no, leave it out.
+
 
 
 ## Relevant Links
