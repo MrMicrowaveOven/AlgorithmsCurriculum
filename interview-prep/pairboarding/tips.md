@@ -15,11 +15,12 @@
 
 ## Before you start
 
- Ask questions:
-* What are we optimizing for? Time? Space?
-* Are there any constraints on the input set?
+ Ask questions    
+* What are we optimizing for? Time? Space?    
+* Are there any constraints on the input set?    
 
- If you draw a blank:
+
+ If you draw a blank
 * Make up a sample input and compute it. Do this two or three times aloud.
 * Find a naive solution, any solution, to get started. Then you can optimize.
 * Come up with a simpler version of the problem, solve it, then progressively add complexity.
@@ -37,7 +38,8 @@
 
 **White Board Strategies**
 
- Keep a mental list of general strategies you can turn to. Here are a few:
+ Keep a mental list of general strategies you can turn to. Here are a few:    
+ 
 1. Bucketizing with a hash: If the input set is bounded, try organizing it into a hash.
     * Ex: Sort an array of 100,000 integers that are all in the range 1-100
 2. Dynamic programming, or "divide and conquer": Divide into smaller and smaller but equal subproblems.
