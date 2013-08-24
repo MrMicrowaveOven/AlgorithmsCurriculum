@@ -20,7 +20,7 @@ h/t [Parker Phinney][parker]
 * Are there any constraints on the input set?    
 
 
- If you draw a blank
+ If you draw a blank    
 * Make up a sample input and compute it. Do this two or three times aloud.
 * Find a naive solution, any solution, to get started. Then you can optimize.
 * Come up with a simpler version of the problem, solve it, then progressively add complexity.
