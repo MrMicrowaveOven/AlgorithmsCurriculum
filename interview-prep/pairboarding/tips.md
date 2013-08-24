@@ -1,6 +1,6 @@
 # Tips for Solving Whiteboard problems
 
-(h/t [Parker Phinney][parker])
+h/t [Parker Phinney][parker]
 
 [paker]: http://madebyparker.com/
 
@@ -27,7 +27,7 @@
 * Think aloud about the likely bounds on efficiency for your solution.
     * This is an easy way to score points.
     * "What's sure is I'll have to iterate through all the points, so it's at least linear time."
-    * "The problem is trivial when the set is sorted. So it can definitely be done in nLOGn time. Let's see if we can do better than nLOGn."
+    * "The problem is trivial when the set is sorted. So it can definitely be done in nLOGn time. Let's see if we can do better than n Log n."
 
 
 ## During the Problem

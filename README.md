@@ -2,12 +2,14 @@
 
 [Progress Report Form][progress-report]    
 [Interview Questions][interview-questions]    
+[Pairboarding Index][pair-boarding]    
 [New York Tech Companies][ny-tech-companies]      
 [Bay Area Tech Companies][bay-tech-companies]    
 
 
 [progress-report]: https://podio.com/webforms/4886826/382034
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
+[pair-boarding]: ./interview-prep/pairboarding/index.md
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
