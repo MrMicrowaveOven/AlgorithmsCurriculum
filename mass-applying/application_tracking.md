@@ -12,4 +12,4 @@ If your name is John Doe and you joined App Academy in New York last April, your
 Share it with simon@appacademy.io
 
 
-[google-doc]: https://docs.google.com/spreadsheet/ccc?key=0Aoq1T2Vij8pudC1vQ25XdFpPMlRoRDZoVHlhMXdOSHc&usp=sharing
+[google-doc]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHhuZEViOFVFblF6REdGX3QwbFptLUE#gid=0

@@ -1,11 +1,13 @@
 # Post-Course Curriculum
 
 [Progress Report Form][progress-report]    
-[New York Tech Companies][ny-tech-companies]    
-[Bay Area Tech Companies][bay-tech-companies]
+[Interview Questions][interview-questions]    
+[New York Tech Companies][ny-tech-companies]      
+[Bay Area Tech Companies][bay-tech-companies]    
 
 
 [progress-report]: https://podio.com/webforms/4886826/382034
+[interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
@@ -99,6 +101,9 @@
 
 **W2D3**
 
+* Read about [performance analysis and big O][big-o]
+
+[big-o]: ./interview-prep/big_o.md
 
 **W2D4**
 
