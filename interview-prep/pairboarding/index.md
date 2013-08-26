@@ -8,11 +8,13 @@ Before you get started, read the [tips][tips] on solving whiteboard problems.
 
 Pair with someone new every day. One in the pair takes question set A, the other takes question set B. The interviewer has the problem and its solution. He/she makes the other student, the interviewee, solve the problem as if they were doing a real interview. The interviewer cannot give out an actual answer, but should keep the interviewee on track with leading questions. The interviewee cannot ask for a hint or answer, but may ask insightful questions.
 
-Give yourself time before starting to make sure you understand the problem you will give your interviewee, as well as its solution. Keep in mind that multiple solutions are likely valid.
+Give yourself time before starting, to make sure you understand the problem you will give your interviewee as well as its solution. Keep in mind that multiple solutions are likely valid.
 
-You may not refer to the web unless the question assumes technical knowledge that neither the interviewer nor the interviewee has (eg. a certain data structure). When the interviewee finds a solution, determine its time complexity and try to optimize.
+You may not refer to the web unless the question assumes technical knowledge that neither the interviewer nor the interviewee has (eg. the nature of a certain data structure). When the interviewee has found a solution, he or she should determine its time complexity and try to optimize.
 
-Finally, switch the roles with a new question set.
+Finally, switch the roles with a new question set. If you are with an odd number of people, one group of three can be composed of two interviewers and an interviewee.
+
+Question sets are organized below in incremental difficulty. Do them in order.
 
 ## Index
 
