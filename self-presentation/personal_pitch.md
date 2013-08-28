@@ -24,15 +24,20 @@ If you're good at selling yourself, this is where you shine. Otherwise no worrie
 
 ## Questions to expect
 
-Have a 30-second answer ready for each of these. It looks bad if you hesitate or stammer.
+Have a 30-second (or less) answer ready for each of these. It looks bad if you hesitate or stammer.
 
+* How did you hear about us?
 * Why do you want to be a programmer?
+* Where do you see yourself five years down the line?
 * How did you teach yourself to program?
     * Here it makes sense to bring up App Academy.
 * How do you go about picking up a new technology?
 * Why do you want to work at our company?
 * What kinds of problems do you like to work on?
 * What do you like about Ruby?
+    * Common answers: readable, object-oriented
+* What do you like about Rails?
+    * Common answer: "convention over configuration"
 
 
 ## Bonus

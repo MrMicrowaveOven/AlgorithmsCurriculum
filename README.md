@@ -113,8 +113,16 @@
 
 **W2D4**
 
+* Read about [negotiating an offer][offer-negotiation].
+
+[offer-negotiation]: https://news.ycombinator.com/item?id=3289750
 
 **W2D5**
+
+* Start reading about algorithms [here][algorithms-curriculum].
+* Find a few online lectures over the weekend to complement these.
+
+[algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
 
 
 ## Week 3: Keep Spraying

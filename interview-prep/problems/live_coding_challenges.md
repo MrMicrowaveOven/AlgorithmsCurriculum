@@ -2,4 +2,4 @@
 
 * Weebly: http://www.weebly.com/jobs.php
 
-* Talent Guide (used by Twitter uses it): http://www.talentguide.co
+* Talent Guide (used by Twitter): http://www.talentguide.co

@@ -4,7 +4,6 @@
 ## Layout
 
 Unlike your résumé, no need to delete all non-web-related experience from your LinkedIn.
-
 If you're going to keep something non-web-related though, put it at the bottom of your page.
 
 Your layout might look like this:    
@@ -40,3 +39,7 @@ A profile picture doesn't hurt.
 * MVC
 
 Delete non-web- or tech-related skills. You don't want to be a jack-of-all trades.
+
+## Make friends
+
+If you haven't already, connect with App Academy classmates on LinkedIn. Then endorse each other for all of your newfounds skills.

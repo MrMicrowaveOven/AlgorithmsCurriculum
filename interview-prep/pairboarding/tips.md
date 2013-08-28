@@ -36,7 +36,25 @@ h/t [Parker Phinney][parker]
 * Convince yourself that you are solving the problem together. Say "we" instead of "I".
 
 
-**White Board Strategies**
+**Style**
+
+1. Be confident; even if you don't know the answer, try to engage the
+  problem, don't give up. If you keep telling an interviewer you don't
+  know how to do something, they'll start to believe you.
+2. Talk through the problem; they want to see the process going on in
+  your head. If you don't talk, the interviewer doesn't learn how you
+  break-down and analyze a problem.
+3. The interviewer may give you hints. They will ask questions to keep
+  you on track. Don't be flustered or think you're failing; this is
+  normal.
+4. If they ask you "does this work", take a moment to think. Walk
+  through the steps; out loud is fine. If you say yes, say it like you
+  believe it; interviewers don't like to think people are just
+  praying they'll get the answer right.
+5. Listen to the interviewer. They are trying to help you. No one likes someone who doesn't listen.
+
+
+**Strategies**
 
  Keep a mental list of general strategies you can turn to. Here are a few:    
  
