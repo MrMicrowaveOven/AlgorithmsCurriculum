@@ -78,6 +78,8 @@ h/t [Parker Phinney][parker]
     * Ex: see [this solution][pirates-ex] for a Fog Creek interview question.
 10. Use binary numbers instead of decimal numbers.
     * Ex: see the famous [Bad King][bad-king-ex] problem.
+11. For efficiency, use binary search instead of incrementation. Esp. good for implementing math operators.
+    * Ex: Implement division without using "/", in less than O(n) time.
 
 [amortized-analysis]: http://en.wikipedia.org/wiki/Amortized_analysis
 [dynamic-programming-ex]: http://www.careercup.com/question?id=19286747

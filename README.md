@@ -62,7 +62,6 @@
 
 **W1D4**
 
-* Send us your [professional contact information][business-cards].
 * Work on your [personal projects][personal-projects].
 * Apply to 35 companies near you:
     * [New York][ny_applyathon1]
@@ -74,6 +73,7 @@
 **W1D5**
 
 * [Polish your personal pitch.][personal-pitch]
+* Read: [What do software engineers actually do?][what-software-engineers-do]
 * Apply to 15 companies near you:
     * [New York][ny_applyathon1]
     * [San Francisco][sf-applyathon1]
@@ -81,6 +81,7 @@
 
 [ny_applyathon1]: ./mass-applying/applyathon/ny_week_1.md
 [sf-applyathon1]: ./mass-applying/applyathon/sf_week_1.md
+[what-software-engineers-do]: ./engineering_culture/software_engineer_work.md
 
 
 ## Week 2: Spray and Pray
@@ -93,9 +94,11 @@
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
     * Do pairboarding every weekday at 11am until you are employed.
     * Once you get through the list, rehearse the harder questions or find new ones online.
+* Pick an [open-source project to contribute to][open-source-projects].
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
+[open-source-projects]: ./engineering-culture/open_source.md
 
 **W2D2**
 
@@ -107,13 +110,14 @@
 
 **W2D3**
 
-* Read about [performance analysis and big O][big-o]
+* Read about [performance analysis and big O][big-o].
 
 [big-o]: ./interview-prep/big_o.md
 
 **W2D4**
 
 * Read about [negotiating an offer][offer-negotiation].
+* Keep practice
 
 [offer-negotiation]: https://news.ycombinator.com/item?id=3289750
 
@@ -137,6 +141,9 @@
 
 **W3D2**
 
+* So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
+
+[rails-casts]: rails-casts-of-interest.md
 
 **W3D3**
 
@@ -144,6 +151,9 @@
 **W3D4**
 
 * Work on your [personal projects][personal-projects] some more.
+* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
+
+[hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
 
 
 **W3D5**

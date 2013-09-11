@@ -1,12 +1,6 @@
 # Insightful Questions
 
-
-## Company-specific Questions
-
-* Notice a choice they made in their UX. Ask what the motivation behind it was (without sounding critical!).
-* Ask them for broad strokes on how they're solving a problem specific to their product.
-    * If they're a third party service agency, how do they match clients with service providers?
-    * If search is crucial to their product, ask them how it's implemented.
+Asking smart questions at the end of an interview is an easy way to show that you know what you're doing and to make a lasting impression. Don't miss out.
 
 
 ## Generic Questions
@@ -46,3 +40,14 @@
 source: [Pamela Fox][pamela-fox]
 
 [pamela-fox]: http://blog.pamelafox.org/2013/07/what-to-look-for-in-software.html
+
+
+## Company-specific Questions
+
+When you're further into the job hunt and you're getting confident with technical interviews, start applying to companies you actually care about. Here are some ways to make them swoon.
+
+* Notice a choice they made in their UX. Ask what the motivation behind it was (without sounding critical!).
+* Look at the Github profiles of the company or some of its employees. Do they contribute to open-source? Do they have an open-source project of their own? If so spend some time on that code and go to the interview with questions about the choices they made. Major points if you can send them a pull request.
+* Ask them for broad strokes on how they're solving a problem specific to their product.
+    * If they're a third party service agency, how do they match clients with service providers?
+    * If search is crucial to their product, ask them how it's implemented.

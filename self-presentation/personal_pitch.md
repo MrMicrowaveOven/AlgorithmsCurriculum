@@ -28,10 +28,12 @@ Have a 30-second (or less) answer ready for each of these. It looks bad if you h
 
 * How did you hear about us?
 * Why do you want to be a programmer?
-* Where do you see yourself five years down the line?
+* Where do you see yourself five years down the road?
 * How did you teach yourself to program?
     * Here it makes sense to bring up App Academy.
 * How do you go about picking up a new technology?
+* Walk me through your development process for a new project.
+    * Pro moves: mapping out database relations, listing specifications for the controllers, writing tests, sketching out the views...
 * Why do you want to work at our company?
 * What kinds of problems do you like to work on?
 * What do you like about Ruby?
@@ -44,12 +46,12 @@ Have a 30-second (or less) answer ready for each of these. It looks bad if you h
 
 We've observed these quirky questions a lot. An quick and enthusiastic response will make you shine.
 
-*"Tell me about an interesting problem you solved."*
+*"Tell me about an interesting problem you solved."*    
 A lot of great options here. Your answer doesn't have to be from a personal project. For example using the Ruby object as a simple data structure to store association parameters when you were cloning [Active-Record][active-record-lite] was pretty sweet.
 
-* What's your favorite algorithm?
-* What's your favorite data structure?
-* What's your favorite Ruby gem (other than Rails)?
+*What's your favorite algorithm?*    
+*What's your favorite data structure?*    
+*What's your favorite Ruby gem (other than Rails)?*    
 
 [active-record-lite]: https://github.com/appacademy/sql-curriculum/blob/master/projects/w3d5-build-your-own-ar.md#part-a-storing-association-parameters
 

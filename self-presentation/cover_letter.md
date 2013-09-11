@@ -40,7 +40,7 @@ The language is intentionally casual. Make it more formal if the company seems l
 
     Hi Joe,
 
-    I'm writing to apply to the Rails Engineer opening at CoolCo. I am a web developer experienced with Rails and JavaScript.
+    I'm writing to apply to the Rails Engineer opening at CoolCo. I am a web developer with experience in Rails and JavaScript.
     
     I'm currently looking for opportunities to join a team that's building an awesome product
     and solving hard problems. CoolCo's online cat rental agency sounds like a great combination of the two.

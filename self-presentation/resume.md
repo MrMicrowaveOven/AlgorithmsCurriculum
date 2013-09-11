@@ -5,6 +5,10 @@
 
 No one likes opening Word documents. When your résumé is done, export it to a PDF.
 
+Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom there's a template to make your own résumé too. Gayle Laakman McDowell is the author of [Cracking the Coding Interview][cracking-interview].
+
+[glm-resume]: http://www.careercup.com/resume
+[cracking-interview]: http://www.crackingthecodinginterview.com/
 
 # Layout
 * ONE PAGE ONLY
