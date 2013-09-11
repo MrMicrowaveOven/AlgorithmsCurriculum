@@ -22,4 +22,4 @@ It's ok to be cheesy. Cheesy peolpe are easier to work with than cynics.
 
 [Here][stock-emails] are some more models for inspiration.
 
-[stock-emails]: ../stock_emails.for_interview_process
+[stock-emails]: ../stock_emails/for_interview_process.md
