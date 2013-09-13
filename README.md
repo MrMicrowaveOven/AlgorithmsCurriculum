@@ -18,7 +18,7 @@
 * Prepare your résumé and Github.
 * Polish your pitch.
 * Apply to the big companies.
-* Apply to 125 companies in your area.
+* Apply to 75 companies in your area.
 
 **W1D1**
 
@@ -27,9 +27,6 @@
 * [Format your résumé.][resume]
 * [Write your standard cover letter.][cover-letter]
 * Set up your [application tracker.][application-tracking]
-* Apply to 20 companies near you:
-    * [New York][ny_applyathon1]
-    * [San Francisco][sf-applyathon1]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
@@ -37,14 +34,12 @@
 [personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
 [application-tracking]: ./mass-applying/application_tracking.md
+[list-maker]: ./mass-applying/list-maker.md
 
 **W1D2**
 
 * [Apply to the big tech companies.][fortune500]
 * [Clean up your Github.][github]
-* Apply to 20 companies near you:
-    * [New York][ny_applyathon1]
-    * [San Francisco][sf-applyathon1]
 
 [fortune500]: ./mass-applying/fortune500.md
 
@@ -53,9 +48,6 @@
 * [Update your LinkedIn profile.][linkedin]
 * Style your portfolio site.
 * [Choose which Meetups you'll attend.][meetups]
-* Apply to 35 companies near you:
-    * [New York][ny_applyathon1]
-    * [San Francisco][sf-applyathon1]
 
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering_culture/meetups.md
@@ -63,9 +55,6 @@
 **W1D4**
 
 * Work on your [personal projects][personal-projects].
-* Apply to 35 companies near you:
-    * [New York][ny_applyathon1]
-    * [San Francisco][sf-applyathon1]
 
 [business-cards]: ./self-presentation/business_cards.md
 [personal-projects]: ./self-presentation/personal_projects.md
@@ -74,9 +63,6 @@
 
 * [Polish your personal pitch.][personal-pitch]
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Apply to 15 companies near you:
-    * [New York][ny_applyathon1]
-    * [San Francisco][sf-applyathon1]
 
 
 [ny_applyathon1]: ./mass-applying/applyathon/ny_week_1.md
@@ -86,7 +72,7 @@
 
 ## Week 2: Spray and Pray
 
-* Apply to 150 companies.
+* Apply to 100 companies.
 
 **W2D1**
 
@@ -131,7 +117,7 @@
 
 ## Week 3: Keep Spraying
 
-* Apply to 125 companies.
+* Apply to 50 companies.
 
 **W3D1**
 
