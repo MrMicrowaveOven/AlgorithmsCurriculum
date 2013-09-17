@@ -38,8 +38,8 @@ Bonus (if they're good):
 
 ## Technical
 * List your past projects and the technologies you used.
-* For each project, highlight one cool feature.
-	* Even better: summarize a problem you encountered and solved.
+* For each project, highlight one cool feature and a problem you solved while implementing it.
+	* Eg: Did you bootstrap some data to avoid extraneous AJAX requests? Did you make some tough choices in your database schema? Did you use cookies to store anything other than a session token?
 * Look up how to spell and capitalize the technologies you mention.
 
 ## Work
