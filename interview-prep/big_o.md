@@ -108,7 +108,7 @@ log(10) = 1
 log(100) = 2
 
 // The general case
-log(a ^ 10) = a
+log( 10 ^ a ) = a
 ```
 
 ---
