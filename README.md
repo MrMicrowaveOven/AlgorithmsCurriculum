@@ -51,7 +51,7 @@
 
 
 [linkedin]: ./self-presentation/linkedin.md
-[meetups]: ./engineering_culture/meetups.md
+[meetups]: ./engineering-culture/meetups.md
 
 **W1D4**
 
@@ -72,7 +72,7 @@
 
 [ny_applyathon1]: ./mass-applying/applyathon/ny_week_1.md
 [sf-applyathon1]: ./mass-applying/applyathon/sf_week_1.md
-[what-software-engineers-do]: ./engineering_culture/software_engineer_work.md
+[what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
 
 
 ## Week 2: Spray and Pray

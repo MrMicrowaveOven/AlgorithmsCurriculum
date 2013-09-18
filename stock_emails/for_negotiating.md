@@ -10,7 +10,7 @@ Here's a sample email for your inspiration.
 
 *Hi [contact person/this company name],*
 
-*I applied to join your team last week and am currently waiting to hear back. I wanted to let you know I've received an offer from ["another technology company" / other company name if it's a good one]. I have two weeks to get back to them. While it's an intersting offer, I admire what [this company] does and would love to see your application process through before making a final decision. I hope to hear back from your team soon.*
+*I applied to join your team last week and am currently waiting to hear back. I wanted to let you know I've received an offer from ["another technology company" / other company name if it's a good one]. I have two weeks to get back to them. While it's an interesting offer, I admire what [this company] does and would love to see your application process through before making a final decision. I hope to hear back from your team soon.*
 
 
 *All the best,*
