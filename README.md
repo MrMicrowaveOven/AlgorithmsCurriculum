@@ -49,12 +49,17 @@
 * Style your portfolio site.
 * [Choose which Meetups you'll attend.][meetups]
 
+
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering_culture/meetups.md
 
 **W1D4**
 
 * Work on your [personal projects][personal-projects].
+* Read about [performance analysis and big O][big-o].
+
+[big-o]: ./interview-prep/big_o.md
+
 
 [business-cards]: ./self-presentation/business_cards.md
 [personal-projects]: ./self-presentation/personal_projects.md
@@ -80,11 +85,9 @@
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
     * Do pairboarding every weekday at 11am until you are employed.
     * Once you get through the list, rehearse the harder questions or find new ones online.
-* Pick an [open-source project to contribute to][open-source-projects].
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
-[open-source-projects]: ./engineering-culture/open_source.md
 
 **W2D2**
 
@@ -96,9 +99,10 @@
 
 **W2D3**
 
-* Read about [performance analysis and big O][big-o].
+* Pick an [open-source project to contribute to][open-source-projects].
 
-[big-o]: ./interview-prep/big_o.md
+[open-source-projects]: ./engineering-culture/open_source.md
+
 
 **W2D4**
 
