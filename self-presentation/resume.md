@@ -42,19 +42,18 @@ Bonus (if they're good):
 	* Did you bootstrap some data to avoid extraneous AJAX requests? Did you make some tough choices in your database schema? Did you use cookies to store anything other than a session token?
 * Look up how to spell and capitalize the technologies you mention.
 
-*A note on describing your projects*
 
-Your projects are one of the best things you have going for you so you should sell them well. Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
+Your projects are one of the biggest selling poinsts so you sell them well. Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
 
 Make a list of five neat features in your app. Mentally step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually many ways to do it, that's a good that sign you solved an interesting problem.
 
  To get you brainstorming:
-    Did you find some clever way to DRY up your code?
-    Does you Javascript use any math to resize something in the DOM?
-    Did you use a library in a way that its author probably didn't expect?
-    Do you have any data that's nested one degree deeper than usual?
-    Did you override a Rails or Backbone.js method?
-    Do you ActiveRecord models have methods to run specific queries?
+    * Did you find some clever way to DRY up your code?
+    * Does you Javascript use any math to resize something in the DOM?
+    * Did you use a library in a way that its author probably didn't expect?
+    * Do you have any data that's nested one degree deeper than usual?
+    * Did you override a Rails or Backbone.js method?
+    * Do you ActiveRecord models have methods to run specific queries?
 
 
 ## Work
