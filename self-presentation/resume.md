@@ -37,22 +37,37 @@ Bonus (if they're good):
 * Twitter
 
 ## Technical
-* List your past projects and the technologies you used.
+* List your past projects and the main technologies you used (no need to mention jQuery or jQuery UI)
 * For each project, highlight one cool feature and a problem you solved while implementing it.
-	* Eg: Did you bootstrap some data to avoid extraneous AJAX requests? Did you make some tough choices in your database schema? Did you use cookies to store anything other than a session token?
+	* Did you bootstrap some data to avoid extraneous AJAX requests? Did you make some tough choices in your database schema? Did you use cookies to store anything other than a session token?
 * Look up how to spell and capitalize the technologies you mention.
+
+*A note on describing your projects*
+
+Your projects are one of the best things you have going for you so you should sell them well. Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
+
+Make a list of five neat features in your app. Mentally step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually many ways to do it, that's a good that sign you solved an interesting problem.
+
+ To get you brainstorming:
+    Did you find some clever way to DRY up your code?
+    Does you Javascript use any math to resize something in the DOM?
+    Did you use a library in a way that its author probably didn't expect?
+    Do you have any data that's nested one degree deeper than usual?
+    Did you override a Rails or Backbone.js method?
+    Do you ActiveRecord models have methods to run specific queries?
+
 
 ## Work
 Unless you worked as a web developer, this section is mainly to prove one thing:
 I am a functional member of society.
 
 
-Things to LEAVE OUT:
+Things to **leave out**:
 
 * Service jobs that paid the bills (waiter, grocery clerk, library assistant...).
 * Jobs or internships having nothing to do with computers or the web.
 
-Things to INCLUDE:
+Things to **include**:
 
 * Jobs where the web or some other computer technology was involved (eg. QA Tester).
    * Highlight a time when you taught yourself something technical on the job.
