@@ -89,7 +89,7 @@ As a refresher, logarithms are basically the opposite of exponentials.
 Example:
 
 ```
-a = b^10
+a = 10^b
 
 log(a) = b
 ```
@@ -98,8 +98,7 @@ Logarithms are usually assumed to be "base 10" when a base isn't
 specified, but in time complexity analysis we usually don't consider the
 base at all.
 
-In the above example, the question the logarithm is asking is: "What
-number raised to the power of 10 yields `a`?" The answer is `b`.
+In the above example, the question the logarithm is asking is: "10 raised to the power of what number yields `a`?" The answer is `b`.
 
 Some more examples:
 
