@@ -17,9 +17,9 @@ Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom 
 
 # Content
 
-In the world of people, having a diversity of interests and experiences is a beautiful thing. In the world of tech recruiting, expertise is much more valuable. Avoid letting your résumé suggest you were at one point unsure of what you wanted to do in life.
+In the world of people, having a diversity of interests and experiences is a beautiful thing. In the world of tech recruiting, expertise is much more valuable. Avoid letting your résumé suggest you were at one point unsure of what you wanted to do in life.    
  
-You don't want to leave out large chunks of time either. If you did one thing for over a year, include it. You knew what you wanted, but then you changed your mind. In this case, be ready to have a very good answer for anyone who asks you why you changed your mind.
+You don't want to leave out large chunks of time either. If you did one thing for over a year, include it. You knew what you wanted, but then you changed your mind. In this case, be ready to have a very good answer for anyone who asks you why you changed your mind.    
 
  Use this bar for what goes on your résumé:
 * Ask yourself: would I score real points with my interviewer for talking about this more than 5 minutes?
@@ -35,6 +35,26 @@ You don't want to leave out large chunks of time either. If you did one thing fo
 Bonus (if they're good):
 * Tumblr
 * Twitter
+
+## Skills
+ List these skills, and any other relevant ones.
+* Ruby
+* Ruby on Rails
+* JavaScript
+* jQuery
+* Backbone.js
+* SQL
+* Git
+* HTML
+* CSS
+* Web Development
+
+ *Do not* try to organize your skills by proficiency. Ie. Don't do this:    
+    Proficient: Ruby, Rails, JS    
+    Familiar: SQL, Backbone
+
+ That makes you look less confident. However it's ok to do this:    
+    Ruby, Rails, JS, Backbone, C (learning)
 
 ## Technical
 * List your past projects and the main technologies you used (no need to mention jQuery or jQuery UI)
