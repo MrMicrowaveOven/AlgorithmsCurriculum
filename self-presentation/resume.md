@@ -57,8 +57,7 @@ Make a list of five neat features in your app. Mentally step through the code th
 
 
 ## Work
-Unless you worked as a web developer, this section is mainly to prove one thing:
-I am a functional member of society.
+Unless you worked as a web developer, this section is mainly to demonstrate that you are a functional member of society. No need to add much detail.
 
 
 Things to **leave out**:

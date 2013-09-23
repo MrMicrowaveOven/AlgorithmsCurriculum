@@ -20,7 +20,7 @@ You can add "for hire" or something to that effect in your title.
 
  Have an exciting summary    
 * Mention you are looking for opportunities    
-* List your main skills: Rails, JavaScript...    
+* List your main skills: Ruby, Rails, JavaScript, Backbone...    
 
 A profile picture doesn't hurt.
 
@@ -38,7 +38,7 @@ A profile picture doesn't hurt.
 * Web Development
 * MVC
 
-Delete non-web- or tech-related skills. You don't want to be a jack-of-all trades.
+Delete non-web- or tech-related skills. You don't want to be a jack of all trades.
 
 ## Make friends
 
