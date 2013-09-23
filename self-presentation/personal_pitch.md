@@ -44,7 +44,7 @@ Have a 30-second (or less) answer ready for each of these. It looks bad if you h
 
 ## Bonus
 
-We've observed these quirky questions a lot. An quick and enthusiastic response will make you shine.
+We've observed these quirky questions a lot. A quick and enthusiastic response will make you shine.
 
 *"Tell me about an interesting problem you solved."*    
 A lot of great options here. Your answer doesn't have to be from a personal project. For example using the Ruby object as a simple data structure to store association parameters when you were cloning [Active-Record][active-record-lite] was pretty sweet.
