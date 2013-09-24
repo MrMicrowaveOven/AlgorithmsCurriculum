@@ -149,6 +149,7 @@ faster time complexity class.
   complexity of various algorithms and data structures. Important NOT to
   memorize these but to actually understand why they are what they are.
 
+[traveling-salesman]: http://en.wikipedia.org/wiki/Travelling_salesman_problem
 [big-o-cheatsheet]: http://bigocheatsheet.com/
 [wisc-big-o]: http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html
 [so-big-o]: http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o
