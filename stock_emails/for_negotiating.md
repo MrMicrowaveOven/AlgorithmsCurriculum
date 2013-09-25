@@ -24,7 +24,7 @@ Do not fret over asking for more. Companies do not have feelings. They are howev
 
 This is a real email a student wrote. The outcome was successful.
 
-*Thank you for extending me the offer of employment as a Junior  Developer at [company name].  I really enjoyed getting to meet with [interview name], [interview name], and [interview name] on Monday and think the team is definitely the right cultural fit for me.  You does some seriously interesting work and I think it's a great opportunity to learn skills that I won't find elsewhere.*
+*Thank you for extending me the offer of employment as a Junior  Developer at [company name].  I really enjoyed getting to meet with [interview name], [interview name], and [interview name] on Monday and think the team is definitely the right cultural fit for me.  Your company does some seriously interesting work and I think it's a great opportunity to learn skills that I won't find elsewhere.*
 
 *In light of my skills, however, I am concerned about the salary you offered. App Academy is rigorous program with a 5% acceptance rate and a 10% attrition rate.  This year App Academy graduates have been finding an average starting salary of $92,000. Given my track record of being a top performer, I see my market value as $95,000.  If you can put together that offer, I will sign immediately and cancel all other interviews.*
 
