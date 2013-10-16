@@ -14,6 +14,6 @@
 
 *It was a pleasure speaking with you today.*
 
-*At this point I cannot give you a precise number as to my salary expectations. I would love to accept and offer from you since I enjoyed the interview process and believe I would thrive in your team. However I am waiting to hear back from other companies to get a better sense of what compensation would be reasonable.*
+*At this point I cannot give you a precise number as to my salary expectations. I would love to accept an offer from you since I enjoyed the interview process and believe I would thrive in your team. However I am waiting to hear back from other companies to get a better sense of what compensation would be reasonable.*
 
 *I know I would be very happy working at [company]. If you would get back to me with a specific offer, I would consider it very closely. I look forward to continuing this discussion.*

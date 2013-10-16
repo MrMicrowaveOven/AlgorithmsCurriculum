@@ -135,7 +135,7 @@ the obvious:
 Constant < Logarithmic < Linear < Polynomial < Exponential
 
 i.e. Something that happens in constant time is best of all and in
-exponential time worst of all. Constat time is fastest, exponential time
+exponential time worst of all. Constant time is fastest, exponential time
 slowest.
 
 When developing an algorithm, try to find ways to have it happen in a
@@ -149,6 +149,7 @@ faster time complexity class.
   complexity of various algorithms and data structures. Important NOT to
   memorize these but to actually understand why they are what they are.
 
+[traveling-salesman]: http://en.wikipedia.org/wiki/Travelling_salesman_problem
 [big-o-cheatsheet]: http://bigocheatsheet.com/
 [wisc-big-o]: http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html
 [so-big-o]: http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o
