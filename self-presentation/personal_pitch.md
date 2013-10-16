@@ -36,6 +36,8 @@ Have a 30-second (or less) answer ready for each of these. It looks bad if you h
     * Pro moves: mapping out database relations, listing specifications for the controllers, writing tests, sketching out the views...
 * Why do you want to work at our company?
 * What kinds of problems do you like to work on?
+* What was the hardest coding project you ever did?
+* What work have you done that you are most proud of?
 * What do you like about Ruby?
     * Common answers: readable, object-oriented
 * What do you like about Rails?

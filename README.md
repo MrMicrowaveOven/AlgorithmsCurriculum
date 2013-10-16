@@ -59,9 +59,6 @@
 * Read about [performance analysis and big O][big-o].
 
 [big-o]: ./interview-prep/big_o.md
-
-
-[business-cards]: ./self-presentation/business_cards.md
 [personal-projects]: ./self-presentation/personal_projects.md
 
 **W1D5**
@@ -100,14 +97,15 @@
 **W2D3**
 
 * Pick an [open-source project to contribute to][open-source-projects].
+* Practice building on top of [an existing codebase][kanban].
 
 [open-source-projects]: ./engineering-culture/open_source.md
+[kanban]: ./interview-prep/kanban.md
 
 
 **W2D4**
 
 * Read about [negotiating an offer][offer-negotiation].
-* Keep practice
 
 [offer-negotiation]: https://news.ycombinator.com/item?id=3289750
 

@@ -14,6 +14,7 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 * [Google NYC Tech Talks][google-nyc]
 * [NY Tech][ny-tech]
 * [NYC.rb][ny-ruby]
+* [NYC on Rails][nyc-on-rails]
 * [NY JavaScript Meetup][ny-js]
     * Very active jobs board under the "Discussion" tab.
 * [General Assembly Happy Hours][GA-ny]
@@ -29,6 +30,7 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 [google-nyc]: http://www.meetup.com/google-nyc-tech-talks/
 [ny-tech]: http://www.meetup.com/ny-tech/
 [ny-ruby]: http://www.meetup.com/NYC-rb/
+[nyc-on-rails]: http://www.meetup.com/nyc-on-rails
 [ny-js]: http://www.meetup.com/javascript-7
 [GA-ny]: http://www.quora.com/What-should-every-entrepreneur-in-New-York-City-do
 [google-sv]: http://www.meetup.com/gdg-silicon-valley/

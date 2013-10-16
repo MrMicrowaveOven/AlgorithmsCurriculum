@@ -13,9 +13,7 @@ App Academy trained you in the full stack, but calling yourself a 'full stack en
 
 # Cover Letter
 
-Maybe there is one crazy HR person out there that will read your cover letter closely. They will find your pitch unsatisfactory and move on to the next candidate. Then they will find that candidate's pitch too weak, and move on to the next. And to the next. And the next. This will go on until they've selected only the applicants who have a poor sense of time management. Those people will fit right into the company culture.
-
-In other words do not sweat the cover letter.
+Do not sweat the cover letter. Some HR people (very few) take off points if you don't have one attached to your application. Most HR people do not read your cover letter because they all say the same thing anyway. The point is just to have one.
 
 Do not try to make an impression with fancy words and formalities. Antipattern: "Hence I believe I am uniquely positioned to thrive in the challenging environment your company provides."
 

@@ -14,5 +14,4 @@
 
 *1% (and I'm being generous here) Thinking about the time complexity of things.*
 
-Source:
-[Quora]: http://www.quora.com/TopCoder/Does-having-a-very-low-TopCoder-rating-make-someone-unemployable
+Source: http://www.quora.com/TopCoder/Does-having-a-very-low-TopCoder-rating-make-someone-unemployable
