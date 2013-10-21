@@ -94,7 +94,7 @@ Things to **include**:
 * Jobs where number-crunching was involved (analyst-type roles)
 
 ## Education
-* Don't mention App Academy
+* Don't mention App Academy, especially if you have more impressive credentials: few employers know how selective the course is.
 * It's totally cool to leave out this section if you don't have a college degree.
 
 ## Personal
