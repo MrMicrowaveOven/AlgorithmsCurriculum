@@ -31,7 +31,7 @@ You can add "for hire" or something to that effect in your title.
 
 These skills are also keywords that will stick out to employers. Throw in a couple buzzwords like "TDD", "pair-programming", MVC, REST...
 
-[CJ's summary][cj-linkedin] is a great example. (For students in New York CJ is a TA in San Francisco.)
+[CJ's summary][cj-linkedin] is a great example. (For students on the East Coast CJ is a TA in San Francisco.)
 
 
 **Skills and Expertise**
