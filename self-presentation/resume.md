@@ -70,10 +70,11 @@ To indentify cool problems you solved, make a quick list of five neat features i
  To get you brainstorming:    
     Did you find some clever way to DRY up your code?    
     Does you Javascript use any math to resize something in the DOM?    
-    Did you use a library in a way that its author probably didn't expect?    
+    Did you use a library in a way that its author probably didn't anticipate?    
     Do you have any data that's nested one degree deeper than usual?    
     Did you override a Rails or Backbone.js method?    
-    Do your ActiveRecord models have methods to run specific queries?    
+    Do your ActiveRecord models run any custom SQL queries?    
+    Did you make any trade-offs related to performance?    
     Do you make AJAX requests to any unexpected routes?    
 
 
