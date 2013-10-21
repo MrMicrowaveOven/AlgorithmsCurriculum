@@ -31,7 +31,7 @@ You can add "for hire" or something to that effect in your title.
 
 These skills are also keywords that will stick out to employers. Throw in a couple buzzwords like "TDD", "pair-programming", MVC, REST...
 
-[CJ's summary][cj-linkedin] is a great example.
+[CJ's summary][cj-linkedin] is a great example. (For students in New York CJ is a TA in San Francisco.)
 
 
 **Skills and Expertise**
@@ -56,9 +56,9 @@ LinkedIn makes it easy to link to your personal projects. Employers will love th
 
 This App Academy alumnus provides an [example][stefano-linkedin].
 
-[cj-linkedin]: www.linkedin.com/pub/cj-avilla/19/772/577/
-[stefano-linkedin]: www.linkedin.com/pub/stefano-de-vuono/78/774/26/
+[cj-linkedin]: http://www.linkedin.com/pub/cj-avilla/19/772/577/
+[stefano-linkedin]: http://www.linkedin.com/pub/stefano-de-vuono/78/774/26/
 
 ## Make friends
 
-If you haven't already, connect with App Academy classmates on LinkedIn. Then endorse each other for all of your newfounds skills.
+If you haven't already, connect with App Academy classmates on LinkedIn. Then endorse each other for all of your newfound skills.
