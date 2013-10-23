@@ -57,13 +57,15 @@ Bonus (if they're good):
     Ruby, Rails, JS, Backbone, C (learning)
 
 ## Technical
-* List your past projects and the main technologies you used (no need to mention jQuery or jQuery UI)
+* List your past projects and the main technologies you used (no need to mention jQuery or jQuery UI).
 * For each project, highlight one or two cool features and a problem you solved while implementing it.
 	* Did you bootstrap some data to avoid extraneous AJAX requests? Did you make some tough choices in your database schema? Did you use cookies to store anything other than a session token?
 * Look up how to spell and capitalize the technologies you mention.
 
 
-Your projects are one of the biggest selling poinsts so you sell them well. Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
+Your projects are one of your biggest selling points so sell them well.    
+* Don't discourage employers by having them fish through your Github profile. Provide direct links.
+* Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
 
 To indentify cool problems you solved, make a quick list of five neat features in your app. Mentally step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually different ways to do it, that's a good that sign you solved an interesting problem.
 
