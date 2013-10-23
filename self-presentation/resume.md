@@ -70,14 +70,14 @@ Your projects are one of your biggest selling points so sell them well.
 To indentify cool problems you solved, make a quick list of five neat features in your app. Mentally step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually different ways to do it, that's a good that sign you solved an interesting problem.
 
  To get you brainstorming:    
-    Did you find some clever way to DRY up your code?    
-    Does you Javascript use any math to resize something in the DOM?    
-    Did you use a library in a way that its author probably didn't anticipate?    
-    Do you have any data that's nested one degree deeper than usual?    
-    Did you override a Rails or Backbone.js method?    
-    Do your ActiveRecord models run any custom SQL queries?    
-    Did you make any trade-offs related to performance?    
-    Do you make AJAX requests to any unexpected routes?    
+* Did you find some clever way to DRY up your code?    
+* Does you Javascript use any math to resize something in the DOM?    
+* Did you use a library in a way that its author probably didn't anticipate?    
+* Do you have any data that's nested one degree deeper than usual?    
+* Did you override a Rails or Backbone.js method?    
+* Do your ActiveRecord models run any custom SQL queries?    
+* Did you make any trade-offs related to performance?    
+* Do you make AJAX requests to any unexpected routes?    
 
 
 ## Work
