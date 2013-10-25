@@ -12,7 +12,7 @@ If you're good at selling yourself, this is where you shine. Otherwise no worrie
  A sample outline for your inspiration:
 * In college I chose to major in [...] // took a lot of classes in [...] because I like working on problems that involve [...]
 * At [company] I accomplished [...] and [...] While I was at it I learned [...].
-* I'd always had an affinity for computers so I taught myself HTML and JavaScript for fun.
+* I've always had an affinity for computers so I taught myself HTML and JavaScript for fun.
 * When I picked up Ruby, I immediately got hooked.
 * I wanted to take it to the next level so I took some classes.
     * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Ruby Monk.*
