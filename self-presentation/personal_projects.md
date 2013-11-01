@@ -3,6 +3,8 @@
 **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
 
  First do:
+* Add your project to our [hall of fame of alumni
+  projects][alumni-projects].
 * Set up [Pingdom][pingdom].
 * Populate a demo login if your app has authentication.
     * **Make it very easy for employers to find the demo login details.**
@@ -19,6 +21,8 @@
 
 
 
+[alumni-projects]:
+https://github.com/appacademy/meta/blob/master/final-project-directory.md
 [pingdom]: http://pingdom.com
 [bootsrap]: http://getbootstrap.com/
 [omniauth]: https://github.com/intridea/omniauth
