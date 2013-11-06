@@ -106,8 +106,16 @@
 **W2D4**
 
 * Read about [negotiating an offer][offer-negotiation].
+* Check out Indeed's latest salary average for Junior Rails Developers    
+  * In [New York][ny-indeed]
+  * In [San Francisco][sf-indeed]
+  * Keep in mind you more mid-level than junior.
+  * Junior means "can program, will pick up Rails".
+  * Mid-level means "can implement features".
 
 [offer-negotiation]: https://news.ycombinator.com/item?id=3289750
+[ny-indeed]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=new+york
+[sf-indeed]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=san+francisco
 
 **W2D5**
 
@@ -135,6 +143,9 @@
 
 **W3D3**
 
+* Read this interviewer's take on the [ideal whiteboard interview][ideal-whiteboard].
+
+[ideal-whiteboard]: ./interview-prep/ideal-whiteboard.md
 
 **W3D4**
 
@@ -147,23 +158,6 @@
 **W3D5**
 
 ==> HIRING DAY <==
-
-
-## Week 4: Precision
-
-**W4D1**
-
-
-**W4D2**
-
-
-**W4D3**
-
-
-**W4D4**
-
-
-**W4D5**
 
 
 ## JavaScript Readings
