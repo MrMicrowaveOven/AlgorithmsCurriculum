@@ -34,7 +34,7 @@ Here's an [example][example-cover-letter] of some cool templating. Note that thi
 
 **Use this as an inspiration. Do not copy it word for word.**
 
-The language is intentionally casual. Make it more formal if the company seems less laid back (especially if they're based in New York).
+The language is intentionally casual. Make it more formal if the company seems less laid back (especially if they're based in New York). If you are applying to a specific role, say so in the first sentence. Otherwise don't bother to begin with "I'm writing to apply to your company" since that should already be clear from you subject line.
 
     Hi Joe,
 
