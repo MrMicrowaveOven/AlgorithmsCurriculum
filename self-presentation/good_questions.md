@@ -10,6 +10,7 @@ Asking smart questions at the end of an interview is an easy way to show that yo
 * What do you love about working at [company]?
 * What are the common traits of your top performers?
 * Are you currently considering some changes to your stack?
+* How old is your codebase?
 
 **Engineering**
 
@@ -20,7 +21,11 @@ Asking smart questions at the end of an interview is an easy way to show that yo
 * How fast is the rollback?
 * Who's in charge of a deploy?
 * Do you have a bug database?
+* What source control do you use?
+* What is your workflow currently, with regards to developers pushing changes. Do you do pull requests, or does everyone just merge to a central repo?
 * What do new hires do to get a handle on your code base?
+* Do you unit test? What libraries do you use? What's your level of
+  coverage?
 
  Conventions    
 * Do you follow standard conventions for every language in your stack? Do your have your own conventions for the frameworks you use?
