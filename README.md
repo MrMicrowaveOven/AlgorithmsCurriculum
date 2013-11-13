@@ -107,9 +107,12 @@
 
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
+* You can also check out this [HackerNews
+  article][hn-negotiation-article]
 
-[offer-negotiation]: https://news.ycombinator.com/item?id=3289750
-[salary-data]: ./engineering-culture/salary-data.md
+[offer-negotiation]: ./negotiating/email-negotiations.md
+[salary-data]: ./negotiating/salary-data.md
+[hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
 **W2D5**
 
