@@ -5,6 +5,7 @@
     * Delete the very early ones.
     * Delete incomplete projects.
     * Delete the mini Rails apps, except if you did something cool with them, like nesting comments in Reddit.
+    * If you have incomplete projects you want to keep but don't want cluttering your github right now, [Bitbucket](https://bitbucket.org/) will allow you to host unlimited free private repos.
 * Rename the repos that you keep.
     * Give them enticing descriptions and useful ReadMe's.
     * Make sure to remove all lines of code that you'd commented out.
