@@ -119,7 +119,7 @@ tougher to get through the résumé screening, but the tech industry is
 famous for appreciating non-traditional backgrounds.
 
 The key in this case is to make a strong personal impression. You don't
-want the read to come away thinking "OK they can code. But I have no
+want the reader to come away thinking "OK they can code. But I have no
 idea what else to expect from this person." You have to be creative.
 * Have you ever done volunteer work?
 * Do you have some interesting hobbies that would make you stand out?
