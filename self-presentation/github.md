@@ -5,8 +5,8 @@
   care about the code you publish.    
 * Add your first name and last name under *settings > profile*. This
   makes it easier for employers to find you and review your code.    
-* Add a cool profile picture. It doesn't have to be of you but it
-  shouldn't be the default avatar.    
+* Make sure you have a profile picture and that you're recognizable on
+  it. This is an easy way to strengthen the connection with employers who review your code, and to make sure they remember who you are after interviewing you.
 
 ## Delete and format
 * Delete most of your repositories.
