@@ -28,6 +28,7 @@
 * [Format your résumé.][resume]
 * [Write your standard cover letter.][cover-letter]
 
+[jobberwocky-signup]: http://jobberwocky.appacademy.io/
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
 [portfolio]: ./self-presentation/portfolio.md
