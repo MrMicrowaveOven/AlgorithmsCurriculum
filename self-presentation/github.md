@@ -1,9 +1,17 @@
 # Curating Your Github
 
+## Make it personal
+* A strongly branded Github is more welcoming and tells employers you
+  care about the code you publish.    
+* Add your first name and last name under *settings > profile*. This
+  makes it easier for employers to find you and review your code.    
+* Add a cool profile picture. It doesn't have to be of you but it
+  shouldn't be the default avatar.    
+
 ## Delete and format
 * Delete most of your repositories.
     * Delete the very early ones.
-    * Delete incomplete projects.
+    * Delete very incomplete projects.
     * Delete the mini Rails apps, except if you did something cool with them, like nesting comments in Reddit.
     * If you have incomplete projects you want to keep but don't want cluttering your github right now, [Bitbucket](https://bitbucket.org/) will allow you to host unlimited free private repos.
 * Rename the repos that you keep.

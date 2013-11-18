@@ -8,7 +8,6 @@
 
 
 [jobberwocky]: http://jobberwocky.appacademy.io/
-[progress-report]: https://podio.com/webforms/4886826/382034
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [pair-boarding-index]: ./interview-prep/pairboarding/index.md#index
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
@@ -23,19 +22,17 @@
 
 **W1D1**
 
+* Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
 * [Get a simple portfolio site up.][portfolio]
      * Just put up the content for now. We'll do styling tomorrow.
 * [Format your résumé.][resume]
 * [Write your standard cover letter.][cover-letter]
-* Set up your [application tracker.][application-tracking]
 
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
 [portfolio]: ./self-presentation/portfolio.md
 [personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
-[application-tracking]: ./mass-applying/application_tracking.md
-[list-maker]: ./mass-applying/list-maker.md
 
 **W1D2**
 
