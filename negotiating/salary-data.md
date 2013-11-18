@@ -8,9 +8,9 @@ negotiations, but being familiar with them should be helpful.
 
 ##Indeed
 
- Check out Indeed's latest salary average for Junior Rails Developers    
-  * In [New York][ny-indeed]
-  * In [San Francisco][sf-indeed]
+ Check out Indeed's latest salary average for Developers    
+  * For a New York [Rails Developer][ny-rails] and [Front End Developer][ny-front-end].
+  * For a San Francisco [Rails Developer][sf-rails] and [Front End Developer][sf-front-end].
 
 ##Robert Half Salary Guide
 
@@ -18,5 +18,7 @@ The Robert Half Salary Guide is an industry reference for salaries
 averages in different fields. According to its numbers, a web developer
 in 2014 makes between $94,850 and $153,792 in San Francisco. In New York it's between $98,700 and $160,035.    
 
-[ny-indeed]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=new+york
-[sf-indeed]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=san+francisco
+[ny-rails]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=new+york
+[ny-front-end]: http://www.indeed.com/salary?q1=junior+front+end+developer&l1=new+york
+[sf-rails]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=san+francisco
+[sf-front-end]: http://www.indeed.com/salary?q1=junior+front+end+developer&l1=san+francisco
