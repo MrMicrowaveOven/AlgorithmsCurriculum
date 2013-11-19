@@ -46,11 +46,13 @@
 
 * [Update your LinkedIn profile.][linkedin]
 * Style your portfolio site.
+* [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 * [Choose which Meetups you'll attend.][meetups]
 
 
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering-culture/meetups.md
+[job-boards]: ./mass-applying/job-boards.md
 
 **W1D4**
 
