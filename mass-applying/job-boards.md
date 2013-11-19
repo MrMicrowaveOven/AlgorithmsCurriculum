@@ -49,5 +49,5 @@ Good resources to hit your daily quota.
 [craigslist-ny]: http://newyork.craigslist.org/sof/
 [dice]: http://www.dice.com/
 [monster]: http://www.monster.com/
-[simlpyhired]: http://www.simplyhired.com/
+[simplyhired]: http://www.simplyhired.com/
 
