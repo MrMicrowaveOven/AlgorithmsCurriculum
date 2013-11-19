@@ -1,5 +1,5 @@
 # Preparing your Resume
-This is one you want to get right. What's not on there, and how you lay everything out, makes an equally big difference. Everyone student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap.    
+Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap.    
 
 No one likes opening Word documents. When your résumé is done, export it to a PDF.    
 
