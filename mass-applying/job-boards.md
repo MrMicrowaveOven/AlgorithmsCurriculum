@@ -16,6 +16,8 @@ Hired.com vets you with a coding challenge. The problems are easier than these o
   * [AngelList][angellist]
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
+  * [StackOverflow][stackoverflow]
+  * [White Truffle][white-truffle]
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
@@ -41,6 +43,8 @@ Good resources to hit your daily quota.
 [angellist]: http://angel.co/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
+[stackoverflow]: http://careers.stackoverflow.com/
+[white-truffle]: https://www.whitetruffle.com/
 
 [hackers-&-founders]: http://www.meetup.com/Hackers-and-Founders/
 [hackernews]: https://news.ycombinator.com/item?id=6653437
