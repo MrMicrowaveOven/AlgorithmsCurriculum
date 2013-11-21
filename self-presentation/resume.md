@@ -51,7 +51,6 @@ Bonus (if they're good):
 * Git
 * HTML
 * CSS
-* Web Development
 
  *Do not* try to organize your skills by proficiency. Ie. Don't do this:    
     Proficient: Ruby, Rails, JS    
