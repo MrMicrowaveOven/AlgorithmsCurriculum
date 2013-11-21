@@ -46,8 +46,9 @@
 
 * [Update your LinkedIn profile.][linkedin]
 * Style your portfolio site.
-* [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 * [Choose which Meetups you'll attend.][meetups]
+* [Job Boards][job-boards]: Sign up for job alerts and register on the
+  job market places.
 
 
 [linkedin]: ./self-presentation/linkedin.md
