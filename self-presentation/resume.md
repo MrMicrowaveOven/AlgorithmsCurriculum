@@ -5,12 +5,12 @@ No one likes opening Word documents. When your résumé is done, export it to a 
 
 Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom there's a template to make your own résumé too. Gayle Laakman McDowell is the author of [Cracking the Coding Interview][cracking-interview].
 
-Here's an [example][non-tech-resume] inspired from a student who did not have a tech background. (Don't use the same template!)
+Here's one [example][non-tech-resume-1] inspired from a student who did not have a tech background and here's [another][non-tech-resume-2]. (Don't use the same templates!)
 
 [glm-resume]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
-[non-tech-resume]: ./non-technical-resume.pdf
-
+[non-tech-resume-1]: ./non-technical-resume.pdf
+[non-tech-resume-2]: ./non-technical-resume2.pdf
 
 # Layout
 * ONE PAGE ONLY
