@@ -14,7 +14,7 @@ Here's one [example][non-tech-resume-1] inspired from a student who did not have
 
 # Layout
 * ONE PAGE ONLY
-* Lots and lots of whitespace
+* Lots of whitespace
 
 
 # Content
@@ -70,7 +70,7 @@ Your projects are one of your biggest selling points so sell them well.
 * Don't discourage employers by having them fish through your Github profile. Provide direct links.
 * Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
 
-To indentify cool problems you solved, make a quick list of five neat features in your app. Mentally step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually different ways to do it, that's a good that sign you solved an interesting problem.
+To indentify cool problems you solved, make a quick list of five neat features in your app. Step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually different ways to do it, that's a good that sign you solved an interesting problem.
 
  To get you brainstorming:    
 * Did you find some clever way to DRY up your code?    
@@ -97,6 +97,34 @@ Things to include:
 * Jobs where the web or some other computer technology was involved (eg. QA Tester).
    * Highlight a time when you taught yourself something technical on the job.
 * Jobs where number-crunching was involved (analyst-type roles).
+
+Emphasize **results**:
+
+Most resumes are boring. Candidates merely go through past jobs and
+list the responsibilities they had at each job. That's basically useless because
+those responsibilities only make sense to someone who knows how the
+company actually worked. Your reader cares about success, not process.    
+
+In other words employers care about the *outcome* of what you did at past jobs. Someone who can talk about outcomes is someone who a) made a difference at their job, however small, b) cares about results, and therefore c) is likely to produce results at their next job.    
+
+Results don't have to be achievements. You don't have to oversee a
+turnaround or save the CEO's life to earn a selling point. Simply
+describing something that sounds like success is a big plus. Consider
+the following blurbs.    
+
+*Wrote scripts to test new product before shipping.*    
+
+vs.    
+
+*Wrote scripts to test new product before shipping. Achieved one test per feature, resulting in bug-free launch.*    
+
+Who knows if that's a meaningful benchmark? Maybe there weren't that many features. Or maybe the product still had bugs and they just didn't turn up during the launch. The key is you get to frame it. Even when all you did was "just your job", doing just your job often results in something akin to success. By describing that succes, you position yourself as a winner and at the very least make your résumé more interesting. If your readers aren't impressed, at least they'll be thankful.    
+
+Note: The extra sentence describing results takes more space. Two longer
+bullet points that convey success are much stronger than four bullet
+points that only describe process (no matter what proportion of your
+previous job you're leaving out).    
+
 
 ## Education
 * Few employers know how selective App Academy is, so it doesn't
