@@ -131,8 +131,10 @@
 **W3D1**
 
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
+* What happens when you navigate to a URL?[navigate-to-a-url]
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
+[navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
 
 **W3D2**
 
