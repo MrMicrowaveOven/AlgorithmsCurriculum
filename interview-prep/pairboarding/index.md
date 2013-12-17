@@ -95,7 +95,8 @@ Question sets are organized below in incremental difficulty. Do them in order.
 
 **D16**
 
-[Question set A](./questions/16A.md)    
+[Question set A](./questions/16A.md)
+[Question set B](./questions/16B.md)    
 
 
 
