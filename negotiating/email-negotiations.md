@@ -22,10 +22,12 @@ Here's a sample email for your inspiration.
 
 ## If they are in a hurry
 
-Many companies will whine about how long two weeks is in their
+Many companies will complain about how long two weeks is in their
 fast-paced startup world. Resist this. You're looking to make a
-long-term commitment and it's in no-one's interest to rush it. If they
-insist, you're in a very strong position to ask them for a higher offer.
+long-term commitment and it's in no-one's interest to rush your decision.
+If they insist, that puts you in a strong position to ask them for a
+higher offer. How much are they willing to raise their offer if it means
+they can lock you down right away?
 
 
 ## If the offer is low
