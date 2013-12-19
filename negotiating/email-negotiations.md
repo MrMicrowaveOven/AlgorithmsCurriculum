@@ -44,8 +44,8 @@ These are real emails written by students. The outcome was successful in both ca
 
 **Example 2**: with competing offers.    
 
-*Thanks for sending this over! I think [company name] is a great company, and that I'd be a good fit. My one apprehension right now is the compensation. $70,000 is on the low side of the offers I am considering, as well as what I am hearing from my App Academy peers. The average is closer to the $80-85 range. This Indeed search shows a $90,000 average for a Junior Application Developer in New York [links to Indeed search]. If you were able to raise the offer, I would feel much more comfortable accepting it.
+*Thanks for sending this over! I think [company name] is a great company, and that I'd be a good fit. My one apprehension right now is the compensation. $70,000 is on the low side of the offers I am considering, as well as what I am hearing from my App Academy peers. The average is closer to the $80-85 range. This Indeed search shows a $90,000 average for a Junior Application Developer in New York [links to Indeed search]. If you were able to raise the offer, I would feel much more comfortable accepting it.*
 
-I know we discussed that one of my favorite things about [company name] was that [employee], [employee], and [employee] had all been there for over three years. That kind of longevity is amazing, and exactly what I'm looking for. This is my first big leap as a developer, so I'm looking for a longterm, 2+ year position where I can grow. I know [company name] provides that environment, and I know I would be a valuable asset to the Apps team. I look forward to hearing from you! *
+*I know we discussed that one of my favorite things about [company name] was that [employee], [employee], and [employee] had all been there for over three years. That kind of longevity is amazing, and exactly what I'm looking for. This is my first big leap as a developer, so I'm looking for a longterm, 2+ year position where I can grow. I know [company name] provides that environment, and I know I would be a valuable asset to the Apps team. I look forward to hearing from you!*
 
 
