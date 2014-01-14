@@ -56,3 +56,7 @@ When you're further into the job hunt and you're getting confident with technica
 * Ask them for broad strokes on how they're solving a problem specific to their product.
     * If they're a third party service agency, how do they match clients with service providers?
     * If search is crucial to their product, ask them how it's implemented.
+
+
+More good questions here:
+http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
