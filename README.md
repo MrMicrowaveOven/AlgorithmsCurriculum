@@ -67,11 +67,11 @@
 
 * [Polish your personal pitch.][personal-pitch]
 * Read: [What do software engineers actually do?][what-software-engineers-do]
+* Apply to these [places that want a/A graduates.][job-descriptions]
 
 
-[ny_applyathon1]: ./mass-applying/applyathon/ny_week_1.md
-[sf-applyathon1]: ./mass-applying/applyathon/sf_week_1.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
+[job-descriptions]: ./mass-applying/job-descriptions.md
 
 
 ## Week 2: Spray and Pray
