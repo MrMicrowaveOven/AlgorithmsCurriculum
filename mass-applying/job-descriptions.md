@@ -2,6 +2,8 @@
 
 ## Name: Joystick Interactive
 
+email yulheecho@gmail.com
+
 http://joystickinteractive.com/careers.html#/interactivedeveloperla
 (listed for LA but also available in NY)
 
@@ -10,6 +12,8 @@ http://joystickinteractive.com/careers.html#/interactivedeveloperla
 # San Francisco
 
 ## Name: Game Closure
+
+email xiaowei.deng@gmail.com
 
 We are a well-funded kickass mobile game tech company looking for an
 awesome software engineer: you. You will be working on some of the
@@ -65,6 +69,8 @@ and relaxing together.
   them the vacation they need!
 
 ## Name: Extractable
+
+email pscerbo@extractable.com
 
 About Us:
 Extractable is a digital user experience design agency, and the Web
