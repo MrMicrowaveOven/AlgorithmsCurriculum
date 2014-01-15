@@ -128,6 +128,8 @@ If your background and interests match let us know!
 
 ## Name: Leeo
 
+email eli@leeo.com
+
 Software Developer – Backend
 Description
 •Build and maintain the high-performance streaming data pipeline
