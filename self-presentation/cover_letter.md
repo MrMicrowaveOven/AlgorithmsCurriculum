@@ -1,10 +1,12 @@
 # Foreword
 
-**Don't Advertise App Academy**
+**Don't necessarily advertise App Academy**
 
-Few companies realize how selective App Academy is and what an accomplishment it is to complete the course. Meanwhile employers don't like to feel flooded by candidates with the same profile. There is also a lingering suspicion among old school engineers that a graduate from a programming course is not "one of them".
+Many companies underestimate how selective App Academy is and what an accomplishment it is to complete the course. Meanwhile employers don't like to feel flooded by candidates with the same profile. There is also a lingering suspicion among old school engineers that a graduate from a programming course is not "one of them".
 
-You don't gain much by telling companies you were at App Academy. We strongly recommend you leave it out of your application materials (cover letter, portfolio, LinkedIn...). At interviews you might be asked where you learned to code. At that point you can bring up App Academy as one of several resources that you used. Until then don't volunteer the information. This way fewer companies will nix you before giving you fair consideration.
+If your résumé feels light, go ahead and list App Academy under your education. If you've done other things that are ostensibly more impressive however, feel free to omit App Academy (in your cover letter, portfolio, LinkedIn, etc.). Most students could go either way on this, but you should know it's an option and past graduates have taken it.
+
+On the other hand interviewers might ask you where you learned to code. At that point you want to give the full story. Mention App Academy, as well as Code Academy, Effective JavaScript, Chris Pine, Ruby Monk, and whatever other resources you used.
 
 **Don't Call Yourself 'Full Stack'**
 

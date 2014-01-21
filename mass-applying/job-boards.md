@@ -18,6 +18,7 @@ Hired.com vets you with a coding challenge. The problems are easier than these o
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
   * [StackOverflow][stackoverflow]
+  * [Toptal][toptal]
   * [White Truffle][white-truffle]
 
 ##Communities
@@ -45,6 +46,7 @@ Good resources to hit your daily quota.
 [enginapp]: http://enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
+[toptal]: http://www.toptal.com/developer
 [stackoverflow]: http://careers.stackoverflow.com/
 [white-truffle]: https://www.whitetruffle.com/
 
