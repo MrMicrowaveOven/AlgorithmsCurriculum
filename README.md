@@ -32,7 +32,6 @@
 [resume]: ./self-presentation/resume.md
 [github]: ./self-presentation/github.md
 [portfolio]: ./self-presentation/portfolio.md
-[personal-pitch]: ./self-presentation/personal_pitch.md
 [cover-letter]: ./self-presentation/cover_letter.md
 
 **W1D2**
@@ -67,11 +66,12 @@
 
 * [Polish your personal pitch.][personal-pitch]
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Apply to these [places that want a/A graduates.][job-descriptions]
+* Apply to these [places that want a/A graduates.][aa-fan-club]
 
 
+[personal-pitch]: ./self-presentation/personal_pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
-[job-descriptions]: ./mass-applying/job-descriptions.md
+[aa-fan-club]: ./mass-applying/aa-fan-club.md
 
 
 ## Week 2: Spray and Pray
