@@ -11,11 +11,11 @@ grads. They want your application.
 * [Univesity Now][unow]
 * [Wikimedia Foundation][wikimedia]
 
-[causes][https://www.causes.com/]
-[flywheel][http://flywheelnetworks.com/]
-[one-login][http://www.onelogin.com/]
-[unow][http://unow.com/]
-[wikimedia][http://wikimediafoundation.org/wiki/Home]
+[causes]: https://www.causes.com/
+[flywheel]: http://flywheelnetworks.com/
+[one-login]: http://www.onelogin.com/
+[unow]: http://unow.com/
+[wikimedia]: http://wikimediafoundation.org/wiki/Home
 
 ## New York
 
