@@ -60,7 +60,7 @@
 * Read about [performance analysis and big O][big-o].
 
 [big-o]: ./interview-prep/big_o.md
-[personal-projects]: ./self-presentation/personal_projects.md
+[personal-projects]: ./self-presentation/personal-projects.md
 
 **W1D5**
 
@@ -69,7 +69,7 @@
 * Apply to these [places that want a/A graduates.][aa-fan-club]
 
 
-[personal-pitch]: ./self-presentation/personal_pitch.md
+[personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
 [aa-fan-club]: ./mass-applying/aa-fan-club.md
 

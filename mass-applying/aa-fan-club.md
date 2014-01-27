@@ -5,11 +5,17 @@ grads. They want your application.
 
 ## San Francisco
 
-* [Causes][https://www.causes.com/]
-* [Flywheel Networks][http://flywheelnetworks.com/]
-* [Univesity Now][http://unow.com/]
-* [Wikimedia Foundation][http://wikimediafoundation.org/wiki/Home]
-* [One Login][http://www.onelogin.com/]
+* [Causes][causes]
+* [Flywheel Networks][flywheel]
+* [One Login][one-login]
+* [Univesity Now][unow]
+* [Wikimedia Foundation][wikimedia]
+
+[causes][https://www.causes.com/]
+[flywheel][http://flywheelnetworks.com/]
+[one-login][http://www.onelogin.com/]
+[unow][http://unow.com/]
+[wikimedia][http://wikimediafoundation.org/wiki/Home]
 
 ## New York
 
