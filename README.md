@@ -192,12 +192,12 @@
 
 ## Interview Prep
 
-* [Cracking the Coding Interview][cracking-the-coding-interview]
+* [Codility][codility]
 * [Daily Programmer Subreddit][dailyprogrammer]
-* [Rails Dev Quesitons][rails-dev-questions]
 * [Front-End Dev Questions][front-end-questions]
+* [Rails Dev Quesitons][rails-dev-questions]
 
+[codility]: https://codility.com/demo/train/
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
-[cracking-the-coding-interview]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
-[rails-dev-questions]: https://gist.github.com/ryansobol/5252653
 [front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
+[rails-dev-questions]: https://gist.github.com/ryansobol/5252653
