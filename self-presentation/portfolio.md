@@ -66,3 +66,15 @@ You'll probably want to set this up for your projects too. Pingdom grants you on
 [pingdom]: https://www.pingdom.com/signup/
 [new-relic]: http://newrelic.com/
 
+## Past Examples
+
+For your inspiration here are some examples from past alumni.
+
+* [Asher King Ambramson][asher]
+* [Dylan Clark][dylan]
+* [Sarah Mogin][sarah]
+
+[asher]: http://asherkingabramson.com/
+[dylan]: http://www.dylnclrk.io/
+[sarah]: http://www.sarahmogin.com/
+
