@@ -38,8 +38,12 @@
 
 * [Apply to the big tech companies.][fortune500]
 * [Clean up your Github.][github]
+* Begin the [pairboarding curriculum][pair-boarding-curriculum].
+    * Do pairboarding every weekday at 11am until you are employed.
+    * Once you get through the list, rehearse the harder questions or find new ones online.
 
 [fortune500]: ./mass-applying/fortune500.md
+[pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
 
 **W1D3**
 
@@ -81,12 +85,8 @@
 **W2D1**
 
 * Read about [job search etiquette][job-search-etiquette]
-* Begin the [pairboarding curriculum][pair-boarding-curriculum].
-    * Do pairboarding every weekday at 11am until you are employed.
-    * Once you get through the list, rehearse the harder questions or find new ones online.
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
-[pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
 
 **W2D2**
 
