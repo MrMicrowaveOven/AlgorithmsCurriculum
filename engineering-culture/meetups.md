@@ -1,6 +1,6 @@
 # Meetups you should go to
 
-Create an account on [http://meetup.com][meetup] if you don't have one already. Check off the interests that are relevant to you (web development, tech startups, ruby, ...) and sign up for the meetups below.    
+Create an account on [meetup][http://meetup.com] if you don't have one already. Check off the interests that are relevant to you (web development, tech startups, ruby, ...) and sign up for the meetups below.    
 
 These Meetups will hold events where you'll find free dinner, great networking and maybe even a job. The key is to show up many times to the same Meetup. Start by attending all of them. Then pick the ones that you find the most interesting and that seem like they have good networking (bad networking is when everyone else there is looking for a job). Then keep showing up to the good ones. You'll feel more and more comfortable as you start recognizing the other regulars and they start recognizing you. That's when the magic happens.    
 
