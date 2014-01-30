@@ -17,7 +17,7 @@ No need to go crazy with your personal site. Maybe a jQuery animation here and t
 
 **1. Deploy to Heroku**
 
-Push the git repo to a Heroku app (if you choose a simpler hosting service, you might not need to set up Pingdom; see below).    
+Push the git repo to a Heroku app. You can also use Amazon S3, Github pages, or whichever hosting service you prefer. A simpler hosting service may not require setting up Pingdom (see below).
 
 
 **2. Register a domain**
