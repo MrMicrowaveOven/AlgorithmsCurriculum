@@ -17,7 +17,7 @@ No need to go crazy with your personal site. Maybe a jQuery animation here and t
 
 **1. Deploy to Heroku**
 
-Push the git repo to a Heroku app. You can also use Amazon S3, Github pages, or whichever hosting service you prefer. A simpler hosting service may not require setting up Pingdom (see below).
+Push the git repo to a Heroku app. You can also use Amazon S3, Github pages, or whichever hosting service you prefer. A simpler hosting service may not require setting up Pingdom (see below). If you use Github pages, look into setting up a CNAME record to make www.firstnamelastname.com redirect to your Github page.
 
 
 **2. Register a domain**
@@ -78,3 +78,8 @@ For your inspiration here are some examples from past alumni.
 [dylan]: http://www.dylnclrk.io/
 [sarah]: http://www.sarahmogin.com/
 
+## Free Templates
+
+Check out
+* [BlackTie][http://www.blacktie.co/]
+* [Phuocub][http://phuocub.com/2013/09/free-html5-css3-templates-free-download/]
