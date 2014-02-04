@@ -78,8 +78,11 @@ For your inspiration here are some examples from past alumni.
 [dylan]: http://www.dylnclrk.io/
 [sarah]: http://www.sarahmogin.com/
 
-## Free Templates
+## Quick hacks
 
-Check out
+For free templates check out
 * [BlackTie][http://www.blacktie.co/]
 * [Phuocub][http://phuocub.com/2013/09/free-html5-css3-templates-free-download/]
+
+To demo some HTML/CSS/JS fast, there's [HTML Preview][html-preview].
+[html-preview]: http://github.com/junalap/snake/blob/master/index.html
