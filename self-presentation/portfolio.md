@@ -71,12 +71,18 @@ You'll probably want to set this up for your projects too. Pingdom grants you on
 For your inspiration here are some examples from past alumni.
 
 * [Asher King Ambramson][asher]
+* [April Goldman][april]
 * [Dylan Clark][dylan]
+* [Ryan Sepassi][ryan]
 * [Sarah Mogin][sarah]
+* [Sean Omlor][sean]
 
 [asher]: http://asherkingabramson.com/
+[april]: http://aprilgoldman.com/
 [dylan]: http://www.dylnclrk.io/
+[ryan]: http://www.ryansepassi.com/
 [sarah]: http://www.sarahmogin.com/
+[sean]: http://seanomlor.com/
 
 ## Quick hacks
 
