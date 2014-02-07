@@ -6,12 +6,14 @@ grads. They want your application.
 ## San Francisco
 
 * [Causes][causes]
+* [Chute][chute]
 * [Flywheel Networks][flywheel]
 * [One Login][one-login]
 * [Univesity Now][unow]
 * [Wikimedia Foundation][wikimedia]
 
 [causes]: https://www.causes.com/
+[chute]: http://www.getchute.com/
 [flywheel]: http://flywheelnetworks.com/
 [one-login]: http://www.onelogin.com/
 [unow]: http://unow.com/
