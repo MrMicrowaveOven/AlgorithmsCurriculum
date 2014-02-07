@@ -85,8 +85,10 @@
 **W2D1**
 
 * Read about [job search etiquette][job-search-etiquette]
+* Read about [making a website faster][website-optimization]
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
+[website-optimization]: http://developer.yahoo.com/performance/rules.html
 
 **W2D2**
 
