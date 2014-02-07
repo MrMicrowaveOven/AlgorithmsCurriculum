@@ -62,3 +62,10 @@ This App Academy alumnus provides an [example][stefano-linkedin].
 ## Make friends
 
 If you haven't already, connect with App Academy classmates on LinkedIn. Then endorse each other for all of your newfound skills.
+
+Feel free to add me [(Simon)][simon-linkedin] on LinkedIn once your profile is ready.
+I'll look over it, endorse your skills and give you some feedback.
+Add me on [AngelList][simon-angellist] too.
+
+[simon-linkedin]: http://www.linkedin.com/pub/simon-chaffetz/40/78b/338
+[simon-angellist]: https://angel.co/simon-chaffetz
