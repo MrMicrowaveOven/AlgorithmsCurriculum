@@ -32,27 +32,17 @@ Here's an [example][example-cover-letter] of some cool templating. Note that thi
 [example-cover-letter]: http://www.eliteresumewriting.com/images/Sales%20Sample%20Cover%20Letter.jpg
 
 
-# Sample Cover Letter
+# Cover Letter Template
 
-**Use this as an inspiration. Do not copy it word for word.**
+Keep the language causual. Make it more formal if the company seems less laid back (especially if they're based in New York). If you are applying to a specific role, say so in the first sentence. Otherwise don't bother to begin with "I'm writing to apply to your company" since that should already be clear from you subject line.
 
-The language is intentionally casual. Make it more formal if the company seems less laid back (especially if they're based in New York). If you are applying to a specific role, say so in the first sentence. Otherwise don't bother to begin with "I'm writing to apply to your company" since that should already be clear from you subject line.
-
-    Hi Joe,
-
-    I'm writing to apply to the Rails Engineer opening at CoolCo. I am a web developer with experience in Rails and JavaScript.
-    
-    I'm currently looking for opportunities to join a team that's building an awesome product
-    and solving hard problems. CoolCo's online cat rental agency sounds like a great combination of the two.
-    I would love to connect to talk more about your product and the engineering profile you're looking for.
-
-    My résumé is attached for your convenience. You can also see my sample projects here: www.markzuckerberg.com,
-    and read some of the code I've written here: www.github.com/markzuckerberg.
-    I look forward to being in touch.
-    
-    Best,
-    
-    Mark Zuckerberg
+Cover the following points, not necessarily in this order:
+* Why are you writing?
+* What are your skills?
+* What is your background (if it is relevant)?
+* What kind of company do you want to join? (Keep it generic.)
+* What about this company matches that? (The one sentence you might change for each application.)
+* Mention the materials you're sending along (résumé + github + one or two live links).
 
 
  Addressing the letter when you don't know the name of the person reading it:
