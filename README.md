@@ -40,7 +40,8 @@
 * [Clean up your Github.][github]
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
     * Do pairboarding every weekday at 11am until you are employed.
-    * Once you get through the list, rehearse the harder questions or find new ones online.
+    * Rehearse the harder questions once you get through the list.
+    * Try [Codility][codility] if you want to do more on your own.
 
 [fortune500]: ./mass-applying/fortune500.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
