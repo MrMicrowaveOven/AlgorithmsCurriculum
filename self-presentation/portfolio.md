@@ -94,4 +94,4 @@ For free templates check out
 [phuocub]: http://phuocub.com/2013/09/free-html5-css3-templates-free-download/
 
 To demo some HTML/CSS/JS fast, there's [HTML Preview][html-preview].
-[html-preview]: http://github.com/junalap/snake/blob/master/index.html
+[html-preview]: http://htmlpreview.github.io/
