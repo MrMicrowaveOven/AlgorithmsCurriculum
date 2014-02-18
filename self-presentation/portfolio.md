@@ -88,9 +88,11 @@ For your inspiration here are some examples from past alumni.
 
 For free templates check out
 * [BlackTie][blacktie]
+* [HTML5 UP][html5-up]
 * [Phuocub][phuocub]
 
 [blacktie]: http://www.blacktie.co/
+[html5-up]: http://html5up.net/
 [phuocub]: http://phuocub.com/2013/09/free-html5-css3-templates-free-download/
 
 To demo some HTML/CSS/JS fast, there's [HTML Preview][html-preview].
