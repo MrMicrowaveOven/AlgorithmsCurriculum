@@ -23,7 +23,7 @@ grads. They want your application.
 
 ## New York
 
-[Joystick Interactive][joystick]
+* [Joystick Interactive][joystick]
 
 [joystick]: http://joystickinteractive.com
 
