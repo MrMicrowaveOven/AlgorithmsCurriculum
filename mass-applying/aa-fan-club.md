@@ -7,6 +7,7 @@ grads. They want your application.
 
 * [Causes][causes]
 * [Chute][chute]
+* [Graph Science][graph-science]
 * [Flywheel Networks][flywheel]
 * [One Login][one-login]
 * [Univesity Now][unow]
@@ -14,6 +15,7 @@ grads. They want your application.
 
 [causes]: https://www.causes.com/
 [chute]: http://www.getchute.com/
+[graph-science]: http://www.graphscience.com/
 [flywheel]: http://flywheelnetworks.com/
 [one-login]: http://www.onelogin.com/
 [unow]: http://unow.com/
@@ -21,7 +23,9 @@ grads. They want your application.
 
 ## New York
 
+[Joystick Interactive][joystick]
 
+[joystick]: http://joystickinteractive.com
 
 # Various Job Descriptions
 These companies have sent us descriptions for jobs they want a/A grads
