@@ -9,6 +9,7 @@ grads. They want your application.
 * [Chute][chute]
 * [Graph Science][graph-science]
 * [Flywheel Networks][flywheel]
+* [Intuit][intuit]
 * [One Login][one-login]
 * [Univesity Now][unow]
 * [Wikimedia Foundation][wikimedia]
@@ -17,6 +18,7 @@ grads. They want your application.
 [chute]: http://www.getchute.com/
 [graph-science]: http://www.graphscience.com/
 [flywheel]: http://flywheelnetworks.com/
+[intuit]: http://careers.intuit.com/
 [one-login]: http://www.onelogin.com/
 [unow]: http://unow.com/
 [wikimedia]: http://wikimediafoundation.org/wiki/Home
