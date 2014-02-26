@@ -21,6 +21,7 @@ Hired.com vets you with a coding challenge. The problems are easier than the one
   * [Toptal][toptal]
   * [White Truffle][white-truffle]
 
+
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
   * [Hackers & Founders][hackers-&-founders]
@@ -35,6 +36,25 @@ Good resources to hit your daily quota.
   * [Dice][dice]
   * [Monster][monster]
   * [SimplyHired][simplyhired]
+  * [VentureLoop][ventureloop]
+
+##VC Funds
+
+Always a good place to look for companies that are hiring.
+  * [Andreessen Horowitz][andreesseen]
+  * [Benchmark Capital][benchmark]
+  * [First Round Capital][first-round]
+  * [Founder Collective][founder-collective]
+  * [Founders Fund][founders-fund]
+  * [Google Ventures][google-ventures]
+  * [Lowercase Capital][lowercase]
+  * [Sequoia Capital][sequoia]
+  * [YCombinator][yc-jobs]
+
+For a full list of YC-funded companies click [here][yc-companies] (only
+check 'Show Active' on the left).
+
+
 
 
 [crunchbase]: http://link.crunchbase.com/join/subscribe
@@ -58,4 +78,17 @@ Good resources to hit your daily quota.
 [dice]: http://www.dice.com/
 [monster]: http://www.monster.com/
 [simplyhired]: http://www.simplyhired.com/
+[ventureloop]: http://ventureloop.com/ventureloop/home.php
 
+[andreessen]: http://a16z.com/portfolio/
+[benchmark]:
+https://twitter.com/benchmark/lists/current-venture-portfolio
+[first-round]: http://firstround.com/companies#location
+[founder-collective]: http://foundercollective.com/collective
+[founders-fund]: http://ventureloop.com/foundersfund2011/
+[google-ventures]: http://www.gv.com/portfolio/
+[lowercase]: http://lowercasecapital.com/posse/
+[sequoia]:
+http://jobs.sequoiacap.com/careers_home.php?ind=&bayVals=1,2,3,4,5&usVals=13&globalVals=&stag=&func=12&tech=12&buss=
+[yc-jobs]: https://news.ycombinator.com/jobs
+[yc-companies]: http://yclist.com/
