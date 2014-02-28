@@ -3,9 +3,19 @@
 * Be valued and invested in
 * For the company: don't get poached
 
-# HR vs. Tech
+# Internal Structures: HR vs. Tech
+
+# Employers:
+* They will reject you
+* They will ask you salary requirements
+* They will say they're taking a chance on you
+* They will promise future riches
+* They will want you to decide on the spot
 
 # Recruiters
+* Keep them in the dark
+  * About your salary range
+  * About where you're applying
 
 # Pre-Offer negotiations
 
@@ -23,3 +33,4 @@
 * Terms
 * Options
 
+# How to value options

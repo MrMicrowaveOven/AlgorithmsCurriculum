@@ -1,4 +1,4 @@
-# Post-Course Curriculum
+# Job Search Curriculum
 
 [Jobberwocky][jobberwocky]    
 [Interview Questions][interview-questions]    
