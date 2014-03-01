@@ -41,7 +41,7 @@ Good resources to hit your daily quota.
 ##VC Funds
 
 Always a good place to look for companies that are hiring.
-  * [Andreessen Horowitz][andreesseen]
+  * [Andreessen Horowitz][andreessen]
   * [Benchmark Capital][benchmark]
   * [First Round Capital][first-round]
   * [Founder Collective][founder-collective]
