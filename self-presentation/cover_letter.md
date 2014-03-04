@@ -37,7 +37,7 @@ Here's an [example][example-cover-letter] of some cool templating. Note that thi
 Keep the language causual. Make it more formal if the company seems less laid back (especially if they're based in New York). If you are applying to a specific role, say so in the first sentence. Otherwise don't bother to begin with "I'm writing to apply to your company" since that should already be clear from you subject line.
 
 Cover the following points, not necessarily in this order:
-* Why are you writing?
+* Why are you writing? (Indicate the relevant position directly in the subject line. Don't open with "I am writing to apply for...".)
 * What are your skills?
 * What is your background (if it is relevant)?
 * What kind of company do you want to join? (Keep it generic.)
