@@ -134,7 +134,7 @@
 **W3D1**
 
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
-* What happens when you navigate to a URL?[navigate-to-a-url]
+* What happens when you [navigate to a URL?][navigate-to-a-url]
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
@@ -142,8 +142,10 @@
 **W3D2**
 
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
+* Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
 
-[rails-casts]: rails-casts-of-interest.md
+[rails-casts]: further_readings/rails-casts-of-interest.md
+[rails-review]: futher_readings/review.md
 
 **W3D3**
 
