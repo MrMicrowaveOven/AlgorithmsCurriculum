@@ -34,7 +34,7 @@ EMC Corp, majority holder of VMWare and parent of Pivotal Labs
 
 ## Some Technologies
 
-LAMP
+LAMP = Linux, Apache, MySQL, PHP
 
 Java
 * The JVM
