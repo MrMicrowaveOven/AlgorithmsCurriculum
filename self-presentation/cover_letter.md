@@ -45,8 +45,8 @@ Consider these examples:
     
 *Familiarity with the industry: strong*
 
-    A cloud-based point of sale allows businesses to centralize their transaction data
-    like never before. I would love to help build GeneriCo's product and finally bring retail to the cloud.
+    A cloud-based point of sale allows businesses to centralize their transaction data like never before.
+    I would love to help build GeneriCo's product and finally bring retail to the cloud.
 
 Cover the following points, not necessarily in this order:
 
