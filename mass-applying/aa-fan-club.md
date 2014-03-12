@@ -11,6 +11,7 @@ grads. They want your application.
 * [Flywheel Networks][flywheel]
 * [Intuit][intuit]
 * [One Login][one-login]
+* [Pyze][pyze]
 * [Univesity Now][unow]
 * [Wikimedia Foundation][wikimedia]
 
@@ -20,14 +21,17 @@ grads. They want your application.
 [flywheel]: http://flywheelnetworks.com/
 [intuit]: http://careers.intuit.com/
 [one-login]: http://www.onelogin.com/
+[pyze]: http://www.pyze.com/pyze/
 [unow]: http://unow.com/
 [wikimedia]: http://wikimediafoundation.org/wiki/Home
 
 ## New York
 
 * [Joystick Interactive][joystick]
+* [Shareablee][shareablee]
 
 [joystick]: http://joystickinteractive.com
+[shareablee]: http://www.shareablee.com/
 
 # Various Job Descriptions
 These companies have sent us descriptions for jobs they want a/A grads
