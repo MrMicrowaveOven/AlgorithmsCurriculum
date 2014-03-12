@@ -39,13 +39,14 @@ Write two sentences about the company and why you want to work there. Don't sell
 
 Consider these examples:
 
-*Baseless praise = weak*
+*Baseless praise: weak*
 
     I am excited to apply to GeneriCo because we both value high quality code and making awesome products.
     
-*Familiarity with the industry = strong*
+*Familiarity with the industry: strong*
 
-    A cloud-based point of sale allows businesses to centralize their transaction data like never before. I would love to help build GeneriCo's product and finally bring retail into the cloud.
+    A cloud-based point of sale allows businesses to centralize their transaction data
+    like never before. I would love to help build GeneriCo's product and finally bring retail to the cloud.
 
 Cover the following points, not necessarily in this order:
 
