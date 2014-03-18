@@ -4,12 +4,11 @@
 
  As soon as you get an offer:    
 0. Ask for two weeks to think about it. Odds are this is your first job as a web developer so you shouldn't be rushed to decide.    
-0. Email every company you've contacted, even if they never got back to you. Tell them you have an offer elsewhere but you really like what their company does. You would love to go through their application process so that you can include them in your final decision. These are the companies you should absolutely email.
+0. Email every company you've contacted, even if they never got back to you. Tell them you have an offer elsewhere but you really like what their company does. You would love to go through their application process so that you can include them in your final decision. These are the companies you should absolutely email.    
   * Companies you've interviewed with and are waiting to hear back from. If you haven't written your standard thank-you-for-the-interview email, consolidate the two messages in the same email.
   * Companies you have a phone screen / interview scheduled with in over four days.
-  * Companies that you haven't heard back from at all that seemed cool.    
+  * Companies that you haven't heard back from at all that seemed cool.
 0. If you have a phone screen or interview scheduled with a company within three or four days, you can wait until then to let them know about your new offer.
-
 
 Here's a sample email for your inspiration.
 
