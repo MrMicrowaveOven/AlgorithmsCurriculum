@@ -3,12 +3,12 @@
 ## After getting an offer
 
  As soon as you get an offer:    
-1. Ask for two weeks to think about it. Odds are this is your first job as a web developer so you shouldn't be rushed to decide.
-2. Email every company you've contacted, even if they never got back to you. Tell them you have an offer elsewhere but you really like what their company does. You would love to go through their application process so that you can include them in your final decision. These are the companies you should absolutely email.
+0. Ask for two weeks to think about it. Odds are this is your first job as a web developer so you shouldn't be rushed to decide.    
+0. Email every company you've contacted, even if they never got back to you. Tell them you have an offer elsewhere but you really like what their company does. You would love to go through their application process so that you can include them in your final decision. These are the companies you should absolutely email.
   * Companies you've interviewed with and are waiting to hear back from. If you haven't written your standard thank-you-for-the-interview email, consolidate the two messages in the same email.
   * Companies you have a phone screen / interview scheduled with in over four days.
-  * Companies that you haven't heard back from at all that seemed cool.
-3. If you have a phone screen or interview scheduled with a company within three or four days, you can wait until then to let them know about your new offer.
+  * Companies that you haven't heard back from at all that seemed cool.    
+0. If you have a phone screen or interview scheduled with a company within three or four days, you can wait until then to let them know about your new offer.
 
 
 Here's a sample email for your inspiration.
@@ -32,7 +32,7 @@ This puts you in a strong position to ask them for a higher offer.
 Here's a stock email you take can inspiration from.
 
 
-**My only concern is that I only started my job search a few weeks ago and am still in talks with several other companies. I have to consider the opportunity cost of taking myself off the job market before waiting to hear back from them. Could [company name] raise the base on the initial offer? Given a package with higher compensation I would be in a better position to cut those conversations short and start on the [date] as you request. Let me know.**
+*My only concern is that I only started my job search a few weeks ago and am still in talks with several other companies. I have to consider the opportunity cost of taking myself off the job market before waiting to hear back from them. Could [company name] raise the base on the initial offer? Given a package with higher compensation I would be in a better position to cut those conversations short and start on the [date] as you request. Let me know.*
 
 
 
