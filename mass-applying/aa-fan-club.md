@@ -10,6 +10,7 @@ grads. They want your application.
 * [Graph Science][graph-science]
 * [Flywheel Networks][flywheel]
 * [Intuit][intuit]
+* [Minted][minted]
 * [One Login][one-login]
 * [Pyze][pyze]
 * [Univesity Now][unow]
@@ -20,6 +21,7 @@ grads. They want your application.
 [graph-science]: http://www.graphscience.com/
 [flywheel]: http://flywheelnetworks.com/
 [intuit]: http://careers.intuit.com/
+[minted]: http://www.minted.com/jobs
 [one-login]: http://www.onelogin.com/
 [pyze]: http://www.pyze.com/pyze/
 [unow]: http://unow.com/
