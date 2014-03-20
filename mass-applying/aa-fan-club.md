@@ -29,10 +29,14 @@ grads. They want your application.
 
 ## New York
 
+* [Constant Contact][constant-contact]
 * [Joystick Interactive][joystick]
+* [PolicyMic][policymic]
 * [Shareablee][shareablee]
 
+[constant-contact]: http://jobs.constantcontact.com/
 [joystick]: http://joystickinteractive.com
+[policymic]: http://www.policymic.com/jobs
 [shareablee]: http://www.shareablee.com/
 
 # Various Job Descriptions
