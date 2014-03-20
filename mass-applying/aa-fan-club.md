@@ -30,14 +30,20 @@ grads. They want your application.
 ## New York
 
 * [Constant Contact][constant-contact]
+* [iCapital Network][icapital]
 * [Joystick Interactive][joystick]
 * [PolicyMic][policymic]
+* [SeatGeek][seatgeek]
 * [Shareablee][shareablee]
+* [Something Digital][something-digital]
 
 [constant-contact]: http://jobs.constantcontact.com/
+[icapital]: http://www.icapitalnetwork.com/
 [joystick]: http://joystickinteractive.com
 [policymic]: http://www.policymic.com/jobs
+[seatgeek]: http://seatgeek.com/jobs
 [shareablee]: http://www.shareablee.com/
+[something-digital]: http://www.somethingdigital.com/category/blog/nyc-web-jobs
 
 # Various Job Descriptions
 These companies have sent us descriptions for jobs they want a/A grads
