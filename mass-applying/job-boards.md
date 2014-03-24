@@ -32,6 +32,7 @@ These online communities post job boards on the first of each month. Set a remin
 
 ##Databases
 Good resources to hit your daily quota.
+  * [Authentic Jobs][authentic]
   * Craigslist [SF][craigslist-sf] and [NY][craigslist-ny]
   * [Dice][dice]
   * [Monster][monster]
@@ -74,6 +75,7 @@ check 'Show Active' on the left).
 [hackers-&-founders]: http://www.meetup.com/Hackers-and-Founders/
 [hackernews]: https://news.ycombinator.com/item?id=6653437
 
+[authentic]: http://www.authenticjobs.com/
 [craigslist-sf]: http://sfbay.craigslist.org/sof/
 [craigslist-ny]: http://newyork.craigslist.org/sof/
 [dice]: http://www.dice.com/
