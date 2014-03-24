@@ -17,6 +17,7 @@ Hired.com vets you with a coding challenge. The problems are easier than the one
   * [Enginapp][enginapp]
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
+  * [The Muse][the-muse]
   * [StackOverflow][stackoverflow]
   * [Toptal][toptal]
   * [White Truffle][white-truffle]
@@ -66,6 +67,7 @@ check 'Show Active' on the left).
 [enginapp]: http://enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
+[the-muse]: http://www.themuse.com/jobs
 [toptal]: http://www.toptal.com/developer
 [stackoverflow]: http://careers.stackoverflow.com/
 [white-truffle]: https://www.whitetruffle.com/
