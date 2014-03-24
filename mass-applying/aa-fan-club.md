@@ -32,6 +32,7 @@ grads. They want your application.
 * [Constant Contact][constant-contact]
 * [iCapital Network][icapital]
 * [Joystick Interactive][joystick]
+* [OpenFin][openfin]
 * [PolicyMic][policymic]
 * [SeatGeek][seatgeek]
 * [Shareablee][shareablee]
@@ -40,6 +41,7 @@ grads. They want your application.
 [constant-contact]: http://jobs.constantcontact.com/
 [icapital]: http://www.icapitalnetwork.com/
 [joystick]: http://joystickinteractive.com
+[openfin]: http://www.openfin.co/
 [policymic]: http://www.policymic.com/jobs
 [seatgeek]: http://seatgeek.com/jobs
 [shareablee]: http://www.shareablee.com/
