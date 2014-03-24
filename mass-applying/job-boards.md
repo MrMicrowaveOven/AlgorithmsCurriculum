@@ -17,7 +17,6 @@ Hired.com vets you with a coding challenge. The problems are easier than the one
   * [Enginapp][enginapp]
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
-  * [The Muse][the-muse]
   * [StackOverflow][stackoverflow]
   * [Toptal][toptal]
   * [White Truffle][white-truffle]
@@ -36,6 +35,7 @@ Good resources to hit your daily quota.
   * Craigslist [SF][craigslist-sf] and [NY][craigslist-ny]
   * [Dice][dice]
   * [Monster][monster]
+  * [The Muse][the-muse]
   * [SimplyHired][simplyhired]
   * [VentureLoop][ventureloop]
 
@@ -67,7 +67,6 @@ check 'Show Active' on the left).
 [enginapp]: http://enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
-[the-muse]: http://www.themuse.com/jobs
 [toptal]: http://www.toptal.com/developer
 [stackoverflow]: http://careers.stackoverflow.com/
 [white-truffle]: https://www.whitetruffle.com/
@@ -79,6 +78,7 @@ check 'Show Active' on the left).
 [craigslist-ny]: http://newyork.craigslist.org/sof/
 [dice]: http://www.dice.com/
 [monster]: http://www.monster.com/
+[the-muse]: http://www.themuse.com/jobs
 [simplyhired]: http://www.simplyhired.com/
 [ventureloop]: http://ventureloop.com/ventureloop/home.php
 
