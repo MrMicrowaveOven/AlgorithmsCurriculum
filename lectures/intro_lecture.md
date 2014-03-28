@@ -5,7 +5,7 @@
 * Hard on your self-esteem
 
 ## 2: Highest predictors for job search?
-* Number of applications (that's the best news)
+* Good news: Number of applications
 * Tech background, when applicable
 * Pedigree / Performance in the course
 * (Can't measure personality)
@@ -37,10 +37,10 @@
 * Turtoise gets 100 rejections, hare gets 25.
 * Turtoise gets 20 phone screenings, hare gets 5.
 * Turtoise gets 15 interviews, hare gets 3.75
-* Turtoise gets 6 offers. Most are bad, two are around $80k.
-* Hare gets one offer at $65k.
-* Turtoise negotiates one up to $95k.
-* Hare takes $65k for lack of alternatives.
+* Turtoise gets 6 offers. Most are bad, two are around $95k.
+* Hare gets one offer at $70k.
+* Turtoise negotiates one up to $105k.
+* Hare takes $70k for lack of alternatives.
 
 ## 5: Jobberwocky
 
