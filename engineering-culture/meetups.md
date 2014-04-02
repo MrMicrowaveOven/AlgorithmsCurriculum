@@ -25,6 +25,7 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 * [Google Developer Group][google-sv]
 * [San Francisco Ruby Meetup][sf-ruby]
 * [Code for San Francisco][cfa-sf]
+* [East Bay Javascript Meetup][EBJavaScript]
 
 
 [google-nyc]: http://www.meetup.com/google-nyc-tech-talks/
@@ -36,3 +37,4 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 [google-sv]: http://www.meetup.com/gdg-silicon-valley/
 [sf-ruby]: http://www.meetup.com/sfruby/
 [cfa-sf]: http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/
+[EBJavascript]: http://www.meetup.com/EBJavaScript/
