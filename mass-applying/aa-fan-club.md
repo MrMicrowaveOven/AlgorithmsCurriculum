@@ -29,6 +29,7 @@ grads. They want your application.
 
 ## New York
 
+* [Cerberus Capital Management][cerberus]
 * [Constant Contact][constant-contact]
 * [iCapital Network][icapital]
 * [Joystick Interactive][joystick]
@@ -39,6 +40,7 @@ grads. They want your application.
 * [Shareablee][shareablee]
 * [Something Digital][something-digital]
 
+[cerberus]: http://ch.tbe.taleo.net/CH10/ats/careers/jobSearch.jsp?org=CERBERUS&cws=1
 [constant-contact]: http://jobs.constantcontact.com/
 [icapital]: http://www.icapitalnetwork.com/
 [joystick]: http://joystickinteractive.com
