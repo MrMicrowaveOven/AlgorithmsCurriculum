@@ -12,6 +12,7 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 
 ## New York
 * [Google NYC Tech Talks][google-nyc]
+* [Hacker Hours][hacker-hours]
 * [NY Tech][ny-tech]
 * [NYC.rb][ny-ruby]
 * [NYC on Rails][nyc-on-rails]
@@ -24,10 +25,12 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 ## Bay Area
 * [Google Developer Group][google-sv]
 * [San Francisco Ruby Meetup][sf-ruby]
+* [San Francisco Rails Meetup][sf-rails]
 * [Code for San Francisco][cfa-sf]
 
 
 [google-nyc]: http://www.meetup.com/google-nyc-tech-talks/
+[hacker-hours]: http://www.meetup.com/hackerhours/
 [ny-tech]: http://www.meetup.com/ny-tech/
 [ny-ruby]: http://www.meetup.com/NYC-rb/
 [nyc-on-rails]: http://www.meetup.com/nyc-on-rails
@@ -35,4 +38,5 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 [GA-ny]: http://www.quora.com/What-should-every-entrepreneur-in-New-York-City-do
 [google-sv]: http://www.meetup.com/gdg-silicon-valley/
 [sf-ruby]: http://www.meetup.com/sfruby/
+[sf-rails]: www.meetup.com/sfrails/
 [cfa-sf]: http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/
