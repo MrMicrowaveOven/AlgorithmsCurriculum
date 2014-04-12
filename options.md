@@ -9,8 +9,8 @@ you? Don't trade base salary for lottery tickets.
 Why? Your company will probably eventually fail. Options vest over
 four years and you shouldn't work that long at your first
 company. Even if the company becomes valuable, it takes forever for it
-to go IPO so you can sell shares. You're grant will be small and
-you'll be diluted as the company takes on more investors.
+to go IPO so you can sell shares. Your grant will be small and you'll
+be diluted as the company takes on more investors.
 
 Negotiate for salary, not for options. A high base salary means bigger
 raises in the future. Future employers won't understand that you took
