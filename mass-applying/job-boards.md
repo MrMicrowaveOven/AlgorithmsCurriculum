@@ -19,7 +19,7 @@ Hired.com vets you with a coding challenge. The problems are easier than the one
   * [Hirelite.com][hirelite]
   * [StackOverflow][stackoverflow]
   * [Toptal][toptal]
-  * [Underdog][underdog](New York only)
+  * [Underdog][underdog] (New York only)
   * [White Truffle][white-truffle]
 
 
