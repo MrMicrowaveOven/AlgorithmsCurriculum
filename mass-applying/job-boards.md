@@ -19,6 +19,7 @@ Hired.com vets you with a coding challenge. The problems are easier than the one
   * [Hirelite.com][hirelite]
   * [StackOverflow][stackoverflow]
   * [Toptal][toptal]
+  * [Underdog][underdog](New York only)
   * [White Truffle][white-truffle]
 
 
@@ -70,6 +71,7 @@ check 'Show Active' on the left).
 [hirelite]: http://www.hirelite.com/
 [toptal]: http://www.toptal.com/developer
 [stackoverflow]: http://careers.stackoverflow.com/
+[underdog]: http://www.underdog.io/
 [white-truffle]: https://www.whitetruffle.com/
 
 [hackers-&-founders]: http://www.meetup.com/Hackers-and-Founders/
