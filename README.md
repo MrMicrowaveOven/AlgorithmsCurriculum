@@ -191,7 +191,6 @@
 [rails-3-way]: http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
 [crafting-rails-apps]: http://pragprog.com/book/jvrails/crafting-rails-applications
 [rails-recipes]: http://pragprog.com/book/rr2/rails-recipes
-[rails-casts]: ./rails-casts-of-interest.md
 [well-grounded-rubyist]: http://www.manning.com/black2/
 
 
