@@ -196,7 +196,7 @@
 
 ## Interview Prep
 
-* [Code Combat]: [code-combat]
+* [Code Combat][code-combat]
 * [Codility][codility]
 * [Daily Programmer Subreddit][dailyprogrammer]
 * [Front-End Dev Questions][front-end-questions]
