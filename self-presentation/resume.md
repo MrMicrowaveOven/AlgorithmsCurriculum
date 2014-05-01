@@ -155,3 +155,29 @@ idea what else to expect from this person." You have to be creative.
 
 If it's the case, you can mention "Left college in good
 academic standing for financial reasons / to pursue web development."
+
+## Checklist
+Before you submit your resume for review, make sure you can answer yes
+to all these questions.
+
+* Projects
+  0. Do you list three to five coding projects, including one Rails app and
+  one Javascript demo (eg. a game)?
+  0. Does each project include a link to the Github repo and one to the
+  live demo?
+  0. Did you buy a custom domain for your main project?
+  0. Do you describe clever solutions you came up with to build each
+   project?
+
+* Work
+  0. Do you describe not just *what* you did at each job but *how well*
+   you did it?
+  0. Do you provide benchmarks for your own or your teams success?
+
+* Misc
+  0. Do you provide a simple list of the technologies you are familiar
+   with?
+  0. Do you provide contact information and link to your Github?
+  0. Does your contact information make it clear you are currently in the
+   metro area?
+

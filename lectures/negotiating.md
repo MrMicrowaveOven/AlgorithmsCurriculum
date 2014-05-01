@@ -1,3 +1,7 @@
+# Reading
+
+http://lifehacker.com/5968375/not-negotiating-your-starting-salary-could-cost-you-500000
+
 # Reasons to Negotiate
 * Opportunity cost
 * Be valued and invested in
