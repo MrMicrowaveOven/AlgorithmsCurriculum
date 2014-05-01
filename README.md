@@ -196,19 +196,25 @@
 
 ## Interview Prep
 
+* [Code Combat]: [code-combat]
 * [Codility][codility]
 * [Daily Programmer Subreddit][dailyprogrammer]
 * [Front-End Dev Questions][front-end-questions]
+* [Project Euleur][project-euler]
 * [Rails Dev Quesitons][rails-dev-questions]
 * [InterviewCake][interview-cake]
 * [CodingForInterviews (weekly newsletter)][coding-for-interviews]
 * [Blake Embrey's Github Repo of Problems][blakerepo]
+* [Top Coder][top-coder]
 
+[code-combat]: https://codecombat.com/
 [codility]: https://codility.com/demo/train/
 [dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
 [front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
+[project-euler]: https://projecteuler.net/
 [rails-dev-questions]: https://gist.github.com/ryansobol/5252653
 [interview-cake]: https://www.interviewcake.com/
-[coding-for-interviews]:http://codingforinterviews.com/
-[programmingpraxis]:http://programmingpraxis.com/
-[blakerepo]:https://github.com/blakeembrey/code-problems
+[coding-for-interviews]: http://codingforinterviews.com/
+[programmingpraxis]: http://programmingpraxis.com/
+[blakerepo]: https://github.com/blakeembrey/code-problems
+[top-coder]: http://www.topcoder.com/
