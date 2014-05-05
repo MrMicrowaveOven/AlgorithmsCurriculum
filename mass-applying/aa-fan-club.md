@@ -13,6 +13,7 @@ grads. They want your application.
 * [Minted][minted]
 * [One Login][one-login]
 * [Pyze][pyze]
+* [Retargeter][retargeter]
 * [Univesity Now][unow]
 * [Wikimedia Foundation][wikimedia]
 
@@ -24,6 +25,7 @@ grads. They want your application.
 [minted]: http://www.minted.com/jobs
 [one-login]: http://www.onelogin.com/
 [pyze]: http://www.pyze.com/pyze/
+[retargeter]: https://retargeter.com/
 [unow]: http://unow.com/
 [wikimedia]: http://wikimediafoundation.org/wiki/Home
 
