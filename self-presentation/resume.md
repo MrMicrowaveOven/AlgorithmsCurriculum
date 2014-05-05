@@ -160,6 +160,10 @@ academic standing for financial reasons / to pursue web development."
 Before you submit your resume for review, make sure you can answer yes
 to all these questions.
 
+* Layout
+  0. Do your headers take the following order? Projects, Skills, Work History, Education
+  1. (List work history first if you were paid to write code.)
+
 * Projects
   0. Do you list three to five coding projects, including one Rails app and
   one Javascript demo (eg. a game)?
