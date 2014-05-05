@@ -165,6 +165,7 @@ to all these questions.
   one Javascript demo (eg. a game)?
   0. Does each project include a link to the Github repo and one to the
   live demo?
+  0. Is there a button to login without signing up on any project that uses authentication?
   0. Did you buy a custom domain for your main project?
   0. Do you describe clever solutions you came up with to build each
    project?
