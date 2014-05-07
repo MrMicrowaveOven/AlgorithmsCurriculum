@@ -185,4 +185,5 @@ to all these questions.
   0. Do you provide contact information and link to your Github?
   0. Does your contact information make it clear you are currently in the
    metro area?
+  0. Have you copy/pasted the text into a Google doc that I can edit? (ie. Don't just upload a .doc file)
 
