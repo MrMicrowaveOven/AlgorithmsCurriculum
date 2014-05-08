@@ -82,7 +82,7 @@ To indentify cool problems you solved, make a quick list of five neat features i
 * Did you make any trade-offs related to performance?    
 * Do you make AJAX requests to any unexpected routes?    
 
-*Note: Students often use the past tense to describe each solution, eg. "Overrode Backbone's default Model#parse method to blah blah blah." That's too wordy. Use the present tense in the third person (ie. your project itself). "Overrides Backbone's default Model#parse method ..."
+*Note: Students often use the past tense to describe each solution, eg. "Overrode Backbone's default Model#parse method to..." That's too wordy. Use the present tense in the third person (ie. your project itself). "Overrides Backbone's default Model#parse method to..."*
 
 ## Work
 Unless you worked as a web developer, this section is mainly to demonstrate that you are a professional. No need to add much detail.
