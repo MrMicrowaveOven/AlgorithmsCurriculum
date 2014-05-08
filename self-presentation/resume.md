@@ -82,6 +82,7 @@ To indentify cool problems you solved, make a quick list of five neat features i
 * Did you make any trade-offs related to performance?    
 * Do you make AJAX requests to any unexpected routes?    
 
+*Note: Students often use the past tense to describe each solution, eg. "Overrode Backbone's default Model#parse method to blah blah blah." That's too wordy. Use the present tense in the third person (ie. your project itself). "Overrides Backbone's default Model#parse method ..."
 
 ## Work
 Unless you worked as a web developer, this section is mainly to demonstrate that you are a professional. No need to add much detail.
@@ -173,6 +174,7 @@ to all these questions.
   0. Did you buy a custom domain for your main project?
   0. Do you describe clever solutions you came up with to build each
    project?
+  0. Are those solutions described in the third person, present tense?
 
 * Work
   0. Do you describe not just *what* you did at each job but *how well*
