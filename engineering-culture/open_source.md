@@ -9,3 +9,6 @@ It's common at technical interviews to ask a candidate to fix a bug or implement
 
 http://www.opensourcerails.com/
 https://openhatch.org/
+http://contribhub.com/
+https://www.codemontage.com/
+http://www.codetriage.com/
