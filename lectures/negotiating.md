@@ -8,6 +8,9 @@ http://lifehacker.com/5968375/not-negotiating-your-starting-salary-could-cost-yo
 * For the company: don't get poached
 
 # Internal Structures: HR vs. Tech
+CEO, C-suite
+=> HR: stay under budget
+=> Engineering: get the best people possible
 
 # Employers:
 * They will reject you
@@ -34,6 +37,7 @@ http://lifehacker.com/5968375/not-negotiating-your-starting-salary-could-cost-yo
 * Benefits
 * Bonus 
 * New computer
+* PTO: set or unlimited
 * Terms
 * Options
 
