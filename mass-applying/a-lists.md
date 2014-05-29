@@ -26,6 +26,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 * Meetup
 * MongoDB
 * Newscred
+* NY Times
 * OkCupid
 * Oyster
 * Percolate
