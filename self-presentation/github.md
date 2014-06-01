@@ -25,7 +25,7 @@
 * Asteroids
 * Snake
 * Tic-Tac-Toe & Tower of Hanoi
-* Ruby recursion exercizes (if they're complete)
+* Ruby recursion exercises (if they're complete)
 * BFS, DFS, Knight's Travails, 8 Queens, Word Chains
 * Node Chat App
 * Trellino
