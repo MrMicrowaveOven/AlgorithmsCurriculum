@@ -55,7 +55,7 @@ grads. They want your application.
 
 # Various Job Descriptions
 These companies have sent us descriptions for jobs they want a/A grads
-to appy to.
+to apply to.
 
 ## New York
 
