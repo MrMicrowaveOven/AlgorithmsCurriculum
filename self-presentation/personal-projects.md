@@ -6,7 +6,7 @@
 
 0. Add your project to our [hall of fame of alumni
   projects][alumni-projects].
-0. Set up [Pingdom][pingdom].
+0. Set up [Uptime Robot][uptimerobot].
 0. Populate a demo login if your app has authentication.
     * **Make it very easy for employers log in and look around.**
     * A button on your login page should fill the username and password fields.
@@ -26,6 +26,6 @@
 
 [alumni-projects]:
 https://github.com/appacademy/meta/blob/master/final-project-directory.md
-[pingdom]: http://pingdom.com
+[uptimerobot]: http://uptimerobot.com/
 [seed-dump]: https://github.com/rroblak/seed_dump
 [shepherd]: http://github.hubspot.com/shepherd/docs/welcome/
