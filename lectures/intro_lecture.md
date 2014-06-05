@@ -1,16 +1,19 @@
 # Strategies & Pitfalls
 
-## 1: Who's been on a full-time job hunt before?
+## 1: Who enrolled in App Academy to become a software developer?
+* Why'd you want to be a software developer?
+
+## 2: Who's been on a full-time job hunt before?
 * Can you share?
 * Hard on your self-esteem
 
-## 2: Highest predictors for job search?
+## 3: Highest predictors for job search?
 * Good news: Number of applications
 * Tech background, when applicable
 * Pedigree / Performance in the course
 * (Can't measure personality)
 
-## 3: Apply many places
+## 4: Apply many places
 * Very high economic stakes
 * Until you've applied 200 places, you just don't know.
 * You have to be a rockstar.
@@ -21,7 +24,7 @@
   * Become "one of us"
   * Get free dinner
 
-## 4: Advantages of Having Many Interviews?
+## 5: Advantages of Having Many Interviews?
 * Learn about the industry, keep momentum
 * a/A grads get 1 offer for 2 interviews
   * It's not continuous
@@ -31,28 +34,28 @@
   * Earlier offers come from smaller companies
   * You get better at interviews, get better offers
 
-## 5: Turtoise & the Hare
-* Hare codes fast, turtoise is slow.
-* Turtoise applies to 200 places, hare applies to 50.
-* Turtoise gets 100 rejections, hare gets 25.
-* Turtoise gets 20 phone screenings, hare gets 5.
-* Turtoise gets 15 interviews, hare gets 3.75
-* Turtoise gets 6 offers. Most are bad, two are around $95k.
+## 6: Turtle & the Hare
+* Hare codes fast, Turtle is slow.
+* Turtle applies to 200 places, hare applies to 50.
+* Turtle gets 100 rejections, hare gets 25.
+* Turtle gets 20 phone screenings, hare gets 5.
+* Turtle gets 15 interviews, hare gets 3.75
+* Turtle gets 6 offers. Most are bad, two are around $95k.
 * Hare gets one offer at $70k.
-* Turtoise negotiates one up to $105k.
+* Turtle negotiates one up to $105k.
 * Hare takes $70k for lack of alternatives.
 
-## 5: Jobberwocky
+## 7: Jobberwocky
 
-## 9: Hiring Bootcamp Resources
+## 8: Hiring Bootcamp Resources
 * Places to apply: spreadsheet, job boards
 * Portfolio, resume, cover letter advice
 * Stock emails
 * Data points for negotiating
 * Interview soft prep
 
-## 13: Pairboarding
+## 9: Pairboarding
 * Every day at 10am
 
-## 15: Questions?
+## 10: Questions?
 
