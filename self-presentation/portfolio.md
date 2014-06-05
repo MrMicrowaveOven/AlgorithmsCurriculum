@@ -54,16 +54,16 @@ More detailed instructions:
 [namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
 
 
-**4. Set up Pingdom**
+**4. Set up Uptime Robot**
 
-Pingdom pings a URL at regular intervals. This is originally intended to detect network breakdowns quickly. If Pingdom gets a 404 from the URL you set it to, it'll notify you that the site is down.    
+Uptime Robot pings URLs at regular intervals. This is originally intended to detect network breakdowns quickly. If Uptime Robot gets a 404 from the URL you set it to, it'll notify you that the site is down.    
 
-Another use is keeping your Heroku app wound up. When no one visits your app for a while, Heroku saves itself server space and winds it down (this is also to encourage you to buy Heroku's premium services). This means the next time someone visits your page it'll be *very* slow to load. To avoid this, set up Pingdom so that Heroku is regularly handling requests to your site.
+Another use is keeping your Heroku app wound up. When no one visits your app for a while, Heroku saves itself server space and winds it down (this is also to encourage you to buy Heroku's premium services). This means the next time someone visits your page it'll be *very* slow to load. To avoid this, set up Uptime Robot or Pingdom so that Heroku is regularly handling requests to your site.
 
-Go to [Pingdom.com][pingdom] and sign up for a Pingdom Personal Account. Then set up a check for your portfolio URL.    
-You'll probably want to set this up for your projects too. Pingdom grants you one free check per account. If you want to keep using Pingdom you'll have to open another account using a different email address. There is also [New Relic][new-relic]. New Relic has more functionaliy so it takes a little extra time to set up.
+Go to [Uptime Robot][uptimerobot] and sign up for a Account. Then set up a check for your portfolio URL.    
+You'll probably want to set this up for your projects too.
 
-[pingdom]: https://www.pingdom.com/signup/
+[uptimerobot]: http://uptimerobot.com/
 [new-relic]: http://newrelic.com/
 
 ## Past Examples
