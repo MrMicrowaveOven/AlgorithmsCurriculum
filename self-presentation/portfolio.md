@@ -96,4 +96,10 @@ For free templates check out
 [phuocub]: http://phuocub.com/2013/09/free-html5-css3-templates-free-download/
 
 To demo some HTML/CSS/JS fast, there's [HTML Preview][html-preview].
+
 [html-preview]: http://htmlpreview.github.io/
+
+For paid templates ($15-$40) check out
+* [themeforest][themeforest]
+
+[themeforest]: http://themeforest.net/search?utf8=%E2%9C%93&term=personal
