@@ -12,7 +12,7 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
 
 ##Marketplaces
 Fill these out once and check them every now and then. Reuse the same text as for your LinkedIn summary.
-Hired.com vets you with a coding challenge. The problems are easier than the ones you encountered at App Academy.
+Hired.com vets you with 90 minute a coding challenge, the problems are quite difficult but its worth trying anyway.
   * [AngelList][angellist]
   * [Enginapp][enginapp]
   * [Hired.com][hired]
