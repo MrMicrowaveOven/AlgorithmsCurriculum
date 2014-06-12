@@ -21,7 +21,8 @@ Your layout might look like this:
 A profile picture helps viewers feel like they're getting to know you.
 
 Your title is 'web developer' ("full stack" implies a couple years' experience).
-You can add "for hire" or something to that effect in your title.
+You can add "for hire" or something to that effect in your title. Do not use wishful
+language such as "aspiring web developer".
 
 **Summary**
 
