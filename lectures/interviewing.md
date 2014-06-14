@@ -64,6 +64,8 @@ Simplify: "Let's assume for now that the cow is spherical."
   * If the problem has ambiguous scope, pick the easiest version and
     tell the interviewer you'll generalize your solution to show you're
 aware of the trickier scope.
-* Offer your opinion on tradeoffs. It's more impressive than asking the
-  interviewer for instructions.
+* Offer your opinion on tradeoffs.
+   * Noticing that there are several possibilities is good. Asking the
+     interviewer which they favor is ok.
+   * Offering your own take on it is even better.
 
