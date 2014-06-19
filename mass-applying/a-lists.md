@@ -58,9 +58,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 * AirBnb
 * Box
 * Stripe
-* MongoDB
 * CloudFlare
-
 * Asana
 * GitHub
 * Meteor
