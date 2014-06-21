@@ -14,7 +14,7 @@ Here too ask for your interviewer's contact information if they don't give it fi
 
 Again, email each of your interviewers a short thank-you note on the same evening. Make it different for each one by commenting on something you talked about at the interview.
 
-*"I appreciate what you said about the emphasis on testing at [company name]. I value the fexibility that comes with testing and would love to work with like-minded engineers to learn and share best practices."*
+*"I appreciate what you said about the emphasis on testing at [company name]. I value the flexibility that comes with testing and would love to work with like-minded engineers to learn and share best practices."*
 
 It's ok to be cheesy. Cheesy people are easier to work with than cynics.
 
