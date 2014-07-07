@@ -7,10 +7,13 @@ Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom 
 
 Here's one [example][non-tech-resume-1] inspired from a student who did not have a tech background and here's [another][non-tech-resume-2]. (Don't use the same templates!)
 
+Finally, here's a fun hack for putting together a résumé in no time: [json resume][json-resume].
+
 [glm-resume]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [non-tech-resume-1]: ./non-technical-resume.pdf
 [non-tech-resume-2]: ./non-technical-resume2.pdf
+[json-resume]: http://jsonresume.org/
 
 # Layout
 * ONE PAGE ONLY
