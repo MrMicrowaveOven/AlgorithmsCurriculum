@@ -12,6 +12,10 @@ No need to go crazy with your personal site. Maybe a jQuery animation here and t
     * Don't forget the demo login info if needed
 * Easy access to your email (e.g. a link at the bottom of your personal summary)
 * Links to your blog / Twitter / etc if they're well maintained and show your interest in the web/tech.
+* Google analytics so you can see who's looking at your site.
+    * Send each company a unique query string so you can track which ones are visiting your page.
+    * You'll find this under Audience > Overview > View Full Report.
+    * The Behavior Flow feature will tell you which parts of your site they're looking at most.
 
 ## Publishing
 
