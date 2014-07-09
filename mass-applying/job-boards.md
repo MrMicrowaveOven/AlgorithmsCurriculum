@@ -13,7 +13,7 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
 ##Marketplaces
 Fill these out once and check them every now and then. Reuse the same text as for your LinkedIn summary.
 Hired.com vets you with 90 minute a coding challenge, the problems are quite difficult but its worth trying anyway.
-  * [AngelList][angellist]
+  * [AngelList][angellist]*
   * [Enginapp][enginapp]
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
@@ -22,6 +22,7 @@ Hired.com vets you with 90 minute a coding challenge, the problems are quite dif
   * [Underdog][underdog] (New York only)
   * [White Truffle][white-truffle]
 
+* Word of caution about AngelList: companies can see how many other companies you've expressed interest in.
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
