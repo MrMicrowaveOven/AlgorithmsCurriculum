@@ -7,7 +7,7 @@ Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom 
 
 Here's one [example][non-tech-resume-1] inspired from a student who did not have a tech background and here's [another][non-tech-resume-2]. (Don't use the same templates!)
 
-Finally, here's a fun hack for putting together a résumé in no time: [json resume][json-resume].
+Finally, here's a fun hack for putting together a prototype: [json resume][json-resume]. The PDF export isn't great. You'll want to export to HTML and make final touches on that. Then open the HTML file in Chrome and print it to PDF.
 
 [glm-resume]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
