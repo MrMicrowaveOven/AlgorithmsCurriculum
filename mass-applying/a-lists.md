@@ -57,7 +57,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 [buzzfeed]: http://www.buzzfeed.com/about/jobs
 [digitalocean]: https://careers.digitalocean.com/
 [fab]: http://www.hrjobcenter.com/fab/index.html
-[flatiron]: #url
+[flatiron]: http://www.flatiron.com/careers/
 [fogcreek]: http://www.fogcreek.com/careers/
 [foursquare]: https://foursquare.com/jobs/
 [grandstreet]: https://grandst.com/jobs
