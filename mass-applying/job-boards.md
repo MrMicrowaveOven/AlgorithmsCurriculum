@@ -22,7 +22,7 @@ Hired.com vets you with 90 minute a coding challenge, the problems are quite dif
   * [Underdog][underdog] (New York only)
   * [White Truffle][white-truffle]
 
-* Word of caution about AngelList: companies can see how many other companies you've expressed interest in over the last 30 days. Pace yourself.
+\* A Word of caution about AngelList: companies can see how many other companies you've expressed interest in over the last 30 days. Pace yourself.
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
