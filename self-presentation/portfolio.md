@@ -36,22 +36,25 @@ We recommend [namecheap.com][namecheap] for registering domains.
 Canonical names make your hostname point to another. You want www.mycoolurl.com to point to www.myuncoolurl.herokuapp.com.
 
 
- On namecheap.com:    
-1. Log in.
-2. Hover over "My account" and click "manage domains".
-3. Click on your domain.
-4. Click "All Host records" in the blue menu on the left.
-5. In the "www" row
+*On namecheap.com:*
+ 
+0. Log in.
+0. Hover over "My account" and click "manage domains".
+0. Click on your domain.
+0. Click "All Host records" in the blue menu on the left.
+0. In the "www" row
     * Enter the URL you want to point to under the "IP Address/URL" column.    
     * Select CNAME (Alias) under "Record Type".    
-6. Click "Save Changes".
+0. Click "Save Changes".
 
- In your terminal    
-1. Navigate to the directory that holds your portfolio's repo.
-2. Run "heroku domains:add www.mycoolurl.com".
 
-More detailed instructions:
-[namecheap.com setup][namecheap-tutorial]    
+*In your terminal*
+ 
+0. Navigate to the directory that holds your portfolio's repo.
+0. Run "heroku domains:add www.mycoolurl.com".
+
+More detailed instructions:    
+[namecheap setup][namecheap-tutorial]
 [heroku setup][heroku-tutorial]    
 
 [heroku-tutorial]: https://devcenter.heroku.com/articles/custom-domains
@@ -77,16 +80,16 @@ For your inspiration here are some examples from past alumni.
 * [Asher King Ambramson][asher]
 * [April Goldman][april]
 * [Dylan Clark][dylan]
-* [Ryan Sepassi][ryan]
 * [Sarah Mogin][sarah]
 * [Sean Omlor][sean]
+* [Teo Dell'Amico][teo] (used a paid template).
 
 [asher]: http://asherkingabramson.com/
 [april]: http://aprilgoldman.com/
 [dylan]: http://www.dylnclrk.io/
-[ryan]: http://www.ryansepassi.com/
 [sarah]: http://www.sarahmogin.com/
 [sean]: http://seanomlor.com/
+[teo]: http://www.dellamico.com
 
 ## Quick hacks
 
