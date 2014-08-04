@@ -220,3 +220,5 @@
 [programmingpraxis]: http://programmingpraxis.com/
 [blakerepo]: https://github.com/blakeembrey/code-problems
 [top-coder]: http://www.topcoder.com/
+[talentbuddy]: http://www.talentbuddy.co/
+[code wars]: http://www.codewars.com/about
