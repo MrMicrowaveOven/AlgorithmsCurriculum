@@ -33,4 +33,4 @@
 In the post-course curriculum you will learn about data structures and algorithms.
 You will implement linked lists, binary trees, hashes, etc. in Ruby.
 These implementations are actually rare in Ruby, so these are cool things to have.
-Keep them in explicitely named repos, eg. "Ruby Linked List". Employers will <3.
+Keep them in explicitly named repos, eg. "Ruby Linked List". Employers will <3.
