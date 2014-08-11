@@ -201,12 +201,13 @@
 * [Codility][codility]
 * [Daily Programmer Subreddit][dailyprogrammer]
 * [Front-End Dev Questions][front-end-questions]
-* [Project Euleur][project-euler]
+* [Project Euler][project-euler]
 * [Rails Dev Quesitons][rails-dev-questions]
 * [InterviewCake][interview-cake]
 * [CodingForInterviews (weekly newsletter)][coding-for-interviews]
 * [Blake Embrey's Github Repo of Problems][blakerepo]
 * [Top Coder][top-coder]
+* [Code Eval][code-eval]
 
 [code-combat]: https://codecombat.com/
 [coderbyte]: http://coderbyte.com/
@@ -222,3 +223,4 @@
 [top-coder]: http://www.topcoder.com/
 [talentbuddy]: http://www.talentbuddy.co/
 [code wars]: http://www.codewars.com/about
+[code-eval]: http://www.codeeval.com
