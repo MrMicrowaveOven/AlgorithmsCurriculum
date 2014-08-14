@@ -196,31 +196,44 @@
 
 ## Interview Prep
 
-* [Code Combat][code-combat]
+**Interactive exercises**
+* [Code Combat][code combat]
 * [Coderbyte][coderbyte]
+* [Code Eval][code-eval]
+* [Code Wars][code wars]
 * [Codility][codility]
+* [HackerRank][hackerrank]
+* [InterviewCake][interview-cake]
+* [Top Coder][top-coder]
+* [Talentbuddy][talentbuddy]
+
+**Whiteboard exercises**
+* [Blake Embrey's Github Repo of Problems][blakerepo]
+* [CodingForInterviews (weekly newsletter)][coding-for-interviews]
 * [Daily Programmer Subreddit][dailyprogrammer]
 * [Front-End Dev Questions][front-end-questions]
+* [Programming Praxis][programming praxis]
 * [Project Euler][project-euler]
 * [Rails Dev Quesitons][rails-dev-questions]
-* [InterviewCake][interview-cake]
-* [CodingForInterviews (weekly newsletter)][coding-for-interviews]
-* [Blake Embrey's Github Repo of Problems][blakerepo]
-* [Top Coder][top-coder]
-* [Code Eval][code-eval]
 
-[code-combat]: https://codecombat.com/
+
+[code combat]: https://codecombat.com/
 [coderbyte]: http://coderbyte.com/
 [codility]: https://codility.com/demo/train/
-[dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
-[front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
+[code wars]: http://www.codewars.com/
+[code-eval]: http://www.codeeval.com
+[hackerrank]: https://www.hackerrank.com/
+[talentbuddy]: http://www.talentbuddy.co/
+[top-coder]: http://www.topcoder.com/
+
+[blakerepo]: https://github.com/blakeembrey/code-problems
 [project-euler]: https://projecteuler.net/
 [rails-dev-questions]: https://gist.github.com/ryansobol/5252653
 [interview-cake]: https://www.interviewcake.com/
+[dailyprogrammer]: http://www.reddit.com/r/dailyprogrammer
+[front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
 [coding-for-interviews]: http://codingforinterviews.com/
-[programmingpraxis]: http://programmingpraxis.com/
-[blakerepo]: https://github.com/blakeembrey/code-problems
-[top-coder]: http://www.topcoder.com/
-[talentbuddy]: http://www.talentbuddy.co/
-[code wars]: http://www.codewars.com/about
-[code-eval]: http://www.codeeval.com
+[programming praxis]: http://programmingpraxis.com/
+
+
+
