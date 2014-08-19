@@ -52,6 +52,7 @@ Always a good place to look for companies that are hiring.
   * [Founders Fund][founders-fund]
   * [Google Ventures][google-ventures]
   * [Lowercase Capital][lowercase]
+  * [New Entreprise Associates][nea]
   * [Sequoia Capital][sequoia]
   * [YCombinator][yc-jobs]
 
@@ -95,6 +96,7 @@ https://twitter.com/benchmark/lists/current-venture-portfolio
 [founders-fund]: http://ventureloop.com/foundersfund2011/
 [google-ventures]: http://www.gv.com/portfolio/
 [lowercase]: http://lowercasecapital.com/posse/
+[nea]: http://www.nea.com/portfolio
 [sequoia]:
 http://jobs.sequoiacap.com/careers_home.php?ind=&bayVals=1,2,3,4,5&usVals=13&globalVals=&stag=&func=12&tech=12&buss=
 [yc-jobs]: https://news.ycombinator.com/jobs
