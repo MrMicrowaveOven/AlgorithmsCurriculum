@@ -29,4 +29,4 @@ in 2014 makes between $94,850 and $153,792 in San Francisco. In New York it's be
 [sf-front-end]: http://www.indeed.com/salary?q1=junior+front+end+developer&l1=san+francisco
 
 [angellist]: https://angel.co/salaries
-[riviera]: http://rivierapartners.com/2013/11/07/2013-q3-software-engineering-salaries-silicon-valley/
+[riviera]: http://rivierapartners.com/engineering-salaries-reviewed/
