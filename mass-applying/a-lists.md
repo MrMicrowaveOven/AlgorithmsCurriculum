@@ -76,7 +76,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 [policymic]: http://mic.com/jobs
 [quartz]: http://qz.com/152800/hiring/
 [quirky]: http://www.quirky.com/about/careers
-[rapgenius]: http://news.rapgenius.com/Rap-genius-engineering-team-rap-genius-is-hiring-help-us-annotate-the-world-annotated
+[rapgenius]: http://meta.genius.com/Genius-jobs-at-genius-help-us-annotate-the-world-annotated
 [sailthru]: https://www.sailthru.com/careers/
 [shapeways]: http://www.shapeways.com/jobs
 [skillshare]: http://www.skillshare.com/about#careers
