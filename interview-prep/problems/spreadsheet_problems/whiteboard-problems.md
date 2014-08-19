@@ -113,10 +113,7 @@ maybe LL), but try them out.
 * Given a number, find its prime factorization (`6 = 3 * 2`, `48 =
   2**3 * 3`).
 * Given a number `n`, calculate `2**n` in `log_2(n)` steps.
-* 
 
-## Some other challenges
-http://challenge.greplin.com/
 
 ## Resources
 * https://github.com/ruby-jokes/job_interview
