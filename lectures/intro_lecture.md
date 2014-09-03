@@ -16,6 +16,12 @@
 ## 4: Apply many places
 * Very high economic stakes
 * Until you've applied 200 places, you just don't know.
+* Where to apply?
+* How to apply?
+  * Think of it as a notification
+  * Keep a separate list of companies you like and will apply to later
+
+## 5: Be a Rockstar
 * You have to be a rockstar.
 * Be the frontman and the guitarist
 * It's luck and chemistry: find a place that likes you
@@ -24,7 +30,7 @@
   * Become "one of us"
   * Get free dinner
 
-## 5: Advantages of Having Many Interviews?
+## 6: Advantages of Having Many Interviews?
 * Learn about the industry, keep momentum
 * a/A grads get 1 offer for 2 interviews
   * It's not continuous
@@ -34,7 +40,7 @@
   * Earlier offers come from smaller companies
   * You get better at interviews, get better offers
 
-## 6: Turtle & the Hare
+## 7: Turtle & the Hare
 * Hare codes fast, Turtle is slow.
 * Turtle applies to 200 places, hare applies to 50.
 * Turtle gets 100 rejections, hare gets 25.
@@ -45,17 +51,17 @@
 * Turtle negotiates one up to $105k.
 * Hare takes $70k for lack of alternatives.
 
-## 7: Jobberwocky
+## 8: Jobberwocky
 
-## 8: Hiring Bootcamp Resources
+## 9: Job Search Resources
+* gChat!
 * Places to apply: spreadsheet, job boards
 * Portfolio, resume, cover letter advice
 * Stock emails
 * Data points for negotiating
-* Interview soft prep
 
-## 9: Pairboarding
+## 10: Pairboarding
 * Every day at 10am
 
-## 10: Questions?
+## 11: Questions?
 

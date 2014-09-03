@@ -33,6 +33,7 @@ CEO, C-suite
  * If they push for less wait time, you get to ask for more.
 
 # Assembling a package
+* Full-time vs. Part-time
 * Base
 * Benefits
 * Bonus 
