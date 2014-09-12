@@ -5,7 +5,7 @@ No one likes opening Word documents. When your résumé is done, export it to a 
 
 Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom there's a template to make your own résumé too. Gayle Laakman McDowell is the author of [Cracking the Coding Interview][cracking-interview].
 
-Here's one [example][non-tech-resume-1] inspired from a student who did not have a tech background and here's [another][non-tech-resume-2]. (Don't use the same templates!)
+Here's one [example][non-tech-resume-1] inspired from a student who did not have a tech background and here's [another][non-tech-resume-2. Here are [two][template-1] [templates][template-2] to get you started. **Change the font, color scheme, and layout before using them**. Employers do not like seeing similar résumés.
 
 Finally, here's a fun hack for putting together a prototype: [json resume][json-resume]. The PDF export isn't great. You'll want to export to HTML and make final touches on that. Then open the HTML file in Chrome and print it to PDF.
 
@@ -13,6 +13,8 @@ Finally, here's a fun hack for putting together a prototype: [json resume][json-
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [non-tech-resume-1]: ./non-technical-resume.pdf
 [non-tech-resume-2]: ./non-technical-resume2.pdf
+[template-1]: https://docs.google.com/document/d/1ExXb2ZTXwfsOmWM7tgRDBDasTarktUbXVquROfD8H70/edit
+[template-2]: https://docs.google.com/document/d/1ekwHgkA1L9YHnOGMiNr4H8WnoylH42j9PSzawtL5v50/edit
 [json-resume]: http://jsonresume.org/
 
 # Layout
