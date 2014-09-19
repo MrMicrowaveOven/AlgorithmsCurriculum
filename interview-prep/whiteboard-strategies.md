@@ -56,7 +56,7 @@ faster.)
 
 **Dynamic Programming**    
 Divide the problem into smaller but equal subproblems that overlap.    
-*See the [Max Subsum][max-subsum] problem.    
+*See the [Max Subsum][max-subsum] problem.*    
 
 [max-subsum]: pairboarding/questions/08B.md
 
