@@ -40,7 +40,8 @@ clear.
   0. make sure you understand the problem,
   0. internalize the problem,
   0. start thinking about how to abstract it.
-* Process two or three easy cases on board to build an intution.
+* Ask clarifying questions about the input. For example, if the function takes an array of numbers. Are they just any numbers? People’s ages, ie. integers between 0 and 130? Temperatures, ie. floats between -459.67 10**32?
+* Process two or three easy cases on board to build an intuition.
 * Build and explain your roadmap.
 
 ## Break down and simplify
