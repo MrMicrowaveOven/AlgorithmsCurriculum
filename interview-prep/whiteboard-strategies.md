@@ -50,8 +50,8 @@ of the current number inside your hash. Then add that number to your hash.
 **Righty-Tighty**    
 Sort the input when dealing with ordered values.    
 *"Get the k biggest elements in an array."*    
-=> Sort the array and get the k last elements. (Yield n * log(n) performance.    
-Using a heap to track the k biggest elements is n * log(k), which is necessarily
+=> Sort the array and get the k last elements. (Yields n * log(n) performance.    
+Notes that using a heap to track the k biggest elements is n * log(k), therefore necessarily
 faster.)    
 
 **Dynamic Programming**    
