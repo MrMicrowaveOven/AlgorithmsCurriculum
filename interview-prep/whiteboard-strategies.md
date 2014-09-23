@@ -36,7 +36,7 @@ Sacrifice space for time with a data structure like a stack or a heap (also see 
 *"Implement a stack class with a #max_value method that returns the biggest element in its store."* (Hint 6)    
 
 **The Walk and Map**    
-Organize elements into as hash as you iterate over them.    
+Organize elements into a hash as you iterate over them.    
 *"Find all number pairs in an array that sum to 0"* (Hint 7)    
 
 **Righty-Tighty**    
