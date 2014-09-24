@@ -54,8 +54,6 @@ Change your input arithmetically.
 *"In an array of unique integers between 1 and n where one element occurs
 k times, find the repeat."* (Hint 9)    
 
-[how-to-sum]: http://www.wikihow.com/Sum-the-Integers-from-1-to-N
-
 
 ## To Improve Space Efficiency
 
@@ -66,8 +64,10 @@ to modify the input value.
 *"Reverse a singly-linked list."* (Hint 10)    
 
 **Try the Trie**    
-If the elements in your input share prefixes of any length, use a trie.    
+If the elements in your input share prefixes of any length, use a [trie][trie-wiki].    
 *"How would you efficiently store a billion phone numbers?"* (Hint 11)    
+
+[trie-wiki]: http://en.wikipedia.org/wiki/Trie
 
 
 ## Hints
@@ -89,3 +89,5 @@ sum, divded by k.
 step, make the middle node point to the back node. Move on toward the front.    
 11. Keep them all in a trie since phone numbers cluster around area codes,
 central office codes, and subscriber numbers.    
+
+[how-to-sum]: http://www.wikihow.com/Sum-the-Integers-from-1-to-N
