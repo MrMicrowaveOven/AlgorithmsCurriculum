@@ -5,6 +5,10 @@ Let's consider the data. Keep in mind that you are more mid-level than junior wh
 You don't need to bring up these references directly during
 negotiations, but being familiar with them should be helpful.    
 
+*NB: Do not bring up App Academy averages unless you know the company has already
+hired several a/A grads. Those numbers don't mean anything to most companies and
+are too easy to deflect.*
+
 
 ##Indeed
 
