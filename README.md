@@ -135,9 +135,11 @@
 
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
+* Memorize your answer to that interview question with [these bullets][browser-navigation].
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+[browser-navigation]: ./interview-prep/browser-navigation.md
 
 **W3D2**
 
@@ -149,9 +151,9 @@
 
 **W3D3**
 
-* Read this interviewer's take on the [ideal whiteboard interview][ideal-whiteboard].
+* Memorize [ways to make a website faster][performance-cheat-sheet]
 
-[ideal-whiteboard]: ./interview-prep/ideal-whiteboard.md
+[performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
 **W3D4**
 
