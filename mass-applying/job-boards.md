@@ -12,7 +12,7 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
 
 ##Marketplaces
 Fill these out once and check them every now and then. Reuse the same text as for your LinkedIn summary.
-Hired.com vets you with a 90 minute coding challenge. The coding challenege is tough so take a couple [HackerRank][hackerrank] tests to prepare.
+Hired.com vets you with a 90 minute coding challenge. The coding challenge is tough so take a couple [HackerRank][hackerrank] tests to prepare.
   * [AngelList][angellist]*
   * [Enginapp][enginapp]
   * [Hired.com][hired]
