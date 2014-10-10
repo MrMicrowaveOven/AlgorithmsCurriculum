@@ -33,9 +33,9 @@ Here's an [example][example-cover-letter] of some cool templating. Note that thi
 
 # Cover Letter Template
 
-Keep the language casual. Make it more formal if the company seems less laid back (especially if they're based in New York). If you are applying to a specific position, name that position in the subject line. This way you can start off strong with a "I am a web developer with experience in X, Y and Z".
+Keep the language casual. Make it more formal if the company seems less laid back (especially if they're based in New York). In the subject line, name the position you're applying for and the city it's in, separated by a dash. Default to something more generic if you're not applying for a particular position, eg. "Software Developer" or "Rails Developer" if it's a Rails shop. This way you can start off strong with a "I am a web developer with experience in X, Y and Z". Do not open with "I would like to apply to the Ruby developer position listed on your website". That's boring.
 
-Write two sentences about the company and why you want to work there. Don't sell them on generic excitement about how awesome the team is and what a collaborative work environment they have. That's only convincing if you've actually met people there or visited their office. Your letter will be a lot more compelling if you can mention something you know about the industry they're in and why that appeals to you. If you spend five minutes on a job application, four of those should be for scanning the Wikipedia article about the industry they're in and picking out buzzwords.
+Somehwere in your letter write two sentences about the company and why you want to work there. Don't sell them on generic excitement about how awesome the team is and what a collaborative work environment they have. That's only convincing if you've actually met people there or visited their office. Your letter will be a lot more compelling if you can mention something you know about the industry they're in and why that appeals to you. If you spend five minutes on a job application, four of those should be for scanning the Wikipedia article about the industry they're in and picking out buzzwords.
 
 Consider these examples:
 
@@ -52,7 +52,7 @@ Cover the following points, not necessarily in this order:
 
 * What are your skills?
 * What is your background (if it is relevant)?
-* What kind of company do you want to join? (Keep it generic.)
+* What kind of company do you want to join? (Keep this generic.)
 * What about this company matches that? (The one sentence you might change for each application.)
 * Mention the materials you're sending along (résumé + github + one or two live links).
 
