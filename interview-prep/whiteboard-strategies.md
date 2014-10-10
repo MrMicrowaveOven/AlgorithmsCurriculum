@@ -83,7 +83,7 @@ of the current number inside your hash. Then add that number to your hash.
 Using a heap to track the k biggest elements is n * log(k), which is necessarily
 faster.)    
 9. Sum the array. The repeat is the difference between n * (n + 1) / 2 and that
-sum, divded by k.    
+sum, divided by k.    
 (See [How to sum integers from 1 to N][how-to-sum].)    
 10. Walk down the list with a three-node window: front, middle, and back. At every
 step, make the middle node point to the back node. Move on toward the front.    
