@@ -12,4 +12,4 @@ This will come up at interviews. Memorize it.
 0. Browser parses the response
 0. Browser checks the headers, in particular the status code.
 0. Browser goes down each HTML element and either paints the DOM or executes the tag
-0. The browser builds a new GET request for each CSS or JS tag, goes through the same steps as above, an runs the code before proceeding.
+0. The browser builds a new GET request for each CSS or JS tag, goes through the same steps as above, and runs the code before proceeding.
