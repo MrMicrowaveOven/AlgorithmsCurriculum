@@ -21,8 +21,7 @@
 [apple-sf]:
 https://jobs.apple.com/us/search?jobFunction=SFWEG#location&t=0&sb=req_open_dt&so=1&j=SFWEG&lo=1*953*USA&pN=0
 [apple-ny]:
-https://jobs.apple.com/us/search?jobFunction=SFWEG#location&t=0&sb=req_open_dt&so=1&j=SFWEG&lo=3*NYC*USA*985*R250*New
-York&pN=0
+https://jobs.apple.com/us/search?jobFunction=SFWEG#location&t=0&sb=req_open_dt&so=1&j=SFWEG&lo=3*NYC*USA*985*R250*New York&pN=0
 
 [Google-sf]: https://www.google.com/about/jobs/search/#t=sq&q=j&jl=Mountain%20View,CA&jc=SOFTWARE_ENGINEERING&jc=HARDWARE_ENGINEERING&jc=NETWORK_ENGINEERING&jc=USER_EXPERIENCE&jc=TECHNICAL_INFRASTRUCTURE_ENGINEERING
 [Twitter]: https://twitter.com/jobs/engineering
