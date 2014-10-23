@@ -82,10 +82,15 @@ To indentify cool problems you solved, make a quick list of five neat features i
 * Does your Javascript use any math to resize something in the DOM?    
 * Did you use a library in a way that its author probably didn't anticipate?    
 * Do you have any data that's nested one degree deeper than usual?    
-* Did you override a Rails or Backbone.js method? (eg. parse or as_json)    
+* Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)    
 * Do your ActiveRecord models run any custom SQL queries?    
-* Did you make any trade-offs related to performance?    
+* Did you make any trade-offs related to performance, eg. store information that's costly to compute?    
+* Are you doing any caching?    
 * Do you make AJAX requests to any unexpected routes?    
+* Did you write a custom CompositeView class with a recursive #remove method?    
+* Does your chess game make a recursive deep_up to validate moves without modifying the game state?
+* Do your chess pieces inherit from a Slideable and Steppable class?
+
 
 *Note: Students often use the past tense to describe each solution, eg. "Overrode Backbone's default Model#parse method to..." That's too wordy. Use the present tense in the third person (ie. your project itself). "Overrides Backbone's default Model#parse method to..."*
 
