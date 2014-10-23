@@ -106,6 +106,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 * [Meteor][meteor]
 * [Quora][quora]
 * [Netflix][netflix]
+* [Pandora][pandora]
 * [Firebase][firebase]
 * [Instacart][instacart]
 * [Mixpanel][mixpanel]
@@ -125,6 +126,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 [meteor]: https://www.meteor.com/jobs
 [quora]: http://www.quora.com/careers
 [netflix]: http://jobs.netflix.com
+[pandora]: http://www.pandora.com/careers/
 [firebase]: https://www.firebase.com/jobs.html
 [instacart]: https://www.instacart.com/jobs
 [mixpanel]: https://mixpanel.com/jobs/
