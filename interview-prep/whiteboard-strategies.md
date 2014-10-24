@@ -54,6 +54,9 @@ Change your input arithmetically.
 *"In an array of unique integers between 1 and n where one element occurs
 k times, find the repeat."* (Hint 9)    
 
+**Window Scan**    
+When you need to consider windows within an array (all continuous subsequences of a fixed length), use a queue to implement the window. As you scan through the array, pop scanned elements out of the queue on one end and push new ones in at the other.    
+*"Given an array and a window length, find the window containing the elements with the greatest sum."* (Hint 10)
 
 ## To Improve Space Efficiency
 
@@ -61,11 +64,11 @@ k times, find the repeat."* (Hint 9)
 A solution is considered O(1) space if it only requires a constant amount of
 space in addition to the size of the input. This works great when you are allowed
 to modify the input value.    
-*"Reverse a singly-linked list."* (Hint 10)    
+*"Reverse a singly-linked list."* (Hint 11)    
 
 **Try the Trie**    
 If the elements in your input share prefixes of any length, use a [trie][trie-wiki].    
-*"How would you efficiently store a billion phone numbers?"* (Hint 11)    
+*"How would you efficiently store a billion phone numbers?"* (Hint 12)    
 
 [trie-wiki]: http://en.wikipedia.org/wiki/Trie
 
@@ -85,9 +88,12 @@ faster.)
 9. Sum the array. The repeat is the difference between n * (n + 1) / 2 and that
 sum, divided by k.    
 (See [How to sum integers from 1 to N][how-to-sum].)    
-10. Walk down the list with a three-node window: front, middle, and back. At every
+10. Push and pop the elements out of a queue that represents the window. Keep track
+of the queue's sum by subtracting the popped element and adding the
+pushed element each time.
+11. Walk down the list with a three-node window: front, middle, and back. At every
 step, make the middle node point to the back node. Move on toward the front.    
-11. Keep them all in a trie since phone numbers cluster around area codes,
+12. Keep them all in a trie since phone numbers cluster around area codes,
 central office codes, and subscriber numbers.    
 
 [how-to-sum]: http://www.wikihow.com/Sum-the-Integers-from-1-to-N
