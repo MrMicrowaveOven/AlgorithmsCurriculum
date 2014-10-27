@@ -6,6 +6,15 @@ Unnatural as it feels, this formality can score you a lot of points at an interv
 
 If you're good at selling yourself, this is where you shine. Otherwise no worries. A 1 minute, well-rehearsed spiel is all you need to sound prepared and professional.
 
+## Brainstorming
+
+As you brainstorm talking points about your career trajectory and how you got into web development, ask yourself these questions:
+
+* When did you write your first line of code? Writing BASIC functions on your TI graphing calculator in middle school counts. That’s how a lot of successful programers got started.
+* Why did you choose to major in X?
+* How did you decide on web development?
+* How do your major and web development relate in your mind (Get creative)
+* What online resources did you use before applying to App Academy?
 
 ## Your 60-second life's story
 
