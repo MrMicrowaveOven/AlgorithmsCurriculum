@@ -17,8 +17,7 @@
 ## Week 1: The Warm Up
 * Prepare your résumé and Github.
 * Polish your pitch.
-* Apply to the big companies.
-* Apply to 75 companies in your area.
+* Build your job search roadmap: a list of 200 companies that you will apply to.
 
 **W1D1**
 
@@ -30,18 +29,16 @@
 
 [jobberwocky-signup]: http://jobberwocky.appacademy.io/
 [resume]: ./self-presentation/resume.md
-[github]: ./self-presentation/github.md
 [portfolio]: ./self-presentation/portfolio.md
 [cover-letter]: ./self-presentation/cover_letter.md
 
 **W1D2**
 
-* [Apply to the big tech companies.][fortune500]
-* [Clean up your Github.][github]
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
     * Do pairboarding every weekday at 11am until you are employed.
     * Rehearse the harder questions once you get through the list.
     * Try [Codility][codility] if you want to do more on your own.
+* Finish your résumé and cover letter.
 
 [fortune500]: ./mass-applying/fortune500.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
@@ -53,43 +50,53 @@
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the
   job market places.
+* Map out your job search with a list of 200 companies.
+  * Copy [this template][roadmap-template].
+  * Rank companies 1 to 3.
+  * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
+  * 2 means "Looks like a cool place". Pick seventy-five.
+  * 1 means "Want to work there". Pick twenty-five.
 
 
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering-culture/meetups.md
 [job-boards]: ./mass-applying/job-boards.md
+[roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
 
 **W1D4**
 
 * Work on your [personal projects][personal-projects].
 * Read about [performance analysis and big O][big-o].
+* [Clean up your Github.][github]
+* Add companies to your roadmap using:
+  * One of the tech companies spreadsheets (link is above).
+  * The Jobberwocky companies index.
+  * The [A List][a-list] of tech companies.
 
 [big-o]: ./interview-prep/big_o.md
+[github]: ./self-presentation/github.md
 [personal-projects]: ./self-presentation/personal-projects.md
+[a-list]: ./mass-applying/a-lists.md
 
 **W1D5**
 
 * [Polish your personal pitch.][personal-pitch]
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Apply to these [places that want a/A graduates.][aa-fan-club]
-
+* Email Simon your résumé, cover letter, and job search roadmap.
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
-[aa-fan-club]: ./mass-applying/aa-fan-club.md
-
 
 ## Week 2: Spray and Pray
 
-* Apply to 100 companies.
+* Apply to a hundred companies. Start with those in category 3.
 
 **W2D1**
 
+* [Apply to the big tech companies.][fortune500]
 * Read about [job search etiquette][job-search-etiquette]
-* Read about [making a website faster][website-optimization]
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
-[website-optimization]: http://developer.yahoo.com/performance/rules.html
 
 **W2D2**
 
@@ -112,8 +119,7 @@
 
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
-* You can also check out this [HackerNews
-  article][hn-negotiation-article]
+* You can also check out this [HackerNewsarticle][hn-negotiation-article]
 
 [offer-negotiation]: ./negotiating/email-negotiations.md
 [salary-data]: ./negotiating/salary-data.md
@@ -127,9 +133,9 @@
 [algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
 
 
-## Week 3: Keep Spraying
+## Week 3: Focus
 
-* Apply to 50 companies.
+* Apply to 100 companies, starting with the 2s and finishing with the 1s.
 
 **W3D1**
 
@@ -151,7 +157,7 @@
 
 **W3D3**
 
-* Memorize [ways to make a website faster][performance-cheat-sheet]
+* Memorize [the ways to make a website faster][performance-cheat-sheet]
 
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
