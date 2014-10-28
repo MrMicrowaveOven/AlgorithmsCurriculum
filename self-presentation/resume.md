@@ -1,21 +1,26 @@
 # Preparing your Resume
-Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap.    
+Every student coming out of App Academy is much better in practice than they
+look on paper. The goal here is to close that gap.    
 
-No one likes opening Word documents. When your résumé is done, export it to a PDF.    
+No one likes opening Word documents. When your résumé is done, export it to a
+PDF.    
 
-Check out Gayle Laakmann McDowell's [model résumé][glm-resume]. At the bottom there's a template to make your own résumé too. Gayle Laakman McDowell is the author of [Cracking the Coding Interview][cracking-interview].
+Check out Gayle Laakmann McDowell's [model résumé][glm-résumé]. At the bottom
+there's a template to make your own résumé too. Gayle Laakman McDowell is the
+author of [Cracking the Coding Interview][cracking-interview].
 
-Here's one [example][non-tech-resume-1] inspired from a student who did not have a tech background and here's [another][non-tech-resume-2]. Here are [two][template-1] [templates][template-2] to get you started. **Change the font, color scheme, and layout before using them**. Employers do not like seeing similar résumés.
+Here's one [example][non-tech-résumé-1] inspired from a student who did not
+have a tech background and here's [another][non-tech-résumé-2]. Here are some
+[templates][drive-templates] to get you started. **Change the font, color
+scheme, and layout before using them**. Employers do not like seeing similar
+résumés.
 
-Finally, here's a fun hack for putting together a prototype: [json resume][json-resume]. The PDF export isn't great. You'll want to export to HTML and make final touches on that. Then open the HTML file in Chrome and print it to PDF.
-
-[glm-resume]: http://www.careercup.com/resume
+[glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
-[non-tech-resume-1]: ./non-technical-resume.pdf
-[non-tech-resume-2]: ./non-technical-resume2.pdf
-[template-1]: https://docs.google.com/document/d/1ExXb2ZTXwfsOmWM7tgRDBDasTarktUbXVquROfD8H70/edit
-[template-2]: https://docs.google.com/document/d/1ekwHgkA1L9YHnOGMiNr4H8WnoylH42j9PSzawtL5v50/edit
-[json-resume]: http://jsonresume.org/
+[non-tech-résumé-1]: ./non-technical-resume.pdf
+[non-tech-résumé-2]: ./non-technical-resume2.pdf
+[drive-templates]: https://drive.google.com/open?id=0B3noREts_wUyMFZHWVhvcUUtU1E&authuser=0
+[json-résumé]: http://jsonresume.org/
 
 # Layout
 * ONE PAGE ONLY
@@ -24,29 +29,34 @@ Finally, here's a fun hack for putting together a prototype: [json resume][json-
 
 # Content
 
-In the world of people, having a diversity of interests and experiences is a beautiful thing. In the world of tech recruiting, expertise is much more valuable. If you had various non-tech jobs before App Academy, choose them carefully so you don't spread yourself thin.    
+In the world of people, having a diversity of interests and experiences is a
+beautiful thing. In the world of tech recruiting, expertise is much more
+valuable. If you had various non-tech jobs before App Academy, choose them
+carefully so you don't spread yourself thin.    
  
-You don't want to leave out large chunks of time either. In general you can include roles you held for over a year. Keep in mind that these become less relevant as you go further back in time. If your previous job was not tech-related, you need an extra good answer to anyone who asks you why you're making this transition. Their concern will be that you're only in it for the money.    
-
- Use this bar for what goes on your résumé:
-* Ask yourself: would I score real points with my interviewer for talking about this more than 5 minutes?
-* If the answer is no, leave it out.
-* You can make one or two exceptions if your résumé is getting too
-  light.
-
-
+You don't want to leave out large chunks of time either. In general you can
+include roles you held for over a year. Keep in mind that these become less
+relevant as you go further back in time. If your previous job was not
+tech-related, you need an extra good answer to anyone who asks you why you're
+making this transition. One of their concerns will be that you're only in it
+for the money.    
 
 ## Relevant Links
+
 * Github
-* Portfolio
+* Portfolio Site
 * LinkedIn
 
-Bonus (if they're good):
+Bonus (if they're good)
+
 * Tumblr
 * Twitter
+* Quora
 
 ## Skills
- List these skills, and any other relevant ones.
+
+List these skills, and any other relevant ones.
+
 * Ruby
 * Ruby on Rails
 * JavaScript
@@ -57,7 +67,7 @@ Bonus (if they're good):
 * HTML
 * CSS
 
- *Do not* try to organize your skills by proficiency. Ie. Don't do this:    
+Don't try to organize your skills by proficiency. Ie. Don't do this:    
     Proficient: Ruby, Rails, JS    
     Familiar: SQL, Backbone
 
@@ -65,20 +75,29 @@ Bonus (if they're good):
     Ruby, Rails, JS, Backbone, C (learning)
 
 ## Technical
-* List your past projects and the main technologies you used (no need to mention jQuery or jQuery UI).
-* For each project, highlight one or two cool features and a problem you solved while implementing it.
-	* Did you bootstrap some data to avoid extraneous AJAX requests? Did you make some tough choices in your database schema? Did you use cookies to store anything other than a session token?
-* Look up how to spell and capitalize the technologies you mention.
 
+Your projects are one of your biggest selling points so sell them well. First,
+don't make employers scan your Github profile to find each project you list on
+your résumé. Provide a direct link next to each project. Second, don't just
+list every library you used. That's boring. Only indicate the main ones like
+Rails and Backbone, and the unexpected ones like HTML5's Canvas. Finally, what
+matters the most to employers is the features you built and the problems you
+solved to build them. Anytime you had to sit back and think about a feature
+before implementing it, you were solving a problem. Try to think of at least
+two cool solutions you came up with for each project.
 
-Your projects are one of your biggest selling points so sell them well.    
-* Don't discourage employers by having them fish through your Github profile. Provide direct links.
-* Don't list every single library you used. What matters is the features you built and the problems you solved on the way. Anytime you had to sit back and think about a feature before implementing it, you were solving a problem.
+To indentify cool problems you solved, make a quick list of five neat features
+in your app. Step through the code that powers each feature. At every step,
+consider whether you could have built things differently. If looking back you
+find that there were actually different ways to do it, that's a good sign that
+you solved an interesting problem.
 
-To indentify cool problems you solved, make a quick list of five neat features in your app. Step through the code that powers each feature. At every step, consider whether you could have built things differently. If looking back you find that there were actually different ways to do it, that's a good that sign you solved an interesting problem.
+To get you brainstorming:    
 
- To get you brainstorming:    
 * Did you find some clever way to DRY up your code?    
+* Did you bootstrap some data to avoid extraneous AJAX requests?
+* Did you make some tough choices in your database schema?
+* Did you use cookies to store anything other than a session token?
 * Does your Javascript use any math to resize something in the DOM?    
 * Did you use a library in a way that its author probably didn't anticipate?    
 * Do you have any data that's nested one degree deeper than usual?    
@@ -92,36 +111,34 @@ To indentify cool problems you solved, make a quick list of five neat features i
 * Do your chess pieces inherit from a Slideable and Steppable class?
 
 
-*Note: Students often use the past tense to describe each solution, eg. "Overrode Backbone's default Model#parse method to..." That's too wordy. Use the present tense in the third person (ie. your project itself). "Overrides Backbone's default Model#parse method to..."*
+*Caution:*
+
+* Students often use the past tense to describe each solution, eg. "Overrode
+  Backbone's default Model#parse method to..." That's too wordy. Use the
+  present tense in the third person (ie. your project itself). "Overrides
+  Backbone's default Model#parse method to..."*
+* Look up the proper spelling and capitalization for the technologies you mention.
 
 ## Work
-Unless you worked as a web developer, this section is mainly to demonstrate that you are a professional. No need to add much detail.
 
+The difference between a compelling work history and a boring one is whether you
+have identified the *results* of your work.
 
-Things to leave out:
+Lucky for you most work histories out there are in the boring category.
+Candidates merely go through past jobs and list the responsibilities they had
+at each one. That's basically useless because those responsibilities only make
+sense to someone who knows how the company actually worked. Your reader cares
+about success, not process.    
 
-* Service jobs that paid the bills (waiter, grocery clerk, library assistant...).
-* Internships or jobs you had over two years ago that have nothing to do with computers or the web.
+In other words employers care about the outcomes of what you did at past jobs.
+Someone who can talk about outcomes is someone who a) made a difference at
+their job, however small, b) cares about results, and therefore c) is likely to
+produce results at their next job.    
 
-Things to include:
-
-* Jobs where the web or some other computer technology was involved (eg. QA Tester).
-   * Highlight a time when you taught yourself something technical on the job.
-* Jobs where number-crunching was involved (analyst-type roles).
-
-Emphasize **results**:
-
-Most resumes are boring. Candidates merely go through past jobs and
-list the responsibilities they had at each job. That's basically useless because
-those responsibilities only make sense to someone who knows how the
-company actually worked. Your reader cares about success, not process.    
-
-In other words employers care about the *outcome* of what you did at past jobs. Someone who can talk about outcomes is someone who a) made a difference at their job, however small, b) cares about results, and therefore c) is likely to produce results at their next job.    
-
-Results don't have to be achievements. You don't have to oversee a
-turnaround or save the CEO's life to earn a selling point. Simply
-describing something that sounds like success is a big plus. Consider
-the following blurbs.    
+Results don't have to be achievements. You don't have to oversee a company
+turnaround or be named employee of the month for a year straight to earn a
+selling point. Simply describing something that sounds like success is a big
+plus. Consider the following blurbs.    
 
 *Wrote scripts to test new product before shipping.*    
 
@@ -129,26 +146,39 @@ vs.
 
 *Wrote scripts to test new product before shipping. Achieved one test per feature, resulting in bug-free launch.*    
 
-Who knows if that's a meaningful benchmark? Maybe there weren't that many features. Or maybe the product still had bugs and they just didn't turn up during the launch. The key is you get to frame it. Even when all you did was "just your job", doing just your job often results in something akin to success. By describing that succes, you position yourself as a winner and at the very least make your résumé more interesting. If your readers aren't impressed, at least they'll be thankful.    
+Who knows if that's a meaningful benchmark? Maybe there weren't that many
+features. Or maybe the product still had bugs and they just didn't turn up
+during the launch. The key here is that you get to frame it. Even when all you
+did was "just your job", doing just your job often results in something akin to
+success. By describing that succes, you position yourself as a winner and at
+the very least make your résumé more interesting. If your readers aren't
+impressed, at least they'll be thankful.    
 
 Note: The extra sentence describing results takes more space. Two longer
 bullet points that convey success are much stronger than four bullet
-points that only describe process (no matter what proportion of your
+points that only describe process (no matter what portion of your
 previous job you're leaving out).    
 
 
 ## Education
-* Few employers know how selective App Academy is, so it doesn't
-  represent a credential (in fact many employers *prefer* people who
-are self-taught). You can choose whether or not to include it in your
-résumé. Just be aware that it might hurt you because of the low
-quality of other similar programs. Of course when you are asked, you
-should definitely explain the whole story of how you got into web
-development and mention App Academy. Don't sell yourself short here. You did App Academy,
-but you were only admitted on the basis of what you were able to teach
-yourself. It's most likely you looked into some technologies on your own before
-applying.    
-* It's totally cool to leave out this section if you don't have a college degree.
+
+**App Academy**
+
+Now that you are an App Academy student, selling yourself requires you to sell
+employers on the quality of App Academy. You also want to make sure employers
+understand you are not a sucker who fell for a get-rich-quick scheme. In your
+résumé, mention that App Academy's admissions rate is below 5% and that the
+teaching emphasizes coding style and best practices.
+
+**College**
+
+If you took CS-related courses in college, add a "Curriculum Highlights" section
+under the name of your degree and list those courses. Linear algebra, statistics,
+and Electrical Engineering courses are also relevant here.
+
+Include your GPA if you graduated 5 years ago or less and if it's above 2.5 for a
+STEM subject or 3.0 for a non-STEM subject. (Note on GPAs: most employers won't
+care about them, but a few will. This is just for them.)
 
 ## If you have neither a college degree nor relevant work experience
 Many students have graduated from App Academy without a college degree
@@ -159,6 +189,7 @@ famous for appreciating non-traditional backgrounds.
 The key in this case is to make a strong personal impression. You don't
 want the reader to come away thinking "OK they can code. But I have no
 idea what else to expect from this person." You have to be creative.
+
 * Have you ever done volunteer work?
 * Do you have some interesting hobbies that would make you stand out?
 * It'll also be important to write enthusiastic cover letters that show
@@ -168,7 +199,7 @@ If it's the case, you can mention "Left college in good
 academic standing for financial reasons / to pursue web development."
 
 ## Checklist
-Before you submit your resume for review, make sure you can answer yes
+Before you submit your résumé for review, make sure you can answer yes
 to all these questions.
 
 * Layout
