@@ -39,10 +39,13 @@ Good resources to hit your daily quota.
   * [Authentic Jobs][authentic]
   * Craigslist [SF][craigslist-sf] and [NY][craigslist-ny]
   * [Dice][dice]
+  * [Indeed][indeed]
   * [Monster][monster]
   * [The Muse][the-muse]
+  * [RubyNow][rubynow]
   * [SimplyHired][simplyhired]
   * [VentureLoop][ventureloop]
+  * [Zurb][zurb]
 
 ##VC Funds
 
@@ -85,10 +88,13 @@ check 'Show Active' on the left).
 [craigslist-sf]: http://sfbay.craigslist.org/sof/
 [craigslist-ny]: http://newyork.craigslist.org/sof/
 [dice]: http://www.dice.com/
+[indeed]: http://www.indeed.com/
 [monster]: http://www.monster.com/
 [the-muse]: http://www.themuse.com/jobs
+[rubynow]: http://jobs.rubynow.com/
 [simplyhired]: http://www.simplyhired.com/
 [ventureloop]: http://ventureloop.com/ventureloop/home.php
+[zurb]: http://zurb.com/jobs#programming
 
 [andreessen]: http://a16z.com/portfolio/
 [benchmark]:
