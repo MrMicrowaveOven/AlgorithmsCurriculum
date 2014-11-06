@@ -1,5 +1,10 @@
 # Interviewing
 
+## Reading
+
+https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/
+https://www.palantir.com/2011/10/the-coding-interview/
+
 Best ways to get good at it, in order:
 * Do a lot of interviews,
 * Practice, with a life-like setting,

@@ -1,5 +1,12 @@
 # Systems Design
 
+## Reading
+*Don't let this reading scare you. Even at Palantir engineers aren't expected
+to know all these things. If you're interested in the topic, look up
+the concepts mentioned on Wikipedia.*
+
+https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
+
 A few companies will tell you to prepare for systems design problems.
 The good news is this means you'll have to solve interesting problems by
 considering various tradeoffs, rather than worry about finding the one
