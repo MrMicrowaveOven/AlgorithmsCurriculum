@@ -39,6 +39,6 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 [GA-ny]: http://www.quora.com/What-should-every-entrepreneur-in-New-York-City-do
 [google-sv]: http://www.meetup.com/gdg-silicon-valley/
 [sf-ruby]: http://www.meetup.com/sfruby/
-[sf-rails]: www.meetup.com/sfrails/
+[sf-rails]: http://www.meetup.com/sfrails/
 [cfa-sf]: http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/
 [EBJavascript]: http://www.meetup.com/EBJavaScript/
