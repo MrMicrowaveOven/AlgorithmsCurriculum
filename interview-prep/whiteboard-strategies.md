@@ -93,7 +93,7 @@ If the elements in your input share prefixes of any length, use a [trie][trie-wi
 3. For an input array A, assume you have the max subarray MSub, as well as the
 biggest subarray that includes the last element inside A, called LSub. Now append
 a new element E. Is LSub + E greater than LSub? If it is, is LSub + E greater than MSub?   
-4. Append the input string to itself. The needle will be a substring of the result.    
+4. Append the input string to itself. Strings A and B will be substrings of the result.    
 5. Have pointers on either end converge toward the middle.    
 6. Make two pointers travel down the list a different speeds.    
 7. Push all new max elements into a stack that tracks the order of max elements.    
