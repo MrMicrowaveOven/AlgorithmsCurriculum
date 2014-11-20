@@ -1,7 +1,5 @@
 # Whiteboard Strategies
 
-Familiarize yourself with these. They will come in handy.
-
 ## General
 
 **Baby Steps**    
