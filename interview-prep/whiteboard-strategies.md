@@ -19,7 +19,7 @@ Do something twice.
 *"Reverse the words in a sentence while maintaining the order of the characters
 in those words."* (Hint 3)   
 *"Find if the characters in a string B are the same order as those in another
-string A given a wraparound."* (Hint 4)    
+string A assuming that the characters wrap around."* (Hint 4)    
 
 **Two Fingers**    
 Keep two pointers inside the same iteration.    
