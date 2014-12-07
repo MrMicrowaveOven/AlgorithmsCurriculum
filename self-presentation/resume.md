@@ -107,7 +107,7 @@ To get you brainstorming:
 * Are you doing any caching?    
 * Do you make AJAX requests to any unexpected routes?    
 * Did you write a custom CompositeView class with a recursive #remove method?    
-* Does your chess game make a recursive deep_up to validate moves without modifying the game state?
+* Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
 * Do your chess pieces inherit from a Slideable and Steppable class?
 
 
