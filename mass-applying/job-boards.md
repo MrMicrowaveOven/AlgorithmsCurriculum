@@ -38,6 +38,7 @@ These online communities post job boards on the first of each month. Set a remin
 Good resources to hit your daily quota.
   * [Authentic Jobs][authentic]
   * Craigslist [SF][craigslist-sf] and [NY][craigslist-ny]
+  * [CSS Tricks][css tricks]
   * [Dice][dice]
   * [Indeed][indeed]
   * [Monster][monster]
@@ -87,6 +88,7 @@ check 'Show Active' on the left).
 [authentic]: http://www.authenticjobs.com/
 [craigslist-sf]: http://sfbay.craigslist.org/sof/
 [craigslist-ny]: http://newyork.craigslist.org/sof/
+[css tricks]: http://css-tricks.com/jobs/
 [dice]: http://www.dice.com/
 [indeed]: http://www.indeed.com/
 [monster]: http://www.monster.com/
