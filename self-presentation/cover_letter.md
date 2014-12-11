@@ -74,8 +74,6 @@ The subject line is just to find your email in an crowded inbox. "Junior Rails E
 Set up a signature with your mail client. Include the link to your portfolio site.
 
 You could try something like this:
-
-    Best,
     
     Mark Zuckerberg
     markzuckerberg.com
