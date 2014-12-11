@@ -38,6 +38,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 * [Sailthru][sailthru]
 * [Shapeways][shapeways]
 * [Skillshare][skillshare]
+* [Spotify][spotify]
 * [Square][square]
 * [SquareSpace][squarespace]
 * [The Muse][themuse]
@@ -80,6 +81,7 @@ by a fancy VC and maybe known to your tech-minded friends".
 [sailthru]: https://www.sailthru.com/careers/
 [shapeways]: http://www.shapeways.com/jobs
 [skillshare]: http://www.skillshare.com/about#careers
+[spotify]: https://www.spotify.com/jobs/
 [square]: http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Jobs
 [squarespace]: http://www.squarespace.com/about/careers/
 [themuse]: https://www.themuse.com/jobs
@@ -93,7 +95,6 @@ by a fancy VC and maybe known to your tech-minded friends".
 
 * [Dropbox][dropbox]
 * [Palantir][palantir]
-* [Spotify][spotify]
 * [Pinterest][pinterest]
 * [Uber][uber]
 * [Square][square]
@@ -113,7 +114,6 @@ by a fancy VC and maybe known to your tech-minded friends".
 
 [dropbox]: https://www.dropbox.com/jobs
 [palantir]: http://www.palantir.com/careers
-[spotify]: https://www.spotify.com/jobs/
 [pinterest]: http://about.pinterest.com/en/careers
 [uber]: https://www.uber.com/jobs/list
 [square]: http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Jobs
