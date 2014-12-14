@@ -10,7 +10,7 @@ If you're good at selling yourself, this is where you shine. Otherwise no worrie
 
 As you brainstorm talking points about your career trajectory and how you got into web development, ask yourself these questions:
 
-* When did you write your first line of code? Writing BASIC functions on your TI graphing calculator in middle school counts. That’s how a lot of successful programers got started.
+* When did you write your first line of code? Writing BASIC functions on your TI graphing calculator in middle school counts. That’s how a lot of successful programmers got started.
 * Why did you choose to major in X?
 * How did you decide on web development?
 * How do your major and web development relate in your mind (Get creative)
