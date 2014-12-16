@@ -74,7 +74,7 @@ check 'Show Active' on the left).
 [mattermark]: http://mattermark.com/app/Newsletter
 
 [angellist]: http://angel.co/
-[enginapp]: http://enginapp.com/
+[enginapp]: http://www.enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
 [toptal]: http://www.toptal.com/developer
