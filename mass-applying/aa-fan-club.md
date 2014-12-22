@@ -5,7 +5,7 @@ grads. They want your application.
 
 ## San Francisco
 
-* [Causes][causes]
+* [Brigade Media][brigade]
 * [Chute][chute]
 * [Graph Science][graph-science]
 * [Flywheel Networks][flywheel]
@@ -17,7 +17,7 @@ grads. They want your application.
 * [Univesity Now][unow]
 * [Wikimedia Foundation][wikimedia]
 
-[causes]: https://www.causes.com/
+[brigade]: http://brigade.com/
 [chute]: http://www.getchute.com/
 [graph-science]: http://www.graphscience.com/
 [flywheel]: http://flywheelnetworks.com/
