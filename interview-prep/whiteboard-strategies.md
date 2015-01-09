@@ -1,5 +1,7 @@
 # Whiteboard Strategies
 
+*Hints are at the bottom.*
+
 ## General
 
 **Baby Steps**    
