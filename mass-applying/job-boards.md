@@ -18,6 +18,7 @@ Hired.com vets you with a 90 minute coding challenge. The coding challenge is to
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
   * [StackOverflow][stackoverflow]
+  * [Symni][symni]
   * [Toptal][toptal]
   * [Underdog][underdog] (New York only)
   * [White Truffle][white-truffle]
@@ -77,8 +78,9 @@ check 'Show Active' on the left).
 [enginapp]: http://www.enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
-[toptal]: http://www.toptal.com/developer
 [stackoverflow]: http://careers.stackoverflow.com/
+[symni]: https://symni.com/
+[toptal]: http://www.toptal.com/developer
 [underdog]: http://www.underdog.io/
 [white-truffle]: https://www.whitetruffle.com/
 
