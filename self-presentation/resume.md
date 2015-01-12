@@ -76,21 +76,40 @@ Don't try to organize your skills by proficiency. Ie. Don't do this:
 
 ## Technical
 
+**What to Include**
+
+Your résumé should highlight three projects you worked on. Two projects is ok
+if they're both good. At four, you're leaving it up to chance which projects
+employers look at and which they ignore.
+
+The three projects should be:
+
+0. A Backbone-on-Rails app to show you know the full stack
+0. A fun browser game for non-technical reviewers to appreciate
+0. A complex project for technical reviewers that shows strong Object-Oriented
+  Design skills.
+
+The first and second **must** be deployed and available to view online. Otherwise
+they aren't serving their purpose. The third should include a detailed Readme
+that links to the neatest parts of the code.
+
+**Selling your Projects**
+
 Your projects are one of your biggest selling points so sell them well. First,
 don't make employers scan your Github profile to find each project you list on
 your résumé. Provide a direct link next to each project. Second, don't just
 list every library you used. That's boring. Only indicate the main ones like
 Rails and Backbone, and the unexpected ones like HTML5's Canvas. Finally, what
-matters the most to employers is the features you built and the problems you
-solved to build them. Anytime you had to sit back and think about a feature
+matters the most to employers are the features you built and the problems you
+solved to build them. Any time you had to sit back and think about a feature
 before implementing it, you were solving a problem. Try to think of at least
 two cool solutions you came up with for each project.
 
-To indentify cool problems you solved, make a quick list of five neat features
-in your app. Step through the code that powers each feature. At every step,
+To indentify cool problems you solved, make a list of five neat features in
+your app. Step through the code that powers each feature. At every step,
 consider whether you could have built things differently. If looking back you
-find that there were actually different ways to do it, that's a good sign that
-you solved an interesting problem.
+find that there were actually different ways to do it, that's a sign that you
+solved an interesting problem.
 
 To get you brainstorming:    
 
@@ -114,10 +133,11 @@ To get you brainstorming:
 *Caution:*
 
 * Students often use the past tense to describe each solution, eg. "Overrode
-  Backbone's default Model#parse method to..." That's too wordy. Use the
-  present tense in the third person (ie. your project itself). "Overrides
-  Backbone's default Model#parse method to..."*
-* Look up the proper spelling and capitalization for the technologies you mention.
+  Backbone's default Model#parse method to..." It's less exciting if it's in
+  the past. Use the present tense in the third person (ie. your project
+  itself). "Overrides Backbone's default Model#parse method to..."
+* Look up the proper spelling and capitalization for the technologies you
+  mention.
 
 ## Work
 
