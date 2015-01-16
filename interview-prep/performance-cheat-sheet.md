@@ -2,8 +2,11 @@
 
 Read these two articles, then memorize this recap list.
 
-* developer.yahoo.com/performance/rules.html
-* browserdiet.com/en
+* [Yahoo Performance Rules][yahoo-performance]
+* [browserdiet][browserdiet]
+
+[yahoo-performance]: https://developer.yahoo.com/performance/rules.html
+[browserdiet]: http://browserdiet.com/en/
 
 Items in brackets are ones that are good to know about although you can't implement them for your own projects.
 
@@ -11,18 +14,26 @@ Items in brackets are ones that are good to know about although you can't implem
 
 **At the DB Layer**
 
-* Lol_dba
-* Rack-mini-profiler
+* [lol_dba][lol_dba]
+* [rack-mini-profiler][rack-mini-profiler]
+
+[lol_dba]: https://github.com/plentz/lol_dba
+[rack-mini-profiler]: https://github.com/MiniProfiler/rack-mini-profiler
 
 **At the Application Layer**
 
 * Benchmark module
-* Bullet
+* [bullet][bullet]
+
+[bullet]: https://github.com/flyerhzm/bullet
 
 **On the Frontend**
 
-* TriggerHappy
-* PageSpeed
+* [TriggerHappy][trigger-happy]
+* [PageSpeed Insights][pagespeed]
+
+[trigger-happy]: https://github.com/drwrchrds/backbone.TriggerHappy
+[pagespeed]: https://developers.google.com/speed/pagespeed/insights/
 
 **Across the Stack**
 
