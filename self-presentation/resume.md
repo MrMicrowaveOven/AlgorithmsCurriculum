@@ -227,7 +227,7 @@ to all these questions.
   1. (List work history first if you were paid to write code.)
 
 * Projects
-  0. Do you list three to five coding projects, including one Rails app and
+  0. Do you list three or four coding projects, including one Rails app and
   one Javascript demo (eg. a game)?
   0. Does each project include a link to the Github repo and one to the
   live demo?
