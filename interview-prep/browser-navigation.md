@@ -13,3 +13,7 @@ This will come up at interviews. Memorize it.
 0. Browser checks the headers, in particular the status code.
 0. Browser goes down each HTML element and either paints the DOM or executes the tag
 0. The browser builds a new GET request for each CSS or JS tag, goes through the same steps as above, and runs the code before proceeding.
+
+For more detail, see [this github repo][what happens repo] dedicated to the question.
+
+[what happens repo]: https://github.com/alex/what-happens-when
