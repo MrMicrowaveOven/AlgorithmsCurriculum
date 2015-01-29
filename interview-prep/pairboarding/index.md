@@ -1,7 +1,7 @@
 # Pairboarding
 
 Before you get started, read the [tips][tips] on solving whiteboard
-problems.
+problems.  Do practice on a whiteboard or on paper, it's what you'll be using during in-person interviews.  
 
 [tips]: tips.md
 
