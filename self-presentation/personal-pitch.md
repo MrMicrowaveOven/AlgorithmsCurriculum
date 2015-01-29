@@ -25,7 +25,7 @@ As you brainstorm talking points about your career trajectory and how you got in
 * When I picked up Ruby, I immediately got hooked.
 * I wanted to take it to the next level so I took some classes.
     * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Ruby Monk.*
-* Now I know I want to make this my career.
+* I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  
 
 *Note: if you finished college more than 4 years ago, your life story starts with your first job after graduation (unless you did something really cool before).*
 
