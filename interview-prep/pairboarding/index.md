@@ -1,7 +1,7 @@
 # Pairboarding
 
 Before you get started, read the [tips][tips] on solving whiteboard
-problems.  Do practice on a whiteboard or on paper, it's what you'll be using during in-person interviews.  
+problems.   
 
 [tips]: tips.md
 
@@ -13,7 +13,7 @@ its solution. He/she makes the other student, the interviewee, solve
 the problem as if they were doing a real interview. The interviewer
 cannot give out an actual answer, but should keep the interviewee on
 track with leading questions. The interviewee cannot ask for a hint or
-answer, but may ask insightful questions.
+answer, but may ask insightful questions.  Practice at least some of the problems on a whiteboard or on paper, it's what you'll be given during in-person interviews. 
 
 Give yourself time before starting, to make sure you understand the
 problem you will give your interviewee as well as its solution. Keep
