@@ -15,7 +15,7 @@ h/t [Parker Phinney][parker]
 
 ## Before you start
 
- Ask questions    
+ Ask questions.  Don't rush, it's a problem-solving demo, not a speed-coding test.    
 * What are we optimizing for? Time? Space?    
 * Are there any constraints on the input set?    
 
