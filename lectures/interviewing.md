@@ -2,10 +2,12 @@
 
 ## Reading
 
-https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/
-https://www.palantir.com/2011/10/the-coding-interview/
+palantir.com/2011/09/how-to-ace-an-algorithms-interview
+
+palantir.com/2011/10/the-coding-interview
 
 Best ways to get good at it, in order:
+
 * Do a lot of interviews,
 * Practice, with a life-like setting,
 * Think about how you can do better.
@@ -74,4 +76,29 @@ aware of the trickier scope.
    * Noticing that there are several possibilities is good. Asking the
      interviewer which they favor is ok.
    * Offering your own take on it is even better.
+
+## Takeaways
+
+**Before Starting: Be Communicative**
+
+0. Restate the problem
+0. Run the function on small inputs
+0. State assumptions about the input that make the problem simpler
+0. Break down the problem into its functions
+0. Replace the problem with a simpler, related one if necessary
+0. Write a roadmap in the top right corner
+
+**During: Manage the Scope**
+
+0. Pick the easiest version of the problem and make that clear
+0. Simplify the problem
+0. Leave the straightforward parts for later
+
+
+**Before Stopping: Show Thoroughness**
+
+0. Ask if you should write out helper functions
+0. Refactor
+0. Analyze Time and Space performance
+0. Talk about other improvements and tradeoffs
 
