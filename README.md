@@ -222,7 +222,7 @@
 * [Front-End Dev Questions][front-end-questions]
 * [Programming Praxis][programming praxis]
 * [Project Euler][project-euler]
-* [Rails Dev Quesitons][rails-dev-questions]
+* [Rails Dev Questions][rails-dev-questions]
 
 
 [code combat]: https://codecombat.com/
