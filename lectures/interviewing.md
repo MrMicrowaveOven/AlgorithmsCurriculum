@@ -14,6 +14,23 @@ Best ways to get good at it, in order:
 
 This workshop does the latter.
 
+## Three Skills at Stake
+
+* People: Can you work with others?
+    * Talking
+    * Enthusiasm
+    * Picking up on hints
+
+* Instinct: Can you solve problems?
+    * Intuitions
+    * Heuristics
+    * Data structures & Algorithms
+
+* Code Fluency: Can you write bug-free code?
+    * Attention to detail
+    * Trace the stack in your head
+    * Catch edge cases and off-by-one errors
+
 ## General Tips
 
 0. Talk

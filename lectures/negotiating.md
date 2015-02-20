@@ -32,6 +32,7 @@ CEO, C-suite
 Don't talk salary until they make you an offer. If they insist, say
   * I just want fair market value.
   * I trust that [company]'s offer will be in that range.
+  * (If this is over the phone) I'll have to get back to you.
 
 If they insist on a number, say
   * [company] is probably better positioned to know what fair market value is.
@@ -58,6 +59,7 @@ If they insist on a number, say
 * Options
 
 ## How to value options
+
 An "option" means that you're guaranteed the ability to buy something in the
 future at a price that's set in the present. For example, American Airlines
 might buy oil options from Bank of America so that they can put an upper limit
@@ -66,7 +68,7 @@ dramatically.
 
 You might be given options to buy stock in your company when you're hired.
 Typically these are options to buy partial ownership of the company at its
-current valuation.  So, in theory, the company becomes worth a lot more in some
+current valuation. So, in theory, the company becomes worth a lot more in some
 years and you have the ability to buy a share of the company for the same price
 that you'd pay today. You exercise the option to buy shares at the old price,
 then sell those shares at the new price. In theory, you make a profit.
