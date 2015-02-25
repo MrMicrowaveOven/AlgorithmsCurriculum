@@ -8,7 +8,7 @@ Then email them a short thank-you note on the same evening.
 
 **At the Technical Interview**
 
-Here too ask for your interviewer's contact information if they don't give it first.
+Here, too, ask for your interviewer's contact information if they don't give it first.
 
 *"It was great to meet you. Do you have a card in case I have any more questions?"*
 
