@@ -10,8 +10,8 @@ But if you are going to keep non-web-related items, put them at the bottom of yo
 
 Your layout might look like this:    
 1. Summary    
-2. Skills & Expertise    
-3. Projects    
+2. Projects    
+3. Skills & Expertise   
 4. Education / Experience (whichever is most impressive)    
 
 
