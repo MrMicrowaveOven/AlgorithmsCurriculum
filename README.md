@@ -1,10 +1,10 @@
 # Job Search Curriculum
 
-[Jobberwocky][jobberwocky]    
-[Interview Questions][interview-questions]    
-[Pairboarding Index][pair-boarding-index]    
-[New York Tech Companies][ny-tech-companies]      
-[Bay Area Tech Companies][bay-tech-companies]    
+[Jobberwocky][jobberwocky]
+[Interview Questions][interview-questions]
+[Pairboarding Index][pair-boarding-index]
+[New York Tech Companies][ny-tech-companies]
+[Bay Area Tech Companies][bay-tech-companies]
 
 
 [jobberwocky]: http://jobberwocky.appacademy.io/
@@ -18,7 +18,7 @@
 * Prepare your résumé and Github.
 * Polish your pitch.
 * Build your job search roadmap: a list of 200 companies that you will apply to.
-* Final projects will be reviewed by staff.  
+* Final projects will be reviewed by staff.
 
 **W1D1**
 
@@ -35,7 +35,8 @@
 
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
     * Do pairboarding every weekday at 11am until you are employed.
-    * Rehearse the harder questions once you get through the list.
+    * Stay sharp using [these tests][algo-specs] only after you get
+      through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
 * Attend the Resumes and Cover Letters lecture.
 * [Draft your résumé.][resume]
@@ -45,11 +46,12 @@
 
 [fortune500]: ./mass-applying/fortune500.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
+[algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 
 **W1D3**
 
-* Get a friend to proof-read your resume and cover letter.  Make edits.  
-* [Job Boards][job-boards]: Sign up for job alerts and register on the 
+* Get a friend to proof-read your resume and cover letter.  Make edits.
+* [Job Boards][job-boards]: Sign up for job alerts and register on the
   job market places.
 * [Choose which Meetups you'll attend.][meetups]
 * Start mapping out your job search with a list of 200 companies.
@@ -58,7 +60,7 @@
   * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
   * 2 means "Looks like a cool place". Pick seventy-five.
   * 1 means "Want to work there". Pick twenty-five.
-* Attend Ned's algorithm lectures.  Do this every Mon/Wed/Fri.  
+* Attend Ned's algorithm lectures.  Do this every Mon/Wed/Fri.
 
 
 [linkedin]: ./self-presentation/linkedin.md
@@ -73,8 +75,8 @@
   * One of the tech companies spreadsheets (link is above).
   * The Jobberwocky companies index.
   * The [A List][a-list] of tech companies.
-* Attend the Resumes workshop.  
-* Finalize and submit your résumé, cover letter, and job search roadmap for review.  
+* Attend the Resumes workshop.
+* Finalize and submit your résumé, cover letter, and job search roadmap for review.
 
 [big-o]: ./interview-prep/big_o.md
 [github]: ./self-presentation/github.md
@@ -83,9 +85,9 @@
 
 **W1D5**
 
-* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.  
+* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Tie up any loose ends in your resume, Github, LinkedIn, JS game.  
+* Tie up any loose ends in your resume, Github, LinkedIn, JS game.
 * Finish mapping out your list of 200 companies.
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
@@ -93,23 +95,23 @@
 
 Optional Week1 projects:
 * Write tests for your [personal projects][personal-projects].
-* Make a new JS game.  This will make your projects stand out amongst other a/A grads.  
+* Make a new JS game.  This will make your projects stand out amongst other a/A grads.
 * [Get a simple portfolio site up.][portfolio]
 
 
 
 ## Week 2: Spray and Pray
 
-* Address comments from staff on your final project.  
-* Hold one-on-one job search meeting.  
+* Address comments from staff on your final project.
+* Hold one-on-one job search meeting.
 * Start applying to your first hundred companies. Start with those in category 3.
 
 **W2D1**
 
-* Fix bugs on your final project.  
-* [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.  
+* Fix bugs on your final project.
+* [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
 * Read about [job search etiquette][job-search-etiquette]
-* Continue pairboarding and attending algorithms lectures.  
+* Continue pairboarding and attending algorithms lectures.
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
 
@@ -117,7 +119,7 @@ Optional Week1 projects:
 
 * Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
-* Attend the Technical Interviews lecture.  
+* Attend the Technical Interviews lecture.
 
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
@@ -133,7 +135,7 @@ Optional Week1 projects:
 **W2D4**
 * Start reading about algorithms [here][algorithms-curriculum].
 * Find a few online lectures over the weekend to complement these.
-* Attend the Negotiations lecture.  
+* Attend the Negotiations lecture.
 
 
 [offer-negotiation]: ./negotiating/email-negotiations.md
@@ -141,8 +143,8 @@ Optional Week1 projects:
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
 **W2D5**
-* Make improvements to resume, cover letter, LinkedIn, Github, and projects.  
-* Get another friend to proof read your final resume and cover letter.  
+* Make improvements to resume, cover letter, LinkedIn, Github, and projects.
+* Get another friend to proof read your final resume and cover letter.
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
@@ -157,14 +159,14 @@ Optional Week2 projects:
 ## Week 3: Focus
 
 * Apply to 100 companies, starting with the 2s and finishing with the 1s.
-* Present your final project at Hiring Day.  
+* Present your final project at Hiring Day.
 
 **W3D1**
 
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
-* Prepare your final project presentation for Thursday's Graduation Day.  
+* Prepare your final project presentation for Thursday's Graduation Day.
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
@@ -172,7 +174,7 @@ Optional Week2 projects:
 
 **W3D2**
 
-* Attend final project presentation workshop.  
+* Attend final project presentation workshop.
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 * Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
 
@@ -181,14 +183,14 @@ Optional Week2 projects:
 
 **W3D3**
 
-* Tie up any loose ends before meeting with alumni and companies tomorrow.  
+* Tie up any loose ends before meeting with alumni and companies tomorrow.
 * Memorize [the ways to make a website faster][performance-cheat-sheet]
 
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
 **W3D4**
 
-* Finalize your application materials and your personal pitch.  
+* Finalize your application materials and your personal pitch.
 ==> HIRING DAY <==
 
 
