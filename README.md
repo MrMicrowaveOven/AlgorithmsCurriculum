@@ -22,8 +22,6 @@
 **W1D1**
 
 * Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
-* [Get a simple portfolio site up.][portfolio]
-     * Just put up the content for now. We'll do styling tomorrow.
 * [Format your résumé.][resume]
 * [Write your standard cover letter.][cover-letter]
 
@@ -46,7 +44,6 @@
 **W1D3**
 
 * [Update your LinkedIn profile.][linkedin]
-* Style your portfolio site.
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the
   job market places.
@@ -86,6 +83,11 @@
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
+
+Optional Week1 projects:
+* [Get a simple portfolio site up.][portfolio]
+
+
 
 ## Week 2: Spray and Pray
 
