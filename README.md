@@ -21,6 +21,7 @@
 
 **W1D1**
 
+* Your final project should have been turned in over the weekend.    
 * Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
 * [Format your résumé.][resume]
 * [Write your standard cover letter.][cover-letter]
@@ -36,7 +37,8 @@
     * Do pairboarding every weekday at 11am until you are employed.
     * Rehearse the harder questions once you get through the list.
     * Try [Codility][codility] if you want to do more on your own.
-* Finish your résumé and cover letter.
+* Attend the Resumes and Cover Letters lecture.
+* Draft your resume.  
 
 [fortune500]: ./mass-applying/fortune500.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
@@ -53,6 +55,7 @@
   * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
   * 2 means "Looks like a cool place". Pick seventy-five.
   * 1 means "Want to work there". Pick twenty-five.
+* Attend Ned's algorithm lectures
 
 
 [linkedin]: ./self-presentation/linkedin.md
