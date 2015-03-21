@@ -21,7 +21,8 @@
 
 **W1D1**
 
-* Clean up and beautify one of your JS games (or build a new JS game!)
+* Your final project should have been turned in over the weekend.  
+* Clean up and beautify one of your JS games (bonus points: build a new JS game!)
 * Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
 
 
