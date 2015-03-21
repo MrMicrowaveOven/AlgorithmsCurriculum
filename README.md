@@ -21,10 +21,10 @@
 
 **W1D1**
 
-* Your final project should have been turned in over the weekend.    
+* Your final project should have been turned in over the weekend.  
+* Clean up and beautify one of your JS games (or build a new JS game!)
 * Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
-* [Format your résumé.][resume]
-* [Write your standard cover letter.][cover-letter]
+
 
 [jobberwocky-signup]: http://jobberwocky.appacademy.io/
 [resume]: ./self-presentation/resume.md
@@ -38,24 +38,26 @@
     * Rehearse the harder questions once you get through the list.
     * Try [Codility][codility] if you want to do more on your own.
 * Attend the Resumes and Cover Letters lecture.
-* Draft your resume.  
+* [Draft your résumé.][resume]
+* [Write your cover letter.][cover-letter]
+* [Update your LinkedIn profile.][linkedin]
 
 [fortune500]: ./mass-applying/fortune500.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
 
 **W1D3**
 
-* [Update your LinkedIn profile.][linkedin]
-* [Choose which Meetups you'll attend.][meetups]
-* [Job Boards][job-boards]: Sign up for job alerts and register on the
+* Get a friend to proof-read your resume and cover letter. 
+* [Job Boards][job-boards]: Sign up for job alerts and register on the 
   job market places.
+* [Choose which Meetups you'll attend.][meetups]
 * Map out your job search with a list of 200 companies.
   * Copy [this template][roadmap-template].
   * Rank companies 1 to 3.
   * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
   * 2 means "Looks like a cool place". Pick seventy-five.
   * 1 means "Want to work there". Pick twenty-five.
-* Attend Ned's algorithm lectures
+* Attend Ned's algorithm lectures.  Do this every Mon/Wed/Fri.  
 
 
 [linkedin]: ./self-presentation/linkedin.md
@@ -72,6 +74,7 @@
   * One of the tech companies spreadsheets (link is above).
   * The Jobberwocky companies index.
   * The [A List][a-list] of tech companies.
+* Attend the Resumes workshop.  
 
 [big-o]: ./interview-prep/big_o.md
 [github]: ./self-presentation/github.md
@@ -82,7 +85,7 @@
 
 * [Polish your personal pitch.][personal-pitch]
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Email Simon your résumé, cover letter, and job search roadmap.
+* Submit your résumé, cover letter, and job search roadmap for review.  
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
