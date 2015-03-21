@@ -85,6 +85,7 @@
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
 
 Optional Week1 projects:
+* Make a different JS game.  This will make your projects stand out amongst other a/A grads.  
 * [Get a simple portfolio site up.][portfolio]
 
 
