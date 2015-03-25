@@ -85,7 +85,7 @@ employers look at and which they ignore.
 The three projects should be:
 
 0. A Backbone-on-Rails app to show you know the full stack
-0. A fun browser game for non-technical reviewers to appreciate (asteroids or snake, or better yet, a new game that you've that makes your resume is different from other a/A grads)
+0. A fun browser game for non-technical reviewers to appreciate (asteroids or snake, or better yet, a new game you've made that makes your resume different from other a/A grads)
 0. A complex project for technical reviewers that shows strong Object-Oriented
   Design skills.
 
