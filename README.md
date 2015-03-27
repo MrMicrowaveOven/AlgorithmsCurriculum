@@ -48,7 +48,7 @@
 
 **W1D3**
 
-* Get a friend to proof-read your resume and cover letter. 
+* Get a friend to proof-read your resume and cover letter.  Make edits.  
 * [Job Boards][job-boards]: Sign up for job alerts and register on the 
   job market places.
 * [Choose which Meetups you'll attend.][meetups]
@@ -74,7 +74,7 @@
   * The Jobberwocky companies index.
   * The [A List][a-list] of tech companies.
 * Attend the Resumes workshop.  
-* Finish mapping out your list of 200 companies.
+* Finalize and submit your résumé, cover letter, and job search roadmap for review.  
 
 [big-o]: ./interview-prep/big_o.md
 [github]: ./self-presentation/github.md
@@ -86,7 +86,7 @@
 * [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.  
 * Read: [What do software engineers actually do?][what-software-engineers-do]
 * Tie up any loose ends in your resume, Github, LinkedIn, JS game.  
-* Submit your résumé, cover letter, and job search roadmap for review.  
+* Finish mapping out your list of 200 companies.
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
