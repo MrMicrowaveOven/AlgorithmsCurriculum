@@ -18,6 +18,7 @@
 * Prepare your résumé and Github.
 * Polish your pitch.
 * Build your job search roadmap: a list of 200 companies that you will apply to.
+* Final projects will be reviewed by staff.  
 
 **W1D1**
 
@@ -38,7 +39,7 @@
     * Try [Codility][codility] if you want to do more on your own.
 * Attend the Resumes and Cover Letters lecture.
 * [Draft your résumé.][resume]
-* [Write your cover letter.][cover-letter]
+* [And your cover letter.][cover-letter]
 * [Update your LinkedIn profile.][linkedin]
 * [Clean up your Github.][github]
 
@@ -84,7 +85,7 @@
 
 * [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.  
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Tie up any loose ends in your resume, Github, LinkedIn, JS game, final project.  
+* Tie up any loose ends in your resume, Github, LinkedIn, JS game.  
 * Submit your résumé, cover letter, and job search roadmap for review.  
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
@@ -99,11 +100,13 @@ Optional Week1 projects:
 
 ## Week 2: Spray and Pray
 
-* Apply to a hundred companies. Start with those in category 3.
+* Address comments from staff on your final project.  
 * Hold one-on-one job search meeting.  
+* Start applying to your first hundred companies. Start with those in category 3.
 
 **W2D1**
 
+* Fix bugs on your final project.  
 * [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.  
 * Read about [job search etiquette][job-search-etiquette]
 * Continue pairboarding and attending algorithms lectures.  
@@ -114,6 +117,7 @@ Optional Week1 projects:
 
 * Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
+* Attend the Technical Interviews lecture.  
 
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
@@ -129,7 +133,7 @@ Optional Week1 projects:
 **W2D4**
 * Start reading about algorithms [here][algorithms-curriculum].
 * Find a few online lectures over the weekend to complement these.
-
+* Attend the Negotiations lecture.  
 
 
 [offer-negotiation]: ./negotiating/email-negotiations.md
