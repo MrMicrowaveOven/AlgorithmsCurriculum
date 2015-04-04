@@ -9,10 +9,11 @@ Unlike your résumé, you don't have to delete all non-web-related experience fr
 But if you are going to keep non-web-related items, put them at the bottom of your page.
 
 Your layout might look like this:
-1. Summary
-2. Projects
-3. Skills & Expertise
-4. Education / Experience (whichever is most impressive)
+
+1. Summary 
+2. Projects 
+3. Skills & Expertise 
+4. Education / Experience (whichever is most impressive) 
 
 
 ## Content
