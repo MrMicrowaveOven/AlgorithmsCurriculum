@@ -1,6 +1,6 @@
 # Link Yourself In
 
-Your LinkedIn profile matters. Some companies ignore your résumé and look only at your LinkedIn. Additionally, in-house recruiters rely on LinkedIn to scout talent. You can think of your LinkedIn profile as an exercize in search engine optimization.    
+Your LinkedIn profile matters. Some companies ignore your résumé and look only at your LinkedIn. Additionally, in-house recruiters rely on LinkedIn to scout talent. You can think of your LinkedIn profile as an exercise in search engine optimization.
 
 
 ## Layout
@@ -8,11 +8,11 @@ Your LinkedIn profile matters. Some companies ignore your résumé and look only
 Unlike your résumé, you don't have to delete all non-web-related experience from your LinkedIn.
 But if you are going to keep non-web-related items, put them at the bottom of your page.
 
-Your layout might look like this:    
-1. Summary    
-2. Projects    
-3. Skills & Expertise   
-4. Education / Experience (whichever is most impressive)    
+Your layout might look like this:
+1. Summary
+2. Projects
+3. Skills & Expertise
+4. Education / Experience (whichever is most impressive)
 
 
 ## Content
@@ -26,9 +26,9 @@ language such as "aspiring web developer".
 
 **Summary**
 
- Make your summary exciting. Show your enthusiasm!    
-* Mention that you are looking for opportunities    
-* List your main skills: Ruby, Rails, JavaScript, Backbone...    
+ Make your summary exciting. Show your enthusiasm!
+* Mention that you are looking for opportunities
+* List your main skills: Ruby, Rails, JavaScript, Backbone...
 
 These skills are also keywords that will stick out to employers. Throw in a couple buzzwords like "TDD", "pair-programming", MVC, REST...
 
