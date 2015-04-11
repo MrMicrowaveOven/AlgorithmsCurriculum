@@ -18,7 +18,7 @@
 * Prepare your résumé and Github.
 * Polish your pitch.
 * Build your job search roadmap: a list of 200 companies that you will apply to.
-* Final projects will be reviewed by staff.
+* Turn in your capstone project, and review comments from staff.    
 
 **W1D1**
 
@@ -54,9 +54,9 @@
 * [Job Boards][job-boards]: Sign up for job alerts and register on the
   job market places.
 * [Choose which Meetups you'll attend.][meetups]
-* Attend Ned's algorithm lectures.  Do this every Mon/Wed/Fri.
 * Personalize your Asteroids or Snake game, and make it pretty (or even better, build a new JS game from scratch!)
 
+* SF -- Attend Ned's algorithm lecture.  Do this every Mon/Wed/Fri.
 
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering-culture/meetups.md
@@ -65,15 +65,9 @@
 
 **W1D4**
 
-* Read about [performance analysis and big O][big-o].
-* * Start mapping out your job search with a list of 200 companies.
-  * Copy [this template][roadmap-template].
-  * Rank companies 1 to 3.
-  * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
-  * 2 means "Looks like a cool place". Pick seventy-five.
-  * 1 means "Want to work there". Pick twenty-five.
+* Have 2 friends to test your JS game.  Fix any bugs.  
 * Attend the Resumes workshop.
-* Finalize and submit your résumé, cover letter, and job search roadmap for review.
+* Finalize and submit your résumé, cover letter, and job search roadmap for review by Friday 9am.  
 
 [big-o]: ./interview-prep/big_o.md
 [github]: ./self-presentation/github.md
@@ -82,20 +76,22 @@
 
 **W1D5**
 
-* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.
+* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.  
 * Read: [What do software engineers actually do?][what-software-engineers-do]
-* Tie up any loose ends in your resume, Github, LinkedIn, JS game.
-* Add more companies to your Job Search Roadmap.  
+* Start mapping out your job search with a list of 200 companies.
+  * Copy [this template][roadmap-template].
+  * Rank companies 1 to 3.
+  * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
+  * 2 means "Looks like a cool place". Pick seventy-five.
+  * 1 means "Want to work there". Pick twenty-five.
 
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
 
 Optional Week1 projects:
-* Write tests for your [personal projects][personal-projects].
 * Make a new JS game from scratch.  This will make your projects stand out amongst other a/A grads.
 * [Get a simple portfolio site up.][portfolio]  You can link to this from your resume, and also use it in applications with recruiting firms like Hired.  
-
 
 
 ## Week 2: Spray and Pray
@@ -114,6 +110,7 @@ Optional Week1 projects:
   * The [A List][a-list] of tech companies.
 * Read about [job search etiquette][job-search-etiquette]
 * Continue pairboarding and attending algorithms lectures.
+* Read about [performance analysis and big O][big-o].
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
 
@@ -137,6 +134,7 @@ Optional Week1 projects:
 
 
 **W2D4**
+* Attend the first coding challenge.  Do this every day until you've completed all the challenges.  
 * Start reading about algorithms [here][algorithms-curriculum].
 * Find a few online lectures over the weekend to complement these.
 * Attend the Negotiations lecture.
@@ -148,7 +146,7 @@ Optional Week1 projects:
 
 **W2D5**
 * Make improvements to resume, cover letter, LinkedIn, Github, and projects.
-* Get another friend to proof read your final resume and cover letter.
+* Get another friend to proof read your finalized resume and cover letter.
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
@@ -156,6 +154,7 @@ Optional Week1 projects:
 [algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
 
 Optional Week2 projects:
+* Write tests for your [personal projects][personal-projects].
 * Practice building on top of [an existing codebase][kanban].
 * Pick an [open-source project to contribute to][open-source-projects].
 
