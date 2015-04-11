@@ -22,7 +22,7 @@
 
 **W1D1**
 
-* Clean up and beautify one of your JS games (bonus points: build a new JS game!)
+* Fix any last bugs in your Capstone Project.  Turn in your code by Tuesday 9am.  
 * Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
 
 
@@ -54,13 +54,8 @@
 * [Job Boards][job-boards]: Sign up for job alerts and register on the
   job market places.
 * [Choose which Meetups you'll attend.][meetups]
-* Start mapping out your job search with a list of 200 companies.
-  * Copy [this template][roadmap-template].
-  * Rank companies 1 to 3.
-  * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
-  * 2 means "Looks like a cool place". Pick seventy-five.
-  * 1 means "Want to work there". Pick twenty-five.
 * Attend Ned's algorithm lectures.  Do this every Mon/Wed/Fri.
+* Personalize your Asteroids or Snake game, and make it pretty (or even better, build a new JS game from scratch!)
 
 
 [linkedin]: ./self-presentation/linkedin.md
@@ -71,10 +66,12 @@
 **W1D4**
 
 * Read about [performance analysis and big O][big-o].
-* Add companies to your roadmap using:
-  * One of the tech companies spreadsheets (link is above).
-  * The Jobberwocky companies index.
-  * The [A List][a-list] of tech companies.
+* * Start mapping out your job search with a list of 200 companies.
+  * Copy [this template][roadmap-template].
+  * Rank companies 1 to 3.
+  * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
+  * 2 means "Looks like a cool place". Pick seventy-five.
+  * 1 means "Want to work there". Pick twenty-five.
 * Attend the Resumes workshop.
 * Finalize and submit your résumé, cover letter, and job search roadmap for review.
 
@@ -88,15 +85,16 @@
 * [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.
 * Read: [What do software engineers actually do?][what-software-engineers-do]
 * Tie up any loose ends in your resume, Github, LinkedIn, JS game.
-* Finish mapping out your list of 200 companies.
+* Add more companies to your Job Search Roadmap.  
+
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
 
 Optional Week1 projects:
 * Write tests for your [personal projects][personal-projects].
-* Make a new JS game.  This will make your projects stand out amongst other a/A grads.
-* [Get a simple portfolio site up.][portfolio]
+* Make a new JS game from scratch.  This will make your projects stand out amongst other a/A grads.
+* [Get a simple portfolio site up.][portfolio]  You can link to this from your resume, and also use it in applications with recruiting firms like Hired.  
 
 
 
@@ -108,8 +106,12 @@ Optional Week1 projects:
 
 **W2D1**
 
-* Fix bugs on your final project.
-* [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
+* Fix bugs on your final project.  Get a friend to test that the bugs are fixed.  
+* * Finish mapping out your list of 200 companies.
+  * Add companies to your list using 
+  * One of the tech companies spreadsheets (link is above).
+  * The Jobberwocky companies index.
+  * The [A List][a-list] of tech companies.
 * Read about [job search etiquette][job-search-etiquette]
 * Continue pairboarding and attending algorithms lectures.
 
@@ -120,6 +122,8 @@ Optional Week1 projects:
 * Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
 * Attend the Technical Interviews lecture.
+* * [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
+
 
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
