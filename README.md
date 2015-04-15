@@ -169,7 +169,6 @@ Optional Week2 projects:
 
 * Apply to 100 companies, starting with the 2s and finishing with the 1s.
 * Present your capstone project at Hiring Day.
-* Address any comments from staff on your application materials.  
 
 **W3D1**
 
