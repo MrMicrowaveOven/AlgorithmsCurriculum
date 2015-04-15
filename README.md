@@ -60,12 +60,13 @@
   job market places.
 * [Choose which Meetups you'll attend.][meetups]
 
-* SF -- Attend Ned's algorithm lecture.  Do this every Mon/Wed/Fri.
+* SF -- Attend Ned's [algorithm lecture][algorithms].  Do this every Mon/Wed/Fri.
 
 [linkedin]: ./self-presentation/linkedin.md
 [meetups]: ./engineering-culture/meetups.md
 [job-boards]: ./mass-applying/job-boards.md
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
+[algorithms]: ./algorithms-curriculum.md
 
 **W1D4**
 
