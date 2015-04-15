@@ -58,7 +58,6 @@
 * Get a friend to proof-read your resume and cover letter.  Make edits.
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
-
 * SF -- Attend Ned's [algorithm lecture][algorithms].  Do this every Mon/Wed/Fri.
 
 [linkedin]: ./self-presentation/linkedin.md
@@ -69,9 +68,9 @@
 
 **W1D4**
 
-* Have 2 friends to test your JS game.  Fix any bugs.  
+* Have 2 friends test your JS game.  Fix any bugs.  
 * Attend the Resumes workshop.
-* Finalize and submit your résumé, cover letter, and job search roadmap for review by Friday 9am.  
+* Finalize and submit your résumé, cover letter,  JS game, Github, and LinkedIn.  Turn in your cover letter and resume by Friday 9am.    
 
 [big-o]: ./interview-prep/big_o.md
 [github]: ./self-presentation/github.md
@@ -107,7 +106,7 @@ Optional Week1 projects:
 
 **W2D1**
 
-* Fix bugs on your final project.  Get a friend to test that the bugs are fixed.  
+* Fix bugs on your final project.  Get a friend to test whether the bugs are fixed.  
 * Finish mapping out your list of 200 companies.
   * Add companies to your list using 
   * One of the tech companies spreadsheets (link is above).
@@ -124,8 +123,7 @@ Optional Week1 projects:
 * Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
 * Attend the Technical Interviews lecture.
-* * [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
-
+* [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
 
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
@@ -134,6 +132,8 @@ Optional Week1 projects:
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
+* Study algorithms and continue pairboarding, in preparation for coding challenges.  
+* Start applying to your first 100 companies.  Begin with those in category 3.  
 [open-source-projects]: ./engineering-culture/open_source.md
 [kanban]: ./interview-prep/kanban.md
 
@@ -168,6 +168,7 @@ Optional Week2 projects:
 
 * Apply to 100 companies, starting with the 2s and finishing with the 1s.
 * Present your final project at Hiring Day.
+* Address any comments from staff on your application materials.  
 
 **W3D1**
 
@@ -182,7 +183,7 @@ Optional Week2 projects:
 
 **W3D2**
 
-* Attend final project presentation workshop.
+* Attend capstone project presentation workshop.
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 * Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
 
@@ -199,7 +200,7 @@ Optional Week2 projects:
 **W3D4**
 
 * Finalize your application materials and your personal pitch.
-==> HIRING DAY <==
+==> GRADUATION DAY <==
 
 
 
