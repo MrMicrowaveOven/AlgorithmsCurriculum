@@ -151,7 +151,7 @@ Optional Week1 projects:
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
 **W2D5**
-* Make improvements to resume, cover letter, LinkedIn, Github, and projects.
+* Address any comments on your resume, cover letter, LinkedIn, Github, and projects.
 * Get another friend to proof read your finalized resume and cover letter.
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
