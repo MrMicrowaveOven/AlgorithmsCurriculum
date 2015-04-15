@@ -89,6 +89,7 @@
   * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
   * 2 means "Looks like a cool place". Pick seventy-five.
   * 1 means "Want to work there". Pick twenty-five.
+* Read about [performance analysis and big O][big-o].
 
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
@@ -115,7 +116,7 @@ Optional Week1 projects:
   * The [A List][a-list] of tech companies.
 * Read about [job search etiquette][job-search-etiquette]
 * Continue pairboarding and attending algorithms lectures.
-* Read about [performance analysis and big O][big-o].
+
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
 
