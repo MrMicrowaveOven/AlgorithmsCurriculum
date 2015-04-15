@@ -100,7 +100,7 @@ Optional Week1 projects:
 
 ## Week 2: Spray and Pray
 
-* Address comments from staff on your final project.
+* Address comments from staff on your capstone project.
 * Hold one-on-one job search meeting.
 * Start applying to your first hundred companies. Start with those in category 3.
 
