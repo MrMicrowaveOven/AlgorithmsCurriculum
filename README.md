@@ -184,7 +184,7 @@ Optional Week2 projects:
 
 **W3D2**
 
-* Attend capstone project presentation workshop.
+* Attend the capstone project presentation workshop.
 * Memorize [the ways to make a website faster][performance-cheat-sheet]
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 * Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
