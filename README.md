@@ -113,7 +113,7 @@ Optional Week1 projects:
   * The Jobberwocky companies index.
   * The [A List][a-list] of tech companies.
 * Read about [job search etiquette][job-search-etiquette]
-* Continue pairboarding and attending algorithms lectures.
+* Continue pairboarding and attending algorithms lectures.  Coding challenges begin this week.  
 
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
@@ -132,7 +132,6 @@ Optional Week1 projects:
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
-* Study algorithms and continue pairboarding, in preparation for coding challenges.  
 * Start applying to your first 100 companies.  Begin with those in category 3.  
 [open-source-projects]: ./engineering-culture/open_source.md
 [kanban]: ./interview-prep/kanban.md
