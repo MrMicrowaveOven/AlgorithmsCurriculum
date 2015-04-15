@@ -12,6 +12,7 @@ I built my first website when I was 14, and have been involved in technology eve
 
 [company specific stuff] 
 If you have questions or if you want to schedule an interview, please contact me at 415-555-5724, or name@gmail.com. I look forward to meeting you to further discuss employment opportunities with [Company Name].
+
 Joe Bob
 
 
