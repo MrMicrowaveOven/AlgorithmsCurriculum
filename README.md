@@ -196,12 +196,17 @@ Optional Week2 projects:
 **W3D3**
 
 * Tie up any loose ends before meeting with alumni and companies tomorrow.
+    * Resume, cover letter, LinkedIn, Github. 
+    * Capstone project, JS project, any other project listed on your resume. 
+    * Your presentation, elevator speech, and personal pitch for use at the event tomorrow. 
+
 
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
 **W3D4**
 
-* Finalize your application materials and your personal pitch.
+* Finalize ayour application materials and your personal pitch.
+ 
 ==> GRADUATION DAY <==
 
 
