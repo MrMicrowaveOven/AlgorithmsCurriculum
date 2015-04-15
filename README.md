@@ -123,6 +123,7 @@ Optional Week1 projects:
 * Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
 * Attend the Technical Interviews lecture.
+* See the algorithms reading [here][algorithms-curriculum].
 * [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
 
 [typical-interview]: ./interview-prep/typical_interview.md
@@ -139,10 +140,8 @@ Optional Week1 projects:
 
 **W2D4**
 * Attend the first coding challenge.  Do this every day until you've completed all the challenges.  
-* Start reading about algorithms [here][algorithms-curriculum].
 * Find a few online lectures over the weekend to complement these.
 * Attend the Negotiations lecture.
-
 
 [offer-negotiation]: ./negotiating/email-negotiations.md
 [salary-data]: ./negotiating/salary-data.md
@@ -171,10 +170,11 @@ Optional Week2 projects:
 
 **W3D1**
 
+* Prepare your final project presentation for Thursday's Graduation Day.
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
-* Prepare your final project presentation for Thursday's Graduation Day.
+
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
@@ -183,6 +183,7 @@ Optional Week2 projects:
 **W3D2**
 
 * Attend capstone project presentation workshop.
+* Memorize [the ways to make a website faster][performance-cheat-sheet]
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 * Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
 
@@ -192,7 +193,6 @@ Optional Week2 projects:
 **W3D3**
 
 * Tie up any loose ends before meeting with alumni and companies tomorrow.
-* Memorize [the ways to make a website faster][performance-cheat-sheet]
 
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
@@ -204,7 +204,8 @@ Optional Week2 projects:
 
 
 **W3D5**
-
+* Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
+* There are also more algorithms lectures in the coming weeks.  
 
 
 
