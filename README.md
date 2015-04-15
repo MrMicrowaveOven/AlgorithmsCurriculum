@@ -1,9 +1,13 @@
 # Job Search Curriculum
 
 [Jobberwocky][jobberwocky]
+
 [Interview Questions][interview-questions]
+
 [Pairboarding Index][pair-boarding-index]
+
 [New York Tech Companies][ny-tech-companies]
+
 [Bay Area Tech Companies][bay-tech-companies]
 
 
@@ -22,7 +26,7 @@
 
 **W1D1**
 
-* Fix any last bugs in your Capstone Project.  Turn in your code by Tuesday 9am.  
+* Fix any last bugs in your Capstone Project.  Update your url on Progress Tracker.  Turn in your code by Tuesday 9am.  
 * Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
 
 
@@ -50,11 +54,11 @@
 
 **W1D3**
 
+* Personalize your Asteroids or Snake game, and make it pretty (or even better, build a new JS game from scratch)
 * Get a friend to proof-read your resume and cover letter.  Make edits.
 * [Job Boards][job-boards]: Sign up for job alerts and register on the
   job market places.
 * [Choose which Meetups you'll attend.][meetups]
-* Personalize your Asteroids or Snake game, and make it pretty (or even better, build a new JS game from scratch!)
 
 * SF -- Attend Ned's algorithm lecture.  Do this every Mon/Wed/Fri.
 
