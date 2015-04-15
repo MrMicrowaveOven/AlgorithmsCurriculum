@@ -2,7 +2,7 @@
 
 * See some example [cover letters][cover letters]
 
-[cover letters]: ./cover_letter_examples 
+[cover letters]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter_examples.md
 
 
 ## Foreword
