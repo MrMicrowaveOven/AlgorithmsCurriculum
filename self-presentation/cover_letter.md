@@ -1,5 +1,10 @@
 # The Cover Letter
 
+* See some example [cover letters][cover letters]
+
+[cover letters]: ./cover_letter_examples 
+
+
 ## Foreword
 
 **What are cover letters for?**
