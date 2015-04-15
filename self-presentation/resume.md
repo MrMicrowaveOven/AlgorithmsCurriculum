@@ -131,13 +131,13 @@ To get you brainstorming:
 
 When answering these questions, the key is to point out features you built that went above and beyond the basic requirements.  On your resume, you'll use these features as bullet points.  Consider the following 
 
-*Built a Ruby on Rail and Javascript app* 
+*Built a Ruby on Rails and Javascript app* 
 
 vs
 
 *Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.*
 
-In the first example, the quality of the site being described is ambiguous.  The second example describes a specific feature that makes the site sound intesting, and suggests a that the designer is a capable developer.  
+It's good to list the tech stack you used to build the site, but in the first example, the quality of the site is left ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests a that the designer is a capable developer.  
 
 
 *Caution:*
