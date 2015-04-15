@@ -46,7 +46,7 @@
 * [Draft your résumé.][resume]
 * [And your cover letter.][cover-letter]
 * [Update your LinkedIn profile.][linkedin]
-* [Clean up your Github.][github]
+
 
 [fortune500]: ./mass-applying/fortune500.md
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
