@@ -137,7 +137,7 @@ vs
 
 *Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.*
 
-It's good to list the tech stack you used to build the site, but in the first example, the quality of the site is left ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests a that the designer is a capable developer.  
+In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests a that the designer is a capable developer.  
 
 
 *Caution:*
