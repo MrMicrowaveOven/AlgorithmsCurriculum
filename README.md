@@ -56,8 +56,7 @@
 
 * Personalize your Asteroids or Snake game, and make it pretty (or even better, build a new JS game from scratch)
 * Get a friend to proof-read your resume and cover letter.  Make edits.
-* [Job Boards][job-boards]: Sign up for job alerts and register on the
-  job market places.
+* [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 * [Choose which Meetups you'll attend.][meetups]
 
 * SF -- Attend Ned's [algorithm lecture][algorithms].  Do this every Mon/Wed/Fri.
