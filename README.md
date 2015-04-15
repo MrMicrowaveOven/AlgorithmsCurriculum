@@ -82,7 +82,6 @@
 **W1D5**
 
 * [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.  
-* Read: [What do software engineers actually do?][what-software-engineers-do]
 * Start mapping out your job search with a list of 200 companies.
   * Copy [this template][roadmap-template].
   * Rank companies 1 to 3.
@@ -90,6 +89,7 @@
   * 2 means "Looks like a cool place". Pick seventy-five.
   * 1 means "Want to work there". Pick twenty-five.
 * Read about [performance analysis and big O][big-o].
+* Read: [What do software engineers actually do?][what-software-engineers-do]
 
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
@@ -109,7 +109,7 @@ Optional Week1 projects:
 **W2D1**
 
 * Fix bugs on your final project.  Get a friend to test that the bugs are fixed.  
-* * Finish mapping out your list of 200 companies.
+* Finish mapping out your list of 200 companies.
   * Add companies to your list using 
   * One of the tech companies spreadsheets (link is above).
   * The Jobberwocky companies index.
