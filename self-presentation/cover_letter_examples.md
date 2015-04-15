@@ -40,6 +40,6 @@ I am a web developer with a strong background in Ruby, Javascript, and framework
 
 In addition to my programming skills, I have gained invaluable experience as an US Army pilot, flying the KC-10 on critical missions around the world.  As an officer, I was entrusted with flying an $80M aircraft and leading a crew of up to 15 officers. Flexibility and the ability to react to rapidly changing situations were key skills necessary to successfully complete over 50 missions.
 
-All of these experiences have combined to give me a unique skill set suited for your company. My past jobs and training have focused on quickly learning a vast array of new material and immediately applying it. I'm looking forward to contributing to an exciting and fast paced team at [company].  
+My past jobs and training have focused on quickly learning a vast array of new material and immediately applying it. I'm looking forward to contributing to an exciting and fast paced team at [company].  
 
 Frank Franklin
