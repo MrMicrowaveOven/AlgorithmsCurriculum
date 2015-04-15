@@ -211,7 +211,7 @@ Optional Week2 projects:
 
 
 
-**W3D5**
+**W3D5 and beyond**
 * Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
 * There are also more algorithms lectures in the coming weeks.  
 
