@@ -131,7 +131,7 @@ To get you brainstorming:
 
 When answering these questions, the key is to point out features you built that went above and beyond the basic requirements.  On your resume, you'll use these features as bullet points.  Consider the following 
 
-*Built a Ruby on Rails and Javascript app* 
+*Allows users to log in* 
 
 vs
 
