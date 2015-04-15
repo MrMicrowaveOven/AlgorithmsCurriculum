@@ -39,9 +39,6 @@
 
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
     * Do pairboarding every weekday at 11am until you are employed.
-    * Stay sharp using [these tests][algo-specs] only after you get
-      through the entire list while pairboarding.
-    * Try [Codility][codility] if you want to do more on your own.
 * Attend the Resumes and Cover Letters lecture.
 * [Draft your résumé.][resume]
 * [And your cover letter.][cover-letter]
@@ -124,6 +121,10 @@ Optional Week1 projects:
 * Memorize a few [insightful questions][good-questions].
 * Attend the Technical Interviews lecture.
 * See the algorithms reading [here][algorithms-curriculum].
+* If you finish the a/A pairboarding problems, 
+    * Stay sharp using [these tests][algo-specs] only after you get
+      through the entire list while pairboarding.
+    * Try [Codility][codility] if you want to do more on your own.
 * [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
 
 [typical-interview]: ./interview-prep/typical_interview.md
@@ -134,15 +135,17 @@ Optional Week1 projects:
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
 * Start applying to your first 100 companies.  Begin with those in category 3.  
+
 [open-source-projects]: ./engineering-culture/open_source.md
 [kanban]: ./interview-prep/kanban.md
 
 
 **W2D4**
 * Attend the first coding challenge.  Do this every day until you've completed all the challenges.  
-* Find a few online lectures over the weekend to complement these.
+* For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
 * Attend the Negotiations lecture.
 
+[Coursera]: https://www.coursera.org/course/algo
 [offer-negotiation]: ./negotiating/email-negotiations.md
 [salary-data]: ./negotiating/salary-data.md
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
