@@ -173,6 +173,7 @@ Optional Week2 projects:
 **W3D1**
 
 * Prepare your final project presentation for Thursday's Graduation Day.
+* Start applying to the the companies you've marked as 2s and 1s.  
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
