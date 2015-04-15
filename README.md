@@ -103,7 +103,7 @@ Optional Week1 projects:
 
 **W2D1**
 
-* Fix bugs on your final project.  Get a friend to test whether the bugs are fixed.  
+* Fix bugs on your final project.  Get a friend to test any changes.  
 * Finish mapping out your list of 200 companies.
   * Add companies to your list using 
   * One of the tech companies spreadsheets (link is above).
