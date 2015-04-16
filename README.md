@@ -110,7 +110,7 @@ Optional Week1 projects:
   * The Jobberwocky companies index.
   * The [A List][a-list] of tech companies.
 * Read about [job search etiquette][job-search-etiquette]
-* Continue pairboarding and attending algorithms lectures.  Coding challenges begin this week.  
+* Continue pairboarding and attending algorithms lectures.  
 
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
