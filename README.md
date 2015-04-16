@@ -19,10 +19,11 @@
 
 
 ## Week 1: The Warm Up
-* Prepare your résumé and Github.
+* Turn in your capstone project, and review comments from staff. 
+* Prepare and turn in your application materials.  
 * Polish your pitch.
 * Build your job search roadmap: a list of 200 companies that you will apply to.
-* Turn in your capstone project, and review comments from staff.    
+   
 
 **W1D1**
 
