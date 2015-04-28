@@ -20,6 +20,7 @@ Hired.com vets you with a 90 minute coding challenge. The coding challenge is to
   * [Symni][symni]
   * [Toptal][toptal]
   * [Underdog][underdog] (New York only)
+  * [Untapt][untapt] (New York only)
   * [White Truffle][white-truffle]
 
 \* A Word of caution about AngelList: companies can see how many other companies you've expressed interest in over the last 30 days. Pace yourself.
@@ -81,6 +82,7 @@ check 'Show Active' on the left).
 [symni]: https://symni.com/
 [toptal]: http://www.toptal.com/developer
 [underdog]: http://www.underdog.io/
+[untapt]: https://www.untapt.com/
 [white-truffle]: https://www.whitetruffle.com/
 
 [hackers-&-founders]: http://www.meetup.com/Hackers-and-Founders/
