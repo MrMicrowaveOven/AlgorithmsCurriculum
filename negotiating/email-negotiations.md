@@ -33,7 +33,7 @@ This puts you in a strong position to ask them for a higher offer.
 Here's a stock email you take can inspiration from.
 
 
-*My only concern is that I only started my job search a few weeks ago and am still in talks with several other companies. I have to consider the opportunity cost of taking myself off the job market before waiting to hear back from them. Could [company name] raise the base on the initial offer? Given a package with higher compensation I would be in a better position to cut those conversations short and start on the [date] as you request. Let me know.*
+*My only concern is that I only started my job search a few weeks ago and am still in talks with several other companies. I have to consider the opportunity cost of taking myself off the job market before waiting to hear back from them. Could [company name] raise the base on the initial offer? Given a package with higher compensation, I would be in a better position to cut those conversations short and start on the [date] as you request. Let me know.*
 
 
 
