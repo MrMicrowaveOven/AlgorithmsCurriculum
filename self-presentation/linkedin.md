@@ -63,11 +63,16 @@ This App Academy alumnus provides an [example][stefano-linkedin].
 
 ## Make friends
 
-If you haven't already, connect with App Academy classmates on LinkedIn. Then endorse each other for all of your newfound skills.
+If you haven't already, connect with App Academy classmates and previous 
+alumni on LinkedIn. Then endorse each other for all of your newfound skills. 
+Make sure you add your skills before you add/accept your classmates. That way 
+your skills are all in there by the time they go to look for them to endorse 
+you. If not, you're going to have to let them know when you update your skills 
+so they can go back to endorse you.
 
-Feel free to add me [(Simon)][simon-linkedin] on LinkedIn once your profile is ready.
-I'll look over it, endorse your skills and give you some feedback.
-Add me on [AngelList][simon-angellist] too.
+Feel free to add all of your instructors on LinkedIn once 
+your profile is ready. Your career coaches will look it over, endorse 
+your skills and give you some feedback. 
+Add your instructors on on AngelList][angellist] too.
 
-[simon-linkedin]: http://www.linkedin.com/pub/simon-chaffetz/40/78b/338
-[simon-angellist]: https://angel.co/simon-chaffetz
+[angellist]: https://angel.co
