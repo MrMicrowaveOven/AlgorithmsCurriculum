@@ -73,6 +73,6 @@ so they can go back to endorse you.
 Feel free to add all of your instructors on LinkedIn once 
 your profile is ready. Your career coaches will look it over, endorse 
 your skills and give you some feedback. 
-Add your instructors on on AngelList][angellist] too.
+Add your instructors on on [AngelList][angellist] too.
 
 [angellist]: https://angel.co
