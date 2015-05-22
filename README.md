@@ -28,10 +28,11 @@
 
 **W1D1**
 
-* Fix any last bugs in your Capstone Project.  Update your url on Progress Tracker.  Turn in your code by Tuesday 9am.  
+* Fix any last bugs in your Capstone Project.  Update your url on Progress Tracker.  Turn in your code by Tuesday 9am. 
+    * Make sure you go through the [checklist][capstone-checklist]
 * Sign up for the [SF Jobberwocky][jobberwocky-signup] or [NY Jobberwocky][ny-jobberwocky] and polish your [Github][github].
 
-
+[capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
 [jobberwocky-signup]: http://jobberwocky.appacademy.io/
 [resume]: ./self-presentation/resume.md
 [portfolio]: ./self-presentation/portfolio.md
