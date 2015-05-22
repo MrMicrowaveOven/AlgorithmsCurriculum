@@ -1,6 +1,7 @@
 # Job Search Curriculum
 
-[Jobberwocky][jobberwocky]
+[SF Jobberwocky][jobberwocky]
+[NY Jobberwocky][ny-jobberwocky]
 
 [Interview Questions][interview-questions]
 
