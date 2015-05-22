@@ -28,13 +28,14 @@
 **W1D1**
 
 * Fix any last bugs in your Capstone Project.  Update your url on Progress Tracker.  Turn in your code by Tuesday 9am.  
-* Sign up for the [Jobberwocky][jobberwocky-signup] and polish your [Github][github].
+* Sign up for the [SF Jobberwocky][jobberwocky-signup] or [NY Jobberwocky][ny-jobberwocky] and polish your [Github][github].
 
 
 [jobberwocky-signup]: http://jobberwocky.appacademy.io/
 [resume]: ./self-presentation/resume.md
 [portfolio]: ./self-presentation/portfolio.md
 [cover-letter]: ./self-presentation/cover_letter.md
+[ny-jobberwocky]: http://progress.appacademy.io/jobberwocky
 
 **W1D2**
 
@@ -78,7 +79,8 @@
 
 **W1D5**
 
-* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.  
+* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.
+* NY - Put together [portfolio site][portfolio] and submit for review on [Jobberwocky][ny-jobberwocky].
 * Start mapping out your job search with a list of 200 companies.
   * Copy [this template][roadmap-template].
   * Rank companies 1 to 3.
@@ -94,7 +96,7 @@
 
 Optional Week1 projects:
 * Make a new JS game from scratch.  This will make your projects stand out amongst other a/A grads.
-* [Get a simple portfolio site up.][portfolio]  You can link to this from your resume, and also use it in applications with recruiting firms like Hired.  
+* [Get a simple portfolio site up.][portfolio]  You can link to this from your resume, and also use it in applications with recruiting firms like Hired. (Required for NY)
 
 
 ## Week 2: Spray and Pray
