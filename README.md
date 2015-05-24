@@ -211,7 +211,7 @@ Optional Week2 projects:
 
 **W3D4**
 
-* Finalize ayour application materials and your personal pitch.
+* Finalize your application materials and your personal pitch.
  
 ==> GRADUATION DAY <==
 
