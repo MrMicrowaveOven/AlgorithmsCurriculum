@@ -70,7 +70,7 @@
 **W1D4**
 
 * Have 2 friends test your JS game.  Fix any bugs.  
-* Attend the Resumes workshop.
+* SF - Attend the Resumes workshop.
 * Finalize and submit your résumé, cover letter,  JS game, Github, and LinkedIn.  Turn in your cover letter and resume by Friday 9am. 
 * NY - Also submit code_intensive (ActiveRecord Lite, Rails Lite, or Chess)
 
