@@ -65,7 +65,7 @@
 [meetups]: ./engineering-culture/meetups.md
 [job-boards]: ./mass-applying/job-boards.md
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
-[algorithms]: ./algorithms-curriculum.md
+[algorithms]: https://github.com/appacademy/algorithms-curriculum
 
 **W1D4**
 
