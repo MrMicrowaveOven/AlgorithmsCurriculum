@@ -13,7 +13,7 @@ If the site asks for an attachment as well as a copy/paste, use your text-only r
 
 
 >PROJECTS  
->whocaresbnb.com · github.com/yourname/yourproject  
+>whocaresbnb.com - github.com/yourname/yourproject  
 >AirBnB for the free market. Single-page Backbone app consuming RESTful JSON Rails API.  
 >Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.  
 >Search page updates results in real-time when new filters are applied.
@@ -22,10 +22,10 @@ If the site asks for an attachment as well as a copy/paste, use your text-only r
 **Job descriptions text-only format**
 
 
->EXPERIENCE
->Treebank Annotator · Institute of Cognitive Research, OSH
->May 2012 - May 2013
->Analyzed biomedical records and processed them into syntactically and semantically parsed data. 
->Retrieved records from company server using Bash and SSH.
+>EXPERIENCE  
+>Treebank Annotator - Institute of Cognitive Research, OSH  
+>May 2012 - May 2013  
+>Analyzed biomedical records and processed them into syntactically and semantically parsed data.  
+>Retrieved records from company server using Bash and SSH.  
 
 
