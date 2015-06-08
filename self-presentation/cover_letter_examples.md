@@ -1,9 +1,9 @@
 # Cover Letter Examples
 
-**Do not copy & paste the example letters and create a final draft that is 80% the unedited.  Make changes so the cover letter is in your own words.**
+**Do not copy & paste the example letters and create a final draft that is 80% the unedited.**
 
 
-**One example letter**
+**First example letter**
 
 Hi [Name or Team]:
 
