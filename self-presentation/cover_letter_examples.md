@@ -1,6 +1,6 @@
 # Cover Letter Examples
 
-**Do not copy and paste the example letters, and create a final draft that is 80% the same.**
+**Do not copy & paste the example letters and create a final draft that is 80% the unedited.  Make changes so the cover letter is in your own words.**
 
 
 **One example letter**
