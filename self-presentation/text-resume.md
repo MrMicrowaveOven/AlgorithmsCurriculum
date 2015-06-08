@@ -3,9 +3,9 @@
 
 When applying to a position via email, use your cover letter as the body of the email, and attach your resume as a pdf.  When applying via a website, however, you may be asked to copy & paste your resume text into a text-only field. For these instances, keep a text-only version of your resume handy.  
 
-1) After the final draft of your resume is complete, copy & paste the text into a text editor. 
-2) Replace all live links with url's.  
-3) Reformat the resume so it us easy to read in a text only format.  
+1. After the final draft of your resume is complete, copy & paste the text into a text editor. 
+2. Replace all live links with url's.  
+3. Reformat the resume so it us easy to read in a text only format.  
 
 **If the site asks for a pdf attachment as well as a copy & paste, use your text-only resume for the copy/paste, and the pdf as the attachment.  
 
