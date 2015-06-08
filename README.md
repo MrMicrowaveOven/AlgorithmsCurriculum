@@ -146,6 +146,7 @@ Optional Week1 projects:
 * Attend the first coding challenge.  Do this every day until you've completed all the challenges.  
 * For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
 * Attend the Negotiations lecture.
+* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
 [Coursera]: https://www.coursera.org/course/algo
 [offer-negotiation]: ./negotiating/email-negotiations.md
@@ -154,9 +155,9 @@ Optional Week1 projects:
 
 **W2D5**
 * Address any comments on your resume, cover letter, LinkedIn, Github, and projects.
-* Create a [text-only][text-only] version of your resume.  
 * Get another friend to proof read your finalized resume and cover letter.
-* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
+* Create a [text-only][text-only] version of your finished resume. 
+* Apply to 5 companies to get started (begin with the 3's).  You'll apply to more next week.    
 
 [text-only]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/text-resume.md
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
