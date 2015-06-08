@@ -9,7 +9,7 @@ When applying to a position via email, use your cover letter as the body of the 
 
 If the site asks for an attachment as well as a copy/paste, use your text-only resume for the copy/paste, and the pdf as the attachment.  
 
-**An example project description in a text-only resume might look like:**
+**Example project description in text-only format**
 
 
 >PROJECTS  
@@ -19,15 +19,13 @@ If the site asks for an attachment as well as a copy/paste, use your text-only r
 >Search page updates results in real-time when new filters are applied.
 
 
+**Job descriptions text-only format**
 
-Job descriptions will look like:
 
-
-EXPERIENCE
-
-Treebank Annotator · Institute of Cognitive Research, OSH
-May 2012 - May 2013
-Analyzed biomedical records and processed them into syntactically and semantically parsed data. 
-Retrieved records from company server using Bash and SSH.
+>EXPERIENCE
+>Treebank Annotator · Institute of Cognitive Research, OSH
+>May 2012 - May 2013
+>Analyzed biomedical records and processed them into syntactically and semantically parsed data. 
+>Retrieved records from company server using Bash and SSH.
 
 
