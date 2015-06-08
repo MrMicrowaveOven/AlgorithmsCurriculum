@@ -7,7 +7,7 @@ When applying to a position via email, use your cover letter as the body of the 
 2. Replace all live links with url's.  
 3. Reformat the resume so it us easy to read in a text only format.  
 
-If the site asks for an attachment as well as a copy/paste, use your text-only resume for the copy/paste, and the pdf as the attachment.  
+If the site asks for an attachment as well as a copy/paste, use your text-only resume for the copy/paste, and the pdf as the attachment.  Some sites show the reviewer the text-only resume before the pdf.  
 
 **Example project description in text-only format**
 
