@@ -7,20 +7,20 @@ When applying to a position via email, use your cover letter as the body of the 
 2. Replace all live links with url's.  
 3. Reformat the resume so it us easy to read in a text only format.  
 
-**If the site asks for a pdf attachment as well as a copy & paste, use your text-only resume for the copy/paste, and the pdf as the attachment.  
+If the site asks for an attachment as well as a copy/paste, use your text-only resume for the copy/paste, and the pdf as the attachment.  
 
-An example project description in a text-only resume might look like 
-
-
-PROJECTS
-whocaresbnb.com · github.com/yourname/yourproject
-AirBnB for the free market. Single-page Backbone app consuming RESTful JSON Rails API.
-Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.
-Search page updates results in real-time when new filters are applied.
+**An example project description in a text-only resume might look like:**
 
 
+>PROJECTS
+>whocaresbnb.com · github.com/yourname/yourproject
+>AirBnB for the free market. Single-page Backbone app consuming RESTful JSON Rails API.
+>Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.
+>Search page updates results in real-time when new filters are applied.
 
-Job descriptions will look like
+
+
+Job descriptions will look like:
 
 
 EXPERIENCE
