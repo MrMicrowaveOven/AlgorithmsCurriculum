@@ -1,5 +1,8 @@
 # Cover Letter Examples
 
+**Do not copy and paste the example letters, and create a final draft that is 80% the same.**
+
+
 **One example letter**
 
 Hi [Name or Team]:
