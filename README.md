@@ -158,6 +158,7 @@ Optional Week1 projects:
 
 **W2D5**
 * Address any comments on your resume, cover letter, LinkedIn, Github, and projects.
+* Create a text-only version of your resume.  
 * Get another friend to proof read your finalized resume and cover letter.
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
