@@ -158,10 +158,11 @@ Optional Week1 projects:
 
 **W2D5**
 * Address any comments on your resume, cover letter, LinkedIn, Github, and projects.
-* Create a text-only version of your resume.  
+* Create a [text-only][text-only]version of your resume.  
 * Get another friend to proof read your finalized resume and cover letter.
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
+[text-only]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/text-resume.md
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
 
 [algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
