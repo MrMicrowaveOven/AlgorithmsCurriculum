@@ -13,10 +13,10 @@ If the site asks for an attachment as well as a copy/paste, use your text-only r
 
 
 >PROJECTS  
->whocaresbnb.com · github.com/yourname/yourproject  
->AirBnB for the free market. Single-page Backbone app consuming RESTful JSON Rails API.  
->Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.  
->Search page updates results in real-time when new filters are applied.
+>- whocaresbnb.com · github.com/yourname/yourproject  
+>- AirBnB for the free market. Single-page Backbone app consuming RESTful JSON Rails API.  
+>- Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.  
+>- Search page updates results in real-time when new filters are applied.
 
 
 
