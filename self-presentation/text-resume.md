@@ -1,7 +1,7 @@
 
-#Make a text-only version of your finished resume
+#Make a text-only version of your resume
 
-When applying to a position via email, use your cover letter as the body of the email, and attach your resume as a pdf.  Whe applying via a website, however, you may be asked to copy & paste your resume text into a field. In these cases, it is useful to have a text-only version of your resume handy.  
+When applying to a position via email, use your cover letter as the body of the email, and attach your resume as a pdf.  When applying via a website, however, you may be asked to copy & paste your resume text into a text-only field. For these instances, keep a text-only version of your resume handy.  
 
 1) After the final draft of your resume is complete, copy & paste the text into a text editor. 
 2) Replace all live links with url's.  
