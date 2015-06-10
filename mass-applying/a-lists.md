@@ -3,7 +3,7 @@
 Let me know if you think of others. The main criteria here are "backed
 by a fancy VC and maybe known to your tech-minded friends".  
 
-Also check out [Breakout List][Breakout List].  Their list is of 'hot' companies is public and is updated quarterly.  
+Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Wealthfront].  Breakout is a list of 'hot' companies is public and is updated quarterly.  Wealthfront releases a new list every fall.  
 
 ## New York
 
@@ -133,3 +133,4 @@ Also check out [Breakout List][Breakout List].  Their list is of 'hot' companies
 [instacart]: https://www.instacart.com/jobs
 [mixpanel]: https://mixpanel.com/jobs/
 [Breakout List]: http://www.breakoutlist.com/
+[Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
