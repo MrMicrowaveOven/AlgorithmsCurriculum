@@ -85,10 +85,11 @@
   * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
   * 2 means "Looks like a cool place". Pick seventy-five.
   * 1 means "Want to work there". Pick twenty-five.
+* Check out [Breakout List][Breakout List] to find tech companies.  
 * Read about [performance analysis and big O][big-o].
 * Read: [What do software engineers actually do?][what-software-engineers-do]
 
-
+[Breakout List]: http://www.breakoutlist.com/
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
 
