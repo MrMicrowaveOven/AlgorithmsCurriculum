@@ -127,7 +127,7 @@ Optional Week1 projects:
     * Stay sharp using [these tests][algo-specs] only after you get
       through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
-* [Apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
+
 
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
@@ -158,6 +158,7 @@ Optional Week1 projects:
 * Get another friend to proof read your finalized resume and cover letter.
 * Create a [text-only][text-only] version of your finished resume. 
 * Apply to 5 companies to get started (begin with the 3's).  You'll apply to more next week.    
+* Also [apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
 
 [text-only]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/text-resume.md
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
