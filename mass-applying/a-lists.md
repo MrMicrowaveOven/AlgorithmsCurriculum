@@ -3,8 +3,7 @@
 Let me know if you think of others. The main criteria here are "backed
 by a fancy VC and maybe known to your tech-minded friends".  
 
-Another public list of "hot" companies that is updated quarterly is at [Breakout List][Breakout List] to find tech companies. 
-
+Also check out [Breakout List][Breakout List].  Their list is of 'hot' companies is public and is updated quarterly.  
 
 ## New York
 
