@@ -1,6 +1,6 @@
 # Job Search Curriculum
 
-[Jobberwocky][ny-jobberwocky]  
+[Jobberwocky][jobberwocky]  
 [Interview Questions][interview-questions]  
 [Pairboarding Index][pair-boarding-index]  
 [New York Tech Companies][ny-tech-companies]  
