@@ -40,7 +40,9 @@ This is what the underlying format looks like:
 
   **Save often.** This interface will not save your resume unless you manually click save.
 
-  Once you've got a JSON copy of your resume, it's easy to turn it into a PDF, a web page (for your github.io), or even a text document. Just use the different themes as appropriate and nick the HTML. One thing you will want to do is adapt the HTML/text it produces to create a section for your projects, with appropriate links. You're a web developer now, so you should be comfortable with this task.
+  Once you've got a JSON copy of your resume, it's easy to turn it into a PDF, a web page (for your github.io), or even a text document. Just use the different themes as appropriate and nick the HTML using Chrome or by inspecting the source. One thing you will want to do is adapt the HTML/text it produces to create a section for your projects, with appropriate links. Make sure this section is at the top, and follow all of the relevant instructions in the job search curriculum. You're a web developer now, so you should be comfortable with this task.
+  
+  Saving it to a PDF is easy. If you use a Mac and call print, you can save the page as a PDF file. You'll need a PDF version for most companies.
 
   # Outline
   Below is an outline of the JSON we recommend you use for your own resume. Fill in your details as appropriate. Easiest would be to copy and paste this into the [web app] (click on the JSON link on the left side and copy and paste this code in). We've included a list of skills and a description of App Academy that we recommend you use.
