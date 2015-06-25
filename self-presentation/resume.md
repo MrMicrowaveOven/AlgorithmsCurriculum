@@ -15,8 +15,6 @@ have a tech background and here's [another][non-tech-résumé-2]. Here are some
 scheme, and layout before using them**. Employers do not like seeing similar
 résumés.
 
-Another option is to use [JSON Resume][json-resume]. If you don't already have a good resume you're adapting, we strongly recommend this.
-
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [non-tech-résumé-1]: ./non-technical-resume.pdf
