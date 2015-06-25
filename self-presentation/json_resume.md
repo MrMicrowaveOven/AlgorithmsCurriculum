@@ -40,7 +40,7 @@ This is what the underlying format looks like:
 
   **Save often.** This interface will not save your resume unless you manually click save.
 
-  Once you've got a JSON copy of your resume, it's easy to turn it into a PDF, a web page (for your github.io), or even a text document. Just use the different themes as appropriate and nick the HTML using Chrome or by inspecting the source. One thing you will want to do is adapt the HTML/text it produces to create a section for your projects, with appropriate links. Make sure this section is at the top, and follow all of the relevant instructions in the job search curriculum. You're a web developer now, so you should be comfortable with this task.
+  Once you've got a JSON copy of your resume, it's easy to turn it into a PDF, a web page (for your github.io), or even a text document. Just use the different themes as appropriate and nick the HTML using Chrome or by inspecting the source. One thing you will want to do is adapt the HTML/text it produces to create a section for your projects, with appropriate links. Make sure this section is at the top, and follow all of the relevant [instructions in the job search curriculum][curriculum]. You're a web developer now, so you should be comfortable with this task.
   
   Saving it to a PDF is easy. If you use a Mac and call print, you can save the page as a PDF file. You'll need a PDF version for most companies.
 
@@ -173,3 +173,4 @@ This is what the underlying format looks like:
 [CLI you can use]:https://jsonresume.org/getting-started/
 [web app]:http://registry.jsonresume.org/#mu
 [JSON Linter]:http://jsonlint.com/
+[curriculum]:./resume.md
