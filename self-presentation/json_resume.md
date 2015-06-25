@@ -155,6 +155,11 @@ This is what the underlying format looks like:
       "name": "Backbone.js",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [],
