@@ -15,12 +15,14 @@ have a tech background and here's [another][non-tech-résumé-2]. Here are some
 scheme, and layout before using them**. Employers do not like seeing similar
 résumés.
 
+Another option is to use [JSON Resume][json-resume]. If you don't already have a good resume you're adapting, we strongly recommend this.
+
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [non-tech-résumé-1]: ./non-technical-resume.pdf
 [non-tech-résumé-2]: ./non-technical-resume2.pdf
 [drive-templates]: https://drive.google.com/open?id=0B3noREts_wUyMFZHWVhvcUUtU1E&authuser=0
-[json-résumé]: http://jsonresume.org/
+[json-resume]: ./json_resume.md
 
 # Layout
 * ONE PAGE ONLY
