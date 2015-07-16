@@ -200,7 +200,6 @@ in order.
 #### [Question set A](./questions/14A.md)
 
 - Word Chains
-- `print_spiral`
 
 #### [Question set B](./questions/14B.md)
 
