@@ -3,7 +3,7 @@
 **Do not copy & paste the example letters and create a final draft that is 80% the unedited.**
 
 
-**First example letter**
+**Example letter #1**
 
 Hi [Name or Team]:
 
@@ -19,7 +19,7 @@ If you have questions or if you want to schedule an interview, please contact me
 Joe Bob
 
 
-**Another example letter** 
+**Example letter #2** 
 
 
 Dear { contact },
@@ -33,7 +33,7 @@ Additional information on my background and projects are in the attached resume 
 Sally Smith
 
 
-**And another**
+**Example #3**
 
 Hello [ company ] Team
 
@@ -46,3 +46,27 @@ In addition to my programming skills, I have gained invaluable experience as an 
 My past jobs and training have focused on quickly learning a vast array of new material and immediately applying it. I'm looking forward to contributing to an exciting and fast paced team at [company].  
 
 Frank Franklin
+
+
+**Example #4**
+
+
+Hey [company] Team,
+I’d love to be the newest developer on your team. My resume is attached, but to give you a quick rundown on who I am, here are the bullet points:
+
+**I have experience committing production code**
+I’ve jumped into a code base, been on-boarded, and written tests to cover my code. I’ve also contributed to open source projects, and have been learning and practicing web development for a year. I am confident I can hit the ground running, and quickly add value to your team.
+
+**I know how to work**
+I studied [field] at [university], and the skills I learned there have served me well -- persevering through tough problems, learning new things constantly, pursuing goals as a team, meeting tight deadlines -- I’m sure you’ll appreciate them too
+
+**I add value to companies in innovative ways**
+For 2 years I was in India, working for a small, venture-backed team doing big things in serialization and patient engagement in the pharmaceutical industry. As such, I had to wear many hats; I helped coordinate a 6 month sales-drive that brought the company to profitability, wrote a grant that won $30,000 from the Bill and Melinda Gates Foundation, developed a complicated financial exit model after getting the company’s corporate finance records in order, and spec’ed out an internal business logic engine, amount other things.  I am able to identify low hanging fruit better than others only having experience in one area.
+
+**I know how to learn**
+I recently completed rigorous training in SQL, Ruby, Rails, Javascript, HTML, CSS, and Backbone.js at App Academy over the past couple months, successfully learning new material at a rate few others can endure for 12 weeks straight. Before that, I taught myself how to dual boot Linux on my pc without blowing everything up (or at least, how to have a backup ready when I did blow things up).  As the tech world changes faster, being able to learn new things quickly will only become more important.
+
+If you guys are looking for a sincere, hard working dude that can destroy you in ping pong, let’s connect and continue the conversation!
+
+Looking forward to your reply,
+Lawrence Davies
