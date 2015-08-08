@@ -51,7 +51,8 @@ Frank Franklin
 **Example #4**
 
 
-Hey [company] Team,
+Hey [company],
+
 I’d love to be the newest developer on your team. My resume is attached, but to give you a quick rundown on who I am, here are the bullet points:
 
 **I have experience committing production code** -
