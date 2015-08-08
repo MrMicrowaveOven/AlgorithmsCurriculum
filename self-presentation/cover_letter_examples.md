@@ -70,4 +70,5 @@ I recently completed rigorous training in SQL, Ruby, Rails, Javascript, HTML, CS
 If you guys are looking for a sincere, hard working dude that can destroy you in ping pong, let’s connect and continue the conversation!
 
 Looking forward to your reply,
+
 Lawrence Davies
