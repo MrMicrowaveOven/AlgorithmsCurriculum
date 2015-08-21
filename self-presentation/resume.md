@@ -9,16 +9,23 @@ Check out Gayle Laakmann McDowell's [model résumé][glm-résumé]. At the botto
 there's a template to make your own résumé too. Gayle Laakman McDowell is the
 author of [Cracking the Coding Interview][cracking-interview].
 
-Here's one [example][non-tech-résumé-1] inspired from a student who did not
-have a tech background and here's [another][non-tech-résumé-2]. Here are some
-[templates][drive-templates] to get you started. **Change the font, color
-scheme, and layout before using them**. Employers do not like seeing similar
-résumés.
+Here are some [templates][drive-templates] to get you started. 
+**Change the font, color scheme, and layout before using them**. Employers 
+do not like seeing similar résumés.
 
+Here are some example resumes from previous students:
+
+* [Eli Smukler][eli-smukler-resume]
+* [Carl Baron][carl-baron-resume]
+* [Dean Hu][dean-hu-resume]
+* [Greg Kane][greg-kane-resume]
+  
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
-[non-tech-résumé-1]: ./non-technical-resume.pdf
-[non-tech-résumé-2]: ./non-technical-resume2.pdf
+[eli-smukler-resume]: ./eli_smukler-resume.pdf
+[carl-baron-resume]: ./carl_baron-resume.pdf
+[dean-hu-resume]: ./dean_hu-resume.pdf
+[greg-kane-resume]: ./greg_kane-resume.pdf
 [drive-templates]: https://drive.google.com/open?id=0B3noREts_wUyMFZHWVhvcUUtU1E&authuser=0
 [json-resume]: ./json_resume.md
 
