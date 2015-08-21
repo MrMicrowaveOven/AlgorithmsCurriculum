@@ -25,6 +25,7 @@ résumés.
 # Layout
 * ONE PAGE ONLY
 * Lots of whitespace
+  * 1-inch margins on left and right
 
 
 # Content
@@ -32,7 +33,7 @@ résumés.
 In the world of people, having a diversity of interests and experiences is a
 beautiful thing. In the world of tech recruiting, expertise is much more
 valuable. If you had various non-tech jobs before App Academy, choose them
-carefully so you don't spread yourself thin.    
+carefully so you don't spread yourself thin.  
  
 You don't want to leave out large chunks of time either. In general you can
 include roles you held for over a year. Keep in mind that these become less
@@ -55,7 +56,7 @@ Bonus (if they're good)
 
 ## Skills
 
-List these skills, and any other relevant ones.
+List these skills, and any other relevant ones. But keep in mind, anything you list here is fair game in a technical interview.
 
 * Ruby
 * Ruby on Rails
@@ -86,11 +87,10 @@ The three projects should be:
 
 0. A Backbone-on-Rails app to show you know the full stack
 0. A fun browser game for non-technical reviewers to appreciate (asteroids or snake, or better yet, a new game you've made that makes your resume different from other a/A grads)
-0. A complex project for technical reviewers that shows strong Object-Oriented
-  Design skills.
+0. A complex code_intensice project for technical reviewers that shows strong Object-Oriented Design skills.
 
 The first and second **must** be deployed and available to view online. Otherwise
-they aren't serving their purpose. The third should include a detailed Readme
+they aren't serving their purpose. The third should include a detailed README
 that links to the neatest parts of the code.
 
 **Selling your Projects**
@@ -137,7 +137,7 @@ vs
 
 *Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.*
 
-In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests a that the designer is a capable developer.  
+In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.  
 
 
 *Caution:*
@@ -233,16 +233,17 @@ Before you submit your résumé for review, make sure you can answer yes
 to all these questions.
 
 * Layout
-  0. Do your headers take the following order? Projects, Skills, Work History, Education
-  1. (List work history first if you were paid to write code.)
+  0. Do your headers take the following order? Projects, Skills, Education, Work History
+  0. (List work history first if you were paid to write code.)
+  0. Fits on 1 page?
+  0. 1-inch margins on left and right?
+  
 
 * Projects
   0. Do you list three or four coding projects, including one Rails app and
-  one Javascript demo (eg. a game)?
+  one browser game?
   0. Does each project include a link to the Github repo and one to the
-  live demo?
-  0. Is there a button to login without signing up on any project that uses authentication?
-  0. Did you buy a custom domain for your main project?
+  live demo (if applicable)?
   0. Do you describe clever solutions you came up with to build each
    project?
   0. Are those solutions described in the third person, present tense?
@@ -255,8 +256,9 @@ to all these questions.
 * Misc
   0. Do you provide a simple list of the technologies you are familiar
    with?
-  0. Do you provide contact information and link to your Github?
+  0. Do you provide contact information and link to your Github and LinkedIn?
   0. Does your contact information make it clear you are currently in the
    metro area?
-  0. Have you copy/pasted the text into a Google doc that I can edit? (ie. Don't just upload a .doc file)
+  0. Is it a Google Doc that both I and your pairboarding partners can edit and comment on? (Make sure to share it to us)
+  0. No timeline gaps or minimize as much as possible
 

@@ -47,10 +47,9 @@ Make it clear you are very strong in both Rails and JavaScript.
 
 **No Fancy Words**
 
-
 Do not try to make an impression with fancy words and formalities. Antipattern:
 "Hence I believe I am uniquely positioned to thrive in the challenging
-environment your company provides."
+environment your company provides." can be refactored to this: "I like the challenging environment at [Company]."
 
 There are subtler ways to make your cover letter stand out. The good news is
 they also scale well for sending out many job applications.
@@ -59,9 +58,8 @@ they also scale well for sending out many job applications.
 
 Build a template with these classy touches:
 
-* Have a minimally styled header that includes your contact information.
+* Have a minimally styled header that includes your contact information - should be the same as for your resume.
 * Below that insert the date.
-* Below that insert the name / title / company name / work address of the person you're writing to.
 
 Here's an [example][example-cover-letter] of some cool templating. Note that
 this letter is about two times longer than yours needs to be and the language
@@ -75,23 +73,20 @@ Best".
 
 **Opening**
 
-In the subject line, name the position you're applying for and the city it's
-in, separated by a dash. Default to something more generic if you're not
-applying for a particular position, eg.  "Software Developer" or "Rails
-Developer" if it's a Rails shop. This way you can start off strong with a "I am
-a web developer with experience in X, Y and Z". Do not open with "I would like
-to apply to the Ruby developer position listed on your website". That's boring.
+Start off strong with a "I am a web developer with experience in X, Y and Z". Do not open with "I would like to apply to the Ruby developer position listed on your website". That's boring. After that, have a sentence that says that you're looking for a job, something like "I'm looking to join a team where I can help build interesting projects and continue to grow as a developer." The point of this sentence is to say you're looking for a job, willing to learn, and as a segway into the next part. Close this paragraph with the company blurb.
 
 **Company-specific Blurb**
 
 Somewhere in your letter write two sentences about the company and why you want
 to work there. Don't sell them on generic excitement about how awesome the team
 is and what a collaborative work environment they have. That's only convincing
-if you've actually met people there or visited their office. Your letter will
-be a lot more compelling if you can mention something you know about the
-industry they're in and why that appeals to you. If you spend five minutes on a
-job application, four of those should be for scanning the Wikipedia article
-about the industry they're in and picking out buzzwords.
+if you've actually met people there or visited their office. Instead, the message 
+you should get across, is that you're excited to find out if you're a good mutual 
+fit. Your letter will be a lot more compelling if you can mention something you 
+know about the industry they're in and why that appeals to you. If you spend  
+five minutes on a job application, four of those should be for scanning the 
+Wikipedia article about the industry they're in and the company website and 
+picking out buzzwords.
 
 Consider these examples:
 
