@@ -30,6 +30,7 @@
 * Enter the URLs for the browser game in the Job App Material on the Jobberwocky
 * Fix any last bugs in your Capstone Project. Update URL on Progress Tracker.
   * Make sure you go through the [checklist][capstone-checklist]
+  * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
 * Come in to office between 10:30 and 11am from now on.
   
 [capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
@@ -149,7 +150,7 @@
 
 
 ## BONUS WEEK 11
-* Write tests for your [personal projects][personal-projects].
+* Write tests for your projects.
 * Practice building on top of [an existing codebase][kanban].
 * Pick an [open-source project to contribute to][open-source-projects].
 
