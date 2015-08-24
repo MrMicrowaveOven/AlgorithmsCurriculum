@@ -13,110 +13,102 @@
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
+## W9D6-7
+* Prepare your [resume][resume], [cover letter][cover-letter], [portfolio site][portfolio], and [code_intensive][code-intensive]
+* Enter the respective URLs in the Job App Materials in the Jobberwocky and save
+* If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
 
-## Week 1: The Warm Up
-* Turn in your capstone project, and review comments from staff. 
-* Prepare and turn in your application materials.  
-* Polish your pitch.
-* Build your job search roadmap: a list of 200 companies that you will apply to.
-   
-
-**W1D1**
-
-* Fix any last bugs in your Capstone Project.  Update your url on Progress Tracker.  Turn in your code by Tuesday 9am. 
-    * Make sure you go through the [checklist][capstone-checklist]
-* Sign in to [Jobberwocky][jobberwocky] and polish your [Github][github].
-
-[capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
 [resume]: ./self-presentation/resume.md
-[portfolio]: ./self-presentation/portfolio.md
 [cover-letter]: ./self-presentation/cover_letter.md
-[jobberwocky]: http://progress.appacademy.io/jobberwocky
+[portfolio]: ./self-presentation/portfolio.md
+[code-intensive]: ./self-presentation/code_intensive.md
+[browser-game]: ./self-presentation/browser_game.md
 
-**W1D2**
+## W10D1
+* You have the morning off! Get to the office between 11:30 and 12-noon.
+* Prepare your [browser game][browser-game]
+* Enter the URLs for the browser game in the Job App Material on the Jobberwocky
+* Fix any last bugs in your Capstone Project. Update URL on Progress Tracker.
+  * Make sure you go through the [checklist][capstone-checklist]
+  * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
+* Come in to office between 10:30 and 11am from now on.
+  
+[capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
 
+## W10D2
+* Get to the office between 10:30 and 11am from today on.
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
-    * Do pairboarding every weekday at 11am until you are employed.
-* Attend the Resumes and Cover Letters lecture.
-* [Draft your résumé.][resume]
-* [And your cover letter.][cover-letter]
-* [Update your LinkedIn profile.][linkedin]
-
-
-[fortune500]: ./mass-applying/fortune500.md
+  * Do pairboarding every weekday at 11am until you are employed.
+* Begin [job app materials reviews][job-app-materials-reviews]
+  * Do this every weekday until W11D2. Ask your reviewees for the links before they start pairboarding. 
+  * Finish all reviews by 3pm, so you should start right after lunch.
+  
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
-[algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
+[job-app-materials-reviews]: ./self-presentation/job_app_materials_reviews.md
+  
+## W10D3
+* Send your reviewers the links to your Job App Materials before you start pairboarding at 11am.
+* Start your Job Search Roadmap: a list of companies you'll apply to
+  * Add 15 companies per day until you find a job
+  * Copy [this template][roadmap-template]
+    * The "companyBlurb" is what you'll end up putting in your cover letter. Should be 1-2 sentences and shoul take you ~5 mins. They should be mostly generic, just so the company knows you went on their site. Something like "I like the fast-paced nature of the Ad Tech industry and I'm curious to get a look at it from inside CoolCompany." Super generic, but you can tell that I know the company does Ad Tech, which is probably on their landing page.
+  * Rank companies 1 to 3
+    * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
+    * 2 means "Looks like a cool place". Should be 35-40% of them.
+    * 1 means "Want to work there". Should be 10-15%
 
-**W1D3**
-
-* Personalize your Asteroids or Snake game, and make it pretty (or even better, build a new JS game from scratch)
-* Get a friend to proof-read your resume and cover letter.  Make edits.
-* [Choose which Meetups you'll attend.][meetups]
-* [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
-* SF -- Attend Ned's [algorithm lecture][algorithms].  Do this every Mon/Wed/Fri.
-
-[linkedin]: ./self-presentation/linkedin.md
-[meetups]: ./engineering-culture/meetups.md
-[job-boards]: ./mass-applying/job-boards.md
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
-[algorithms]: https://github.com/appacademy/algorithms-curriculum
 
-**W1D4**
 
-* Have 2 friends test your JS game.  Fix any bugs.  
-* SF - Attend the Resumes workshop.
-* Finalize and submit your résumé, cover letter,  JS game, Github, and LinkedIn.  Turn in your cover letter and resume by Friday 9am. 
-* NY - Also submit code_intensive (ActiveRecord Lite, Rails Lite, or Chess)
+## W10D4
+* Nothing new. At this point, you have 3 things to do every day: pairboarding, job app materials reviews, and add 15 companies to your job search roadmap.
 
-[big-o]: ./interview-prep/big_o.md
-[github]: ./self-presentation/github.md
-[personal-projects]: ./self-presentation/personal-projects.md
-[a-list]: ./mass-applying/a-lists.md
-
-**W1D5**
-
-* [Polish your personal pitch.][personal-pitch]  Practice your pitch with a friend.
-* NY - Put together [portfolio site][portfolio] and submit for review on [Jobberwocky][ny-jobberwocky].
-* Start mapping out your job search with a list of 200 companies.
-  * Copy [this template][roadmap-template].
-  * Rank companies 1 to 3.
-  * 3 means "Not dying to work there" or "Don't know enough about them". Choose a hundred of these.
-  * 2 means "Looks like a cool place". Pick seventy-five.
-  * 1 means "Want to work there". Pick twenty-five.
+## W10D5
+* [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboargind partner- give each other feedback.
+* Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
 * Read about [performance analysis and big O][big-o].
-* Read: [What do software engineers actually do?][what-software-engineers-do]
+* Read [What do software engineers actually do?][what-software-engineers-do]
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
+[big-o]: ./interview-prep/big_o.md
+[linkedin]: ./self-presentation/linkedin.md
+[github]: ./self-presentation/github.md
 
-Optional Week1 projects:
-* Make a new JS game from scratch.  This will make your projects stand out amongst other a/A grads.
-* [Get a simple portfolio site up.][portfolio]  You can link to this from your resume, and also use it in applications with recruiting firms like Hired. (Required for NY)
+## W10D6-7
+* Catch up on applying and fixing all the comments and to-dos your reviewers left you on your Job Application Materials
+* Add another 30 companies to your Job Search Roadmap (15 each day)
+* [Choose which Meetups you'll attend.][meetups]
+* [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 
+[meetups]: ./engineering-culture/meetups.md
+[job-boards]: ./mass-applying/job-boards.md
 
-## Week 2: Spray and Pray
+## BONUS WEEK 10
+* Write some tests for your app with RSpec + Capybara.
+    * RSpec can come up in interviews so it's important to practice.
+    * Many employers love to see tests in your Github.
+* Create a guided tour that starts when someone logs in as a guest. Check out [Shepherd][shepherd]
+* Make a new JS game from scratch. This will make your projects stand out amongst other a/A grads. Include this with your Job App Materials for your reviewers to review.
 
-* Address comments from staff on your capstone project.
-* Hold one-on-one job search meeting.
-* Start applying to your first hundred companies. Start with those in category 3.
+[shepherd]: http://github.hubspot.com/shepherd/docs/welcome/
 
-**W2D1**
+## W11D1
+* Continue pairboarding (don't forget to practice your personal pitch)
+* Review Job App Materials
+* Add 15 companies to your Job Search Roadmap
 
-* Fix bugs on your final project.  Get a friend to test any changes.  
-* Finish mapping out your list of 200 companies.  Add companies to your list using 
-  * One of the tech companies spreadsheets (link is above).
-  * The Jobberwocky companies index.
-  * The [A List][a-list] of tech companies.
-* Read about [job search etiquette][job-search-etiquette]
-* Continue pairboarding and attending algorithms lectures.  
+## W11D2
+* Continue pairboarding (don't forget to practice personal pitch)
+* Add 15 companies to your Job Search Roadmap
+* Last day of reviewing Job App Materials! Make it good!
+  * After reviewing and applying all edits your reviewers suggest, submit your resume for review on the Jobberwocky. 
+  * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
+  * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review.
 
-
-[job-search-etiquette]: ./self-presentation/job_search_etiquette.md
-
-**W2D2**
-
-* Read about a [typical technical interview][typical-interview].
-* Memorize a few [insightful questions][good-questions].
+## W11D3
+* Continue pairboarding, practicing personal pitch, and adding 15 companies.
+* Check the Jobberwocky to see if there are any to-dos on your resume
 * Attend the Technical Interviews lecture.
 * See the algorithms reading [here][algorithms-curriculum].
 * If you finish the a/A pairboarding problems, 
@@ -124,106 +116,113 @@ Optional Week1 projects:
       through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
 
+[algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
+[algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
+[codility]: https://codility.com/demo/train/ 
 
+## W11D4
+* Continue pairboarding, practicing personal pitch, and adding 15 companies
+* Read about [job search etiquette][job-search-etiquette]
+* Read about a [typical technical interview][typical-interview].
+* Memorize a few [insightful questions][good-questions].
+* Create a [text-only][text-only] version of your finished resume.
+* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
+* START APPLYING!! 
+  * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday
+  * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
+  * Add the applications into the Jobberwocky. Mark whether you've done a phone_screen, interviewed, got rejected, or got an offer as you go.
+
+
+[job-search-etiquette]: ./self-presentation/job_search_etiquette.md
 [typical-interview]: ./interview-prep/typical_interview.md
 [good-questions]: ./self-presentation/good_questions.md
+[text-only]: ./self-presentation/text-resume.md
+[hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
 
-**W2D3**
-* Read about [negotiating an offer][offer-negotiation].
-* Get some data points for [salary negotiations][salary-data].
-* You can also check out this [HackerNewsarticle][hn-negotiation-article]
-* Start applying to your first 100 companies.  Begin with those in category 3.  
+
+
+## W11D5
+* Continue pairboarding, practice personal pitch, add 15 companies to Job Search Roadmap, and apply to 15 companies
+
+## W11D6-7
+* Add 30 companies to your Job Search Roadmap (15 each day)
+* You can apply to places over the weekend, but it's not absolutely necessary as long as you did all 15 each day during the week. If you didn't, then catch up. You should be at 30 applications so far.
+
+
+## BONUS WEEK 11
+* Write tests for your projects.
+* Practice building on top of [an existing codebase][kanban].
+* Pick an [open-source project to contribute to][open-source-projects].
 
 [open-source-projects]: ./engineering-culture/open_source.md
 [kanban]: ./interview-prep/kanban.md
 
 
-**W2D4**
-* Attend the first coding challenge.  Do this every day until you've completed all the challenges.  
-* For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
+## W12D1
+* Continue pairboarding, no need to practice personal pitch anymore.
+* Continue applying to 15 places per day and adding 15 companies to your Job Search Roadmap.
+* Read about [negotiating an offer][offer-negotiation].
+* Get some data points for [salary negotiations][salary-data].
+* You can also check out this [HackerNewsarticle][hn-negotiation-article]
 * Attend the Negotiations lecture.
-* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
+* For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
 
-[Coursera]: https://www.coursera.org/course/algo
 [offer-negotiation]: ./negotiating/email-negotiations.md
 [salary-data]: ./negotiating/salary-data.md
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
-
-**W2D5**
-* Address any comments on your resume, cover letter, LinkedIn, Github, and projects.
-* Get another friend to proof read your finalized resume and cover letter.
-* Create a [text-only][text-only] version of your finished resume. 
-* Apply to 5 companies to get started (begin with the 3's).  You'll apply to more next week.    
-* Also [apply to the big tech companies.][fortune500]  Big companies typically take longer to review applicants.
-
-[text-only]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/text-resume.md
-[hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+(VentureBeat)
-
-[algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
-
-Optional Week2 projects:
-* Write tests for your [personal projects][personal-projects].
-* Practice building on top of [an existing codebase][kanban].
-* Pick an [open-source project to contribute to][open-source-projects].
+[Coursera]: https://www.coursera.org/course/algo
 
 
-## Week 3: Focus
-
-* Apply to 100 companies, starting with the 2s and finishing with the 1s.
-* Present your capstone project at Hiring Day.
-
-**W3D1**
-
-* Prepare your final project presentation for Thursday's Graduation Day.
+## W12D2
+* Continue pairboarding, applying, and adding to Job Search Roadmap.
+* Prepare your final project presentation for Graduation Day (Thurs night)
+  * Practice it with your pairboarding partner
 * Start applying to the the companies you've marked as 2s and 1s.  
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
-
-
+ 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
 [browser-navigation]: ./interview-prep/browser-navigation.md
 
-**W3D2**
 
-* Attend the capstone project presentation workshop.
+## W12D3
+* Continue pairboarding, applying, adding to Job Search Roadmap.
+  * You should be at 75 applications by the end of today.
 * Memorize [the ways to make a website faster][performance-cheat-sheet]
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 * Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
 
 [rails-casts]: ./further_readings/rails-casts-of-interest.md
 [rails-review]: ./further_readings/review.md
-
-**W3D3**
-
-* Tie up any loose ends before meeting with alumni and companies tomorrow.
-    * Resume, cover letter, LinkedIn, Github. 
-    * Capstone project, JS project, any other project listed on your resume. 
-    * Your presentation, elevator speech, and personal pitch for use at the event tomorrow. 
-
-
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
-**W3D4**
 
-* Finalize your application materials and your personal pitch.
- 
-==> GRADUATION DAY <==
+## W12D4
+* Continue pairboarding, applying, adding to Roadmap
+  * Should be at 90 by EOD
+* Graduation Day tonight!!
+  * Don't forget to print out your resume!
+  * Be proactive: don't give employers your resume and expect them to get in touch with you- ask for their contact info and you reach out to them!
+  * If you see anyone with a nametag on just walking around or awkwardly standing, go up to them, introduce yourself, ask what company they're from and whether they're hiring, and if so, bring them to your station to talk. That might turn into a job! #jobhunter
+* Tie up any loose ends before meeting with alumni and companies tonight
+  * Resume, cover letter, LinkedIn, Github. 
+  * Capstone project, browser game, any other project listed on your resume
+  * Your presentation, elevator speech, and personal pitch for use at the event
+  
 
-
-
-**W3D5 and beyond**
+## W12D5 and BEYOND
+* Continue applying to 15 places and adding 15 companies to your Job Search Roadmap every weekday.
 * Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
-* There may also be optional lectures from a/A staff or alumn.    
-
-
+* There may be optional lectures from a/A staff and alumni. 
 
 ## JavaScript Readings
-
+* [Effective JavaScript][effective-js] (you were required to read this one during the course, but you'll probably get MUCH more out of it now)
 * [Professional JavaScript for Web Developers (3ed)][professional-js]
 * [Secrets of the JavaScript Ninja][javascript-ninja]
 
+[effective-js]: http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182
 [professional-js]: http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html
 [javascript-ninja]: http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X
 

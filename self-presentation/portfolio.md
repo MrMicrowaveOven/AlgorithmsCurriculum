@@ -5,23 +5,50 @@
 No need to go crazy with your personal site. Maybe a jQuery animation here and there if it tickles your fancy.
 
  Include:
-* A personal summary
+* A personal summary - this will be very similar to your ["personal pitch"][personal-pitch]
+* A nice, well-lit picture of you. In NY, the one in the progress tracker is perfect
 * A list of your projects with short descriptions
     * Use the descriptions from your résumé
     * For each project include a live link and a link to its Github repo
-    * Don't forget the demo login info if needed
 * Easy access to your email (e.g. a link at the bottom of your personal summary)
+* Links to your GitHub and LinkedIn
+* Link to download your resume PDF
 * Links to your blog / Twitter / etc if they're well maintained and show your interest in the web/tech.
 * Google analytics so you can see who's looking at your site.
     * Send each company a unique query string so you can track which ones are visiting your page.
     * You'll find this under Audience > Overview > View Full Report.
     * The Behavior Flow feature will tell you which parts of your site they're looking at most.
 
+[personal-pitch]: ./personal-pitch.md
+
+## Design
+
+  Use a template so you don't have to design anything. Here are some of the reasons why:
+  * You're a web developer, not a web designer. 
+  * HR screeners who see an ugly/poorly designed portfolio site may reject you based purely on that (dumb, but it happens). Their standards for web design quality are influenced by the sites they use most often, which are usually websites that have whole design teams behind them. 
+  * You'll save a lot of time. 
+  * Might feel like "cheating", but it's not because the technical people who might be able to tell that you used a template will know that you're a web developer and not a designer, do they're not expecting you to come up with a good design on your own.
+
+  For free templates check out
+  * [BlackTie][blacktie]
+  * [HTML5 UP][html5-up]
+  * [Phuocub][phuocub]
+
+[blacktie]: http://www.blacktie.co/
+[html5-up]: http://html5up.net/
+[phuocub]: http://phuocub.com/2013/09/free-html5-css3-templates-free-download/
+
+  For paid templates ($15-$40) check out
+  * [themeforest][themeforest]
+
+[themeforest]: http://themeforest.net/search?utf8=%E2%9C%93&term=personal
+
+
 ## Publishing
 
-**1. Deploy to Heroku**
+**1. Deploy to Github pages**
 
-Push the git repo to a Heroku app. You can also use Amazon S3, Github pages, or whichever hosting service you prefer. A simpler hosting service may not require setting up Pingdom (see below). If you use Github pages, look into setting up a CNAME record to make www.firstnamelastname.com redirect to your Github page.
+Look into setting up a CNAME record to make www.firstnamelastname.com redirect to your Github page.
 
 
 **2. Register a domain**
@@ -33,7 +60,7 @@ We recommend [namecheap.com][namecheap] for registering domains.
 
 **3. Set up a CNAME**
 
-Canonical names make your hostname point to another. You want www.mycoolurl.com to point to www.myuncoolurl.herokuapp.com.
+Canonical names make your hostname point to another. You want www.mycoolurl.com to point to myusername.github.io.
 
 
 *On namecheap.com:*
@@ -47,66 +74,30 @@ Canonical names make your hostname point to another. You want www.mycoolurl.com 
     * Select CNAME (Alias) under "Record Type".    
 0. Click "Save Changes".
 
-
-*In your terminal*
- 
-0. Navigate to the directory that holds your portfolio's repo.
-0. Run "heroku domains:add www.mycoolurl.com".
-
 More detailed instructions:    
 [namecheap setup][namecheap-tutorial]
-[heroku setup][heroku-tutorial]    
-
-[heroku-tutorial]: https://devcenter.heroku.com/articles/custom-domains
 [namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
 
-
-**4. Set up Uptime Robot**
-
-Uptime Robot pings URLs at regular intervals. This is originally intended to detect network breakdowns quickly. If Uptime Robot gets a 404 from the URL you set it to, it'll notify you that the site is down.    
-
-Another use is keeping your Heroku app wound up. When no one visits your app for a while, Heroku saves itself server space and winds it down (this is also to encourage you to buy Heroku's premium services). This means the next time someone visits your page it'll be *very* slow to load. To avoid this, set up Uptime Robot or Pingdom so that Heroku is regularly handling requests to your site.
-
-Go to [Uptime Robot][uptimerobot] and sign up for a Account. Then set up a check for your portfolio URL.    
-You'll probably want to set this up for your projects too.
-
-[uptimerobot]: http://uptimerobot.com/
-[new-relic]: http://newrelic.com/
 
 ## Past Examples
 
 For your inspiration here are some examples from past alumni.
 
-* [Asher King Ambramson][asher]
-* [April Goldman][april]
-* [Dylan Clark][dylan]
+* [Dean Hu][dean]
+* [Eric Savadian][eric]
+* [Konrad Dudziak][konrad]
 * [Sarah Mogin][sarah]
-* [Sean Omlor][sean]
+* [Jose Garza][jose]
 * [Teo Dell'Amico][teo] (used a paid template).
 
-[asher]: http://asherkingabramson.com/
-[april]: http://aprilgoldman.com/
-[dylan]: http://www.dylnclrk.io/
+[dean]: http://www.deanhu.com/
+[eric]: http://ericsavadian.com/
+[konrad]: http://www.konrad-dudziak.com/
 [sarah]: http://www.sarahmogin.com/
-[sean]: http://seanomlor.com/
+[jose]: http://www.jmgarza.info/#about-me
 [teo]: http://www.dellamico.com
 
 ## Quick hacks
 
-For free templates check out
-* [BlackTie][blacktie]
-* [HTML5 UP][html5-up]
-* [Phuocub][phuocub]
-
-[blacktie]: http://www.blacktie.co/
-[html5-up]: http://html5up.net/
-[phuocub]: http://phuocub.com/2013/09/free-html5-css3-templates-free-download/
-
 To demo some HTML/CSS/JS fast, there's [HTML Preview][html-preview].
-
 [html-preview]: http://htmlpreview.github.io/
-
-For paid templates ($15-$40) check out
-* [themeforest][themeforest]
-
-[themeforest]: http://themeforest.net/search?utf8=%E2%9C%93&term=personal
