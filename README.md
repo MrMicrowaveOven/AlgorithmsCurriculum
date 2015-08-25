@@ -25,40 +25,57 @@
 [browser-game]: ./self-presentation/browser_game.md
 
 ## W10D1
-* You have the morning off! Get to the office between 11:30 and 12-noon.
-* Prepare your [browser game][browser-game]
-* Enter the URLs for the browser game in the Job App Material on the Jobberwocky
-* Fix any last bugs in your Capstone Project. Update URL on Progress Tracker.
+* Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project.  
   * Make sure you go through the [checklist][capstone-checklist]
   * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
-* Come in to office between 10:30 and 11am from now on.
+
+NY only:
+* You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
+* Prepare your [browser game][browser-game]
+* Enter the URLs for the browser game in the Job App Material on the Jobberwocky
   
 [capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
 
 ## W10D2
+* NY only: 
 * Get to the office between 10:30 and 11am from today on.
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
   * Do pairboarding every weekday at 11am until you are employed.
 * Begin [job app materials reviews][job-app-materials-reviews]
   * Do this every weekday until W11D2. Ask your reviewees for the links before they start pairboarding. 
   * Finish all reviews by 3pm, so you should start right after lunch.
+
+* SF only: 
+* Get to the office by 9am every day.  We will be taking roll.  
+* In the morning, continue work on your resume and cover letter (see W9D6-7).  Your peers will start reviewing your materials tomorrow.  
+* Start preparing your [browser game][browser-game] and code_intensive
+* Enter the URLs for the browser game in the Job App Material on the Jobberwocky
+(See the lectures and events calendar for lecture times.)
+
   
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
 [job-app-materials-reviews]: ./self-presentation/job_app_materials_reviews.md
   
 ## W10D3
+NY only:
 * Send your reviewers the links to your Job App Materials before you start pairboarding at 11am.
+
+SF only: 
+* Begin [job app materials reviews][job-app-materials-reviews]
+  * Do this everyday for the rest of the week. Ask your reviewees for the links as soon as assignments are sent by email. 
+  * Finish all reviews by 3pm, so reviewees have time to ask you any follow-up questions after the review.
+
+SF & NY:
 * Start your Job Search Roadmap: a list of companies you'll apply to
   * Add 15 companies per day until you find a job
   * Copy [this template][roadmap-template]
-    * The "companyBlurb" is what you'll end up putting in your cover letter. Should be 1-2 sentences and shoul take you ~5 mins. They should be mostly generic, just so the company knows you went on their site. Something like "I like the fast-paced nature of the Ad Tech industry and I'm curious to get a look at it from inside CoolCompany." Super generic, but you can tell that I know the company does Ad Tech, which is probably on their landing page.
+    * The "companyBlurb" is what you'll end up putting in your cover letter. Should be 1-2 sentences and should take you ~5 mins. They should show the company that you understand what they do. A generic statement could be "I like the fast-paced nature of the Ad Tech industry and I'm curious to get a look at it from inside CoolCompany."  
   * Rank companies 1 to 3
     * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
     * 2 means "Looks like a cool place". Should be 35-40% of them.
     * 1 means "Want to work there". Should be 10-15%
 
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
-
 
 ## W10D4
 * Nothing new. At this point, you have 3 things to do every day: pairboarding, job app materials reviews, and add 15 companies to your job search roadmap.
@@ -68,6 +85,9 @@
 * Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
 * Read about [performance analysis and big O][big-o].
 * Read [What do software engineers actually do?][what-software-engineers-do]
+
+SF only:
+* Last day of reviweing Job App Materials. Make it good!  
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
@@ -80,6 +100,11 @@
 * Add another 30 companies to your Job Search Roadmap (15 each day)
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
+
+SF only:
+* After addressing all comments from reviewers, **turn in your resumes on Jobberwocky by Monday 9am.**
+* Don't forget to give us "Can Edit" permissions, not just "Can Comment"
+  * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review.
 
 [meetups]: ./engineering-culture/meetups.md
 [job-boards]: ./mass-applying/job-boards.md
@@ -94,13 +119,21 @@
 [shepherd]: http://github.hubspot.com/shepherd/docs/welcome/
 
 ## W11D1
-* Continue pairboarding (don't forget to practice your personal pitch)
-* Review Job App Materials
 * Add 15 companies to your Job Search Roadmap
+
+NY only: 
+* Continue pairboarding (don't forget to practice your personal pitch)
+* NY only: Review Job App Materials
+
+SF only: 
+* Begin pairboarding.  Pair assignments will be sent each day by email.  Remember to practice your personal pitch.
+* One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
 
 ## W11D2
 * Continue pairboarding (don't forget to practice personal pitch)
 * Add 15 companies to your Job Search Roadmap
+
+NY only:
 * Last day of reviewing Job App Materials! Make it good!
   * After reviewing and applying all edits your reviewers suggest, submit your resume for review on the Jobberwocky. 
   * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
@@ -131,6 +164,9 @@
   * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday
   * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
   * Add the applications into the Jobberwocky. Mark whether you've done a phone_screen, interviewed, got rejected, or got an offer as you go.
+ 
+SF only: 
+* Coding challenges start today and continue through W12D2.  See shared calendar.  
 
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
@@ -164,8 +200,13 @@
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
-* Attend the Negotiations lecture.
 * For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
+
+NY only:
+* Attend the Negotiations lecture.
+
+SF only: 
+* Application competitions take place this week. See shared calendar.  
 
 [offer-negotiation]: ./negotiating/email-negotiations.md
 [salary-data]: ./negotiating/salary-data.md
@@ -176,7 +217,8 @@
 ## W12D2
 * Continue pairboarding, applying, and adding to Job Search Roadmap.
 * Prepare your final project presentation for Graduation Day (Thurs night)
-  * Practice it with your pairboarding partner
+  * NY: Practice it with your pairboarding partner
+  * SF: Attend the project presetation workshop
 * Start applying to the the companies you've marked as 2s and 1s.  
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
@@ -198,7 +240,6 @@
 [rails-review]: ./further_readings/review.md
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
-
 ## W12D4
 * Continue pairboarding, applying, adding to Roadmap
   * Should be at 90 by EOD
@@ -216,6 +257,10 @@
 * Continue applying to 15 places and adding 15 companies to your Job Search Roadmap every weekday.
 * Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
 * There may be optional lectures from a/A staff and alumni. 
+* Remember, if you finish the a/A pairboarding problems, 
+    * Stay sharp using [these tests][algo-specs] only after you get
+      through the entire list while pairboarding.
+    * Try [Codility][codility] if you want to do more on your own.
 
 ## JavaScript Readings
 * [Effective JavaScript][effective-js] (you were required to read this one during the course, but you'll probably get MUCH more out of it now)
