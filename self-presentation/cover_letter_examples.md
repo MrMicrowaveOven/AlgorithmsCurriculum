@@ -15,7 +15,7 @@ I built my first website when I was 14, and have been involved in technology eve
 
 If you have questions or if you want to schedule an interview, please contact me at 415-555-5724, or name@gmail.com. I look forward to meeting you to further discuss employment opportunities with [Company Name].
 
-Joe Bob
+Joe Schmidt
 
 PS: I think you'll really like this game(link) I built ;)
 
@@ -31,7 +31,7 @@ My previous projects include [project name as link], a photo-hosting website whe
 
 Additional information on my background and projects are in the attached resume and can be viewed on my portfolio page(as link). Please let me know if you have any questions, and I look forward to hearing from you.
 
-Sally Smith
+Sally Weavers
 
 
 **Example #3**
@@ -46,7 +46,7 @@ In addition to my programming skills, I have gained invaluable experience as a U
 
 My past jobs and training have focused on quickly learning a vast array of new material and immediately applying it. I'm looking forward to contributing to an exciting and fast paced team at [company].  
 
-Frank Franklin
+Frank Matterson
 
 
 **Example #4**
