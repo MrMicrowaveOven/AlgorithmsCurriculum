@@ -66,6 +66,7 @@ SF only:
   * Finish all reviews by 3pm, so reviewees have time to ask you any follow-up questions after the review.
 
 SF & NY:
+* Keep working on application materials and JS games. 
 * Start your Job Search Roadmap: a list of companies you'll apply to
   * Add 15 companies per day until you find a job
   * Copy [this template][roadmap-template]
