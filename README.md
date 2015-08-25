@@ -50,7 +50,7 @@ SF only:
 * In the morning, continue work on your resume and cover letter (see W9D6-7).  Your peers will start reviewing your materials tomorrow.  
 * Start preparing your [browser game][browser-game] and code_intensive
 * Enter the URLs for the browser game in the Job App Material on the Jobberwocky
-(See the lectures and events calendar for lecture times.)
+* Lectures begin this afternoon.  See the a/A Lectures and Events shared calendar for exact times.
 
   
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
