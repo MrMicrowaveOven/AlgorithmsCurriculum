@@ -102,7 +102,7 @@ SF only:
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 
 SF only:
-* After addressing all comments from reviewers, **turn in your resumes on Jobberwocky by Monday 9am.**
+* After addressing all comments from reviewers, **turn in your resumes and cover letters on Jobberwocky by Monday 9am.**
 * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
   * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review.
 
