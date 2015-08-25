@@ -79,10 +79,10 @@ SF & NY:
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
 
 ## W10D4
-* Nothing new. At this point, you have 3 things to do every day: pairboarding, job app materials reviews, and add 15 companies to your job search roadmap.
+* Nothing new. At this point, you have 3 things to do every day: pairboarding (NY), job app materials reviews, and add 15 companies to your job search roadmap.
 
 ## W10D5
-* [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboargind partner- give each other feedback.
+* [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
 * Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
 * Read about [performance analysis and big O][big-o].
 * Read [What do software engineers actually do?][what-software-engineers-do]
