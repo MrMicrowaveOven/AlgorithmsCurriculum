@@ -128,6 +128,7 @@ NY only:
 SF only: 
 * Begin pairboarding.  Pair assignments will be sent each day by email.  Remember to practice your personal pitch.
 * One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
+* See the algorithms reading [here][algorithms-curriculum].  Algorithms lectures and workshops begin this week, see shared calendar.  
 
 ## W11D2
 * Continue pairboarding (don't forget to practice personal pitch)
@@ -143,11 +144,12 @@ NY only:
 * Continue pairboarding, practicing personal pitch, and adding 15 companies.
 * Check the Jobberwocky to see if there are any to-dos on your resume
 * Attend the Technical Interviews lecture.
-* See the algorithms reading [here][algorithms-curriculum].
 * If you finish the a/A pairboarding problems, 
     * Stay sharp using [these tests][algo-specs] only after you get
       through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
+
+* NY only: See the algorithms reading [here][algorithms-curriculum].
 
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 [algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
