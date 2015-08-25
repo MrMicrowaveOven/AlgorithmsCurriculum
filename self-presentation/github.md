@@ -44,8 +44,8 @@ each other, you'll also have followers!
 ## See some example ReadMe's
 
 Examples by previous a/A grads
-https://github.com/hammeiam/lair-bnb
-https://github.com/DougBlumeyer/Geometrhythm
-https://github.com/hammeiam/squawkr
-https://github.com/DougBlumeyer/Rainbowbbles
-https://github.com/zhoux10/chess/tree/gh-pages
+* https://github.com/hammeiam/lair-bnb
+* https://github.com/DougBlumeyer/Geometrhythm
+* https://github.com/hammeiam/squawkr
+* https://github.com/DougBlumeyer/Rainbowbbles
+* https://github.com/zhoux10/chess/tree/gh-pages
