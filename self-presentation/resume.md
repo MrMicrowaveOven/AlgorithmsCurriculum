@@ -94,7 +94,7 @@ The three projects should be:
 
 0. A Backbone-on-Rails app to show you know the full stack
 0. A fun browser game for non-technical reviewers to appreciate (asteroids or snake, or better yet, a new game you've made that makes your resume different from other a/A grads)
-0. A complex code_intensice project for technical reviewers that shows strong Object-Oriented Design skills.
+0. A complex code-intensive project for technical reviewers that shows strong Object-Oriented Design skills.
 
 The first and second **must** be deployed and available to view online. Otherwise
 they aren't serving their purpose. The third should include a detailed README
