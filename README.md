@@ -123,7 +123,7 @@ SF only:
 
 NY only: 
 * Continue pairboarding (don't forget to practice your personal pitch)
-* NY only: Review Job App Materials
+* Review Job App Materials
 
 SF only: 
 * Begin pairboarding.  Pair assignments will be sent each day by email.  Remember to practice your personal pitch.
