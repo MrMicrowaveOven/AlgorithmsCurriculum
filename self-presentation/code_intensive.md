@@ -12,7 +12,7 @@ These are the things you need to address for any of the 3 projects you pick:
     * To-dos and future features
   * Make sure there's no .DS_Stores
   * Go through the whole thing and refactor everything. There will be a lot of obvious things to refactor since you're a much better developer now.
-  (some example ReadMe's are linked from [here][here])
+(some example ReadMe's are linked from [here][here])
 
 [here]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
   
