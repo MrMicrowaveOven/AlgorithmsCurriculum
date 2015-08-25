@@ -4,7 +4,7 @@ The point of this is to get your job application materials as perfefct as possib
 
 ## Instructions
 
-You'll be assigned two people every day from W10D2..W11D2 (only through W10D5 in SF) and you'll review all of their job application materials. That includes their resume, cover letter, browser game, capstone project, code_intensive, and portfolio site. Make sure to go through the checklists for each:
+You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) and you'll review all of their job application materials. That includes their resume, cover letter, browser game, capstone project, code_intensive, and portfolio site. Make sure to go through the checklists for each:
 
 * [Resume](./resume.md)
 * [Cover Letter](./cover_letter.md)
