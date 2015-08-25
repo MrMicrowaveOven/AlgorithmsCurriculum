@@ -37,7 +37,7 @@ NY only:
 [capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
 
 ## W10D2
-* NY only: 
+NY only: 
 * Get to the office between 10:30 and 11am from today on.
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
   * Do pairboarding every weekday at 11am until you are employed.
@@ -45,7 +45,7 @@ NY only:
   * Do this every weekday until W11D2. Ask your reviewees for the links before they start pairboarding. 
   * Finish all reviews by 3pm, so you should start right after lunch.
 
-* SF only: 
+SF only: 
 * Get to the office by 9am every day.  We will be taking roll.  
 * In the morning, continue work on your resume and cover letter (see W9D6-7).  Your peers will start reviewing your materials tomorrow.  
 * Start preparing your [browser game][browser-game] and code_intensive
