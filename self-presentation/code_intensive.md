@@ -9,13 +9,13 @@ These are the things you need to address for any of the 3 projects you pick:
     * Technical implementation details for anything worth mentioning (basically anything you had to stop and think about before building)
       * Include links to the neatest parts of the code
       * Include screenshots of anything that looks pretty
-      * A few example ReadMe's are linked from [here][here]
+      * A few example ReadMe's are linked from [this page][this page]
     * To-dos and future features
   * Make sure there's no .DS_Stores
   * Go through the whole thing and refactor everything. There will be a lot of obvious things to refactor since you're a much better developer now.
 
 
-[here]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
+[this page]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
   
 Then there are specific things to do for each project. 
 
