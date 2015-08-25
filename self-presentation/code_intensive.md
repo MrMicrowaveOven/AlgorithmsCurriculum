@@ -4,7 +4,7 @@ The point of this project is to impress a technical screener/interviewer. In mos
 
 These are the things you need to address for any of the 3 projects you pick:
   * README - make sure it has:
-    * Description/instructions on how to use
+    * Description/instructions on how to use and run code
     * List of techs/languages/plugins/APIs used
     * Technical implementation details for anything worth mentioning (basically anything you had to stop and think about before building)
       * Include links to the neatest parts of the code
