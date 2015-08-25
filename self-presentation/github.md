@@ -40,3 +40,12 @@ Star some repos and follow a few people. Good repos to star would be Rails,
 RSpec, Backbone, and anything you've used. You can follow the major contributors
 to these repos and everybody in class (including instructors). If you all follow 
 each other, you'll also have followers!
+
+## See some example ReadMe's
+
+Examples by previous a/A grads
+https://github.com/hammeiam/lair-bnb
+https://github.com/DougBlumeyer/Geometrhythm
+https://github.com/hammeiam/squawkr
+https://github.com/DougBlumeyer/Rainbowbbles
+https://github.com/zhoux10/chess/tree/gh-pages
