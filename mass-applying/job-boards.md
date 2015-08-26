@@ -11,21 +11,27 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
   * [Mattermark][mattermark]
 
 ##Marketplaces
-Fill these out once and check them every now and then. Reuse the same text as for your LinkedIn summary.
-Hired.com vets you with a 90 minute coding challenge. The coding challenge is tough so take a couple [HackerRank][hackerrank] tests to prepare.
+Fill these out once and check them every now and then. Hired.com will read your entire profile and look at all your projects and portfolios, then vets you with a 90 minute coding challenge. The coding challenge is tough so take a couple [HackerRank][hackerrank] tests to prepare.
   * [AngelList][angellist]*
+  * [Beansprock][beansprock]
+  * [Gradberry][gradberry]
   * [Hired.com][hired]
   * [Hirelite.com][hirelite]
-  * [StackOverflow][stackoverflow]
   * [Symni][symni]
+  * [StackOverflow][stackoverflow]
   * [Toptal][toptal]
   * [Underdog][underdog] (New York only)
   * [Untapt][untapt] (New York only)
   * [White Truffle][white-truffle]
 
+If this list feels too long, we've seen students have the most success with AngelList and Hired.com.  
+
 \* A Word of caution about AngelList: companies can see how many other companies you've expressed interest in over the last 30 days. Pace yourself.
 
+
 [hackerrank]: http://hackerrank.com
+[gradberry]: https://gradberry.com/
+[beansprock]: http://www.beansprock.com/
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
