@@ -47,6 +47,9 @@ NY only:
 
 SF only: 
 * Get to the office by 9am every day.  We will be taking roll.  
+* Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
+  * Press CMD+K and typing "hunters" on Slack 
+  * Or use this link: https://app-academy.slack.com/messages/hunters
 * In the morning, continue work on your resume and cover letter (see W9D6-7).  Your peers will start reviewing your materials tomorrow.  
 * Start preparing your [browser game][browser-game] and code_intensive
 * Enter the URLs for the browser game in the Job App Material on the Jobberwocky
@@ -106,7 +109,7 @@ SF only:
 SF only:
 * After addressing all comments from reviewers, **turn in your resumes and cover letters on Jobberwocky by Monday 9am.**
 * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
-  * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review.
+
 
 [meetups]: ./engineering-culture/meetups.md
 [job-boards]: ./mass-applying/job-boards.md
@@ -135,6 +138,12 @@ SF only:
 ## W11D2
 * Continue pairboarding (don't forget to practice personal pitch)
 * Add 15 companies to your Job Search Roadmap
+* Read tips written by Alumni 
+ * From Ronnie Chen (Software Engineer, Braintree) - [list of resources and study guides for the job search][ronnie-tips] 
+ * From Daniel Babiak (Back-end engineer, Paypal) - [how to ace front-end vs back-end interviews][babiak-tips]
+
+[ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
+[babiak-tips]: https://github.com/d-babiak/job-market-notes
 
 NY only:
 * Last day of reviewing Job App Materials! Make it good!
@@ -223,7 +232,6 @@ SF only:
 * Prepare your final project presentation for Graduation Day (Thurs night)
   * NY: Practice it with your pairboarding partner
   * SF: Attend the project presetation workshop
-* Start applying to the the companies you've marked as 2s and 1s.  
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
@@ -236,6 +244,7 @@ SF only:
 ## W12D3
 * Continue pairboarding, applying, adding to Job Search Roadmap.
   * You should be at 75 applications by the end of today.
+  * Start applying to the the companies you've marked as 2s and 1s.  
 * Memorize [the ways to make a website faster][performance-cheat-sheet]
 * So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 * Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
