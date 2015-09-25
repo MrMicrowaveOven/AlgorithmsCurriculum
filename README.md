@@ -138,12 +138,6 @@ SF only:
 ## W11D2
 * Continue pairboarding (don't forget to practice personal pitch)
 * Add 15 companies to your Job Search Roadmap
-* Read tips written by Alumni 
- * From Ronnie Chen (Software Engineer, Braintree) - [list of resources and study guides for the job search][ronnie-tips] 
- * From Daniel Babiak (Back-end engineer, Paypal) - [how to ace front-end vs back-end interviews][babiak-tips]
-
-[ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
-[babiak-tips]: https://github.com/d-babiak/job-market-notes
 
 NY only:
 * Last day of reviewing Job App Materials! Make it good!
@@ -214,6 +208,12 @@ SF only:
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
 * For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
+* Read job search tips from alumni 
+ * From Ronnie Chen (Software Engineer, Braintree) - [resources and study guides for the job search][ronnie-tips] 
+ * From Daniel Babiak (Back-end engineer, Paypal) - [how to ace front-end vs back-end interviews][babiak-tips]
+
+[ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
+[babiak-tips]: https://github.com/d-babiak/job-market-notes
 
 NY only:
 * Attend the Negotiations lecture.
