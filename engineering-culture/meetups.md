@@ -27,6 +27,7 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 * [San Francisco Ruby Meetup][sf-ruby]
 * [San Francisco Rails Meetup][sf-rails]
 * [Code for San Francisco][cfa-sf]
+* [San Francisco Python Meetup][sf-python]
 * [East Bay Javascript Meetup][EBJavaScript]
 
 
@@ -42,3 +43,4 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 [sf-rails]: http://www.meetup.com/sfrails/
 [cfa-sf]: http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/
 [EBJavascript]: http://www.meetup.com/EBJavaScript/
+[sf-python]: http://www.meetup.com/sfpython/
