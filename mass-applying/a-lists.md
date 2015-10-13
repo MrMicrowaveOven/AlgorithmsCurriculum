@@ -108,6 +108,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Meteor][meteor]
 * [Mixpanel][mixpanel]
 * [Netflix][netflix]
+* [Optimizely][optimizely]
 * [Pandora][pandora]
 * [Quora][quora]
 * [Square][square]
@@ -116,6 +117,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Uber][uber]
 * [Yelp][yelp]
 * [Zendesk][zendesk]
+* [Zenefits][zenefits]
 
 
 [dropbox]: https://www.dropbox.com/jobs
@@ -139,5 +141,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [zendesk]: https://www.zendesk.com/jobs/san-francisco/
 [solar city]: http://www.solarcity.com/careers/
 [yelp]: http://www.yelp.com/careers
+[zenefits]: https://www.zenefits.com/careers/
+[optimizely]: https://www.optimizely.com/careers/
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
