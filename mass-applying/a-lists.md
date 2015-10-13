@@ -95,24 +95,25 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 
 ## Bay Area
 
+* [AirBnb][airbnb]
+* [Asana][asana]
+* [Box][box]
+* [CloudFlare][cloudflare]
 * [Dropbox][dropbox]
+* [Firebase][firebase]
+* [GitHub][github]
+* [Instacart][instacart]
 * [Palantir][palantir]
 * [Pinterest][pinterest]
-* [Uber][uber]
-* [Square][square]
-* [AirBnb][airbnb]
-* [Box][box]
-* [Stripe][stripe]
-* [CloudFlare][cloudflare]
-* [Asana][asana]
-* [GitHub][github]
 * [Meteor][meteor]
-* [Quora][quora]
+* [Mixpanel][mixpanel]
 * [Netflix][netflix]
 * [Pandora][pandora]
-* [Firebase][firebase]
-* [Instacart][instacart]
-* [Mixpanel][mixpanel]
+* [Quora][quora]
+* [Square][square]
+* [Stripe][stripe]
+* [Uber][uber]
+
 
 [dropbox]: https://www.dropbox.com/jobs
 [palantir]: http://www.palantir.com/careers
