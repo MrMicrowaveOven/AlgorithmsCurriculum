@@ -111,8 +111,11 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Pandora][pandora]
 * [Quora][quora]
 * [Square][square]
+* [Solar City][solar city]
 * [Stripe][stripe]
 * [Uber][uber]
+* [Yelp][yelp]
+* [Zendesk][zendesk]
 
 
 [dropbox]: https://www.dropbox.com/jobs
@@ -133,5 +136,8 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [firebase]: https://www.firebase.com/jobs.html
 [instacart]: https://www.instacart.com/jobs
 [mixpanel]: https://mixpanel.com/jobs/
+[zendesk]: https://www.zendesk.com/jobs/san-francisco/
+[solar city]: http://www.solarcity.com/careers/
+[yelp]: http://www.yelp.com/careers
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
