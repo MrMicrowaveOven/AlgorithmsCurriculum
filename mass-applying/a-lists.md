@@ -98,6 +98,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Aspera][aspera]
 * [Box][box]
 * [CloudFlare][cloudflare]
+* [Coinbase][coinbase]
 * [Dropbox][dropbox]
 * [Firebase][firebase]
 * [GitHub][github]
@@ -139,9 +140,10 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [mixpanel]: https://mixpanel.com/jobs/
 [zendesk]: https://www.zendesk.com/jobs/san-francisco/
 [solar city]: http://www.solarcity.com/careers/
-[yelp]: http://www.yelp.com/careers
+[yelp]: http://www.yelp.com/careers/
 [zenefits]: https://www.zenefits.com/careers/
 [optimizely]: https://www.optimizely.com/careers/
 [aspera]: http://asperasoft.com/company/careers/
+[coinbase]: https://www.coinbase.com/careers/
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
