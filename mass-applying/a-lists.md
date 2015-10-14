@@ -97,6 +97,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 
 * [AirBnb][airbnb]
 * [Asana][asana]
+* [Aspera][aspera]
 * [Box][box]
 * [CloudFlare][cloudflare]
 * [Dropbox][dropbox]
@@ -143,5 +144,6 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [yelp]: http://www.yelp.com/careers
 [zenefits]: https://www.zenefits.com/careers/
 [optimizely]: https://www.optimizely.com/careers/
+[aspera]: http://asperasoft.com/company/careers/
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
