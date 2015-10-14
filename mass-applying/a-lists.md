@@ -84,7 +84,6 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [shapeways]: http://www.shapeways.com/jobs
 [skillshare]: http://www.skillshare.com/about#careers
 [spotify]: https://www.spotify.com/jobs/
-[square]: http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Jobs
 [squarespace]: http://www.squarespace.com/about/careers/
 [themuse]: https://www.themuse.com/jobs
 [thoughtbot]: http://thoughtbot.com/jobs
