@@ -102,7 +102,9 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Dropbox][dropbox]
 * [Firebase][firebase]
 * [GitHub][github]
+* [Imgur][imgur]
 * [Instacart][instacart]
+* [Lyft][lyft]
 * [Palantir][palantir]
 * [Pinterest][pinterest]
 * [Meteor][meteor]
@@ -114,6 +116,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Square][square]
 * [Solar City][solar city]
 * [Stripe][stripe]
+* [Teespring][teespring]
 * [Uber][uber]
 * [Yelp][yelp]
 * [Zendesk][zendesk]
@@ -145,5 +148,8 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [optimizely]: https://www.optimizely.com/careers/
 [aspera]: http://asperasoft.com/company/careers/
 [coinbase]: https://www.coinbase.com/careers/
+[imgur]: http://imgur.com/jobs
+[lyft]: https://www.lyft.com/jobs
+[teespring]: http://teespring.com/jobs
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
