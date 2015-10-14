@@ -100,9 +100,11 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Chartboost][chartboost]
 * [CloudFlare][cloudflare]
 * [Coinbase][coinbase]
+* [DoorDash][doordash]
 * [Dropbox][dropbox]
 * [Firebase][firebase]
 * [GitHub][github]
+* [Houzz][houzz]
 * [Imgur][imgur]
 * [Instacart][instacart]
 * [Lyft][lyft]
@@ -157,5 +159,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [tilt]: https://www.tilt.com/learn/jobs
 [udacity]: https://www.udacity.com/jobs
 [chartboost]: https://www.chartboost.com/jobs/
+[doordash]: https://www.doordash.com/jobs/
+[houzz]: https://www.houzz.com/jobs?loc=Palo%20Alto
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
