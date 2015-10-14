@@ -103,6 +103,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [DoorDash][doordash]
 * [Dropbox][dropbox]
 * [Firebase][firebase]
+* [Flipboard][flipboard]
 * [GitHub][github]
 * [Houzz][houzz]
 * [Imgur][imgur]
@@ -163,5 +164,6 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [doordash]: https://www.doordash.com/jobs/
 [houzz]: https://www.houzz.com/jobs?loc=Palo%20Alto
 [weebly]: http://careers.weebly.com/
+[flipboard]: https://about.flipboard.com/careers/
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
