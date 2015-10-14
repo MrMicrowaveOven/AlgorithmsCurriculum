@@ -41,7 +41,6 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Shapeways][shapeways]
 * [Skillshare][skillshare]
 * [Spotify][spotify]
-* [Square][square]
 * [SquareSpace][squarespace]
 * [The Muse][themuse]
 * [Thoughtbot][thoughtbot]
