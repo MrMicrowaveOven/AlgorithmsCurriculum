@@ -117,6 +117,8 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Solar City][solar city]
 * [Stripe][stripe]
 * [Teespring][teespring]
+* [Tilt][tilt]
+* [Udacity][udacity]
 * [Uber][uber]
 * [Yelp][yelp]
 * [Zendesk][zendesk]
@@ -151,5 +153,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [imgur]: http://imgur.com/jobs
 [lyft]: https://www.lyft.com/jobs
 [teespring]: http://teespring.com/jobs
+[tilt]: https://www.tilt.com/learn/jobs
+[udacity]: https://www.udacity.com/jobs
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
