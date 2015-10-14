@@ -123,6 +123,7 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 * [Tilt][tilt]
 * [Udacity][udacity]
 * [Uber][uber]
+* [Weebly][weebly]
 * [Yelp][yelp]
 * [Zendesk][zendesk]
 * [Zenefits][zenefits]
@@ -161,5 +162,6 @@ Also check out [Breakout List][Breakout List] and [Wealthfront's 2014 list][Weal
 [chartboost]: https://www.chartboost.com/jobs/
 [doordash]: https://www.doordash.com/jobs/
 [houzz]: https://www.houzz.com/jobs?loc=Palo%20Alto
+[weebly]: http://careers.weebly.com/
 [Breakout List]: http://www.breakoutlist.com/
 [Wealthfront]: https://info.wealthfront.com/rs/wealthfront/images/107careerlaunchingcompanies_final.pdf
