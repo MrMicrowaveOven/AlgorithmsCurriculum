@@ -64,6 +64,7 @@ NY only:
 * Send your reviewers the links to your Job App Materials before you start pairboarding at 11am.
 
 SF only: 
+* This is your one full day to work on your application materails.  Put it to use.  
 * Begin [job app materials reviews][job-app-materials-reviews]
   * Do this everyday for the rest of the week. Ask your reviewees for the links as soon as assignments are sent by email. 
   * Finish all reviews by 3pm, so reviewees have time to ask you any follow-up questions after the review.
