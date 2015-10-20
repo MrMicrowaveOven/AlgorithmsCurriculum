@@ -225,8 +225,7 @@ If you took CS-related courses in college, add a "Curriculum Highlights" section
 under the name of your degree and list those courses. Linear algebra, statistics,
 and Electrical Engineering courses are also relevant here.
 
-Include your GPA if you graduated 5 years ago or less and if it's above 2.5 for a
-STEM subject or 3.0 for a non-STEM subject. (Note on GPAs: most employers won't
+Include your GPA if you graduated 5 years ago or less and if it's above 3.0. If you studied a STEM subject or Econ, you can use your Major GPA if it is higher.  (Note on GPAs: most employers won't
 care about them, but a few will. This is just for them.)
 
 ## If you have neither a college degree nor relevant work experience
