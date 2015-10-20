@@ -146,6 +146,15 @@ vs
 
 In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.  
 
+*Caution:*
+
+* Students often use the past tense to describe each solution, eg. "Overrode
+  Backbone's default Model#parse method to..." It's less exciting if it's in
+  the past. Use the present tense in the third person (ie. your project
+  itself). "Overrides Backbone's default Model#parse method to..."
+* Look up the proper spelling and capitalization for the technologies you
+  mention.
+
 More example bullet points:
 * Achieves better performance by leveraging Cloudinary to cache different sizes of images
 * Original UI design, with sliding index items and toggle buttons that react to mouse hovers.
@@ -157,16 +166,6 @@ More example bullet points:
 * Implements custom infinite-pagination with prefetching to improve perceived load time.
 * Backbone.js collection filtered along multiple user inputs simultaneously.
 * JBuilder data serialization retrieves nested data from associated database entries. 
-
-
-*Caution:*
-
-* Students often use the past tense to describe each solution, eg. "Overrode
-  Backbone's default Model#parse method to..." It's less exciting if it's in
-  the past. Use the present tense in the third person (ie. your project
-  itself). "Overrides Backbone's default Model#parse method to..."
-* Look up the proper spelling and capitalization for the technologies you
-  mention.
 
 ## Work
 
