@@ -156,7 +156,7 @@ In the first example, the quality of the login process is ambiguous.  The second
   mention.
 
 More example bullet points:
-* Achieves better performance by leveraging Cloudinary to cache different sizes of images
+* Achieves better performance by leveraging Cloudinary to cache different sizes of images.
 * Original UI design, with sliding index items and toggle buttons that react to mouse hovers.
 * Overrides Backbone's parse methods to retrieve associated models with custom queries.
 * Sensitive search functionality listens for searchbar keydown and responds automatically.
@@ -166,6 +166,7 @@ More example bullet points:
 * Implements custom infinite-pagination with prefetching to improve perceived load time.
 * Backbone.js collection filtered along multiple user inputs simultaneously.
 * JBuilder data serialization retrieves nested data from associated database entries. 
+* Extends the Backbone View class with custom CompositeViews to facilitate adding and removing of sub views.
 
 ## Work
 
