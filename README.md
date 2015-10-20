@@ -86,6 +86,8 @@ SF & NY:
 ## W10D4
 * Nothing new. At this point, you have 3 things to do every day: pairboarding (NY), job app materials reviews, and add 15 companies to your job search roadmap.
 
+* SF only: Attend the Interview Skills lecture
+
 ## W10D5
 * [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
 * Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
@@ -94,6 +96,7 @@ SF & NY:
 
 SF only:
 * Last day of reviweing Job App Materials. Make it good!  
+* Attend the Personal Pitch workshop
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
@@ -141,18 +144,19 @@ SF only:
 * Add 15 companies to your Job Search Roadmap
 
 NY only:
-* Last day of reviewing Job App Materials! Make it good!
+* Last day of reviewing Job App Materials! Make it good! 
   * After reviewing and applying all edits your reviewers suggest, submit your resume for review on the Jobberwocky. 
   * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
-  * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review.
+  * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review. 
+
+* SF only: Attend the Technicaly Interviews lecture
 
 ## W11D3
 * Continue pairboarding, practicing personal pitch, and adding 15 companies.
 * Check the Jobberwocky to see if there are any to-dos on your resume
-* Attend the Technical Interviews lecture.
-* If you finish the a/A pairboarding problems, 
+* If you finish the a/A pairboarding problems early, 
     * Stay sharp using [these tests][algo-specs] only after you get
-      through the entire list while pairboarding.
+      through the pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
 
 * NY only: See the algorithms reading [here][algorithms-curriculum].
