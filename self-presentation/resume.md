@@ -146,6 +146,18 @@ vs
 
 In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.  
 
+More example bullet points:
+* Achieves better performance by leveraging Cloudinary to cache different sizes of images
+* Original UI design, with sliding index items and toggle buttons that react to mouse hovers.
+* Overrides Backbone's parse methods to retrieve associated models with custom queries.
+* Sensitive search functionality listens for searchbar keydown and responds automatically.
+* Integrates Google Maps API with geolocation based searching to display location of other users on a map.
+* Implements validation logic that identifies reservations with overlapping dates and prevents double bookings.
+* Uses observer pattern to handle management of global Z-indexes for overlapping items.
+* Implements custom infinite-pagination with prefetching to improve perceived load time.
+* Backbone.js collection filtered along multiple user inputs simultaneously.
+* JBuilder data serialization retrieves nested data from associated database entries. 
+
 
 *Caution:*
 
