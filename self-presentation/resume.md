@@ -155,7 +155,7 @@ In the first example, the quality of the login process is ambiguous.  The second
 * Look up the proper spelling and capitalization for the technologies you
   mention.
 
-More example bullet points:
+More example bullet points to help with brainstorming:
 * Achieves better performance by leveraging Cloudinary to cache different sizes of images.
 * Original UI design, with sliding index items and toggle buttons that react to mouse hovers.
 * Overrides Backbone's parse methods to retrieve associated models with custom queries.
