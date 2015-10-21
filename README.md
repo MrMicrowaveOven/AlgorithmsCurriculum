@@ -129,6 +129,7 @@ SF only:
 
 ## W11D1
 * Add 15 companies to your Job Search Roadmap
+* If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  
 
 NY only: 
 * Continue pairboarding (don't forget to practice your personal pitch)
