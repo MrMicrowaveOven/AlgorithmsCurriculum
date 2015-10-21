@@ -23,6 +23,14 @@ For this, the person you're reviewing will have to give you permission first.
 Ask them to give you "can comment" permission by clicking on the "Share" button 
 on the top right of the Doc.
 
+### Project description brainstorms
+
+At the start of peer reviews, you'll be working on wording of your resume as well as content. During this phase, identifying the best bullet points for showing off your capstone projects is essential.  
+
+For the first couple days of peer reviews, discuss the Selling Your Projects section of [this page] with one another.  Make sure bullet points don't simply list user features, but include the engineering methods used to implement those features too.  
+
+[this page]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume.md
+
 ### Other Materials
 
 Respond to the email your reviewee sent you with the links to their materials with all of the comments you have for each project. Separate them out by project and by github/live. For example:
