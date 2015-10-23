@@ -143,6 +143,9 @@ SF only:
 ## W11D2
 * Continue pairboarding (don't forget to practice personal pitch)
 * Add 15 companies to your Job Search Roadmap
+* Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Companies sometimes use these platforms during interviews, so familiarize yourself with the environment in advance.  
+
+SF only: Attend the Technicaly Interviews lecture
 
 NY only:
 * Last day of reviewing Job App Materials! Make it good! 
@@ -150,7 +153,9 @@ NY only:
   * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
   * Check back frequently to see if we've reviewed it and sent it back to you. Also check it was marked as completed- we may have put some last to-dos in there. If it's not marked as completed, resolve the to-dos and resubmit for another review. 
 
-* SF only: Attend the Technicaly Interviews lecture
+[HackerRank]: https://www.hackerrank.com/
+[Codility]: https://codility.com/
+
 
 ## W11D3
 * Continue pairboarding, practicing personal pitch, and adding 15 companies.
@@ -160,7 +165,7 @@ NY only:
       through the pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
 
-* NY only: See the algorithms reading [here][algorithms-curriculum].
+NY only: See the algorithms reading [here][algorithms-curriculum].
 
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 [algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
@@ -177,9 +182,7 @@ NY only:
   * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday
   * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
   * Add the applications into the Jobberwocky. Mark whether you've done a phone_screen, interviewed, got rejected, or got an offer as you go.
- 
-SF only: 
-* Coding challenges start today and continue through W12D2.  See shared calendar.  
+
 
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
@@ -273,6 +276,9 @@ SF only:
   
 
 ## W12D5 and BEYOND
+SF only: Take the official coding test from one of App Academy's hiring partners.  
+
+SF & NY: 
 * Continue applying to 15 places and adding 15 companies to your Job Search Roadmap every weekday.
 * Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
 * There may be optional lectures from a/A staff and alumni. 
