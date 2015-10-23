@@ -11,18 +11,19 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
   * [Mattermark][mattermark]
 
 ##Marketplaces
-Fill these out once and check them every now and then. Hired.com will read your entire profile and look at all your projects and portfolios, then vets you with a 90 minute coding challenge. The coding challenge is tough so take a couple [HackerRank][hackerrank] tests to prepare.
-  * [AngelList][angellist]*
-  * [Beansprock][beansprock]
-  * [Gradberry][gradberry]
-  * [Hired.com][hired]
-  * [Hirelite.com][hirelite]
-  * [Symni][symni]
-  * [StackOverflow][stackoverflow]
-  * [Toptal][toptal]
+Fill these out once and check them every now and then. Some require coding tests.  The coding challenges be tough so take a couple [HackerRank][hackerrank] tests to prepare.
+  * [AngelList][angellist] - make a profile, see great jobs
+  * [Beansprock][beansprock] - location-based, small companies
+  * [Gradberry][gradberry] - code-based matching
+  * [Hired][hired] - application followed by coding tests
+  * [Hirelite][hirelite] - 'speed dating' format
+  * [Lytmus][lytmus] - pair programming format
+  * [StackOverflow][stackoverflow] - great job posts and discussions
+  * [Toptal][toptal] - for contract work
+  * [Triplebyte][triplebyte] - code-based matching
   * [Underdog][underdog] (New York only)
   * [Untapt][untapt] (New York only)
-  * [White Truffle][white-truffle]
+  * [White Truffle][white-truffle] - profile-based matching
 
 If this list feels too long, we've seen students have the most success with AngelList and Hired.com.  
 
@@ -39,7 +40,7 @@ These online communities post job boards on the first of each month. Set a remin
     * https://docs.google.com/forms/d/1y3QxRwPhnDk4-c5uzjH-lYLMESfaAT0m1kaOseEfmgE/viewform
     * https://docs.google.com/spreadsheet/ccc?key=0AmQExXr67OcTdF9JZE1RNjItMnZKdTNqSGd3bXJLTXc#gid=0
     * https://docs.google.com/spreadsheet/ccc?key=0AmQExXr67OcTdEVuYWViZngyaUdYRWZ1X1BKQlZMM1E&usp=sharing#gid=0
-  * Ask [HackerNews][hackernews]: Who's Hiring?
+  * Ask [HackerNews][hackernews]: Who's Hiring?  Once per month posting with tons of YC jobs.  
 
 ##Databases
 Good resources to hit your daily quota.
@@ -84,9 +85,11 @@ check 'Show Active' on the left).
 [enginapp]: http://www.enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
+[lytmus]: http://www.lytmus.io/
 [stackoverflow]: http://careers.stackoverflow.com/
 [symni]: https://symni.com/
 [toptal]: http://www.toptal.com/developer
+[triplebyte]: https://triplebyte.com/
 [underdog]: http://www.underdog.io/
 [untapt]: https://www.untapt.com/
 [white-truffle]: https://www.whitetruffle.com/
