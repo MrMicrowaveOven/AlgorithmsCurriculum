@@ -15,8 +15,9 @@
 
 ## W9D6-7
 * Prepare your [resume][resume], [cover letter][cover-letter], [portfolio site][portfolio], and [code_intensive][code-intensive]
-* Enter the respective URLs in the Job App Materials in the Jobberwocky and save
 * If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
+
+NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky and save
 
 [resume]: ./self-presentation/resume.md
 [cover-letter]: ./self-presentation/cover_letter.md
