@@ -91,23 +91,16 @@ picking out buzzwords.
 Consider these examples:
 
 *Baseless praise: weak*
-
-    I am excited to apply to GeneriCo because we both value high quality code and making awesome products.
+"I am excited to apply to GeneriCo because we both value high quality code and making awesome products."
 
 *Viewpoint of a customer, not an employee: weak*
-
-    Your company keeps information organized so it's easy to reference.  I enjoy shopping online 
-    and especially like it when the experience is streamlined.
+"Your company keeps information organized so it's easy to reference.  I enjoy shopping online and especially like it when the experience is streamlined."
     
 *Familiarity with the industry: strong*
-
-    A cloud-based point of sale allows businesses to centralize their transaction data like never before.
-    I would love to help build GeneriCo's product and finally bring retail to the cloud.
+"A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud."
 
 *Understanding their challenges: strong*
-
-    GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my 
-    mathematics background to develop faster algorithms that enabled further growth.  
+"GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth."
 
 **Talking Points**
 
