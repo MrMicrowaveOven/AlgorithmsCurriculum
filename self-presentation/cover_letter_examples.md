@@ -7,7 +7,7 @@
 
 Hi [Name or Team],
 
-I am a web developer with experience with experience building rich web apps in JS and Rails. I'm currently looking to join a team where I can help build interesting projects and continue to grow as a developer. I'm excited to find out whether [Company] and I are a good fit. [company blurb]
+I am a web developer with experience building rich web apps in Javascript and Rails. I'm currently looking to join a team where I can help build interesting projects and continue to grow as a developer. I'm excited to find out whether [Company] and I are a good fit. [company blurb]
 
 My most recent project is [project].com, a book recommendation engine for Harry Potter fans. Through tagging, rating, commenting, filtering, and collective filtering features, the site helps people find additional works they might enjoy. 
 
