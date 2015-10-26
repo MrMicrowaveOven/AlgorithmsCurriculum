@@ -22,7 +22,7 @@ letter, I might have picked up on some keywords ("Rails", "fast-paced",
 slightly harder to ignore.
 
 What does this mean for you? Your cover letter shouldn't be Shakespeare. Merely
-existing is 90% of its job. The other 10% is including the right keywords.
+existing is 90% of its job. The other 10% is including the right keywords and keeping 'fluff' to a minimum.
 
 ![job description word cloud](http://i.imgur.com/c6yT77k.png)
 
@@ -73,7 +73,7 @@ Best".
 
 **Opening**
 
-Start off strong with a "I am a web developer with experience in X, Y and Z". Do not open with "I would like to apply to the Ruby developer position listed on your website". That's boring. After that, have a sentence that says that you're looking for a job, something like "I'm looking to join a team where I can help build interesting projects and continue to grow as a developer." The point of this sentence is to say you're looking for a job, willing to learn, and as a segway into the next part. Close this paragraph with the company blurb.
+Start off strong with a "I am a web developer with experience in X, Y and Z". Do not open with "I would like to apply to the Ruby developer position listed on your website". That's boring.  After that, you may include a sentence that says that you're looking for a job, something like "I'm looking to join a team where I can help build interesting projects and continue to grow as a developer."  See the [example cover letters][cover letters]to see some different formats that have worked for others.  
 
 **Company-specific Blurb**
 
