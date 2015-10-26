@@ -7,7 +7,7 @@
 
 Hi [Name or Team],
 
-I am a web developer with experience in Ruby, Rails, Javascript, and Backbone. I'm currently looking to join a team where I can help build interesting projects and continue to grow as a developer. I'm excited to find out whether [Company] and I are a good fit. [company blurb]
+I am a web developer with experience with experience building rich web apps in JS and Rails. I'm currently looking to join a team where I can help build interesting projects and continue to grow as a developer. I'm excited to find out whether [Company] and I are a good fit. [company blurb]
 
 My most recent project is [project].com, a book recommendation engine for Harry Potter fans. Through tagging, rating, commenting, filtering, and collective filtering features, the site helps people find additional works they might enjoy. 
 
@@ -25,7 +25,7 @@ PS: I think you'll really like this game(link) I built ;)
 
 Dear { companyName } team,
 
-I’m a software developer with experience building rich web apps in JS and Rails, and a background in molecular biology. I'm looking for new opportunities to develop technological solutions for users. { companyBlurb }
+I’m a software developer with experience in Ruby, JS and React.js, and a background in molecular biology. I'm looking for new opportunities to develop technological solutions for users. { companyBlurb }
 
 My previous projects include [project name as link], a photo-hosting website where photo albums and photos can be uploaded and tagged using the Cloudinary API and the Google Places API. The website uses jQuery UI to enable photo rearrangement, allowing users the ability to narrate their albums in a specific order. To improve the site’s responsiveness, HTML elements are automatically resized using a combination of Bootstrap and jQuery. 
 
@@ -60,7 +60,7 @@ I’d love to be the newest developer on your team. My resume is attached, but t
 I’ve jumped into a code base, been on-boarded, and written tests to cover my code. I’ve also contributed to open source projects, and have been learning and practicing web development for a year. I am confident I can hit the ground running, and quickly add value to your team.
 
 **I know how to work** -
-I studied [field] at [university], and the skills I learned there have served me well -- persevering through tough problems, learning new things constantly, pursuing goals as a team, meeting tight deadlines -- I’m sure you’ll appreciate them too
+I studied [field] at [university], and the skills I learned there have served me well -- persevering through tough problems, learning new things constantly, pursuing goals as a team, meeting tight deadlines -- I’m sure you’ll appreciate them too.
 
 **I add value to companies in innovative ways** -
 For 2 years I was in India, working for a small, venture-backed team doing big things in serialization and patient engagement in the pharmaceutical industry. As such, I had to wear many hats; I helped coordinate a 6 month sales-drive that brought the company to profitability, wrote a grant that won $30,000 from the Bill and Melinda Gates Foundation, and spec’ed out an internal business logic engine, amount other things. I am able to identify low hanging fruit better than others only having experience in one area.
