@@ -96,7 +96,8 @@ Consider these examples:
 
 *Viewpoint of a customer, not an employee: weak*
 
-    Your company keeps information organized so it's easy to reference.  I enjoy shopping online and especially like it when the experience is streamlined.
+    Your company keeps information organized so it's easy to reference.  I enjoy shopping online 
+    and especially like it when the experience is streamlined.
     
 *Familiarity with the industry: strong*
 
@@ -105,7 +106,8 @@ Consider these examples:
 
 *Understanding their challenges: strong*
 
-    GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth.  
+    GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my 
+    mathematics background to develop faster algorithms that enabled further growth.  
 
 **Talking Points**
 
