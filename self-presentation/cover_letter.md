@@ -73,7 +73,7 @@ Best".
 
 **Opening**
 
-Start off strong with a "I am a web developer with experience in X, Y and Z". Do not open with "I would like to apply to the Ruby developer position listed on your website". That's boring.  After that, you may include a sentence that says that you're looking for a job, something like "I'm looking to join a team where I can help build interesting projects and continue to grow as a developer."  See the [example cover letters][cover letters]to see some different formats that have worked for others.  
+Start off strong with a "I am a web developer with experience in X, Y and Z". Do not open with "I would like to apply to the Ruby developer position listed on your website". That's boring.  After that, you may include a sentence that says that you're looking for a job, something like "I'm looking to join a team where I can help build interesting projects and continue to grow as a developer."  See the [example cover letters][cover letters] to see some different formats that have worked for others.  
 
 **Company-specific Blurb**
 
