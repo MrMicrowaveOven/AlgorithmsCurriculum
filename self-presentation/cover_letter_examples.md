@@ -25,7 +25,7 @@ PS: I think you'll really like this game(link) I built ;)
 
 Dear { companyName } team,
 
-I’m a web developer with experience in Ruby on Rails and JavaScript, and a background in molecular biology, looking for new opportunities to develop technological solutions for users. { companyBlurb }
+I’m a software developer with experience building rich web apps in JS and Rails, and a background in molecular biology. I'm looking for new opportunities to develop technological solutions for users. { companyBlurb }
 
 My previous projects include [project name as link], a photo-hosting website where photo albums and photos can be uploaded and tagged using the Cloudinary API and the Google Places API. The website uses jQuery UI to enable photo rearrangement, allowing users the ability to narrate their albums in a specific order. To improve the site’s responsiveness, HTML elements are automatically resized using a combination of Bootstrap and jQuery. 
 
@@ -40,7 +40,7 @@ Hello [ company ] Team,
 
 I'm a huge fan of company X because of Y and my experience with Z. I think my background and skills would be a great fit for your company.
 
-I am a web developer with a background in Ruby, Javascript, and frameworks such as Rails and Backbone. An example of my work can be viewed at www.[project].com. It features the ability for users to create running teams. Members can then easily create events for their teams. The site is built on a Rails backend with Backbone serving as the responsive front end. Mapbox.js is utilized to allow users to produce beautiful maps of running routes that can be included in events so that the entire team can see the course.
+I am a web engineer with a background in Ruby, Javascript, and frameworks such as Rails and Backbone. An example of my work can be viewed at www.[project].com. It features the ability for users to create running teams. Members can then easily create events for their teams. The site is built on a Rails backend with Backbone serving as the responsive front end. Mapbox.js is utilized to allow users to produce beautiful maps of running routes that can be included in events so that the entire team can see the course.
 
 In addition to my programming skills, I have gained invaluable experience as a US Army pilot, flying the KC-10 on critical missions around the world. As an officer, I was entrusted with flying an $80M aircraft and leading a crew of up to 15 officers. Flexibility and the ability to react to rapidly changing situations were key skills necessary to successfully complete over 50 missions.
 
