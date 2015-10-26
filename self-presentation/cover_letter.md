@@ -83,21 +83,20 @@ is and what a collaborative work environment they have. That's only convincing
 if you've actually met people there or visited their office. Instead, the message 
 you should get across, is that you're excited to find out if you're a good mutual 
 fit. Your letter will be a lot more compelling if you can mention something you 
-know about the industry they're in, and why that appeals to you. If you spend  
+know about the industry they're in. Show how their industry appeals to you, or how you can help them handle their specific challenges.  If you spend  
 five minutes on a job application, four of those should be for scanning the 
 Wikipedia article about the industry they're in and the company website and 
 picking out buzzwords.
 
 Consider these examples:
 
-**Weak**
-* Baseless praise: *"I am excited to apply to GeneriCo because we both value high quality code and making awesome products."*
-* Outsider's viewpoint: *"I enjoy shopping online and especially like it when the experience is streamlined like on your site."*
+*Weak*
+(Baseless praise) "I am excited to apply to GeneriCo because we both value high quality code and making awesome products."
+(Outsider's viewpoint) "I enjoy shopping online and especially like it when the experience is streamlined like on your site."
     
 **Strong**
-* Understanding of industry: *"A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud."*
-
-* Understanding their challenges: *"GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth."*
+(Understanding of industry) "A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud."
+(Understanding their challenges) "GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth."
 
 **Talking Points**
 
