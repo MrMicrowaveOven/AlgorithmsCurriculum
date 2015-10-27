@@ -87,13 +87,13 @@ picking out buzzwords.
 
 Consider these examples:
 
-*Weak*
-* "I am excited to apply to GeneriCo because we both value high quality code and making awesome products."  (Baseless praise) 
-* "I enjoy shopping online and especially like it when the experience is streamlined like on your site."  (Outsider's viewpoint, doesn't show understanding of the engineer's role.) 
-    
-*Strong*
-* "A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud." (Understanding of industry) 
-* "GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth." (Understanding their challenges) 
+*Show knowledge of the industry*
+* Weak: "I am excited to apply to GeneriCo because we both value high quality code and making awesome products."  
+* Strong: "A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud." 
+
+*Show understanding of their challenges*
+* Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site."  
+* Strong: "GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth." 
 
 **Talking Points**
 
