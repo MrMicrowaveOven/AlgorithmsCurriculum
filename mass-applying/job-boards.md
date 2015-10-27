@@ -12,7 +12,7 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
 
 ##Marketplaces
 Fill these out once and check them every now and then. Some require coding tests.  The coding challenges be tough so take a couple [HackerRank][hackerrank] tests to prepare.
-  * [500 miles][500 miles] - connect via an app
+  * [500 miles][500miles] - connect via an app
   * [AngelList][angellist] - make a profile, see great jobs
   * [Beansprock][beansprock] - location-based, small companies
   * [Gradberry][gradberry] - code-based matching
@@ -82,6 +82,7 @@ check 'Show Active' on the left).
 [linkedin]: http://help.linkedin.com/app/answers/detail/a_id/20709
 [mattermark]: http://mattermark.com/app/Newsletter
 
+[500miles]: http://500miles.io/#/home
 [angellist]: http://angel.co/
 [enginapp]: http://www.enginapp.com/
 [hired]: http://hired.com
