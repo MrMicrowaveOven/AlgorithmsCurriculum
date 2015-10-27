@@ -95,6 +95,8 @@ Consider these examples:
 * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site."  
 * Strong: "GeneriCo's userbase is growing fast.  I've dealth with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth." 
 
+If two different ways to write blurbs feels overwhelming, just use the first method for all the blurbs.  
+
 **Talking Points**
 
 Cover the following points, not necessarily in this order:
