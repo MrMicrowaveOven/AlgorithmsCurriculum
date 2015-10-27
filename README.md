@@ -73,8 +73,8 @@ SF & NY:
 * Keep working on application materials and JS games. 
 * Start your Job Search Roadmap: a list of companies you'll apply to
   * Add 15 companies per day until you find a job
-  * Copy [this template][roadmap-template]
-    * The "companyBlurb" is what you'll end up putting in your cover letter. Should be 1-2 sentences and should take you ~5 mins. They should show the company that you understand what they do. A generic statement could be "I like the fast-paced nature of the Ad Tech industry and I'm curious to get a look at it from inside CoolCompany."  
+  * Enter the companies into [Jobberwocky][jobberwocky]  
+    * Use the comments section to craft your "companyBlurb" while you're doing your research.  For more about blurbs, see the [cover letter][cover-letter] page.  
   * Rank companies 1 to 3
     * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
     * 2 means "Looks like a cool place". Should be 35-40% of them.
