@@ -12,6 +12,7 @@ Sign up for these. Crunchbase and Mattermark tell you what companies just got fu
 
 ##Marketplaces
 Fill these out once and check them every now and then. Some require coding tests.  The coding challenges be tough so take a couple [HackerRank][hackerrank] tests to prepare.
+  * [500 miles][500 miles] - connect via an app
   * [AngelList][angellist] - make a profile, see great jobs
   * [Beansprock][beansprock] - location-based, small companies
   * [Gradberry][gradberry] - code-based matching
@@ -25,7 +26,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Untapt][untapt] (New York only)
   * [White Truffle][white-truffle] - profile-based matching
 
-If this list feels too long, we've seen students have the most success with AngelList and Hired.com.  
+If this list feels too long, start with AngelList and Hired.com.  
 
 \* A Word of caution about AngelList: companies can see how many other companies you've expressed interest in over the last 30 days. Pace yourself.
 
