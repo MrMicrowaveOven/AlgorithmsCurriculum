@@ -71,15 +71,15 @@ SF only:
 
 SF & NY:
 * Keep working on application materials and JS games. 
-* Start your Job Search Roadmap: a list of companies you'll apply to
-  * Add 15 companies per day until you find a job
-  * Enter the companies into [Jobberwocky][jobberwocky]  
-    * Use the comments section to craft your "companyBlurb" while you're doing your research.  For more about blurbs, see the [cover letter][cover-letter] page.  
+* Start a list of companies you'll apply to
+  * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job
+  * Edit the status to "Will Apply" until you send your application
+    * Hover over the company name to add application details.  
+    * While you're researching the company, craft your company blurb.  For more about blurbs, see the [cover letter][cover-letter] page.  
   * Rank companies 1 to 3
     * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
     * 2 means "Looks like a cool place". Should be 35-40% of them.
     * 1 means "Want to work there". Should be 10-15%
-  * NY only: Share your Job Search Roadmap List with your Career Coach.
 
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
 
