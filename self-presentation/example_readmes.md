@@ -1,6 +1,6 @@
 #Writing ReadMe's
 
-**For help writing github Readme's for projects, see examples below.**
+Every project on your resume needs a great ReadMe.  
 
 ReadMe breakdown:
 * Live Link
