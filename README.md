@@ -16,7 +16,7 @@
 ## W9D6-7
 * Prepare your [resume][resume], [cover letter][cover-letter], [portfolio site][portfolio], and [code_intensive][code-intensive]
 * If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
-* If you haven't crafted a [readme][readme] for your capstone project, do so now.  
+* If you haven't crafted a readme for your capstone project, do so now.  [See examples.][readme] 
 
 NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky and save
 
