@@ -3,13 +3,19 @@
 **Every project on your resume needs a great ReadMe.**
 
 ReadMe breakdown:
-* Live Link
+* Link to live site
 * A couple sentences to describe what it is
-* Show off cool features via descriptions, code snippets, etc.  
-
-For a project that is not on the web, be especially sure to have a ReadMe.  
-* Include how to run the code (they are unlikely to do this, but they should still know how)
+* Instructions/how to play (for games)
+* How to run the code (for Ruby projects)
+* List of techs/languages/plugins/APIs used
+* Technical implementation details for anything worth mentioning
+* Basically anything you had to stop and think about before building
+* Snippets or links to see code for these (make sure it looks good)
 * Screenshots of anything related that looks cool 
+* To-dos/future features
+* No .DS_Stores
+* Organize into /assets and /lib
+
 
 Some examples by previous a/A grads
 * https://github.com/hammeiam/lair-bnb
