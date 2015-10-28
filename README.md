@@ -87,7 +87,7 @@ SF & NY:
 ## W10D4
 * Nothing new. At this point, you have 3 things to do every day: pairboarding (NY), job app materials reviews, and add 15 companies to your job search roadmap.
 
-* SF only: Attend the Interview Skills lecture
+* SF only: Attend the Interview Skills lecture.  Bring paper and pen to this lecture.  
 
 ## W10D5
 * [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
