@@ -4,7 +4,7 @@
 
 ReadMe breakdown:
 * Link to live site
-* A couple sentences to describe what it is
+* A couple sentences to describe the project
 * Instructions/how to play (for games)
 * How to run the code (for Ruby projects)
 * List of techs/languages/plugins/APIs used
