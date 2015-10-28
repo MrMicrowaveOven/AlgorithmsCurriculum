@@ -80,6 +80,7 @@ SF & NY:
     * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
     * 2 means "Looks like a cool place". Should be 35-40% of them.
     * 1 means "Want to work there". Should be 10-15%
+* To find companies, see the Companies tab in Jobberwocky, the Tech Companies spreadsheets ([NY][ny-tech-companies]&[SF][bay-tech-companies]  ) or any other job board.  Some suggested job boards are [here][job-boards].  
 
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
 
