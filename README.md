@@ -16,6 +16,7 @@
 ## W9D6-7
 * Prepare your [resume][resume], [cover letter][cover-letter], [portfolio site][portfolio], and [code_intensive][code-intensive]
 * If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
+* If you haven't crafted a [readme][readme] for your capstone project, do so now.  
 
 NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky and save
 
@@ -24,11 +25,16 @@ NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky a
 [portfolio]: ./self-presentation/portfolio.md
 [code-intensive]: ./self-presentation/code_intensive.md
 [browser-game]: ./self-presentation/browser_game.md
+[readme]: .self-presentation/example_readmes.md
 
 ## W10D1
 * Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project.  
   * Make sure you go through the [checklist][capstone-checklist]
   * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
+
+SF only: 
+* **Turn in your projects by Tuesday 9am**
+  * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call frequently, however, you will not be invited to participate in graduation events.  
 
 NY only:
 * You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
