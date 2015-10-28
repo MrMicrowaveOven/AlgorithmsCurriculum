@@ -9,10 +9,12 @@ ReadMe breakdown:
 * How to run the code (for Ruby projects)
 * List of techs/languages/plugins/APIs used
 * Technical implementation details for anything worth mentioning
-* Basically anything you had to stop and think about before building
-* Snippets or links to see code for these (make sure it looks good)
+  * Basically anything you had to stop and think about before building
+  * Snippets or links to see code for these (make sure it looks good)
 * Screenshots of anything related that looks cool 
 * To-dos/future features
+
+Also, 
 * No .DS_Stores
 * Organize into /assets and /lib
 
