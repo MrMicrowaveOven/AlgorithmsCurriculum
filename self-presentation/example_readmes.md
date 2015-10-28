@@ -1,6 +1,6 @@
 #Writing ReadMe's
 
-Every project on your resume needs a great ReadMe.  
+**Every project on your resume needs a great ReadMe.**
 
 ReadMe breakdown:
 * Live Link
