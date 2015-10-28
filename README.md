@@ -25,7 +25,7 @@ NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky a
 [portfolio]: ./self-presentation/portfolio.md
 [code-intensive]: ./self-presentation/code_intensive.md
 [browser-game]: ./self-presentation/browser_game.md
-[readme]: .self-presentation/example_readmes.md
+[readme]: ./self-presentation/example_readmes.md
 
 ## W10D1
 * Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project.  
