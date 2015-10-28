@@ -34,7 +34,7 @@ NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky a
 
 SF only: 
 * **Turn in your projects by Tuesday 9am**
-  * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call frequently, however, you will not be invited to participate in graduation events.  
+  * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call repeatedly, however, you may not be invited to participate in graduation events.  
 
 NY only:
 * You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
