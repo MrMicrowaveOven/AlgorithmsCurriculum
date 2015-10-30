@@ -96,7 +96,7 @@ SF & NY:
 * SF only: Attend the Interview Skills lecture.  Bring paper and pen to this lecture.  
 
 ## W10D5
-* [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
+* [Polish your personal pitch.][personal-pitch] NY: Practice your pitch every day with your pairboarding partner- give each other feedback.
 * Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
 * Read about [performance analysis and big O][big-o].
 * Read [What do software engineers actually do?][what-software-engineers-do]
@@ -143,7 +143,10 @@ NY only:
 * Review Job App Materials
 
 SF only: 
-* Begin pairboarding.  Pair assignments will be sent each day by email.  Remember to practice your personal pitch.
+* Begin [pairboarding][pair-boarding-index].  
+  *Find whiteboards and markers around the office.  
+  * Pair assignments will be sent each day by email.  
+  * Remember to practice your personal pitch.
 * One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
 * See the algorithms reading [here][algorithms-curriculum].  Algorithms lectures and workshops begin this week, see shared calendar.  
 
