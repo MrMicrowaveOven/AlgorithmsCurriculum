@@ -144,7 +144,7 @@ NY only:
 
 SF only: 
 * Begin [pairboarding][pair-boarding-index].  
-  *Find whiteboards and markers around the office.  
+  * Set up any whiteboards and find markers around the office.  
   * Pair assignments will be sent each day by email.  
   * Remember to practice your personal pitch.
 * One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
