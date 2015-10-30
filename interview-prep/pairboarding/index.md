@@ -7,7 +7,7 @@ problems.
 
 ## Instructions
 
-Pair with someone new every day. One in the pair takes question set A,
+Pair assignmnents change each day. One in the pair takes question set A,
 the other takes question set B. The interviewer has the problem and its
 solution.  He/she makes the other student, the interviewee, solve the
 problem as if they were doing a real interview. The interviewer cannot
