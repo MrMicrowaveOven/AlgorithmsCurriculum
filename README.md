@@ -169,7 +169,7 @@ NY only:
 
 ## W11D3
 * Continue pairboarding, practicing personal pitch, and adding 15 companies.
-* Check the Jobberwocky to see if there are any to-dos on your resume
+* Check the Jobberwocky/Drive to see if there are any to-dos on your resume
 * If you finish the a/A pairboarding problems early, 
     * Stay sharp using [these tests][algo-specs] only after you get
       through the pairboarding.
