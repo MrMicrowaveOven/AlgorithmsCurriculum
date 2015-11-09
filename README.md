@@ -53,7 +53,7 @@ NY only:
   * Finish all reviews by 3pm, so you should start right after lunch.
 
 SF only: 
-* Get to the office by 9am every day.  We will be taking roll.  
+* Get to the office by 9am every day.  We will be taking roll.  If you will be absent or late for any reason, email your career coach to let them know.  
 * Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
   * Press CMD+K and typing "hunters" on Slack 
   * Or use this link: https://app-academy.slack.com/messages/hunters
@@ -145,7 +145,7 @@ NY only:
 SF only: 
 * Begin [pairboarding][pair-boarding-index].  
   * Set up any whiteboards and find markers around the office.  
-  * Pair assignments will be sent each day by email.  
+  * Pair assignments will be sent each day by email.  If your pair is not present, approach the admin desk and ask what other students are in need of a pair.  
   * Remember to practice your personal pitch.
 * One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
 * See the algorithms reading [here][algorithms-curriculum].  Algorithms lectures and workshops begin this week, see shared calendar.  
