@@ -14,11 +14,15 @@
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
 ## W9D6-7
+SF:
 * Prepare your [resume][resume], [cover letter][cover-letter], [portfolio site][portfolio], and [code_intensive][code-intensive]
 * If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
 * If you haven't crafted a readme for your capstone project, do so now.  [See examples.][readme] 
 
-NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky and save
+NY:
+* Prepare your [portfolio site][portfolio], [code_intensive][code-intensive], and [browser game][browser-game]
+* If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
+* If you haven't crafted a readme for your capstone project, do so now.  [See examples.][readme] 
 
 [resume]: ./self-presentation/resume.md
 [cover-letter]: ./self-presentation/cover_letter.md
@@ -28,31 +32,25 @@ NY only: Enter the respective URLs in the Job App Materials in the Jobberwocky a
 [readme]: ./self-presentation/example_readmes.md
 
 ## W10D1
+SF: 
 * Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project.  
   * Make sure you go through the [checklist][capstone-checklist]
   * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
 
-SF only: 
 * **Turn in your projects by Tuesday 9am**
   * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call repeatedly, however, you may not be invited to participate in graduation events.  
 
-NY only:
+NY:
 * You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
-* Prepare your [browser game][browser-game]
-* Enter the URLs for the browser game in the Job App Material on the Jobberwocky
+* Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project.  
+  * Make sure you go through the [checklist][capstone-checklist]
+  * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
+* Continue preparing your [portfolio site][portfolio], [code_intensive][code-intensive], and [browser game][browser-game]
   
 [capstone-checklist]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
 
 ## W10D2
-NY only: 
-* Get to the office between 10:30 and 11am from today on.
-* Begin the [pairboarding curriculum][pair-boarding-curriculum].
-  * Do pairboarding every weekday at 11am until you are employed.
-* Begin [job app materials reviews][job-app-materials-reviews]
-  * Do this every weekday until W11D2. Ask your reviewees for the links before they start pairboarding. 
-  * Finish all reviews by 3pm, so you should start right after lunch.
-
-SF only: 
+SF: 
 * Get to the office by 9am every day.  We will be taking roll.  If you will be absent or late for any reason, email your career coach to let them know.  
 * Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
   * Press CMD+K and typing "hunters" on Slack 
@@ -61,22 +59,25 @@ SF only:
 * Start preparing your [browser game][browser-game] and code_intensive
 * Lectures begin this afternoon.  See the a/A Lectures and Events shared calendar for exact times.
 
+NY: 
+* Get to the office between 10:30 and 11am from today on. We will be taking roll. If you will be absent or late for any reason, email your career coach to let them know. 
+* Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
+  * Press CMD+K and typing "hunters" on Slack 
+  * Or use this link: https://app-academy.slack.com/messages/hunters
+* Begin the [pairboarding curriculum][pair-boarding-curriculum].
+  * Do pairboarding every weekday at 11am until you are employed.
+* Prepare your [resume][resume] and [cover letter][cover-letter]
   
 [pair-boarding-curriculum]: ./interview-prep/pairboarding/index.md#index
 [job-app-materials-reviews]: ./self-presentation/job_app_materials_reviews.md
   
 ## W10D3
-NY only:
-* Send your reviewers the links to your Job App Materials before you start pairboarding at 11am.
-
-SF only: 
-* This is your one full day to work on your application materails.  Put it to use.  
+SF:
+* Keep working on application materials and JS games. 
+* This is your one full day to work on your application materials.  Put it to use.  
 * Begin [job app materials reviews][job-app-materials-reviews]
   * Do this everyday for the rest of the week. Ask your reviewees for the links as soon as assignments are sent by email. 
   * Finish all reviews by 3pm, so reviewees have time to ask you any follow-up questions after the review.
-
-SF & NY:
-* Keep working on application materials and JS games. 
 * Build your list of companies you'll apply to
   * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job
   * Edit the status to "Will Apply" until you send your application
@@ -88,22 +89,48 @@ SF & NY:
     * 1 means "Want to work there". Should be 10-15%
 * To find companies, see the Companies tab in Jobberwocky, the Tech Companies spreadsheets ([NY][ny-tech-companies] & [SF][bay-tech-companies]) or any other job board.  Some suggested job boards are [here][job-boards].  
 
+NY:
+* Continue pairboarding at 11am
+* Begin [job app materials reviews][job-app-materials-reviews]
+  * Do this every weekday until W11D2. Ask your reviewees for the links before they start pairboarding. 
+  * Finish all reviews by 3pm, so you should start right after lunch.
+* Send your reviewers the links to your Job App Materials before you start pairboarding at 11am.
+* Build your list of companies you'll apply to
+  * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job
+  * Edit the status to "Will Apply" until you send your application
+    * Hover over the company name to add application details.  
+    * While you're researching the company, craft your company blurb.  For more about blurbs, see the [cover letter][cover-letter] page.  
+  * Rank companies 1 to 3
+    * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
+    * 2 means "Looks like a cool place". Should be 35-40% of them.
+    * 1 means "Want to work there". Should be 10-15%
+* To find companies, see the Companies tab in Jobberwocky, the Tech Companies spreadsheets ([NY][ny-tech-companies] & [SF][bay-tech-companies]) or any other job board.  Some suggested job boards are [here][job-boards]. 
+* Keep working on application materials and JS games whenevere you aren't pairboarding, peer reviewing, or finding companies to apply to. 
+
 [roadmap-template]: https://docs.google.com/a/appacademy.io/spreadsheets/d/11PUvMqG2h_9RFFp9h4xv34Uo5T0cOdrtOtEholVEHA4
 
 ## W10D4
-* Nothing new. At this point, you have 3 things to do every day: pairboarding (NY), job app materials reviews, and add 15 companies to your job search roadmap.
+SF:
+* Nothing new. At this point, you have 2 things to do every day: job app materials reviews, and add 15 companies to your job search roadmap.
+* Attend the Interview Skills lecture.  Bring paper and pen to this lecture.  
 
-* SF only: Attend the Interview Skills lecture.  Bring paper and pen to this lecture.  
+NY:
+* Nothing new. At this point, you have 3 things to do every day: pairboarding, job app materials reviews, and add 15 companies to your job search roadmap.
 
 ## W10D5
+SF:
+* Last day of reviweing Job App Materials. Make it good!  
+* Attend the Personal Pitch workshop
 * [Polish your personal pitch.][personal-pitch] NY: Practice your pitch every day with your pairboarding partner- give each other feedback.
 * Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
 * Read about [performance analysis and big O][big-o].
 * Read [What do software engineers actually do?][what-software-engineers-do]
 
-SF only:
-* Last day of reviweing Job App Materials. Make it good!  
-* Attend the Personal Pitch workshop
+NY:
+* [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
+* Polish your [GitHub][github] and [LinkedIn][linkedin] profiles
+* Read about [performance analysis and big O][big-o].
+* Read [What do software engineers actually do?][what-software-engineers-do]
 
 [personal-pitch]: ./self-presentation/personal-pitch.md
 [what-software-engineers-do]: ./engineering-culture/software_engineer_work.md
