@@ -51,7 +51,7 @@ NY:
 
 ## W10D2
 SF: 
-* Get to the office by 9am every day.  We will be taking roll.  If you will be absent or late for any reason, email your career coach to let them know.  
+* Get to the office by 9am every day.  We will be taking roll.  If you will be absent or late for any reason, email both your career coach and admin@appacademy.io to let them know.  
 * Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
   * Press CMD+K and typing "hunters" on Slack 
   * Or use this link: https://app-academy.slack.com/messages/hunters
