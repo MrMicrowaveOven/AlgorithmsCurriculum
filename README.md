@@ -139,15 +139,19 @@ NY:
 [github]: ./self-presentation/github.md
 
 ## W10D6-7
+SF:
 * Catch up on applying and fixing all the comments and to-dos your reviewers left you on your Job Application Materials
 * Add another 30 companies to your Job Search Roadmap (15 each day)
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
-
-SF only:
 * After addressing all comments from reviewers, **turn in your resumes and cover letters on Jobberwocky by Monday 9am.**
 * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
 
+NY:
+* Catch up on applying and fixing all the comments and to-dos your reviewers left you on your Job Application Materials
+* Add another 30 companies to your Job Search Roadmap (15 each day)
+* [Choose which Meetups you'll attend.][meetups]
+* [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 
 [meetups]: ./engineering-culture/meetups.md
 [job-boards]: ./mass-applying/job-boards.md
@@ -162,14 +166,9 @@ SF only:
 [shepherd]: http://github.hubspot.com/shepherd/docs/welcome/
 
 ## W11D1
+SF:
 * Add 15 companies to your Job Search Roadmap
 * If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  
-
-NY only: 
-* Continue pairboarding (don't forget to practice your personal pitch)
-* Review Job App Materials
-
-SF only: 
 * Begin [pairboarding][pair-boarding-index].  
   * Set up any whiteboards and find markers around the office.  
   * Pair assignments will be sent each day by email.  If your pair is not present, approach the admin desk and ask what other students are in need of a pair.  
@@ -177,14 +176,23 @@ SF only:
 * One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
 * See the algorithms reading [here][algorithms-curriculum].  Algorithms lectures and workshops begin this week, see shared calendar.  
 
+NY:
+* Add 15 companies to your Job Search Roadmap
+* If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  
+* Continue pairboarding (don't forget to practice your personal pitch)
+* Review Job App Materials
+
 ## W11D2
+SF:
+* Attend the Technicaly Interviews lecture 
 * Continue pairboarding (don't forget to practice personal pitch)
 * Add 15 companies to your Job Search Roadmap
 * Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Companies sometimes use these platforms during interviews, so familiarize yourself with the environment in advance.  
 
-SF only: Attend the Technicaly Interviews lecture
-
-NY only:
+NY:
+* Continue pairboarding (don't forget to practice personal pitch)
+* Add 15 companies to your Job Search Roadmap
+* Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Companies sometimes use these platforms during interviews, so familiarize yourself with the environment in advance.  
 * Last day of reviewing Job App Materials! Make it good! 
   * After reviewing and applying all edits your reviewers suggest, submit your resume for review on the Jobberwocky. 
   * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
@@ -195,6 +203,7 @@ NY only:
 
 
 ## W11D3
+SF:
 * Continue pairboarding, practicing personal pitch, and adding 15 companies.
 * Check the Jobberwocky/Drive to see if there are any to-dos on your resume
 * If you finish the a/A pairboarding problems early, 
@@ -202,13 +211,33 @@ NY only:
       through the pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
 
-NY only: See the algorithms reading [here][algorithms-curriculum].
+NY: 
+* See the algorithms reading [here][algorithms-curriculum].
+* Continue pairboarding, practicing personal pitch, and adding 15 companies.
+* Check the Jobberwocky/Drive to see if there are any to-dos on your resume
+* If you finish the a/A pairboarding problems early, 
+    * Stay sharp using [these tests][algo-specs] only after you get
+      through the pairboarding.
+    * Try [Codility][codility] if you want to do more on your own.
 
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 [algorithms-curriculum]: https://github.com/appacademy/algorithms-curriculum
 [codility]: https://codility.com/demo/train/ 
 
 ## W11D4
+SF:
+* Continue pairboarding, practicing personal pitch, and adding 15 companies
+* Read about [job search etiquette][job-search-etiquette]
+* Read about a [typical technical interview][typical-interview].
+* Memorize a few [insightful questions][good-questions].
+* Create a [text-only][text-only] version of your finished resume.
+* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
+* START APPLYING!! 
+  * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday
+  * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
+  * Add the applications into the Jobberwocky. Mark whether you've done a phone_screen, interviewed, got rejected, or got an offer as you go.
+  
+NY:
 * Continue pairboarding, practicing personal pitch, and adding 15 companies
 * Read about [job search etiquette][job-search-etiquette]
 * Read about a [typical technical interview][typical-interview].
@@ -231,12 +260,20 @@ NY only: See the algorithms reading [here][algorithms-curriculum].
 
 
 ## W11D5
+SF:
+* Continue pairboarding, practice personal pitch, add 15 companies to Job Search Roadmap, and apply to 15 companies
+
+NY:
 * Continue pairboarding, practice personal pitch, add 15 companies to Job Search Roadmap, and apply to 15 companies
 
 ## W11D6-7
+SF:
 * Add 30 companies to your Job Search Roadmap (15 each day)
 * You can apply to places over the weekend, but it's not absolutely necessary as long as you did all 15 each day during the week. If you didn't, then catch up. You should be at 30 applications so far.
 
+NY:
+* Add 30 companies to your Job Search Roadmap (15 each day)
+* You can apply to places over the weekend, but it's not absolutely necessary as long as you did all 15 each day during the week. If you didn't, then catch up. You should be at 30 applications so far.
 
 ## BONUS WEEK 11
 * Write tests for your projects.
@@ -248,6 +285,19 @@ NY only: See the algorithms reading [here][algorithms-curriculum].
 
 
 ## W12D1
+SF:
+* Application competitions take place this week. See shared calendar.
+* Continue pairboarding, no need to practice personal pitch anymore.
+* Continue applying to 15 places per day and adding 15 companies to your Job Search Roadmap.
+* Read about [negotiating an offer][offer-negotiation].
+* Get some data points for [salary negotiations][salary-data].
+* You can also check out this [HackerNewsarticle][hn-negotiation-article]
+* For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
+* Read job search tips from alumni 
+ * From Ronnie Chen (Software Engineer, Braintree) - [resources and study guides for the job search][ronnie-tips] 
+ * From Daniel Babiak (Back-end engineer, Paypal) - [how to ace front-end vs back-end interviews][babiak-tips]
+ 
+NY:
 * Continue pairboarding, no need to practice personal pitch anymore.
 * Continue applying to 15 places per day and adding 15 companies to your Job Search Roadmap.
 * Read about [negotiating an offer][offer-negotiation].
@@ -261,12 +311,6 @@ NY only: See the algorithms reading [here][algorithms-curriculum].
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 [babiak-tips]: https://github.com/d-babiak/job-market-notes
 
-NY only:
-* Attend the Negotiations lecture.
-
-SF only: 
-* Application competitions take place this week. See shared calendar.  
-
 [offer-negotiation]: ./negotiating/email-negotiations.md
 [salary-data]: ./negotiating/salary-data.md
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
@@ -274,6 +318,16 @@ SF only:
 
 
 ## W12D2
+SF:
+* Continue pairboarding, applying, and adding to Job Search Roadmap.
+* Prepare your final project presentation for Graduation Day (Thurs night)
+  * NY: Practice it with your pairboarding partner
+  * SF: Attend the project presetation workshop
+* Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
+* What happens when you [navigate to a URL?][navigate-to-a-url]
+* Memorize your answer to that interview question with [these bullets][browser-navigation].
+
+NY:
 * Continue pairboarding, applying, and adding to Job Search Roadmap.
 * Prepare your final project presentation for Graduation Day (Thurs night)
   * NY: Practice it with your pairboarding partner
@@ -288,6 +342,15 @@ SF only:
 
 
 ## W12D3
+SF:
+* Continue pairboarding, applying, adding to Job Search Roadmap.
+  * You should be at 75 applications by the end of today.
+  * Start applying to the the companies you've marked as 2s and 1s.  
+* Memorize [the ways to make a website faster][performance-cheat-sheet]
+* So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
+* Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
+
+NY:
 * Continue pairboarding, applying, adding to Job Search Roadmap.
   * You should be at 75 applications by the end of today.
   * Start applying to the the companies you've marked as 2s and 1s.  
@@ -300,6 +363,7 @@ SF only:
 [performance-cheat-sheet]: ./interview-prep/performance-cheat-sheet.md
 
 ## W12D4
+SF:
 * Continue pairboarding, applying, adding to Roadmap
   * Should be at 90 by EOD
 * Graduation Day tonight!!
@@ -310,12 +374,32 @@ SF only:
   * Resume, cover letter, LinkedIn, Github. 
   * Capstone project, browser game, any other project listed on your resume
   * Your presentation, elevator speech, and personal pitch for use at the event
-  
+ 
+NY:
+ * Continue pairboarding, applying, adding to Roadmap
+  * Should be at 90 by EOD
+* Graduation Day tonight!!
+  * Don't forget to print out your resume!
+  * Be proactive: don't give employers your resume and expect them to get in touch with you- ask for their contact info and you reach out to them!
+  * If you see anyone with a nametag on just walking around or awkwardly standing, go up to them, introduce yourself, ask what company they're from and whether they're hiring, and if so, bring them to your station to talk. That might turn into a job! #jobhunter
+* Tie up any loose ends before meeting with alumni and companies tonight
+  * Resume, cover letter, LinkedIn, Github. 
+  * Capstone project, browser game, any other project listed on your resume
+  * Your presentation, elevator speech, and personal pitch for use at the event
 
 ## W12D5 and BEYOND
-SF only: Take the official coding test from one of App Academy's hiring partners.  
+SF:
+* Take the official coding test from one of App Academy's hiring partners.
+* Continue applying to 15 places and adding 15 companies to your Job Search Roadmap every weekday.
+* Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
+* There may be optional lectures from a/A staff and alumni. 
+* Remember, if you finish the a/A pairboarding problems, 
+    * Stay sharp using [these tests][algo-specs] only after you get
+      through the entire list while pairboarding.
+    * Try [Codility][codility] if you want to do more on your own.
 
-SF & NY: 
+NY: 
+* Take the official coding test from one of App Academy's hiring partners.
 * Continue applying to 15 places and adding 15 companies to your Job Search Roadmap every weekday.
 * Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community. 
 * There may be optional lectures from a/A staff and alumni. 
