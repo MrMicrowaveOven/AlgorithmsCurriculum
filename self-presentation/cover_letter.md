@@ -41,9 +41,11 @@ about you they care about.
 **Don't Call Yourself 'Full Stack'**
 
 App Academy trained you in the full stack, but calling yourself a 'full stack
-engineer' is a little premature. 'Full stack' often means "so experienced I can
+engineer' in your cover letter is a little premature. 'Full stack' often means "so experienced I can
 build whatever you throw at me". For now just call yourself a web developer.
-Make it clear you are very strong in both Rails and JavaScript.
+Make it clear you are very strong in both Rails and JavaScript.  
+
+The one exception to this is in the Projects section of your resume.  There, you use the term 'full stack' to signal to the reader that you built both the front- and back-end for your capstone project.  
 
 **No Fancy Words**
 
