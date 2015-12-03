@@ -69,7 +69,7 @@ List these skills, and any other relevant ones. But keep in mind, anything you l
 * Ruby on Rails
 * JavaScript
 * jQuery
-* Backbone.js
+* React.js
 * SQL
 * Git
 * HTML
@@ -77,10 +77,10 @@ List these skills, and any other relevant ones. But keep in mind, anything you l
 
 Don't try to organize your skills by proficiency. Ie. Don't do this:    
     Proficient: Ruby, Rails, JS    
-    Familiar: SQL, Backbone
+    Familiar: SQL, React
 
  That makes you look less confident. However it's ok to do this:    
-    Ruby, Rails, JS, Backbone, C (learning)
+    Ruby, Rails, JS, React, C (learning)
 
 ## Technical
 
