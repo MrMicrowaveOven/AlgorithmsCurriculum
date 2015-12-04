@@ -1,6 +1,6 @@
 # Job App Materials Reviews
 
-The point of this is to get your job application materials as perfefct as possible. You will probably miss a thing or two, so we'll rely on an extra set of eyes to catch those mistakes.
+The point of this is to get your job application materials as perfect as possible. You will probably miss a thing or two, so we'll rely on an extra set of eyes to catch those mistakes.
 
 ## Instructions
 
