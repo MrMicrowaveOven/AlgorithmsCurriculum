@@ -70,6 +70,7 @@ List these skills, and any other relevant ones. But keep in mind, anything you l
 * JavaScript
 * jQuery
 * React.js
+* Flux
 * SQL
 * Git
 * HTML
