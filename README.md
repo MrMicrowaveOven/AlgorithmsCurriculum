@@ -155,8 +155,7 @@ SF:
 * Read about 
   * [performance analysis and big O][big-o].
   * [What do software engineers actually do?][what-software-engineers-do]
-* Attend the Personal Pitch workshop after lunch.  
-* [Polish your personal pitch.][personal-pitch] 
+* Attend the Personal Pitch workshop after lunch.  Read [Polish your personal pitch.][personal-pitch] 
 * By the end of the day, you should have
   * A complete set of application materials that are essentially finished.  
   * A personal pitch
@@ -207,7 +206,7 @@ NY:
 SF:
 * Add 15 companies to your Job Search Roadmap
 * If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  
-* Begin [pairboarding][pair-boarding-index].  You will pairboard from now on.   
+* Begin [pairboarding][pair-boarding-index].  You will pairboard every day from now until the end of a/A.   
   * Set up any whiteboards and find markers around the office.  
   * Pair assignments will be sent each day by email.  If your pair is not present, approach the admin desk and ask what other students are in need of a pair.  
   * Remember to practice your personal pitch when you start pairboarding. 
