@@ -15,7 +15,11 @@
 
 ## W9D6-7
 SF:
-* Prepare your [resume][resume], [cover letter][cover-letter], [portfolio site][portfolio], and [code_intensive][code-intensive]
+* * Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project by Monday 9am.  
+  * Make sure you go through the [checklist][capstone-checklist]
+  * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call repeatedly, however, you may not be invited to participate in graduation events.    
+  * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
+* Prep for your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [portfolio site][portfolio], and [code_intensive][code-intensive]
 * If you have time after that and want to work ahead, you may. The quicker you get everything done, the quicker you'll have a job.
 * If you haven't crafted a readme for your capstone project, do so now.  [See examples.][readme] 
 
@@ -33,12 +37,10 @@ NY:
 
 ## W10D1
 SF: 
-* Fix any last bugs in your Capstone Project. Update URL on Progress Tracker and turn in your project.  
-  * Make sure you go through the [checklist][capstone-checklist]
-  * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
+**Turn in your capstone projects by 9am today**
+* Come to the office for lecture at 1:15p.  After today, be in the office at 10am every day.  We will be taking roll.  
+* Continue preparing your [code_intensive][code-intensive], and [browser game][browser-game]
 
-* **Turn in your projects by Tuesday 9am**
-  * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call repeatedly, however, you may not be invited to participate in graduation events.  
 
 NY:
 * You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
@@ -51,13 +53,12 @@ NY:
 
 ## W10D2
 SF: 
-* Get to the office by 10:00am every day.  We will be taking roll.  If you will be absent or late for any reason, email both your career coach and admin@appacademy.io to let them know.  
+* Get to the office by 10:00am.  If you will be absent or late for any reason, email both your career coach and admin@appacademy.io to let them know.  
 * Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
   * Press CMD+K and typing "hunters" on Slack 
   * Or use this link: https://app-academy.slack.com/messages/hunters
 * In the morning, continue work on your resume and cover letter (see W9D6-7).  Your peers will start reviewing your materials tomorrow.  
-* Start preparing your [browser game][browser-game] and code_intensive
-* Lectures begin this afternoon.  See the a/A Lectures and Events shared calendar for exact times.
+* See the a/A Lectures and Events shared calendar for lecture times.
 
 NY: 
 * Get to the office between 10:30 and 11am from today on. We will be taking roll. If you will be absent or late for any reason, email your career coach to let them know. 
@@ -74,7 +75,6 @@ NY:
 ## W10D3
 SF:
 * Keep working on application materials and JS games. 
-* This is your one full day to work on your application materials.  Put it to use.  
 * Begin [job app materials reviews][job-app-materials-reviews]
   * Do this everyday for the rest of the week. Ask your reviewees for the links as soon as assignments are sent by email. 
   * Finish all reviews by 3pm, so reviewees have time to ask you any follow-up questions after the review.
