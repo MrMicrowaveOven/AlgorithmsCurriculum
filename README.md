@@ -71,7 +71,7 @@ SF:
 * Attend the Resumes Lecture after lunch.  
 * By the end of the day, you should a have 
   * A complete first draft of your resume (with the exception of a placeholder for your Ruby project)
-  * An early draft of a cover letter.  
+  * An first draft of a cover letter.  
   * A largely completed JS game with ReadMe in Github.  
 
 NY: 
@@ -97,8 +97,6 @@ SF:
   * Progress on your Ruby intensive.  
   * A complete resume draft (including Ruby project description)
   * A final draft of your cover letter.  
-  * Your first 15 entries in Jobberwocky.  
-
 
 NY:
 * Continue pairboarding at 11am
@@ -122,14 +120,14 @@ NY:
 
 ## W10D4
 SF:
-* At this point, you have 2 things to do every day: job app materials reviews, and add 15 companies to your job search roadmap.
-* Clean up your Github and LinkedIn profiles.  Create and add content to your AngelList profile. 
+* Continue peer reviews of job app materials.   
+* Clean up your [GitHub][github] and [LinkedIn][linkedin] profiles.  Create and add content to your AngelList profile. (use content from your resume to  help with LinkedIn and AngelList)
 * Read [Polish your personal pitch.][personal-pitch] 
 * Attend the Interview Skills lecture after lunch.  Bring paper and pen to this lecture. 
 * By the end of the day, you should have:
   * A well-edited resume.
   * Completed your Ruby project and Readme. 
-  * A LinkedIn profile with a photo, Summary, Projects, Experience, Skills, and Education (use text from your resume).  Remember to endorse one another for code-related skills.  
+  * A complete LinkedIn profile.    
   * An AngelList profile.  
   * Cleaned up your Github profile.  (to move your commit history see [this page][github-history])
   * A draft of your personal pitch and a filled-out behavioral questions grid. (discussed in lecture)
@@ -219,11 +217,11 @@ NY:
 ## W11D2
 SF:
 * Continue pairboarding (don't forget to practice personal pitch)
+* Add 15 new companies to your Jobberwocky list
 * Read about 
   * [performance analysis and big O][big-o].
   * [What do software engineers actually do?][what-software-engineers-do]
 * Attend the Technical Interviews lecture after lunch.  
-* Add 15 companies to your Job Search Roadmap
 * Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Some companies use platforms like these for interviews or take-home challenges.  
 
 NY:
@@ -246,10 +244,8 @@ SF:
 * Read about a [typical technical interview][typical-interview].
 * Memorize a few [insightful questions][good-questions].
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
-* Check the to see if there are any to-dos on your resume
 * If you finish the a/A pairboarding problems early, 
-    * Stay sharp using [these tests][algo-specs] only after you get
-      through the pairboarding.
+    * Stay sharp using [these tests][algo-specs] only after you get through the pairboarding.
     * Continue [Codility][codility] if you want to do more on your own.
 * By the end of the day, you should have 45 compnies in Jobberwocky.  
 
@@ -268,13 +264,13 @@ NY:
 
 ## W11D4
 SF:
-* Continue pairboarding, practicing personal pitch, and adding 15 companies
+* Continue pairboarding, practicing personal pitch, and adding 15 companies.
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
 * Attend the Negotiations lecture after lunch.  
 * START APPLYING!! 
-  * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday.  This will take 5-7hours/day. 
+  * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday.  This will take 3-7hours/day. 
   * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
   * Add the applications into the Jobberwocky. Mark whether you've done a phone_screen, interviewed, got rejected, or got an offer as you go.
   
@@ -300,7 +296,7 @@ NY:
 ## W11D5
 SF:
 * Continue pairboarding, practice personal pitch, add 15 companies to Job Search Roadmap, and apply to 15 companies.
-* This is an entire free day to send out applications. Make it good! 
+* This is an entire free day for you to focus on applications. Make it good! 
 * Attend the final circle time with your same TA at 5:30p.  
 
 NY:
@@ -359,7 +355,7 @@ NY:
 SF:
 * Continue pairboarding, applying, and adding to Job Search Roadmap.
 * Prepare your final project presentation for Graduation Day (Thurs night)
-  * SF: Attend the project presetation workshop
+  * SF: Attend the project presentation workshop
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
 * What happens when you [navigate to a URL?][navigate-to-a-url]
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
