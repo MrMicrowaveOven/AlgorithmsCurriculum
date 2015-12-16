@@ -19,13 +19,13 @@ If the site asks for an attachment as well as a copy/paste, use your text-only r
 >*Search page updates results in real-time when new filters are applied.
 
 
-**Example job descriptions in text-only format**
+**Example job description in text-only format**
 
 
 >EXPERIENCE  
 >Treebank Annotator - Institute of Cognitive Research, OSH  
 >May 2012 - May 2013  
->*Analyzed biomedical records and processed them into syntactically and semantically parsed data.  
->*Retrieved records from company server using Bash and SSH.  
+>-Analyzed biomedical records and processed them into syntactically and semantically parsed data.  
+>-Retrieved records from company server using Bash and SSH.  
 
 
