@@ -152,17 +152,16 @@ SF:
 * Last day of reviweing Job App Materials. Make it good! 
 * Make any additional changes to your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [ruby project][code-intensive], [GitHub][github], [LinkedIn][linkedin], and AngelList profiles.
 * Build your [portfolio site][portfolio].  
-* Read about [performance analysis and big O][big-o].
-* Read [What do software engineers actually do?][what-software-engineers-do]
+* Read about 
+  * [performance analysis and big O][big-o].
+  * [What do software engineers actually do?][what-software-engineers-do]
 * Attend the Personal Pitch workshop after lunch.  
 * [Polish your personal pitch.][personal-pitch] 
 * By the end of the day, you should have
   * A complete set of application materials that are essentially finished.  
   * A personal pitch
-  * 45 companies in Jobberwocky. (If you feel behind on this, catch up over the weekend.)
+  * 45 companies in Jobberwocky. (If you fell behind on this, catch up over the weekend.)
 
-* Read about [performance analysis and big O][big-o].
-* Read [What do software engineers actually do?][what-software-engineers-do]
 
 NY:
 * [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
