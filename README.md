@@ -122,8 +122,8 @@ NY:
 SF:
 * Continue peer reviews of job app materials.   
 * Clean up your [GitHub][github] and [LinkedIn][linkedin] profiles.  Create and add content to your AngelList profile. (use content from your resume to  help with LinkedIn and AngelList)
-   * [Examples Readme's.][readme]
-   * To move your Github commit history see [this page][github-history])
+   * Some [examples Readme's.][readme]
+   * To move your Github commit history see [this page][github-history]
 * Read [Polish your personal pitch.][personal-pitch] 
 * Attend the Interview Skills lecture after lunch.  Bring paper and pen to this lecture. 
 * By the end of the day, you should have:
