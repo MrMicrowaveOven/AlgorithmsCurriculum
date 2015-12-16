@@ -23,7 +23,7 @@ SF:
 * This week, you will be expected to create your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [portfolio site][portfolio], and [code_intensive][code-intensive].  You will also clean up your  [GitHub][github], [LinkedIn][linkedin], and AngelList profiles.  If you have the chance to start on application materials, please do. The quicker you get everything done, the quicker you'll have a job.  
 * If this list is overwhelming, work on your resume and JS game first.  Expected time investment for each item -
   * Resume: 5-15 hours (1-3 hours/day each day this week)
-  * Cover letter: 3 hours 
+  * Cover letter: 2-4 hours 
   * JS game: 8-20 hours 
   * Ruby project: 3-10 hours
   * Github cleanup & Readme's: 3-6 hours
