@@ -12,6 +12,8 @@ You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) 
 * [Capstone Project](https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md)
 * [Code Instensive](./code_intensive.md)
 * [Portfolio](./porfolio.md)
+* LinkedIn profile
+* Github Readme's
 
 To get the links for everything you need to review, just ask the person you're reviewing to email them to you. You'll need Google Doc URLs for the Resume and Cover Letter, and GitHub and Live URLs for all the other materials. 
 
