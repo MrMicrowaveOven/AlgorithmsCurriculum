@@ -50,7 +50,7 @@ SF:
 * Check the a/A Lectures and Events shared calendar for lecture times today and througout job search curriculum. 
 * Continue preparing your application materials.  By the end of the day, you should a have 
   * Chosen a [resume][resume] template, editted the formatting to make it yours, and started adding your information. 
-  * The beginnings of a [browser game][browser-game].  
+  * A halway finished [browser game][browser-game].  
 
 NY:
 * You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
