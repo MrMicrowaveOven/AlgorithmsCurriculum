@@ -50,7 +50,7 @@ SF:
 * Check the a/A Lectures and Events shared calendar for lecture times today and througout job search curriculum. 
 * Continue preparing your application materials.  By the end of the day, you should a have 
   * Chosen a [resume][resume] template, editted the formatting to make it yours, and started adding your information. 
-  * A halfway finished [browser game][browser-game].  
+  * The beginnings of a [browser game][browser-game].  
 
 NY:
 * You have the morning off! Get to the office between 11:30 and 12-noon. (Come in to office between 10:30 and 11am from tomorrow on.)
@@ -72,7 +72,7 @@ SF:
 * By the end of the day, you should a have 
   * A complete first draft of your resume (with the exception of a placeholder for your Ruby project)
   * An early draft of a cover letter.  
-  * A complete JS game with ReadMe in Github.  
+  * A largely completed JS game with ReadMe in Github.  
 
 NY: 
 * Get to the office between 10:30 and 11am from today on. We will be taking roll. If you will be absent or late for any reason, email your career coach to let them know. 
@@ -91,19 +91,10 @@ SF:
 * Begin [job app materials reviews][job-app-materials-reviews]
   * Do this everyday for the rest of the week. Ask your reviewees for the links as soon as assignments are sent by email. 
   * Finish all reviews by 3pm, so reviewees have time to ask you any follow-up questions after the review.
-* Build your list of companies you'll apply to
-  * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job
-  * Edit the status to "Will Apply" until you send your application
-    * Hover over the company name to add application details.  
-    * While you're researching the company, craft your company blurb.  For more about blurbs, see the [cover letter][cover-letter] page.  
-  * Rank companies 1 to 3
-    * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
-    * 2 means "Looks like a cool place". Should be 35-40% of them.
-    * 1 means "Want to work there". Should be 10-15%
-* To find companies, see the Companies tab in Jobberwocky, the Tech Companies spreadsheets ([NY][ny-tech-companies] & [SF][bay-tech-companies]) or any other job board.  Some suggested job boards are [here][job-boards].  
 * Attend the Tech Companies lecture after lunch.  
 * Start your Ruby project.  By the end of the day, you should have
-  * The beginnings of a Ruby project. 
+  * A finalized JS game.
+  * Progress on your Ruby intensive.  
   * A complete resume draft (including Ruby project description)
   * A final draft of your cover letter.  
   * Your first 15 entries in Jobberwocky.  
@@ -158,8 +149,6 @@ SF:
 * By the end of the day, you should have
   * A complete set of application materials that are essentially finished.  
   * A well-practiced personal pitch.
-  * 45 companies in Jobberwocky. (If you fell behind on this, catch up over the weekend.)
-
 
 NY:
 * [Polish your personal pitch.][personal-pitch] Practice your pitch every day with your pairboarding partner- give each other feedback.
@@ -176,7 +165,6 @@ NY:
 ## W10D6-7
 SF:
 * Catch up on applying and fixing any final comments and to-dos your reviewers left you on your Job Application Materials
-* Add another 30 companies to your Job Search Roadmap (15 each day)
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 * After addressing all comments from reviewers, **make sure your resume and cover letter are available in your shared google folder by Monday 9am.**
@@ -203,12 +191,21 @@ NY:
 
 ## W11D1
 SF:
-* Add 15 companies to your Job Search Roadmap
-* If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  Spend a couple hours studying this list.  
 * Begin [pairboarding][pair-boarding-index].  You will pairboard every day from now until the end of a/A.   
   * Set up any whiteboards and find markers around the office.  
   * Pair assignments will be sent each day by email.  If your pair is not present, approach the admin desk and ask what other students are in need of a pair.  
   * Remember to practice your personal pitch when you start pairboarding. 
+* Begin your list of companies you'll apply to
+  * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job
+  * Edit the status to "Will Apply" until you send your application
+    * Hover over the company name to add application details.  
+    * While you're researching the company, craft your company blurb.  For more about blurbs, see the [cover letter][cover-letter] page.  
+  * To find companies, see the Companies tab in Jobberwocky, the Tech Companies spreadsheets ([NY][ny-tech-companies] & [SF][bay-tech-companies]) or any job board.  Some suggested job boards are [here][job-boards].  
+  * Rank companies 1 to 3
+    * 3 means "Not dying to work there" or "Don't know enough about them". Should be 45-55% of them.
+    * 2 means "Looks like a cool place". Should be 35-40% of them.
+    * 1 means "Want to work there". Should be 10-15%
+* If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  Spend a couple hours studying this list.  
 * See the algorithms reading [here][algorithms-curriculum].  Algorithms lectures and workshops begin this week, see shared calendar.  
 * One-on-one meetings with career coaches will take place this week.  You will received emails with more info. 
 
@@ -254,6 +251,7 @@ SF:
     * Stay sharp using [these tests][algo-specs] only after you get
       through the pairboarding.
     * Continue [Codility][codility] if you want to do more on your own.
+* By the end of the day, you should have 45 compnies in Jobberwocky.  
 
 NY: 
 * See the algorithms reading [here][algorithms-curriculum].
