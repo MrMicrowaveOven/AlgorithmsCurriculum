@@ -20,7 +20,7 @@ SF:
   * a/A students are usually excellent about assignments and attendance.  If your due dates lag or you miss roll call repeatedly, however, you may not be invited to participate in graduation events.    
   * **As soon as a project becomes so big you can't make visible improvements to it under an hour, stop working on it.**
   * If you haven't crafted a readme for your capstone project, do so now.  [See examples.][readme]
-* This week, you will be expected to create your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [portfolio site][portfolio], and [code_intensive][code-intensive].  You will also clean up your  [GitHub][github], [LinkedIn][linkedin], and AngelList profiles.  If you have the chance to start on these, please do. The quicker you get everything done, the quicker you'll have a job.  
+* This week, you will be expected to create your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [portfolio site][portfolio], and [code_intensive][code-intensive].  You will also clean up your  [GitHub][github], [LinkedIn][linkedin], and AngelList profiles.  If you have the chance to start on application materials, please do. The quicker you get everything done, the quicker you'll have a job.  
 * If this list is overwhelming, work on your resume and JS game first.  Expected time investment for each item -
   * Resume: 5-15 hours (1-3 hours/day each day this week)
   * Cover letter: 3 hours 
