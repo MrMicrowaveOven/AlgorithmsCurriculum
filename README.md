@@ -116,8 +116,8 @@ NY:
   * Finish all reviews by 3pm, so you should start right after lunch.
 * Send your reviewers the links to your Job App Materials before you start pairboarding at 11am.
 * Build your list of companies you'll apply to
-  * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job
-  * Edit the status to "Will Apply" until you send your application
+  * Add 15 companies to [Jobberwocky][jobberwocky] per day until you find a job.  
+  * Edit the status to "Will Apply" until you send your application,
     * Hover over the company name to add application details.  
     * While you're researching the company, craft your company blurb.  For more about blurbs, see the [cover letter][cover-letter] page.  
   * Rank companies 1 to 3
@@ -133,6 +133,7 @@ NY:
 SF:
 * At this point, you have 2 things to do every day: job app materials reviews, and add 15 companies to your job search roadmap.
 * Clean up your Github and LinkedIn profiles.  Create and add content to your AngelList profile. 
+* Read [Polish your personal pitch.][personal-pitch] 
 * Attend the Interview Skills lecture after lunch.  Bring paper and pen to this lecture. 
 * By the end of the day, you should have:
   * A well-edited resume.
@@ -140,6 +141,7 @@ SF:
   * A LinkedIn profile with a photo, Summary, Projects, Experience, Skills, and Education (use text from your resume).  Remember to endorse one another for code-related skills.  
   * An AngelList profile.  
   * Cleaned up your Github profile.  (to move your commit history see [this page][github-history])
+  * A draft of your personal pitch and a filled-out behavioral questions grid. (discussed in lecture)
 
 [github-history]: https://github.com/appacademy/ruby-curriculum/blob/master/w1d6-w1d7/git-fix-authorship.md#the-command
 
@@ -152,13 +154,10 @@ SF:
 * Last day of reviweing Job App Materials. Make it good! 
 * Make any additional changes to your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [ruby project][code-intensive], [GitHub][github], [LinkedIn][linkedin], and AngelList profiles.
 * Build your [portfolio site][portfolio].  
-* Read about 
-  * [performance analysis and big O][big-o].
-  * [What do software engineers actually do?][what-software-engineers-do]
-* Attend the Personal Pitch workshop after lunch.  Read [Polish your personal pitch.][personal-pitch] 
+* Attend the Personal Pitch workshop after lunch.  
 * By the end of the day, you should have
   * A complete set of application materials that are essentially finished.  
-  * A personal pitch
+  * A well-practiced personal pitch.
   * 45 companies in Jobberwocky. (If you fell behind on this, catch up over the weekend.)
 
 
@@ -205,7 +204,7 @@ NY:
 ## W11D1
 SF:
 * Add 15 companies to your Job Search Roadmap
-* If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  
+* If you haven't already, see App Academy's list of [Interview Questions][interview-questions].  These questions have been collected from real interviews.  Spend a couple hours studying this list.  
 * Begin [pairboarding][pair-boarding-index].  You will pairboard every day from now until the end of a/A.   
   * Set up any whiteboards and find markers around the office.  
   * Pair assignments will be sent each day by email.  If your pair is not present, approach the admin desk and ask what other students are in need of a pair.  
@@ -223,6 +222,9 @@ NY:
 ## W11D2
 SF:
 * Continue pairboarding (don't forget to practice personal pitch)
+* Read about 
+  * [performance analysis and big O][big-o].
+  * [What do software engineers actually do?][what-software-engineers-do]
 * Attend the Technical Interviews lecture after lunch.  
 * Add 15 companies to your Job Search Roadmap
 * Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Some companies use platforms like these for interviews or take-home challenges.  
@@ -300,7 +302,7 @@ NY:
 ## W11D5
 SF:
 * Continue pairboarding, practice personal pitch, add 15 companies to Job Search Roadmap, and apply to 15 companies.
-* This is an entire free day to work on applications. Make it good! 
+* This is an entire free day to send out applications. Make it good! 
 * Attend the final circle time with your same TA at 5:30p.  
 
 NY:
@@ -409,8 +411,8 @@ SF:
   * If you see anyone with a nametag on just walking around or awkwardly standing, go up to them, introduce yourself, ask what company they're from and whether they're hiring, and if so, bring them to your station to talk. That might turn into a job! #jobhunter
 * Tie up any loose ends before meeting with alumni and companies tonight
   * Resume, cover letter, LinkedIn, Github. 
-  * Capstone project, browser game, any other project listed on your resume
-  * Your presentation, elevator speech, and personal pitch for use at the event
+  * Capstone project, browser game, any other project listed on your resume.
+  * Your presentation, elevator speech, and personal pitch for use at the event.
  
 NY:
  * Continue pairboarding, applying, adding to Roadmap
