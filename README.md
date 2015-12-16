@@ -104,7 +104,7 @@ SF:
 * Attend the Tech Companies lecture after lunch.  
 * Start your Ruby project.  By the end of the day, you should have
   * The beginnings of a Ruby project. 
-  * A complete resume (including Ruby project description)
+  * A complete resume draft (including Ruby project description)
   * A final draft of your cover letter.  
   * Your first 15 entries in Jobberwocky.  
 
