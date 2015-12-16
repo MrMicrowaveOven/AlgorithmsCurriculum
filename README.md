@@ -122,6 +122,8 @@ NY:
 SF:
 * Continue peer reviews of job app materials.   
 * Clean up your [GitHub][github] and [LinkedIn][linkedin] profiles.  Create and add content to your AngelList profile. (use content from your resume to  help with LinkedIn and AngelList)
+   * [Examples Readme's.][readme]
+   * To move your Github commit history see [this page][github-history])
 * Read [Polish your personal pitch.][personal-pitch] 
 * Attend the Interview Skills lecture after lunch.  Bring paper and pen to this lecture. 
 * By the end of the day, you should have:
@@ -129,7 +131,7 @@ SF:
   * Completed your Ruby project and Readme. 
   * A complete LinkedIn profile.    
   * An AngelList profile.  
-  * Cleaned up your Github profile.  (to move your commit history see [this page][github-history])
+  * Cleaned up your Github profile.  
   * A draft of your personal pitch and a filled-out behavioral questions grid. (discussed in lecture)
 
 [github-history]: https://github.com/appacademy/ruby-curriculum/blob/master/w1d6-w1d7/git-fix-authorship.md#the-command
