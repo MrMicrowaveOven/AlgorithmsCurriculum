@@ -24,7 +24,7 @@ SF:
 * If this list is overwhelming, work on your resume and JS game first.  Expected time investment for each item -
   * Resume: 5-15 hours (1-3 hours/day each day this week)
   * Cover letter: 2-4 hours 
-  * JS game: 8-20 hours (or eveb longer if your project is too ambitious or original)
+  * JS game: 8-20 hours (even longer if your project is too ambitious or original)
   * Ruby project: 3-10 hours
   * Github cleanup & Readme's: 3-6 hours
   * LinkedIn & AngelList profiles: 2-4 hours 
