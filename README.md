@@ -165,11 +165,12 @@ NY:
 ## W10D6-7
 SF:
 * Finalize any last to-do's on your Job Application Materials
+* Create a [text-only][text-only] version of your finished resume.
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 * After addressing all comments from reviewers, **make sure your resume and cover letter are available in your shared google folder by Monday 9am.**
   * Don't forget to give us "Can Edit" permissions, not just "Can Comment"
-  * Create a [text-only][text-only] version of your finished resume.
+
 
 NY:
 * Catch up on applying and fixing all the comments and to-dos your reviewers left you on your Job Application Materials
