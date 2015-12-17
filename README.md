@@ -142,7 +142,7 @@ NY:
 
 ## W10D5
 SF:
-* Last day of reviweing Job App Materials. Make it good! 
+* Last day of reviewing Job App Materials. Make it good! 
 * Make any additional changes to your [resume][resume], [cover letter][cover-letter], [browser game][browser-game], [ruby project][code-intensive], [GitHub][github], [LinkedIn][linkedin], and AngelList profiles.
 * Build your [portfolio site][portfolio].  
 * Attend the Personal Pitch workshop after lunch.  
@@ -164,7 +164,7 @@ NY:
 
 ## W10D6-7
 SF:
-* Catch up on applying and fixing any final comments and to-dos your reviewers left you on your Job Application Materials
+* Finalize any last to-do's on your Job Application Materials
 * [Choose which Meetups you'll attend.][meetups]
 * [Job Boards][job-boards]: Sign up for job alerts and register on the job market places.
 * After addressing all comments from reviewers, **make sure your resume and cover letter are available in your shared google folder by Monday 9am.**
