@@ -71,7 +71,7 @@ SF:
 * Attend the Resumes Lecture after lunch.  
 * By the end of the day, you should a have 
   * A complete first draft of your resume (with the exception of a placeholder for your Ruby project)
-  * An first draft of a cover letter.  
+  * A first draft of a cover letter.  
   * A largely completed JS game with ReadMe in Github.  
 
 NY: 
