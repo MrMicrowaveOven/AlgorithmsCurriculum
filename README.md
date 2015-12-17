@@ -252,6 +252,7 @@ SF:
     * Continue [Codility][codility] if you want to do more on your own.
 * By the end of the day, you should have 45 compnies in Jobberwocky.  
 * If you have more time, continue studying the [Interview Questions][interview-questions].
+* You wil start applying to companies tomorrow.  
 
 NY: 
 * See the algorithms reading [here][algorithms-curriculum].
