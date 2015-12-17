@@ -225,7 +225,7 @@ SF:
   * [performance analysis and big O][big-o].
   * [What do software engineers actually do?][what-software-engineers-do]
 * Attend the Technical Interviews lecture after lunch.  
-* Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Some companies use platforms like these for interviews or take-home challenges.  
+* Do one practice problem on [HackerRank][HackerRank] and one demo test on [Codility][Codility].  Get comfortable with these interfaces, companies use platforms like these for interviews or take-home challenges.  
 
 NY:
 * Continue pairboarding (don't forget to practice personal pitch)
