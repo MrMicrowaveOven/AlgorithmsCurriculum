@@ -275,8 +275,11 @@ SF:
 * START APPLYING!! 
   * From now on until you get a job, apply to 15 companies from your Job Search Roadmap per weekday.  This will take 3-7hours/day. 
   * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
-  * Add the applications into the Jobberwocky. Mark whether you've done a phone_screen, interviewed, got rejected, or got an offer as you go.
-  
+  * Add the applications into the Jobberwocky. Mark whether you've done a pre-onsite, interviewed, got rejected, or got an offer as you go.
+    * pre-onsite: a phone screen or take-home problem or both
+    * interviewed: refers to an on-site, in-person interview 
+
+
 NY:
 * Continue pairboarding, practicing personal pitch, and adding 15 companies
 * Read about [job search etiquette][job-search-etiquette]
