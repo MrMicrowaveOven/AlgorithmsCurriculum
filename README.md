@@ -439,6 +439,7 @@ SF:
     * Stay sharp using [these tests][algo-specs] only after you get
       through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
+* Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
 
 NY: 
 * Take the official coding test from one of App Academy's hiring partners.
@@ -449,6 +450,7 @@ NY:
     * Stay sharp using [these tests][algo-specs] only after you get
       through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
+* Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
 
 ## JavaScript Readings
 * [Effective JavaScript][effective-js] (you were required to read this one during the course, but you'll probably get MUCH more out of it now)
@@ -519,6 +521,7 @@ NY:
 [front-end-questions]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
 [coding-for-interviews]: http://codingforinterviews.com/
 [programming praxis]: http://programmingpraxis.com/
-
+[hiredintech]: http://www.hiredintech.com/system-design/
+[systemsdesign]: further_readings/systems-design.md
 
 
