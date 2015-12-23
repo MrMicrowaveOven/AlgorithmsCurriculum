@@ -1,4 +1,4 @@
-# Job Search Curriculum
+# San Francisco Job Search Curriculum
 
 [Jobberwocky][jobberwocky]  
 [Interview Questions][interview-questions]  

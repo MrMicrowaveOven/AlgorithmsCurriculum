@@ -1,4 +1,4 @@
-# Job Search Curriculum
+# New York Job Search Curriculum
 
 [Jobberwocky][jobberwocky]  
 [Interview Questions][interview-questions]  
