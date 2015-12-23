@@ -367,7 +367,7 @@ SF:
 * Prepare your final project presentation for Graduation Day (Thurs night)
   * SF: Attend the project presentation workshop
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
-* What happens when you [navigate to a URL?][navigate-to-a-url]
+* What happens when you [navigate to a URL?][navigate-to-a-url] ([video][harvard-vid])
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
 
 NY:
@@ -376,12 +376,13 @@ NY:
   * NY: Practice it with your pairboarding partner
   * SF: Attend the project presetation workshop
 * Ruby review: read this [Ruby interview walkthrough][ruby-interview-walkthrough]
-* What happens when you [navigate to a URL?][navigate-to-a-url]
+* What happens when you [navigate to a URL?][navigate-to-a-url] ([video][harvard-vid])
 * Memorize your answer to that interview question with [these bullets][browser-navigation].
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
 [browser-navigation]: ./interview-prep/browser-navigation.md
+[harvard-vid]: https://www.youtube.com/watch?v=8KuO4r5CHjM
 
 
 ## W12D3
