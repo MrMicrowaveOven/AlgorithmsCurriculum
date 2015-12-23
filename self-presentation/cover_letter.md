@@ -1,9 +1,10 @@
 # The Cover Letter
 
+* To start, read this: [Why I didn't read your resume.][why-i-didnt-read-your-resume]
 * See some example [cover letters][cover letters]
 
 [cover letters]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter_examples.md
-
+[why-i-didnt-read-your-resume]: https://medium.com/who-what-why/why-i-didn-t-look-at-your-resume-2a8ed1f4a5bb#.tj1w49q8v
 
 ## Foreword
 
