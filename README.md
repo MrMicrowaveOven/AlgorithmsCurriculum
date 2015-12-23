@@ -4,5 +4,5 @@
 ### SF: [SF Job Search Curriculum][sf]
 ### NY: [NY Job Search Curriculum][ny]
 
-[sf]: sf.md
-[ny]: ny.md
+[sf]: ./SF.md
+[ny]: ./NY.md
