@@ -243,12 +243,10 @@ rate below 5%, which teaching emphasizes coding style and best practices.
 Here are some suggested bullet points for your resume. Mix them up a little,
 so you don't sound the same as the next person.
 
-* Rigorous 1000-hour web development course with <5% acceptance rate
-* 1000-hour full-stack programming bootcamp with <5% acceptance rate
-* Teaches full-stack web development: Rails, SQL, JS, React, TDD, algorithms,
-  and programming best practices.
-* Topics include: Rails, React, TDD, scalability, algorithms, OOP, coding style,
-  single-page apps, and web development best practices.
+* Rigorous 1000-hour software development course with <5% acceptance rate
+* 1000-hour immersive full-stack web development bootcamp with <5% acceptance rate
+* Teaches full-stack web development: Rails, SQL, JS, React, TDD, algorithms, design patterns, and programming best practices.
+* Topics include: TDD, scalability, algorithms, OOP, coding style, REST, security, single-page apps, and web development best practices.
 
 Feel free to mix and match.
 
