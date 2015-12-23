@@ -9,8 +9,8 @@ Check out Gayle Laakmann McDowell's [model résumé][glm-résumé]. At the botto
 there's a template to make your own résumé too. Gayle Laakman McDowell is the
 author of [Cracking the Coding Interview][cracking-interview].
 
-Here are some [templates][drive-templates] to get you started. 
-**Change the font, color scheme, and layout before using them**. Employers 
+Here are some [templates][drive-templates] to get you started.
+**Change the font, color scheme, and layout before using them**. Employers
 do not like seeing similar résumés.
 
 Here are some example resumes from previous students:
@@ -19,7 +19,7 @@ Here are some example resumes from previous students:
 * [Carl Baron][carl-baron-resume]
 * [Dean Hu][dean-hu-resume]
 * [Greg Kane][greg-kane-resume]
-  
+
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [eli-smukler-resume]: ./eli_smukler-resume.pdf
@@ -41,7 +41,7 @@ In the world of people, having a diversity of interests and experiences is a
 beautiful thing. In the world of tech recruiting, expertise is much more
 valuable. If you had various non-tech jobs before App Academy, choose them
 carefully so you don't spread yourself thin.  
- 
+
 You don't want to leave out large chunks of time either. In general you can
 include roles you held for over a year. Keep in mind that these become less
 relevant as you go further back in time. If your previous job was not
@@ -128,46 +128,63 @@ To get you brainstorming:
 * Does your Javascript use any math to resize something in the DOM?    
 * Did you use a library in a way that its author probably didn't anticipate?    
 * Do you have any data that's nested one degree deeper than usual?    
-* Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)    
+* Did you override a Rails or React.js function?  
 * Do your ActiveRecord models run any custom SQL queries?    
 * Did you make any trade-offs related to performance, eg. store information that's costly to compute?    
 * Are you doing any caching?    
-* Do you make AJAX requests to any unexpected routes?    
-* Did you write a custom CompositeView class with a recursive #remove method?    
+* Do you make AJAX requests to any unexpected routes?       
 * Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
 * Do your chess pieces inherit from a Slideable and Steppable class?
 
-When answering these questions, the key is to point out features you built that went above and beyond the basic requirements.  On your resume, you'll use these features as bullet points.  Consider the following 
+When answering these questions, the key is to point out features you built that went above and beyond the basic requirements.  On your resume, you'll use these features as bullet points.  Consider the following
 
-*Allows users to log in* 
+*Allows users to log in*
 
 vs
 
-*Custom authentication using BCrypt overrides User#password= method to store secret hash instead of plain text.*
+*Uses custom-built authentication system, hashing and salting passwords with BCrypt.*
 
 In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.  
 
 *Caution:*
 
 * Students often use the past tense to describe each solution, eg. "Overrode
-  Backbone's default Model#parse method to..." It's less exciting if it's in
+  Backbone's default model parsing method to..." It's less exciting if it's in
   the past. Use the present tense in the third person (ie. your project
-  itself). "Overrides Backbone's default Model#parse method to..."
+  itself). "Overrides Backbone's default model parsing method to..."
 * Look up the proper spelling and capitalization for the technologies you
   mention.
+
+*Second caution:*
+* Students often want to be extremely language or framework-specific with how
+  they implemented something. Try not to do to this. Example: "Overwrites
+  attr_writer on User#password". This makes sense to you because you know Rails,
+  but you might not be applying to a Rails job (or the recruiter might not know
+  anything about Rails). Your bullet is going to be incomprehensible to them.
+* Instead of using language-specific details, talk at a higher-level about
+  what engineering solutions you implemented. It shows you know how to
+  communicate about what you really accomplished as an engineer, rather than
+  the equivalent of reciting a stack trace.
+
+*Third caution:*
+* Resist the urge to just enumerate features in your bullet points! Your bullet
+  points should be about cool things you did in the project, not features of the
+  application. We see this mistake **all the time**. A good resume item does
+  *not* read like a feature list on a product's website. Your bullet points
+  should not tell me all the features of your web app.
+* Describe to me instead the *engineering problems you solved* or the solutions
+  you found in *implementing* those features. **I want to hear about what kind of
+  an engineer you are, not buy your product.**
 
 More example bullet points to help with brainstorming:
 * Achieves better performance by leveraging Cloudinary to cache different sizes of images.
 * Original UI design, with sliding index items and toggle buttons that react to mouse hovers.
-* Overrides Backbone's parse methods to retrieve associated models with custom queries.
 * Sensitive search functionality listens for searchbar keydown and responds automatically.
 * Integrates Google Maps API with geolocation based searching to display location of other users on a map.
 * Implements validation logic that identifies reservations with overlapping dates and prevents double bookings.
 * Uses observer pattern to handle management of global Z-indexes for overlapping items.
 * Implements custom infinite-pagination with prefetching to improve perceived load time.
-* Backbone.js collection filtered along multiple user inputs simultaneously.
-* JBuilder data serialization retrieves nested data from associated database entries. 
-* Extends the Backbone View class with custom CompositeViews to facilitate adding and removing of sub views.
+* JBuilder data serialization retrieves nested data from associated database entries.
 
 ## Work
 
@@ -207,8 +224,11 @@ impressed, at least they'll be thankful.
 Note: The extra sentence describing results takes more space. Two longer
 bullet points that convey success are much stronger than four bullet
 points that only describe process (no matter what portion of your
-previous job you're leaving out).    
+previous job you're leaving out).
 
+Second note: If you did coding-like technical things, talk about it. Whether
+that be scripting, Excel analyses, financial crunching, whatever. Technical
+experience helps smooth out the narrative of your transition into engineering.
 
 ## Education
 
@@ -217,8 +237,20 @@ previous job you're leaving out).
 Now that you are an App Academy student, selling yourself requires you to sell
 employers on the quality of App Academy. You also want to make sure employers
 understand you are not a sucker who fell for a get-rich-quick scheme. In your
-résumé, mention that App Academy's admissions rate is below 5% and that the
-teaching emphasizes coding style and best practices.
+résumé, mention that App Academy is a 1000-hour coding school with admissions
+rate below 5%, which teaching emphasizes coding style and best practices.
+
+Here are some suggested bullet points for your resume. Mix them up a little,
+so you don't sound the same as the next person.
+
+* Rigorous 1000-hour web development course with <5% acceptance rate
+* 1000-hour full-stack programming bootcamp with <5% acceptance rate
+* Teaches full-stack web development: Rails, SQL, JS, React, TDD, algorithms,
+  and programming best practices.
+* Topics include: Rails, React, TDD, scalability, algorithms, OOP, coding style,
+  single-page apps, and web development best practices.
+
+Feel free to mix and match.
 
 **College**
 
@@ -226,8 +258,10 @@ If you took CS-related courses in college, add a "Curriculum Highlights" section
 under the name of your degree and list those courses. Linear algebra, statistics,
 and Electrical Engineering courses are also relevant here.
 
-Include your GPA if you graduated 5 years ago or less and if it's above 3.0. If you studied a STEM subject or Econ, you can use your Major GPA if it is higher.  (Note on GPAs: most employers won't
-care about them, but a few will. This is just for them.)
+Include your GPA if you graduated 5 years ago or less and if it's above 3.2.
+If you studied a STEM subject or Econ, you can use your Major GPA if it is
+higher.  (Note on GPAs: most employers won't care about them, but a few will.
+This is just for them.)
 
 ## If you have neither a college degree nor relevant work experience
 Many students have graduated from App Academy without a college degree
@@ -256,7 +290,6 @@ to all these questions.
   0. (List work history first if you were paid to write code.)
   0. Fits on 1 page?
   0. 1-inch margins on left and right?
-  
 
 * Projects
   0. Do you list three or four coding projects, including one Rails app and
@@ -280,4 +313,3 @@ to all these questions.
    metro area?
   0. Is it a Google Doc that both I and your pairboarding partners can edit and comment on? (Make sure to share it to us)
   0. No timeline gaps or minimize as much as possible
-
