@@ -166,7 +166,7 @@
 * If you finish the a/A pairboarding problems early,
     * Stay sharp using [these tests][algo-specs] only after you get through the pairboarding.
     * Continue [Codility][codility] if you want to do more on your own.
-* By the end of the day, you should have 45 compnies in Jobberwocky.  
+* By the end of the day, you should have 45 companies in Jobberwocky.  
 * If you have more time, continue studying the [Interview Questions][interview-questions].
 * You wil start applying to companies tomorrow.  
 

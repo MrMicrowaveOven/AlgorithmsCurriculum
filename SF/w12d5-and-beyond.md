@@ -15,3 +15,4 @@
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 [codility]: https://codility.com/demo/train/
 [systemsdesign]: ../further_readings/systems-design.md
+[hiredintech]: http://www.hiredintech.com/system-design/
