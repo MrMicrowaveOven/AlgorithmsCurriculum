@@ -45,7 +45,7 @@
 #### [W10D6-7](./SF/w10d6-7.md)
 
 
-#### [Week 10 Bonuses](./SF/bonus-week-10.md)
+#### [Week 10 Bonuses](./SF/week-10-bonus.md)
 
 
 #### [W11D1](./SF/w11d1.md)
@@ -73,7 +73,7 @@
 #### [W11D6-7](./SF/w11d6-7.md)
 
 
-#### [Week 11 Bonuses](./SF/bonus-week-11.md)
+#### [Week 11 Bonuses](./SF/week-11-bonus.md)
 
 
 #### [W12D1](./SF/w12d1.md)
