@@ -36,7 +36,7 @@
 
 ## W10D2
 * Get to the office between 10:30 and 11am from today on. We will be taking roll. If you will be absent or late for any reason, email your career coach to let them know.
-* Join the #hunters channel in Slack. Alumni post job openings and networking opportunities there.  
+* Join the hunters channel in Slack. Alumni post job openings and networking opportunities there.  
   * Press CMD+K and typing "hunters" on Slack
   * Or use this link: https://app-academy.slack.com/messages/hunters
 * Begin the [pairboarding curriculum][pair-boarding-curriculum].
