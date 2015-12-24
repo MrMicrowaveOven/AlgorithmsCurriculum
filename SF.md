@@ -180,13 +180,14 @@
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNewsarticle][hn-negotiation-article]
 * Attend the Negotiations lecture after lunch.  
-* START APPLYING!!
-  * From now on until you get a job, apply to 10 companies from your Job Search Roadmap per weekday.  This will take 3-7hours/day.
-  * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
-  * Add the applications into the Jobberwocky. Mark whether you've done a pre-onsite, interviewed, got rejected, or got an offer as you go.
+* **START APPLYING!!**
+  * **From now on until you get a job, apply to 10 companies from your Job Search Roadmap per weekday**.  This will take 3-7hours/day.
+    * In the beginning apply only to 3s for your first 80 applications. Then start with 2s and 1s.
+  * **Add every application into the Jobberwocky**. Mark whether you've done a pre-onsite, interviewed, got rejected, or got an offer as you go.
     * pre-onsite: a phone screen or take-home problem or both
     * interviewed: refers to an on-site, in-person interview
-  * You are required to continue coming in to App Academy until you submit your first 100 applications. We ask this because it's prohibitively difficult for us to support students who are struggling with their job search if they stop coming in.
+  * **Also BCC every application you send to ja@appacademy.io**. (Short for job applications. We abbreviated it in case you mess up and CC us instead of BCC). Like in the Applyathons, send us screenshots if it's a non-email application. AngelList screenshots are also okay. One application per e-mail! We'll be using these to confirm your applications.
+  * **You are required to continue coming in to App Academy until you submit your first 100 applications.** We ask this because it's prohibitively difficult for us to support students who are struggling with their job search if they stop coming in.
   * Generally speaking, we urge all students to keep coming to App Academy until they have a job. If you come in, you'll be better able to learn from your peers and grow as a developer, stay focused on your job search, as well as take advantage of our resources. Please, please keep coming back! We're here to support you!
 
 [job-search-etiquette]: ./self-presentation/job_search_etiquette.md
