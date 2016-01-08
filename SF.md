@@ -1,9 +1,10 @@
 # SF Job Search Curriculum
 
+### Resources
+
 * [Jobberwocky][jobberwocky]
-* [Interview Questions][interview-questions]
 * [Pairboarding Index][pair-boarding-index]
-* [New York Tech Companies][ny-tech-companies]
+* [Interview Questions][interview-questions]
 * [Bay Area Tech Companies][bay-tech-companies]
 
 [jobberwocky]: http://progress.appacademy.io/jobberwocky
