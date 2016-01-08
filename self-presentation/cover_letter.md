@@ -64,13 +64,6 @@ Build a template with these classy touches:
 * Have a minimally styled header that includes your contact information - should be the same as for your resume.
 * Below that insert the date.
 
-Here's an [example][example-cover-letter] of some cool templating. Note that
-this letter is about two times longer than yours needs to be and the language
-is way too flowery. Use a neutral sign off like "Best Regards" or "All the
-Best".
-
-[example-cover-letter]: http://www.eliteresumewriting.com/images/Sales%20Sample%20Cover%20Letter.jpg
-
 
 ## Cover Letter Template
 
@@ -82,21 +75,21 @@ Start off strong with a "I am a web developer with experience in X, Y and Z". Do
 
 Somewhere in your letter write two sentences about the company and why you want
 to work there. Don't sell them on generic excitement about how awesome the team
-is. That's only convincing if you've actually met people there or visited their office. Instead, the message 
+is. That's only convincing if you've actually met people there or visited their office. Instead, the message
 you should get across, is that you might be a fit for their particular industry or role. Show how their industry appeals to you and/or how you can handle their specific challenges.  If you spend  
-five minutes on a job application, four of those should be for scanning the 
-Wikipedia article about the industry they're in and the company website and 
+five minutes on a job application, four of those should be for scanning the
+Wikipedia article about the industry they're in and the company website and
 picking out buzzwords.
 
 Consider these examples:
 
 *Show knowledge of the industry*
 * Weak: "I am excited to apply to GeneriCo because we both value high quality code and making awesome products."  
-* Strong: "A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud." 
+* Strong: "A cloud-based point of sale allows businesses to centralize their transaction data like never before.  I would love to help build GeneriCo's product and finally bring retail to the cloud."
 
 *Show understanding of their challenges*
 * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site."  
-* Strong: "GeneriCo's userbase is growing fast.  I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth." 
+* Strong: "GeneriCo's userbase is growing fast.  I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth."
 
 If two different ways to write blurbs feels overwhelming, just use the first method for all the blurbs.  
 
@@ -135,7 +128,7 @@ Engineer - San Francisco" is more helpful than "Applying to CoolCompany, inc".
 Set up a signature with your mail client. Include the link to your portfolio site.
 
 You could try something like this:
-    
+
     Mark Zuckerberg
     markzuckerberg.com
     @finkd
