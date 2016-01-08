@@ -12,6 +12,32 @@
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
+### Job Search Projects
+To be completed by the end of week 10, before sending out applications.
+
+* [Capstone Checklist][capstone]
+* [Browser Game][js-game]
+* [Code Intensive][code-intensive]
+* [Resume][resume]
+* [Cover Letter][cover-letter]
+* [Curating your GitHub][github]
+* [LinkedIn][linkedin]
+* [AngelList][angellist]
+* [Portfolio Page][portfolio]
+
+
+[capstone]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
+[js-game]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/browser_game.md
+[resume]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume.md
+[cover-letter]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter.md
+[portfolio]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/portfolio.md
+[code-intensive]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/code_intensive.md
+[github]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
+[linkedin]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/linkedin.md
+[angellist]: https://angel.co/
+
+
+
 #### [W9D6-7](./SF/w9d6-7.md)
 * Preparation for job search curriculum! Start your JS Game, finish your final project, and bide your energy for Monday. Lots of biding. Bide like an Onix.
 
@@ -44,29 +70,6 @@
 
 
 #### [Week 10 Bonuses](./SF/week-10-bonus.md)
-
-### Week 10 Project Reference List
-
-* [Capstone Checklist][capstone]
-* [Browser Game][js-game]
-* [Code Intensive][code-intensive]
-* [Resume][resume]
-* [Cover Letter][cover-letter]
-* [Curating your GitHub][github]
-* [LinkedIn][linkedin]
-* [AngelList][angellist]
-* [Portfolio Page][portfolio]
-
-
-[capstone]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
-[js-game]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/browser_game.md
-[resume]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume.md
-[cover-letter]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter.md
-[portfolio]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/portfolio.md
-[code-intensive]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/code_intensive.md
-[github]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
-[linkedin]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/linkedin.md
-[angellist]: https://angel.co/
 
 
 #### [W11D1](./SF/w11d1.md)
