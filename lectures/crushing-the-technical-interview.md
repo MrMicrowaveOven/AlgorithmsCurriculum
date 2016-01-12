@@ -8,6 +8,9 @@
   2. To walk out of this lecture with some steps you WILL actually take when you walk into an interview.
 
 1. Good ol’ fashioned Interview (30 min)
+  1. Tips:
+    a. Demonstrate what you know
+    b. Admit what you don't know (circle of competence).
   0.  Overview. (1 min)
   1.  Exercise with partners.  Break up into partners. (1 min)
   2.  Point is not to finish the problem.  Don't rush.  Just get a sense.
@@ -23,30 +26,24 @@
     1. What are the different ways you can make private variables in javascript? (4 mins)
     2. Feedback (1 min)
 
-  6. Reflection (5 mins):
+  6. Reflection (3 mins):
     1. Personal
     2. Ask class: list out what worked and what didn't.
     3. Make sure you admit you don't know something when you don't.  And then STILL give it a shot.
 
-3. Pair Programming / Build something while they watch next to you (15 mins)
+3. Pair Programming / Build something while they watch next to you (4 mins)
   1. Overview (4 mins): Learnist did this, Pivotal does this.  Talk about process companies take.
-
-  2. Recommendation: Pair on your final project with someone and explain
-  what you're doing as you go.  Other person, just LISTEN.  Do not point out problems unless the other person is genuinely stuck for a while. (1 min).
-
-  2. Give them 3 minutes to find someone in the room and schedule an hour to pair on a final project. (3 mins)
 
 4. Design Problems (20 mins)
   0. Overview: Learnist, Goodreads, and Minerva did this. (3 mins)
-  1. Individual: Design the schema for the game "Chess" on paper alone. (5 mins).  E.g. tables, columns, etc.
-  2. Compare to partner (3 minutes).
+  1. Individual: Design the schema for the game "Connect Four" on paper alone.  We also want arbitrary board size (of connect 5 and 6...etc.) and saving games. (5 mins).  E.g. tables, columns, etc.
+  2. Compare to partner or class (3 minutes).
   3. Feedback from class:
-  4. Other example problems: Design the BART system schema, Design a music app (1 min).
+  4. Other example problems: Design the BART system schema, schema for Ad Server (1 min).
 
 Break for 5 (5 mins)
 
 5. Whiteboard Problem (65 mins)
-  1.  Show of hands who DOESN'T know about these. (1 min)
   1. Can-you-code problems (2 mins)
     1. These are usually in initial interviews.  I have actually gotten fizzbuzz
     2. Hired.com has some good ones that you can practice if you sign up.
@@ -73,10 +70,9 @@ Break for 5 (5 mins)
           2. Compare to partner
           3. List on board
         3. CHECK WITH THE CLASS that everyone knows what the function looks like.
-
         4. Write out possible approaches in english (not even pseudocode) (3 mins)
           1. DRAW ON BOARD
-        5. Analyze (space, time tradeoffs) (3 mins)
+        5. Analyze (does it work with samples, space, time tradeoffs) (3 mins)
           1. DRAW ON BOARD
         6. Edge cases? (3 mins)
           1. DRAW ON BOARD
@@ -103,6 +99,12 @@ Break for 5 (5 mins)
     2. Just means extra study.
 
 Find someone to code on board during resources.
+
+5. Pairboarding tips
+  1. State the problem to your person.  They can ask clarifying questions.  Make them work and explain it.
+  2. Be a bit of a dick.  Don't help them too much.
+  3. Give small hints (not array.each)
+  4. ??'s
 
 6. Resources (5 mins)
   1. https://github.com/alex/what-happens-when
