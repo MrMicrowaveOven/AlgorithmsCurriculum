@@ -16,14 +16,12 @@ do not like seeing similar résumés.
 Here are some example resumes from previous students:
 
 * [Eli Smukler][eli-smukler-resume]
-* [Carl Baron][carl-baron-resume]
 * [Dean Hu][dean-hu-resume]
 * [Greg Kane][greg-kane-resume]
 
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [eli-smukler-resume]: ./eli_smukler-resume.pdf
-[carl-baron-resume]: ./carl_baron-resume.pdf
 [dean-hu-resume]: ./dean_hu-resume.pdf
 [greg-kane-resume]: ./greg_kane-resume.pdf
 [drive-templates]: https://drive.google.com/open?id=0B3noREts_wUyMFZHWVhvcUUtU1E&authuser=0
