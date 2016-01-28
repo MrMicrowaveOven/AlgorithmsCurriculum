@@ -1,4 +1,4 @@
-# Tech is for All of Us: Strategies for Good Allyship 
+### Tech is for All of Us: Strategies for Good Allyship 
 
 Whether you're a seasoned tech veteran or brand new to the field, there are undoubtedly ways in which you can learn and grow around issues of diversity.  Being an ally to women in tech, people of color, gay/queer/lesbian folks, people with disabilities, transgender people, and other marginalized folks is a learning process and a daily practice.  It takes time, work, and deep thought to become the ally you want to be and that marginalized people need you to be.  Herein are some general strategies and tips to start you off.  
 
