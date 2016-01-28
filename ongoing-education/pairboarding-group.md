@@ -10,4 +10,4 @@ The structure of each meeting will be a brief check-in circle, to talk about the
 
 To express interest in the group and receive updates and reminders, please join the associated Google Group.
 
-https://groups.google.com/forum/#!forum/aa-pairboarding(https://groups.google.com/forum/#!forum/aa-pairboarding)
+https://groups.google.com/forum/#!forum/aa-pairboarding
