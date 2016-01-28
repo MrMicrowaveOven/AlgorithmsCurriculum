@@ -2,8 +2,8 @@
 
 Open to all graduates of App Academy, the twice-weekly pairboarding group is intended to give job seekers the chance to keep their whiteboarding skills sharp.
 
-We meet at 3:00 pm on **Tuesdays** and **Thursdays** at App Academy's new office:
-160 Spear Street, 14th Floor
+We meet at **3:00 pm** on **Tuesdays** and **Thursdays** at App Academy's new office:  
+160 Spear Street, 14th Floor  
 San Francisco
 
 Our first meeting will be on **February 2nd, 2016**.
