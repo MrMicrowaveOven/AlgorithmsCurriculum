@@ -9,6 +9,8 @@ Whether you're a seasoned tech veteran or brand new to the field, there are undo
 - **Don't tokenize marginalized people**
 - **Keep learning about the issues that marginalized people face**
 
+And here's a little more detail on each of these strategies:
+
 **Listen and believe.**  The sting of discriminatory words and actions, large and small, is elusive: we know it when we feel it, but it's very hard to describe to those that don't share our experience.  When someone discloses an incident of discrimination to you, listen with open ears and mind.  Believe them without judgment.  Ask them what you can do to help mend the situation -- don't assume that you will know the best resolution. 
 
 **Respect boundaries and ask permission.**  Whether it's race, gender, or something else, the issue that you're learning to be an ally around is very personal.  Questions are normal and understandable, but marginalized folks encounter these questions all the time.  It can be tiresome and wearing.  If you have a question, great!  But try to mitigate your curiousity by finding resources such as books, blogs, podcasts, etc.  And when you do have a question you'd like to ask your marginalized friend or colleague, get their permission to ask first, and be cognizant of their reactions and the time and space you're taking up when having the conversation.  
