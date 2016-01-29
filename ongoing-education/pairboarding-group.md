@@ -1,15 +1,11 @@
 # Ongoing Pairboarding Practice Group
 
-It's my pleasure to announce the inaugural App Academy Pairboarding Group.
-
 Open to all graduates of App Academy, this weekly meetup is intended to give job seekers the chance to keep their whiteboarding skills sharp. It is highly recommend that all job seekers attend, especially those who haven't recently been through the pairboarding curriculum.
 
-We meet at **1:15 pm** on **Thursdays** at App Academy's new office:
+We meet at **1:15 pm** on **Thursdays** at App Academy's office:
 
 160 Spear Street, 14th Floor  
 San Francisco
-
-Our first meeting will be on **February 4th, 2016**.
 
 The structure of each meeting will be a brief check-in circle to talk about the job search, seek advice, and share triumphs. Participants will then be split into pairs to solve algorithms problems. **Students are encouraged to bring problems if they have them.**
 
