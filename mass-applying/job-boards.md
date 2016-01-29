@@ -20,6 +20,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Hirelite][hirelite] - 'speed dating' format
   * [Lytmus][lytmus] - pair programming format
   * [StackOverflow][stackoverflow] - great job posts and discussions
+  * [Switch][Switch] - connect via an app
   * [Toptal][toptal] - for contract work
   * [Triplebyte][triplebyte] - code-based matching
   * [Underdog][underdog] (New York only)
@@ -89,6 +90,7 @@ check 'Show Active' on the left).
 [hirelite]: http://www.hirelite.com/
 [lytmus]: http://www.lytmus.io/
 [stackoverflow]: http://careers.stackoverflow.com/
+[switch]: http://www.switchapp.com/
 [symni]: https://symni.com/
 [toptal]: http://www.toptal.com/developer
 [triplebyte]: https://triplebyte.com/
