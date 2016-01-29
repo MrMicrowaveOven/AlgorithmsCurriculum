@@ -20,12 +20,12 @@ Majd, Software Developer:
 
 "People ask me what I do. Here's the list:
 
-Software Developer (Rhumbix)
-Mask Maker (Arté Masks)
-Thespian (Golden Thread Productions)
-Mentor (Dev Bootcamp)
-Capoeirista-in-training (Capoeira Angola Quintal)
-Acrobat-in-training (Circus Center)
+- Software Developer (Rhumbix)
+- Mask Maker (Arté Masks)
+- Thespian (Golden Thread Productions)
+- Mentor (Dev Bootcamp)
+- Capoeirista-in-training (Capoeira Angola Quintal)
+- Acrobat-in-training (Circus Center)
 
 That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of those things. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."
 
