@@ -1,6 +1,13 @@
 ### Tech is for All of Us: Strategies for Good Allyship 
 
-Whether you're a seasoned tech veteran or brand new to the field, there are undoubtedly ways in which you can learn and grow around issues of diversity.  Being an ally to women in tech, people of color, gay/queer/lesbian folks, people with disabilities, transgender people, and other marginalized folks is a learning process and a daily practice.  It takes time, work, and deep thought to become the ally you want to be and that marginalized people need you to be.  Herein are some general strategies and tips to start you off.  
+Whether you're a seasoned tech veteran or brand new to the field, there are undoubtedly ways in which you can learn and grow around issues of diversity.  Being an ally to women in tech, people of color, gay/queer/lesbian folks, people with disabilities, transgender people, and other marginalized folks is a learning process and a daily practice.  It takes time, work, and deep thought to become the ally you want to be and that marginalized people need you to be.  Here's a summary of the strategies we'll discuss in this reading: 
+
+- **Listen to and believe marginalized people's experiences with discrimination**
+- **Respect boundaries and ask permission when discussing personal issues of marginalization**
+- **Don't get defensive when you're called out for offensive speech/actions**
+- **Speak up when you hear or witness discriminatory speech or acts**
+- **Don't tokenize marginalized people**
+- **Keep learning about the issues that marginalized people face**
 
 **Listen and believe.**  The sting of discriminatory words and actions, large and small, is elusive: we know it when we feel it, but it's very hard to describe to those that don't share our experience.  When someone discloses an incident of discrimination to you, listen with open ears and mind.  Believe them without judgment.  Ask them what you can do to help mend the situation -- don't assume that you will know the best resolution. 
 
