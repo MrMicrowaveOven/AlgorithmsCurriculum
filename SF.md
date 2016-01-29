@@ -120,6 +120,7 @@ To be completed by the end of week 10, before sending out applications.
 
 
 #### [W12D5 and BEYOND](./SF/w12d5-and-beyond.md)
+* Sign up for weekly pairboarding group.
 * Emphasis on the BEYOND.
 
 
