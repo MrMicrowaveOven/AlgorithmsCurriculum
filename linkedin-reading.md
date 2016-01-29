@@ -4,7 +4,9 @@ A good, polished LinkedIn profile is essential during the job search, especially
 
 ### Elements of Your LinkedIn Profile
 
-**Summary**.  The summary is one of the most important parts of your LinkedIn, especially as a job-seeker.  It's also the most difficult to write.  Unlike the rest of your LinkedIn, it's a chance to inject some individuality and personality into your profile.  Ideally, you want it to be unique, eye-catching, professional, and personal all at the same time (see why it's the hard part?).  There's room to be creative and flexible in the summary, though -- it can be long-ish or short, include images, bring in a variety of pieces from your background -- whatever tells your story the best.  Here are a couple examples that show how widely summaries can vary:
+#### Summary  
+
+The summary is one of the most important parts of your LinkedIn, especially as a job-seeker.  It's also the most difficult to write.  Unlike the rest of your LinkedIn, it's a chance to inject some individuality and personality into your profile.  Ideally, you want it to be unique, eye-catching, professional, and personal all at the same time (see why it's the hard part?).  There's room to be creative and flexible in the summary, though -- it can be long-ish or short, include images, bring in a variety of pieces from your background -- whatever tells your story the best.  Here are a couple examples that show how widely summaries can vary:
 
 Charles, Software Developer:
 
