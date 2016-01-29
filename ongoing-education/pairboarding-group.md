@@ -1,6 +1,6 @@
 # Ongoing Pairboarding Practice Group
 
-Open to all graduates of App Academy, the twice-weekly pairboarding group is intended to give job seekers the chance to keep their whiteboarding skills sharp.
+Open to all graduates of App Academy, this weekly pairboarding group is intended to give job seekers the chance to keep their whiteboarding skills sharp.
 
 We meet at **1:15 pm** on **Thursdays** at App Academy's new office:  
 160 Spear Street, 14th Floor  
