@@ -65,6 +65,42 @@ Include anything post-high school, even if it's not a degree from a STEM field. 
 
 This is the place to showcase all of the technical skills that you've learned at App Academy and beyond.  List your strongest skills first (Ruby on Rails, Javascript, and React should be right at the top) followed by other programming skills, followed by any non-programming skills that you have.  Make sure that your settings on LinkedIn allow your connections to endorse your skills, and also take some time to endorse the skills of other students in your cohort (they'll likely reciprocate if you do so!).  
 
+### Building Your LinkedIn Network 
+
+It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
+
+- Your App Academy cohort, TAs, instructors, and career coaches 
+- Former colleagues and supervisors (with some rare exceptions -- if you've been fired or left a job on bad terms, it's not worth connecting)
+- Former professors, teachers, advisors, and other school contacts 
+- Friends, especially those who work in tech, live in a city you're interested in working in, and/or who have an extensive professional network 
+- Family members 
+- Networking contacts that you've met at meetups, a/A events, or elsewhere 
+
+When in doubt, connect.  Don't refuse connections, either, except in rare cases (spam, people with job titles you personally wouldn't want to show up in your connections, etc.).  Don't stop connecting when you land a job.  Your network will be especially important when you're searching for your next job, so keep broadening and building.  No rest for the wicked!
+
+### Leveraging Your Network
+
+If you already have a network on LinkedIn (even if it's not huge), leveraging it in your job search can be very effective.  Here's how you can go about it.
+
+**Step 1.**  Identify a company you're interested in.  Let's go with Coursera, for instance.  Go to the company's page, and look at the **How You're Connected** box:
+
+[img] 
+
+Click "see all" -- this shows you all the ways in which you're connected through your network to someone who works at Coursera.  Go through each of these connections and evaluate two things:
+
+1.  How well do you know the connection in question?  Could you count on this person to go to bat for you, give you a solid recommendation, and facilitate an introduction to their connection at Coursera?  If so, rate them a 1.  If you think they might be willing to give you an introduction but you're not sure, rate them a 2.  If the connection is fairly distant or someone who definitely wouldn't be able to recommend you, rate them a 3.  
+2.  How closely does your connection's Coursera connection match the position you'd like to apply for?  A software engineer, engineering manager, or other member of the technical staff gets a 1.  Someone who'd probably work closely with the engineering staff, such as a product manager or a designer, gets a 2.  Someone totally outside of engineering, such as an administrative assistant, gets a 3.  
+
+Now, take some action!  Evaluate the numbers you got above, and choose the best pair.  Obviously, the best is a 1 and a 1
+-- someone who will definitely recommend you to someone who works as a software developer.  If you don't have a 1/1 pair, choose a 1/2 or a 2/1 pair, etc.  Message your connection and ask for an intro:
+
+"Hi Haseeb, 
+
+Long time no see!  I'm writing to ask a favor.  I saw that you know Satyaki Banerjee, who works as a software engineer at Coursera.  I'm currently on the job market and I'm really interested in working at Coursera.  Would you be willing to set up an introduction for us?  Thanks!
+
+Scott"
+
+And now, iterate.  If you don't have the network just yet to use it in this way, don't worry -- you will eventually, and you can come back to this strategy when you're ready. 
 
 
 
