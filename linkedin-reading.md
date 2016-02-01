@@ -104,9 +104,9 @@ You may also have a first-degree connection who does not work in a tech-related 
 
 **Step 2b.** If you don't have a first-degree connection, take a look at your second-degree connections.  Go through each of these connections and evaluate two things:
 
-1.  How well do you know the connection in question?  Could you count on this person to go to bat for you, give you a solid recommendation, and facilitate an introduction to their connection at Coursera?  If so, rate them a 1.  If you think they might be willing to give you an introduction but you're not sure, rate them a 2.  If the connection is fairly distant or someone who definitely wouldn't be able to recommend you, rate them a 3.  
+1.  How well do you know the connection in question?  Could you count on this person to go to bat for you, give you a solid recommendation, and facilitate an introduction to their connection at Pandora?  If so, rate them a 1.  If you think they might be willing to give you an introduction but you're not sure, rate them a 2.  If the connection is fairly distant or someone who definitely wouldn't be able to recommend you, rate them a 3.  
 
-2.  How closely does your connection's Coursera connection match the position you'd like to apply for?  A software engineer, engineering manager, or other member of the technical staff gets a 1.  Someone who'd probably work closely with the engineering staff, such as a product manager or a designer, gets a 2.  Someone totally outside of engineering, such as an administrative assistant, gets a 3.  
+2.  How closely does your connection's Pandora connection match the position you'd like to apply for?  A software engineer, engineering manager, or other member of the technical staff gets a 1.  Someone who'd probably work closely with the engineering staff, such as a product manager or a designer, gets a 2.  Someone totally outside of engineering, such as an administrative assistant, gets a 3.  
 
 [img]
 
@@ -127,11 +127,11 @@ Pairs with worse ratings than 1/2 or 2/1 aren't usually worth trying to leverage
 
 Here are some solid examples of LinkedIn profiles of other bootcamp grads:
 
-[Noah Wiener, App Academy August 2015](https://www.linkedin.com/in/noahwiener?authType=NAME_SEARCH&authToken=CApr&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CentityType%3AentityHistoryName%2CclickedEntityId%3Amynetwork_375052139%2Cidx%3A5)
+- [Noah Wiener, App Academy August 2015](https://www.linkedin.com/in/noahwiener?authType=NAME_SEARCH&authToken=CApr&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CentityType%3AentityHistoryName%2CclickedEntityId%3Amynetwork_375052139%2Cidx%3A5)
 
-[Majd Murad, Dev Bootcamp July 2015](https://www.linkedin.com/in/majdmurad?authType=NAME_SEARCH&authToken=VnUY&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A175707799%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355074181%2Ctas%3Amajd)
+- [Majd Murad, Dev Bootcamp July 2015](https://www.linkedin.com/in/majdmurad?authType=NAME_SEARCH&authToken=VnUY&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A175707799%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355074181%2Ctas%3Amajd)
 
-[Minh Nguyen, App Academy August 2015](https://www.linkedin.com/in/minhngocln?authType=NAME_SEARCH&authToken=Kbrk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A212722166%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355430699%2Ctas%3Aminh)
+- [Minh Nguyen, App Academy August 2015](https://www.linkedin.com/in/minhngocln?authType=NAME_SEARCH&authToken=Kbrk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A212722166%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355430699%2Ctas%3Aminh)
 
 
 
