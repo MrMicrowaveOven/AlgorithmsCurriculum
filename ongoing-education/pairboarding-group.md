@@ -11,4 +11,4 @@ The structure of each meeting will be a brief check-in circle to talk about the 
 
 To express interest in the group and receive updates and reminders, please [join the associated Google Group][aa-group]. If the meeting is cancelled for a particular day, it will be announced through this Google Group.
 
-[aa-group]: https://groups.google.com/forum/#!forum/aa-pairboarding
+[aa-group]: https://groups.google.com/forum/#!forum/aa-pairboarding/join
