@@ -29,7 +29,7 @@ I have a reputation for asking great questions, shipping quality code, being a s
 - Capoeirista-in-training (Capoeira Angola Quintal)
 - Acrobat-in-training (Circus Center)
 
-That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of those things. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."
+That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of them. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."
 
 **Marc:**
 
@@ -92,25 +92,36 @@ When in doubt, connect.  Don't refuse connections, either, except in rare cases 
 
 If you already have a network on LinkedIn (even if it's not huge), leveraging it in your job search can be very effective.  Here's how you can go about it.
 
-**Step 1.**  Identify a company you're interested in.  Let's go with Coursera, for instance.  Go to the company's page, and look at the **How You're Connected** box:
+**Step 1.**  Identify a company you're interested in.  Let's go with Pandora, for instance.  Go to the company's page, and look at the **How You're Connected** box:
 
 [img] 
 
-Click "see all" -- this shows you all the ways in which you're connected through your network to someone who works at Coursera.  Go through each of these connections and evaluate two things:
+Click "see all" -- this shows you all the ways in which you're connected through your network to someone who works at Pandora.  
+
+**Step 2a.**  If you have a first-degree connection who works in a tech-related position (software developer, product manager, designer, etc.) and who you know well enough to reach out to directly, great!  Send them a polite message asking to buy them coffee or lunch and chat about the company.  Mention that you're on the job market.  They'll likely know that you're looking for a referral to the company; if they don't offer it, politely work it into your conversation.
+
+You may also have a first-degree connection who does not work in a tech-related position.  For these folks, reach out and ask if they'd be willing to introduce you to one of the software developers.  Let them know you're doing research on companies and that you're on the job market.  
+
+**Step 2b.** If you don't have a first-degree connection, take a look at your second-degree connections.  Go through each of these connections and evaluate two things:
 
 1.  How well do you know the connection in question?  Could you count on this person to go to bat for you, give you a solid recommendation, and facilitate an introduction to their connection at Coursera?  If so, rate them a 1.  If you think they might be willing to give you an introduction but you're not sure, rate them a 2.  If the connection is fairly distant or someone who definitely wouldn't be able to recommend you, rate them a 3.  
+
 2.  How closely does your connection's Coursera connection match the position you'd like to apply for?  A software engineer, engineering manager, or other member of the technical staff gets a 1.  Someone who'd probably work closely with the engineering staff, such as a product manager or a designer, gets a 2.  Someone totally outside of engineering, such as an administrative assistant, gets a 3.  
 
-Now, take some action!  Evaluate the numbers you got above, and choose the best pair.  Obviously, the best is a 1 and a 1
--- someone who will definitely recommend you to someone who works as a software developer.  If you don't have a 1/1 pair, choose a 1/2 or a 2/1 pair, etc.  Message your connection and ask for an intro:
+[img]
 
-"Hi Haseeb, 
+Now, take some action!  Evaluate the numbers you got above, and choose the best pair.  Obviously, the best is a 1 and a 1 or a 1/2
+-- someone who works at the company you're interested in who can recommend you to someone who works as a software developer.  If you don't have a 1/1 pair, choose a 1/2 or a 2/1 pair.  Message your connection and ask for an intro:
 
-Long time no see!  I'm writing to ask a favor.  I saw that you know Satyaki Banerjee, who works as a software engineer at Coursera.  I'm currently on the job market and I'm really interested in working at Coursera.  Would you be willing to set up an introduction for us?  Thanks!
+"Hi Nina, 
+
+Long time no see!  I'm writing to ask a favor.  I saw that you know Tuhin Chakraborty, who works as a software engineer at Pandora.  I'm currently on the job market and I'm really interested in working at Pandora.  Would you be willing to set up an introduction for us?  Thanks!
 
 Scott"
 
-And now, iterate.  If you don't have the network just yet to use it in this way, don't worry -- you will eventually, and you can come back to this strategy when you're ready. 
+Pairs with worse ratings than 1/2 or 2/1 aren't usually worth trying to leverage, but use your judgment.
+
+**Step 3.** Iterate.  If you don't have the network just yet to use it in this way, don't worry -- you will eventually, and you can come back to this strategy when you're ready. 
 
 
 
