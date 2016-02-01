@@ -65,6 +65,16 @@ Include anything post-high school, even if it's not a degree from a STEM field. 
 
 This is the place to showcase all of the technical skills that you've learned at App Academy and beyond.  List your strongest skills first (Ruby on Rails, Javascript, and React should be right at the top) followed by other programming skills, followed by any non-programming skills that you have.  Make sure that your settings on LinkedIn allow your connections to endorse your skills, and also take some time to endorse the skills of other students in your cohort (they'll likely reciprocate if you do so!).  
 
+#### Volunteer Experience
+
+Most employers won't pay much attention to the volunteer section of your LinkedIn, but it can have significant benefit if a recruiter, CEO, or hiring manager shares your passion for a particular cause.  It's an immediate personal connection that you wouldn't otherwise get.  
+
+One potential pitfall of the volunteer experience section is that certain causes are controversial.  If you did organizing work around a hot button political issue, you may turn off an employer who falls on the other side of the issue.  Use your best judgment -- if you're comfortable being "out" about supporting a particular cause/organization/community, then by all means include the experience on your LinkedIn.  
+
+#### Publications 
+
+If you have any academic publications such as research papers, a thesis or dissertation, etc., definitely include these.  Anything STEM-related should go at the top of your publication list.  Other publications such as poetry, creative nonfiction, fiction, etc., is fine to include as well, but make sure it's writing that you'd be fine with a potential employer reading.  
+
 ### Building Your LinkedIn Network 
 
 It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
