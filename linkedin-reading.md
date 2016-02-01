@@ -123,6 +123,16 @@ Pairs with worse ratings than 1/2 or 2/1 aren't usually worth trying to leverage
 
 **Step 3.** Iterate.  If you don't have the network just yet to use it in this way, don't worry -- you will eventually, and you can come back to this strategy when you're ready. 
 
+### Some Examples of Great LinkedIn Profiles
+
+Here are some solid examples of LinkedIn profiles of other bootcamp grads:
+
+[Noah Wiener, App Academy August 2015](https://www.linkedin.com/in/noahwiener?authType=NAME_SEARCH&authToken=CApr&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CentityType%3AentityHistoryName%2CclickedEntityId%3Amynetwork_375052139%2Cidx%3A5)
+
+[Majd Murad, Dev Bootcamp July 2015](https://www.linkedin.com/in/majdmurad?authType=NAME_SEARCH&authToken=VnUY&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A175707799%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355074181%2Ctas%3Amajd)
+
+[Minh Nguyen, App Academy August 2015](https://www.linkedin.com/in/minhngocln?authType=NAME_SEARCH&authToken=Kbrk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A212722166%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355430699%2Ctas%3Aminh)
+
 
 
 
