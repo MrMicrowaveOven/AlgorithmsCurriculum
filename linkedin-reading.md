@@ -108,7 +108,7 @@ You may also have a first-degree connection who does not work in a tech-related 
 
 2.  How closely does your connection's Pandora connection match the position you'd like to apply for?  A software engineer, engineering manager, or other member of the technical staff gets a 1.  Someone who'd probably work closely with the engineering staff, such as a product manager or a designer, gets a 2.  Someone totally outside of engineering, such as an administrative assistant, gets a 3.  
 
-[img]
+![connections](https://cloud.githubusercontent.com/assets/10385145/12734388/ff955750-c8f4-11e5-97b1-73af04b99fec.png)
 
 Now, take some action!  Evaluate the numbers you got above, and choose the best pair.  Obviously, the best is a 1 and a 1 or a 1/2
 -- someone who works at the company you're interested in who can recommend you to someone who works as a software developer.  If you don't have a 1/1 pair, choose a 1/2 or a 2/1 pair.  Message your connection and ask for an intro:
