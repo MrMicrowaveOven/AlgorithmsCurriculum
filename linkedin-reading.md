@@ -94,7 +94,7 @@ If you already have a network on LinkedIn (even if it's not huge), leveraging it
 
 **Step 1.**  Identify a company you're interested in.  Let's go with Pandora, for instance.  Go to the company's page, and look at the **How You're Connected** box:
 
-https://cloud.githubusercontent.com/assets/10385145/12734301/65cd1932-c8f4-11e5-9f1f-e9d08b19cc5d.png
+![pandora](https://cloud.githubusercontent.com/assets/10385145/12734301/65cd1932-c8f4-11e5-9f1f-e9d08b19cc5d.png)
 
 Click "see all" -- this shows you all the ways in which you're connected through your network to someone who works at Pandora.  
 
