@@ -5,6 +5,10 @@ look on paper. The goal here is to close that gap.
 No one likes opening Word documents. When your résumé is done, export it to a
 PDF.    
 
+Read [this article][getting-resume-read]. A relevant quote:
+
+> The number one best way to get someone to look at your resume closely: *come across as a human being, not a list of jobs and programming languages*.
+
 Check out Gayle Laakmann McDowell's [model résumé][glm-résumé]. At the bottom
 there's a template to make your own résumé too. Gayle Laakman McDowell is the
 author of [Cracking the Coding Interview][cracking-interview].
@@ -19,6 +23,7 @@ Here are some example resumes from previous students:
 * [Dean Hu][dean-hu-resume]
 * [Greg Kane][greg-kane-resume]
 
+[getting-resume-read]: http://www.joelonsoftware.com/articles/ResumeRead.html
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [eli-smukler-resume]: ./eli_smukler-resume.pdf
