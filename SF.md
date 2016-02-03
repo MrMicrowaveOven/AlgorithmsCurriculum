@@ -70,7 +70,7 @@ To be completed by the end of week 10, before sending out applications.
 
 
 #### [W10D6-7](./SF/w10d6-7.md)
-
+* Check out the various job boards and sign up for marketplaces
 
 #### [Week 10 Bonuses](./SF/week-10-bonus.md)
 
