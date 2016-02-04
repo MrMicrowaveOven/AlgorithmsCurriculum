@@ -43,12 +43,20 @@ These skills are also keywords that will stick out to employers. Throw in a coup
 * Ruby on Rails
 * JavaScript
 * jQuery
-* Backbone.js
+* React
+* Flux
 * SQL
 * Git
 * HTML
 * CSS
 * Web Development
+* Amazon Web Services
+* Test Driven Development
+* RSpec
+* MVC Architecture
+* RESTful Web Services
+* Object Oriented Design
+* Pair Programming
 
 Delete non-web- or tech-related skills. You don't want to be a jack of all trades.
 
