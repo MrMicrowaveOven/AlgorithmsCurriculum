@@ -26,8 +26,6 @@
 * Tic-Tac-Toe & Tower of Hanoi
 * Ruby recursion exercises (if they're complete)
 * BFS, DFS, Knight's Travails, 8 Queens, Word Chains
-* Node Chat App
-* Trellino
 
 In the post-course curriculum you will learn about data structures and algorithms.
 You will implement linked lists, binary trees, hashes, etc. in Ruby.
