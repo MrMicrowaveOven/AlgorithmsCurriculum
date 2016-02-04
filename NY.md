@@ -23,6 +23,7 @@
 #### [W10D2](./NY/w10d2.md)
 * Resumes lecture
 * Work on cover letter and resume
+* Begin pairboarding
 
 #### [W10D3](./NY/w10d3.md)
 * Resume peer review
