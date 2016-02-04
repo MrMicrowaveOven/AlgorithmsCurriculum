@@ -18,16 +18,14 @@
 * Preparation for job search curriculum! Start your JS Game, finish your final project, and conserve your energy for Monday.
 
 #### [W10D1](./NY/w10d1.md)
-* **Capstone projects due**
-* Work on resume
+* Capstones
 
 #### [W10D2](./NY/w10d2.md)
 * Resumes lecture
 * Work on cover letter and resume
 
 #### [W10D3](./NY/w10d3.md)
-* Begin job app materials review
-* Peer review
+* Resume peer review
 
 #### [W10D4](./NY/w10d4.md)
 * More peer reviews
