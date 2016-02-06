@@ -1,9 +1,9 @@
 # Preparing your Resume
 Every student coming out of App Academy is much better in practice than they
-look on paper. The goal here is to close that gap.    
+look on paper. The goal here is to close that gap.
 
 No one likes opening Word documents. When your résumé is done, export it to a
-PDF.    
+PDF.
 
 Read [this article][getting-resume-read]. A relevant quote:
 
@@ -19,16 +19,16 @@ do not like seeing similar résumés.
 
 Here are some example resumes from previous students:
 
-* [Eli Smukler][eli-smukler-resume]
+* [Ami Hays][ami-hays-resume]
 * [Dean Hu][dean-hu-resume]
-* [Greg Kane][greg-kane-resume]
+* [Edmund Li][edmund-li-resume]
 
 [getting-resume-read]: http://www.joelonsoftware.com/articles/ResumeRead.html
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
-[eli-smukler-resume]: ./eli_smukler-resume.pdf
+[ami-hays-resume]: ./ami_hays_resume.pdf
 [dean-hu-resume]: ./dean_hu-resume.pdf
-[greg-kane-resume]: ./greg_kane-resume.pdf
+[edmund-li-resume]: ./edmund_li_resume.pdf
 [drive-templates]: https://drive.google.com/open?id=0B3noREts_wUyMFZHWVhvcUUtU1E&authuser=0
 [json-resume]: ./json_resume.md
 
@@ -43,14 +43,14 @@ Here are some example resumes from previous students:
 In the world of people, having a diversity of interests and experiences is a
 beautiful thing. In the world of tech recruiting, expertise is much more
 valuable. If you had various non-tech jobs before App Academy, choose them
-carefully so you don't spread yourself thin.  
+carefully so you don't spread yourself thin.
 
 You don't want to leave out large chunks of time either. In general you can
 include roles you held for over a year. Keep in mind that these become less
 relevant as you go further back in time. If your previous job was not
 tech-related, you need an extra good answer to anyone who asks you why you're
 making this transition. One of their concerns will be that you're only in it
-for the money.    
+for the money.
 
 ## Relevant Links
 
@@ -79,11 +79,11 @@ List these skills, and any other relevant ones. But keep in mind, anything you l
 * HTML
 * CSS
 
-Don't try to organize your skills by proficiency. Ie. Don't do this:    
-    Proficient: Ruby, Rails, JS    
+Don't try to organize your skills by proficiency. Ie. Don't do this:
+    Proficient: Ruby, Rails, JS
     Familiar: SQL, React
 
- That makes you look less confident. However it's ok to do this:    
+ That makes you look less confident. However it's ok to do this:
     Ruby, Rails, JS, React, C (learning)
 
 ## Technical
@@ -122,20 +122,20 @@ consider whether you could have built things differently. If looking back you
 find that there were actually different ways to do it, that's a sign that you
 solved an interesting problem.
 
-To get you brainstorming:    
+To get you brainstorming:
 
-* Did you find some clever way to DRY up your code?    
+* Did you find some clever way to DRY up your code?
 * Did you bootstrap some data to avoid extraneous AJAX requests?
 * Did you make some tough choices in your database schema?
 * Did you use cookies to store anything other than a session token?
-* Does your Javascript use any math to resize something in the DOM?    
-* Did you use a library in a way that its author probably didn't anticipate?    
-* Do you have any data that's nested one degree deeper than usual?    
-* Did you override a Rails or React.js function?  
-* Do your ActiveRecord models run any custom SQL queries?    
-* Did you make any trade-offs related to performance, eg. store information that's costly to compute?    
-* Are you doing any caching?    
-* Do you make AJAX requests to any unexpected routes?       
+* Does your Javascript use any math to resize something in the DOM?
+* Did you use a library in a way that its author probably didn't anticipate?
+* Do you have any data that's nested one degree deeper than usual?
+* Did you override a Rails or React.js function?
+* Do your ActiveRecord models run any custom SQL queries?
+* Did you make any trade-offs related to performance, eg. store information that's costly to compute?
+* Are you doing any caching?
+* Do you make AJAX requests to any unexpected routes?
 * Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
 * Do your chess pieces inherit from a Slideable and Steppable class?
 
@@ -147,7 +147,7 @@ vs
 
 *Uses custom-built authentication system, hashing and salting passwords with BCrypt.*
 
-In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.  
+In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.
 
 *Caution:*
 
@@ -198,23 +198,23 @@ Lucky for you most work histories out there are in the boring category.
 Candidates merely go through past jobs and list the responsibilities they had
 at each one. That's basically useless because those responsibilities only make
 sense to someone who knows how the company actually worked. Your reader cares
-about success, not process.    
+about success, not process.
 
 In other words employers care about the outcomes of what you did at past jobs.
 Someone who can talk about outcomes is someone who a) made a difference at
 their job, however small, b) cares about results, and therefore c) is likely to
-produce results at their next job.    
+produce results at their next job.
 
 Results don't have to be achievements. You don't have to oversee a company
 turnaround or be named employee of the month for a year straight to earn a
 selling point. Simply describing something that sounds like success is a big
-plus. Consider the following blurbs.    
+plus. Consider the following blurbs.
 
-*Wrote scripts to test new product before shipping.*    
+*Wrote scripts to test new product before shipping.*
 
-vs.    
+vs.
 
-*Wrote scripts to test new product before shipping. Achieved one test per feature, resulting in bug-free launch.*    
+*Wrote scripts to test new product before shipping. Achieved one test per feature, resulting in bug-free launch.*
 
 Who knows if that's a meaningful benchmark? Maybe there weren't that many
 features. Or maybe the product still had bugs and they just didn't turn up
@@ -222,7 +222,7 @@ during the launch. The key here is that you get to frame it. Even when all you
 did was "just your job", doing just your job often results in something akin to
 success. By describing that succes, you position yourself as a winner and at
 the very least make your résumé more interesting. If your readers aren't
-impressed, at least they'll be thankful.    
+impressed, at least they'll be thankful.
 
 Note: The extra sentence describing results takes more space. Two longer
 bullet points that convey success are much stronger than four bullet
