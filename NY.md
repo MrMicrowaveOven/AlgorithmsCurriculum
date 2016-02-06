@@ -26,7 +26,7 @@
 * Begin pairboarding
 
 #### [W10D3](./NY/w10d3.md)
-* Resume peer review
+* Resume and Cover Letter peer review
 * Lecture: Mechanics of the Job Search
 
 #### [W10D4](./NY/w10d4.md)
