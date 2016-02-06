@@ -21,17 +21,17 @@
 * Capstones
 
 #### [W10D2](./NY/w10d2.md)
-* Lecture: Application Materials
+* __Lecture__: Application Materials
 * Work on cover letter and resume
 * Begin pairboarding
 
 #### [W10D3](./NY/w10d3.md)
+* __Lecture__: Mechanics of the Job Search
 * Resume and Cover Letter peer review
-* Lecture: Mechanics of the Job Search
 
 #### [W10D4](./NY/w10d4.md)
+* __Lecture__: Interview Skills
 * More peer reviews
-* Lecture: Interview Skills
 * Clean up LinkedIn and Github
 
 #### [W10D5](./NY/w10d5.md)
