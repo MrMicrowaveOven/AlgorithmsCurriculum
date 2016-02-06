@@ -21,6 +21,8 @@
 * Capstones
 
 #### [W10D2](./NY/w10d2.md)
+* Reading: [Preparing your Resume](https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume.md)
+* Reading: [The Cover Letter](https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter.md)
 * __Lecture__: Application Materials
 * Work on cover letter and resume
 * Begin pairboarding
