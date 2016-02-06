@@ -1,5 +1,48 @@
 # Creating and Using Your AngelList Profile
 
+[AngelList](https://angel.co) is a social networking site for startups and job seekers.  As with LinkedIn, you'll be able to browse companies and they'll be able to take a look at your qualifications.  The key differences between LinkedIn and AngelList are 1) AngelList is exclusively tech companies, and 2) you can easily apply to jobs directly through AngelList.  More on the second point later. 
+
+### Elements of Your AngelList 
+
+The Work Experience, Education, and Projects sections of AngelList can be directly copied over from your LinkedIn profile. Be sure to include screenshots of your projects in your AngelList profile -- GIF screenshots are especially cool.  You can use the same profile picture you do in your LinkedIn.
+
+**Mini-Resume**
+
+This is a short description of who you are.  Mention that you're a software developer.  Additionally, you can include the tools you're best at learning, what kind of company you're on the market for, and/or some personal details.  Examples: 
+
+**What I Do**
+
+The "What I Do" section is almost an extension of your mini-resume.  It's your chance to elaborate (briefly) on your qualifications and interests.  You can include what you like about coding in general, the kinds of projects you like to work on, the tools you prefer to use, and/or other technical interests you have.   Examples: 
+
+**Achievements**
+
+AngelList asks you to describe "your greatest achievement".  Of course, they mean your greatest code-related achievement(s).  Some people use this space to give an overview of every project they've done.  Others describe their largest/best project in depth.  Either is fine.  Write in complete sentences and focus on the projects that showcase your most marketable skills (Ruby on Rails, Javascript, and/or React, as well as anything else you've picked up since a/A that you're proud of).  Examples:
+
+
+
+**Skills**
+
+On AngelList, your skill list should only include technical skills -- languages, libraries, frameworks, etc.  Don't include non-technical skills such as spoken/written languages, soft skills, etc.  Additionally, AngelList asks you to rate your proficiency with each skill.  Choose "Advanced" for any skills you learned and practiced regularly at App Academy.  Use your best judgment for other skills you may have picked up elsewhere.
+
+**Services**
+
+This section isn't necessary to fill out when you're looking for full-time work.  It's generally for folks who are offering specific kinds of on-demand work.  
+
+**What I'm Looking For**
+
+Of course you want to say here that you're in search of a full-time software development role, but try to make it a little less generic than that.  Are you seeking a company that has a positive social impact?  Are you looking for somewhere that will allow you to work with data analysis?  Whatever it is, say it here.  Examples:
+
+**Locations**
+
+Include anywhere you're willing to work.  Don't include a location unless you'd seriously consider taking a job there.  
+
+**Markets**
+
+This isn't strictly necessary to fill out, especially as a newcomer to the field, but it's nice to have.  "Markets" includes things like social media, educational technology, biotechnology, etc.  
+
+
+
+
 ### Examples of Great AngelList Profiles
 
 - [Noah Wiener, App Academy August 2015](https://angel.co/noah-wiener)
