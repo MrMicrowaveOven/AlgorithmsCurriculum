@@ -42,7 +42,7 @@
 #### [WEEK 10 BONUSES](./NY/bonus-week-10.md)
 
 #### [W11D1](./NY/w11d1.md)
-* Begin pairboarding and algorithms
+* Submit materials for review on Jobberwocky
 * Create job search road map
 
 #### [W11D2](./NY/w11d2.md)
