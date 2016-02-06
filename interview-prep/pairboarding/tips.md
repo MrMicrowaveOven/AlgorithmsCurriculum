@@ -1,10 +1,5 @@
 # Tips for Solving Whiteboard problems
 
-h/t [Parker Phinney][parker]
-
-[paker]: http://madebyparker.com/
-
-
 ## Why Whiteboard Problems?
 
  Things the interviewer will be looking for:
