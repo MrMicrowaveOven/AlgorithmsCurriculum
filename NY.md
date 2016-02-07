@@ -44,14 +44,17 @@
 #### [WEEK 10 BONUSES](./NY/bonus-week-10.md)
 
 #### [W11D1](./NY/w11d1.md)
-* Submit materials for review on Jobberwocky
 * Create job search road map
+* Begin submitting materials for review on Jobberwocky
+
 
 #### [W11D2](./NY/w11d2.md)
 * Getting ready to apply!
+* Continue submitting materials for review on Jobberwocky
 
 #### [W11D3](./NY/w11d3.md)
 * About to apply...
+* All materials should be submitted on Jobberwocky
 
 #### [W11D4](./NY/w11d4.md)
 * APPLY!
