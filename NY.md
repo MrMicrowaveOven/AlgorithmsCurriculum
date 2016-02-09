@@ -32,8 +32,8 @@
 * Resume and Cover Letter peer review
 
 #### [W10D4](./NY/w10d4.md)
-* __Lecture__: Interview Skills
-* More peer reviews
+* __Lecture__: Technical Interviews & Whiteboarding
+* Resume and Cover Letter peer reviews
 * Clean up LinkedIn and Github
 
 #### [W10D5](./NY/w10d5.md)
@@ -49,6 +49,7 @@
 
 
 #### [W11D2](./NY/w11d2.md)
+* __Lecture__: Interview Skills
 * Getting ready to apply!
 * Continue submitting materials for review on Jobberwocky
 
