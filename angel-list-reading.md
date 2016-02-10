@@ -55,6 +55,7 @@ Of course you want to say here that you're in search of a full-time software dev
 
 "I love solving challenging problems, especially the ones that relate to scaling and performance improvement. I'm currently looking for an opportunity to work as a Backend Software Engineer, in the SF Bay Area, that exposes me to such problems and hence allows me to grow as an engineer."
 
+"I want to be engulfed within a whirlwind of passionate people who are consumed by a desire to build something meaningful / beautiful / cool."
 
 
 
@@ -66,11 +67,27 @@ Include anywhere you're willing to work.  Don't include a location unless you'd 
 
 This isn't strictly necessary to fill out, especially as a newcomer to the field, but it's nice to have.  "Markets" includes things like social media, educational technology, biotechnology, etc.  
 
+### Using AngelList 
 
+**Who to Follow**
 
+Start by following your classmates, TAs, and other people you know personally.  Much like Twitter, you can gain helpful information by following leaders in the tech community.  If you see a CEO, entrepeneur, or someone else who is a big name at a company you're interested in, follow that person -- you'll then get job recommendations at that company in your feed.
+
+**References**
+
+AngelList allows you to give references to your peers and to request references.  You can only request references for former employment, however, not for projects or education.  If you previously worked in tech in some capacity and you have good references who are on AngelList, it's worth reaching out.  Be sure to mention that you're on the job market as a software developer.  
+
+You can give anyone you're connected to a reference.  If you worked on a major project with a peer at App Academy, you may want to give each other references as developers, and tag each other on that project on AngelList.  
+
+**"I'm Interested!" vs. the Star**
+
+Its title is misleading, but the "Yes, I'm Interested" button is actually a job application.  When you click this, congratulations!  You have applied for a job.  The **employer is notified** and will likely look at your profile.  You have the option of sending the employer a short note when you express interest, and you should always do this.  Rather than pasting in your entire cover letter, pare it down to 2-4 sentences about why you'd like to work at the company.  If the company is also interested in you, you'll receive an email letting you know that you have a match.  If the company doesn't message you directly, send them a follow-up reiterating your interest and qualifications.
+
+If you like a job posting but aren't ready to apply, **do not** hit "I'm Interested".  Instead, star the company to save it for later.
 
 ### Examples of Great AngelList Profiles
 
 - [Noah Wiener, App Academy August 2015](https://angel.co/noah-wiener)
 - [Billy Littlefield, App Academy August 2015](https://angel.co/billylittlefield)
 - [Minh Nguyen, App Academy August 2015](https://angel.co/minh-ngoc-nguyen)
+- [Satnam Dhanoa, App Academy June 2015](https://angel.co/satnam14)
