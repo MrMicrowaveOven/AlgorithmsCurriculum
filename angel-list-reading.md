@@ -38,9 +38,11 @@ AngelList asks you to describe "your greatest achievement".  Of course, they mea
 
 Another application that I built was Breakout.js., a game that challenges players to clear a brick field with a ball. I served as the front-end engineer and used HTML5 canvas to present a dynamic game display and utilized multiple event listeners to give users multiple control methods. I also leveraged CSS3 features to present a tabbed menu to display game information."
 
-" - Sole developer of joglog.me, a full-stack exercise-tracking web application using React on a Rails backend 
+"Highlights of my accomplishments: 
+  - Sole developer of joglog.me, a full-stack exercise-tracking web application using React on a Rails backend 
   - Selected as primary sustaining engineer for module in Intel's newest production technology after 6 months on job 
   - Graduated with honors from Carnegie Mellon with a double major in engineering"
+
 **Skills**
 
 On AngelList, your skill list should only include technical skills -- languages, libraries, frameworks, etc.  Don't include non-technical skills such as spoken/written languages, soft skills, etc.  Additionally, AngelList asks you to rate your proficiency with each skill.  Choose "Advanced" for any skills you learned and practiced regularly at App Academy.  Use your best judgment for other skills you may have picked up elsewhere.
@@ -56,8 +58,6 @@ Of course you want to say here that you're in search of a full-time software dev
 "I love solving challenging problems, especially the ones that relate to scaling and performance improvement. I'm currently looking for an opportunity to work as a Backend Software Engineer, in the SF Bay Area, that exposes me to such problems and hence allows me to grow as an engineer."
 
 "I want to be engulfed within a whirlwind of passionate people who are consumed by a desire to build something meaningful / beautiful / cool."
-
-
 
 **Locations**
 
