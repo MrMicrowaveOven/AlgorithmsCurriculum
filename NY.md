@@ -37,7 +37,7 @@
 * Clean up LinkedIn and Github
 
 #### [W10D5](./NY/w10d5.md)
-* Personal Pitch
+* Browser game peer reviews
 
 #### [W10D6-7](./NY/w10d6-7.md)
 
