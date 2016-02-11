@@ -10,38 +10,38 @@ The Work Experience, Education, and Projects sections of AngelList can be direct
 
 This is a short description of who you are.  Mention that you're a software developer.  Additionally, you can include the tools you're best at learning, what kind of company you're on the market for, and/or some personal details.  Examples: 
 
-"Software engineer, experienced in JavaScript and Ruby on Rails. Worked previously in film, non-profit, education, and agriculture. @Yale University '15"
+*Software engineer, experienced in JavaScript and Ruby on Rails. Worked previously in film, non-profit, education, and agriculture. @Yale University '15*
 
-"I am a web developer with a background in Ruby on Rails and JavaScript/React.js. 
-Beyond code, I am a traveler, an archaeologist, and a lifelong learner."
+*I am a web developer with a background in Ruby on Rails and JavaScript/React.js. 
+Beyond code, I am a traveler, an archaeologist, and a lifelong learner.* 
 
 **What I Do**
 
 The "What I Do" section is almost an extension of your mini-resume.  It's your chance to elaborate (briefly) on your qualifications and interests.  You can include what you like about coding in general, the kinds of projects you like to work on, the tools you prefer to use, and/or other technical interests you have.   Examples: 
 
-"I love web development because I get to make beautiful and functional things. Every day I get to work across scales, from big-picture innovation to nuts-and-bolts problem solving."
+"*I love web development because I get to make beautiful and functional things. Every day I get to work across scales, from big-picture innovation to nuts-and-bolts problem solving.*"
 
-"I recently completed a 12 week course at App Academy, an intensive, full-stack web development program that focuses on Ruby on Rails, JavaScript and React.js."
+"*I recently completed a 12 week course at App Academy, an intensive, full-stack web development program that focuses on Ruby on Rails, JavaScript and React.js.*"
 
-"I'm a current software engineer, former journalist, and sporadic blogger.
+"*I'm a current software engineer, former journalist, and sporadic blogger.*"
 
-When I'm not working, I'm probably running, solving Sudokus, putting forth an honest effort at swing dancing, or embarrassing my mother with my karaoke habit.
+"*When I'm not working, I'm probably running, solving Sudokus, putting forth an honest effort at swing dancing, or embarrassing my mother with my karaoke habit.*"
 
-I like puzzles, and that drew me to this field."
+"*I like puzzles, and that drew me to this field.*"
 
 
 **Achievements**
 
 AngelList asks you to describe "your greatest achievement".  Of course, they mean your greatest code-related achievement(s).  Some people use this space to give an overview of every project they've done.  Others describe their largest/best project in depth.  Either is fine.  Write in complete sentences and focus on the projects that showcase your most marketable skills (Ruby on Rails, Javascript, and/or React, as well as anything else you've picked up since a/A that you're proud of).  Examples:
 
-"My most recent application is DashboardAlpha (dbalpha.info) where I served as the product owner and full-stack engineer. It was a SeekingAlpha-inspired investment research dashboard that aggregated information and helped investors manage their thoughts on individual securities. I designed an algorithm to dynamically alter displayed content with varying window sizes. I also customized a Backbone.js library to query data from Yahoo! and used Ruby on Rails gems to access Google-search APIs to present updated information of all US stocks.
+"*My most recent application is DashboardAlpha (dbalpha.info) where I served as the product owner and full-stack engineer. It was a SeekingAlpha-inspired investment research dashboard that aggregated information and helped investors manage their thoughts on individual securities. I designed an algorithm to dynamically alter displayed content with varying window sizes. I also customized a Backbone.js library to query data from Yahoo! and used Ruby on Rails gems to access Google-search APIs to present updated information of all US stocks.
 
-Another application that I built was Breakout.js., a game that challenges players to clear a brick field with a ball. I served as the front-end engineer and used HTML5 canvas to present a dynamic game display and utilized multiple event listeners to give users multiple control methods. I also leveraged CSS3 features to present a tabbed menu to display game information."
+Another application that I built was Breakout.js., a game that challenges players to clear a brick field with a ball. I served as the front-end engineer and used HTML5 canvas to present a dynamic game display and utilized multiple event listeners to give users multiple control methods. I also leveraged CSS3 features to present a tabbed menu to display game information.*"
 
-"Highlights of my accomplishments: 
+"*Highlights of my accomplishments: 
   - Sole developer of joglog.me, a full-stack exercise-tracking web application using React on a Rails backend 
   - Selected as primary sustaining engineer for module in Intel's newest production technology after 6 months on job 
-  - Graduated with honors from Carnegie Mellon with a double major in engineering"
+  - Graduated with honors from Carnegie Mellon with a double major in engineering*"
 
 **Skills**
 
@@ -55,9 +55,9 @@ This section isn't necessary to fill out when you're looking for full-time work.
 
 Of course you want to say here that you're in search of a full-time software development role, but try to make it a little less generic than that.  Are you seeking a company that has a positive social impact?  Are you looking for somewhere that will allow you to work with data analysis?  Whatever it is, say it here.  Examples:
 
-"I love solving challenging problems, especially the ones that relate to scaling and performance improvement. I'm currently looking for an opportunity to work as a Backend Software Engineer, in the SF Bay Area, that exposes me to such problems and hence allows me to grow as an engineer."
+"*I love solving challenging problems, especially the ones that relate to scaling and performance improvement. I'm currently looking for an opportunity to work as a Backend Software Engineer, in the SF Bay Area, that exposes me to such problems and hence allows me to grow as an engineer.*"
 
-"I want to be engulfed within a whirlwind of passionate people who are consumed by a desire to build something meaningful / beautiful / cool."
+"*I want to be engulfed within a whirlwind of passionate people who are consumed by a desire to build something meaningful / beautiful / cool.*"
 
 **Locations**
 
@@ -69,6 +69,12 @@ This isn't strictly necessary to fill out, especially as a newcomer to the field
 
 ### Using AngelList 
 
+**"I'm Interested!" vs. the Star**
+
+Its title is misleading, but the "Yes, I'm Interested" button is actually a job application.  When you click this, congratulations!  You have applied for a job.  The **employer is notified** and will likely look at your profile.  You have the option of sending the employer a short note when you express interest, and you should always do this.  Rather than pasting in your entire cover letter, pare it down to 2-4 sentences about why you'd like to work at the company.  If the company is also interested in you, you'll receive an email letting you know that you have a match.  If the company doesn't message you directly, send them a follow-up reiterating your interest and qualifications.
+
+If you like a job posting but aren't ready to apply, **do not** hit "I'm Interested".  Instead, star the company to save it for later.
+
 **Who to Follow**
 
 Start by following your classmates, TAs, and other people you know personally.  Much like Twitter, you can gain helpful information by following leaders in the tech community.  If you see a CEO, entrepeneur, or someone else who is a big name at a company you're interested in, follow that person -- you'll then get job recommendations at that company in your feed.
@@ -78,12 +84,6 @@ Start by following your classmates, TAs, and other people you know personally.  
 AngelList allows you to give references to your peers and to request references.  You can only request references for former employment, however, not for projects or education.  If you previously worked in tech in some capacity and you have good references who are on AngelList, it's worth reaching out.  Be sure to mention that you're on the job market as a software developer.  
 
 You can give anyone you're connected to a reference.  If you worked on a major project with a peer at App Academy, you may want to give each other references as developers, and tag each other on that project on AngelList.  
-
-**"I'm Interested!" vs. the Star**
-
-Its title is misleading, but the "Yes, I'm Interested" button is actually a job application.  When you click this, congratulations!  You have applied for a job.  The **employer is notified** and will likely look at your profile.  You have the option of sending the employer a short note when you express interest, and you should always do this.  Rather than pasting in your entire cover letter, pare it down to 2-4 sentences about why you'd like to work at the company.  If the company is also interested in you, you'll receive an email letting you know that you have a match.  If the company doesn't message you directly, send them a follow-up reiterating your interest and qualifications.
-
-If you like a job posting but aren't ready to apply, **do not** hit "I'm Interested".  Instead, star the company to save it for later.
 
 ### Examples of Great AngelList Profiles
 
