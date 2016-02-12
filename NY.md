@@ -44,9 +44,7 @@
 #### [WEEK 10 BONUSES](./NY/bonus-week-10.md)
 
 #### [W11D1](./NY/w11d1.md)
-* Create job search road map
 * Begin submitting materials for review on Jobberwocky
-
 
 #### [W11D2](./NY/w11d2.md)
 * __Lecture__: Interview Skills
