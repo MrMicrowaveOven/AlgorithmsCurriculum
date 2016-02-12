@@ -47,6 +47,8 @@ AngelList asks you to describe "your greatest achievement".  Of course, they mea
 
 On AngelList, your skill list should only include technical skills -- languages, libraries, frameworks, etc.  Don't include non-technical skills such as spoken/written languages, soft skills, etc.  Additionally, AngelList asks you to rate your proficiency with each skill.  Choose "Advanced" for any skills you learned and practiced regularly at App Academy.  Use your best judgment for other skills you may have picked up elsewhere.
 
+The "Skills" section is often used by employers to filter for the candidates that have what they're looking for, so be complete.  
+
 **Services**
 
 This section isn't necessary to fill out when you're looking for full-time work.  It's generally for folks who are offering specific kinds of on-demand work.  
@@ -61,7 +63,7 @@ Of course you want to say here that you're in search of a full-time software dev
 
 **Locations**
 
-Include anywhere you're willing to work.  Don't include a location unless you'd seriously consider taking a job there.  Employers use location as a filter, so if you don't include your preferred location(s), you're in danger of not being seen by a lot of potential fits.
+Include anywhere you're willing to work.  Don't include a location unless you'd seriously consider taking a job there.  As with the "Skills" section, employers use location as a filter, so if you don't include your preferred location(s), you're in danger of not being seen by a lot of potential fits.
 
 **Markets**
 
