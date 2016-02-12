@@ -10,24 +10,24 @@ The Work Experience, Education, and Projects sections of AngelList can be direct
 
 This is a short description of who you are.  Mention that you're a software developer.  Additionally, you can include the tools you're best at learning, what kind of company you're on the market for, and/or some personal details.  Examples: 
 
-*Software engineer, experienced in JavaScript and Ruby on Rails. Worked previously in film, non-profit, education, and agriculture. @Yale University '15*
+"*Software engineer, experienced in JavaScript and Ruby on Rails. Worked previously in film, non-profit, education, and agriculture. @Yale University '15*"
 
-*I am a web developer with a background in Ruby on Rails and JavaScript/React.js. 
-Beyond code, I am a traveler, an archaeologist, and a lifelong learner.* 
+"*I am a web developer with a background in Ruby on Rails and JavaScript/React.js. 
+Beyond code, I am a traveler, an archaeologist, and a lifelong learner.* "
 
 **What I Do**
 
 The "What I Do" section is almost an extension of your mini-resume.  It's your chance to elaborate (briefly) on your qualifications and interests.  You can include what you like about coding in general, the kinds of projects you like to work on, the tools you prefer to use, and/or other technical interests you have.   Examples: 
 
-"*I love web development because I get to make beautiful and functional things. Every day I get to work across scales, from big-picture innovation to nuts-and-bolts problem solving.*"
+"*I love web development because I get to make beautiful and functional things. Every day I get to work across scales, from big-picture innovation to nuts-and-bolts problem solving.*
 
-"*I recently completed a 12 week course at App Academy, an intensive, full-stack web development program that focuses on Ruby on Rails, JavaScript and React.js.*"
+*I recently completed a 12 week course at App Academy, an intensive, full-stack web development program that focuses on Ruby on Rails, JavaScript and React.js.*"
 
-"*I'm a current software engineer, former journalist, and sporadic blogger.*"
+"*I'm a current software engineer, former journalist, and sporadic blogger.*
 
-"*When I'm not working, I'm probably running, solving Sudokus, putting forth an honest effort at swing dancing, or embarrassing my mother with my karaoke habit.*"
+*When I'm not working, I'm probably running, solving Sudokus, putting forth an honest effort at swing dancing, or embarrassing my mother with my karaoke habit.*
 
-"*I like puzzles, and that drew me to this field.*"
+*I like puzzles, and that drew me to this field.*"
 
 
 **Achievements**
@@ -38,10 +38,10 @@ AngelList asks you to describe "your greatest achievement".  Of course, they mea
 
 Another application that I built was Breakout.js., a game that challenges players to clear a brick field with a ball. I served as the front-end engineer and used HTML5 canvas to present a dynamic game display and utilized multiple event listeners to give users multiple control methods. I also leveraged CSS3 features to present a tabbed menu to display game information.*"
 
-"*Highlights of my accomplishments: 
-  - Sole developer of joglog.me, a full-stack exercise-tracking web application using React on a Rails backend 
-  - Selected as primary sustaining engineer for module in Intel's newest production technology after 6 months on job 
-  - Graduated with honors from Carnegie Mellon with a double major in engineering*"
+"*Highlights of my accomplishments:* 
+  - *Sole developer of joglog.me, a full-stack exercise-tracking web application using React on a Rails backend* 
+  - *Selected as primary sustaining engineer for module in Intel's newest production technology after 6 months on job* 
+  - *Graduated with honors from Carnegie Mellon with a double major in engineering*"
 
 **Skills**
 
@@ -61,7 +61,7 @@ Of course you want to say here that you're in search of a full-time software dev
 
 **Locations**
 
-Include anywhere you're willing to work.  Don't include a location unless you'd seriously consider taking a job there.  
+Include anywhere you're willing to work.  Don't include a location unless you'd seriously consider taking a job there.  Employers use location as a filter, so if you don't include your preferred location(s), you're in danger of not being seen by a lot of potential fits.
 
 **Markets**
 
@@ -81,9 +81,10 @@ Start by following your classmates, TAs, and other people you know personally.  
 
 **References**
 
-AngelList allows you to give references to your peers and to request references.  You can only request references for former employment, however, not for projects or education.  If you previously worked in tech in some capacity and you have good references who are on AngelList, it's worth reaching out.  Be sure to mention that you're on the job market as a software developer.  
+AngelList allows you to give references to your peers and to request references.  AngelList's rules for references are a little weird -- you can *give* a reference to anyone who you're following and who is also following you.  But you can only *request* references from people you have worked with in a professional capacity, not collaborators on projects or fellow students.  
 
-You can give anyone you're connected to a reference.  If you worked on a major project with a peer at App Academy, you may want to give each other references as developers, and tag each other on that project on AngelList.  
+If you previously worked in tech in some capacity and you have good references who are on AngelList, it's worth reaching out.  Be sure to mention that you're on the job market as a software developer.  Additionally, if you worked closely with a fellow App Academy student on a large project, you may want to give them a reference and request a reference from them (of course, you'll have to use some other means to make this request -- such as asking them in person :).  
+
 
 ### Examples of Great AngelList Profiles
 
