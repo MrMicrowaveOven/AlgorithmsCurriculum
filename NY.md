@@ -47,8 +47,8 @@
 * Begin submitting materials for review on Jobberwocky
 
 #### [W11D2](./NY/w11d2.md)
-* __Lecture__: Interview Skills
 * Getting ready to apply!
+* __Lecture__: Interview Skills
 * Continue submitting materials for review on Jobberwocky
 
 #### [W11D3](./NY/w11d3.md)
