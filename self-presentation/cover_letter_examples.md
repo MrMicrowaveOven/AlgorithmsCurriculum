@@ -13,7 +13,7 @@ My most recent project is [project].com, a book recommendation engine for Harry 
 
 I built my first website when I was 14, and have been involved in technology ever since. I worked for my first tech startup when I was 19, got a Bachelors of Science in Information Systems, worked as a technology consultant with Bechtel. 
 
-If you have questions or if you want to schedule an interview, please contact me at 415-555-5724, or name@gmail.com. I look forward to meeting you to further discuss employment opportunities with [Company Name].
+I look forward to meeting you to further discuss employment opportunities with [Company Name].
 
 Joe Schmidt
 
