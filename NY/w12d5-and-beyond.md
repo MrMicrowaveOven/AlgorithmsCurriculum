@@ -1,12 +1,22 @@
-# W12D5 and BEYOND
-* Take the official coding test from one of App Academy's hiring partners.
-* Continue applying to 15 places and adding 15 companies to your Job Search Roadmap every weekday.
-* Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community.
-* There may be optional lectures from a/A staff and alumni.
-* Remember, if you finish the a/A pairboarding problems,
-    * Stay sharp using [these tests][algo-specs] only after you get
-      through the entire list while pairboarding.
-    * Try [Codility][codility] if you want to do more on your own.
+# W12D5 and Beyond!
+
+## Every Weekday
+* Apply to 10 companies.
+* Add 10 companies to your Job Search Roadmap.
+
+## And beyond...
+
+### Keep coming in to the office!
+* We provide a place to conduct your job search, plus a supportive community.
+* Seekers who work from our office help motivate each other and get jobs faster!
+
+### Events
+* Presentations on additional technologies and concepts by staff, alumni, and employers.
+* Hackathons!
+
+### Staying sharp
+* Use [these tests][algo-specs] after you get through the entire pairboarding list.
+* Try [Codility][codility].
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
 
 
