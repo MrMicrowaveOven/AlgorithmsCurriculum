@@ -71,6 +71,7 @@
 
 #### [W12D2](./NY/w12d2.md)
 * Still going strong.
+* __Lecture__: Maintaining Momentum
 
 #### [W12D3](./NY/w12d3.md)
 * No pain no gain.
