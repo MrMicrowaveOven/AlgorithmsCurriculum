@@ -57,7 +57,7 @@
 
 #### [W11D4](./NY/w11d4.md)
 * APPLY!
-* * __Lecture__: Negotiating
+* __Lecture__: Negotiating
 
 #### [W11D5](./NY/w11d5.md)
 * Still applying!
