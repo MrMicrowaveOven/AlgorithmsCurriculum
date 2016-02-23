@@ -7,7 +7,7 @@
 * [Interview Questions][interview-questions]
 * [Bay Area Tech Companies][bay-tech-companies]
 * [A Curated List of Job Search Resources][ronnie-list]
-* [Where to find openings][job-boards]
+* [Job Boards][job-boards]
 
 [jobberwocky]: http://progress.appacademy.io/jobberwocky
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
