@@ -18,6 +18,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Gradberry][gradberry] - code-based matching
   * [Hired][hired] - application followed by coding tests
   * [Hirelite][hirelite] - 'speed dating' format
+  * [LiquidTalent][liquidtalent] - connect via an app and connect by texting
   * [Lytmus][lytmus] - pair programming format
   * [StackOverflow][stackoverflow] - great job posts and discussions
   * [Switch][Switch] - connect via an app
@@ -25,7 +26,6 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Triplebyte][triplebyte] - code-based matching
   * [Underdog][underdog] (New York only)
   * [Untapt][untapt] (New York only)
-  * [White Truffle][white-truffle] - profile-based matching
 
 If this list feels too long, start with AngelList and Hired.com.  
 
@@ -88,6 +88,7 @@ check 'Show Active' on the left).
 [enginapp]: http://www.enginapp.com/
 [hired]: http://hired.com
 [hirelite]: http://www.hirelite.com/
+[liquidtalent]: http://liquidtalent.com/
 [lytmus]: http://www.lytmus.io/
 [stackoverflow]: http://careers.stackoverflow.com/
 [switch]: http://www.switchapp.com/
