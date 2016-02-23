@@ -18,7 +18,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Gradberry][gradberry] - code-based matching
   * [Hired][hired] - application followed by coding tests
   * [Hirelite][hirelite] - 'speed dating' format
-  * [LiquidTalent][liquidtalent] - connect via an app and connect by texting
+  * [LiquidTalent][liquidtalent] - make a profile and connect by texting
   * [Lytmus][lytmus] - pair programming format
   * [StackOverflow][stackoverflow] - great job posts and discussions
   * [Switch][Switch] - connect via an app
