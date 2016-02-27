@@ -1,4 +1,4 @@
-# Pairboarding
+# Mock Interviewing
 
 Before you get started, read the [tips][tips] on solving whiteboard
 problems.
@@ -8,7 +8,7 @@ problems.
 ## Instructions
 
 Pair assignmnents change each day. One in the pair takes question set A,
-the other takes question set B. The interviewer has the problem and its
+the other takes question set B. The interviewer has a few interview questions, plus one coding problem and its
 solution.  He/she makes the other student, the interviewee, solve the
 problem as if they were doing a real interview. The interviewer cannot
 give out an actual answer, but should keep the interviewee on track with
