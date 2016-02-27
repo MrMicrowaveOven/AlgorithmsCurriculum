@@ -1,6 +1,6 @@
 # Cover Letter Examples
 
-**Do not copy & paste the example letters and create a final draft that is essentially unedited.  Change the wording and structure to make it your own.**
+**Do not copy & paste the example letters and create a final draft that is essentially unedited.  Un-edited letters will be immediately trashed by any reader who has seen that template before.**
 
 
 **Example letter #1**
