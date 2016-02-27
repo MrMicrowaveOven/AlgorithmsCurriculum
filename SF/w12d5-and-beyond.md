@@ -1,11 +1,11 @@
 ## W12D5 and BEYOND
 * Take the official coding test from one of App Academy's hiring partners.
-* Attend the Financial Planning lecture this afternoon.
-* Sign up for the [weekly ongoing pairboarding group][pairboarding].
+* Attend the Financial Planning lecture this afternoon.  (optional but highly recommended, especially for those that have been working for less than 3 years or have had less than 2 full time jobs)
+* Sign up for the [weekly ongoing mock interview group][pairboarding].
 * Continue applying to 10 places and adding 15 companies to your Job Search Roadmap every weekday.
 * Continue coming back to a/A!  We provide a place to conduct your job search, plus a supportive community.
 * There may be optional lectures from a/A staff and alumni.
-* Remember, if you finish the a/A pairboarding problems,
+* Remember, if you finish the a/A mock interview problems,
     * Stay sharp using [these tests][algo-specs] only after you get
       through the entire list while pairboarding.
     * Try [Codility][codility] if you want to do more on your own.
