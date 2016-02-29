@@ -67,8 +67,7 @@ A lot of great options here. Your answer doesn't have to be from a personal proj
 
 ## Prep time!
 
-Outline your 60-second life story following the model above.    
-Find the student you paired with on W1D1 of App Academy. Pick a famous tech company and ask them the big questions:
+This week's lecture and workshops will help you prepare for this part of an interview.  You can also practice on your own. Outline your 60-second life story following the model above.  Find the student you paired with on W1D1 of App Academy. Pick a famous tech company and ask them the big questions:
 
 * "Tell me about yourself. What have you done in your career and why do you want to work at [famous company]?"
 * Why do you want to be a programmer?
