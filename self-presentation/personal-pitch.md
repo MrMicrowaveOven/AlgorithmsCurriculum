@@ -64,8 +64,7 @@ A well rehearsed responses to these common questions will help you stand out.
 * How did you teach yourself to program?
     * Here it makes sense to bring up App Academy.
 * How do you go about picking up a new technology?
-* Walk me through your development process for a new project.
-    * Pro moves: mapping out database relations, listing specifications for the controllers, writing tests, sketching out the views...
+
 * What kinds of problems do you like to work on?
 * What was the hardest coding project you ever did?
 * What work have you done that you are most proud of?
@@ -75,6 +74,8 @@ Some questions can be related to coding
     * Common answers: readable, object-oriented
 * What do you like about Rails?
     * Common answer: "convention over configuration"
+* Walk me through your development process for a new project.
+    * Pro moves: mapping out database relations, listing specifications for the controllers, writing tests, sketching out the views...
 * What's your favorite algorithm?
 * What's your favorite data structure? 
 * What's your favorite Ruby gem (other than Rails)?
