@@ -68,7 +68,7 @@ A well rehearsed responses to these common questions will help you stand out.
 * What was the hardest coding project you ever did?
 * What work have you done that you are most proud of?
 
-Some questions can be related to coding
+Some common questions can be related to coding:
 * What do you like about Ruby?
     * Common answers: readable, object-oriented
 * What do you like about Rails?
@@ -78,6 +78,14 @@ Some questions can be related to coding
 * What's your favorite algorithm?
 * What's your favorite data structure? 
 * What's your favorite Ruby gem (other than Rails)?
+
+## You should ask questions too
+
+At the end of almost any interview, the interviewer will ask you what questions you have for them.  This may appear to signal the end of the interview, but this is not the case.  Because this is the only part of the conversation that you control, they will judge you based on the questions you ask and how astute they seem.  
+
+You'll be prompted to read about this again next week, but if you want to skip ahead, some discussion about it is [here][questions-to-ask].  
+
+[questions-to-ask]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/good_questions.md
 
 
 ## Prep time!
