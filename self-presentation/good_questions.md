@@ -28,10 +28,10 @@ Asking smart questions at the end of an interview is an easy way to show that yo
 
 Conventions    
 * Do you follow standard conventions for every language in your stack? Do your have your own conventions for the frameworks you use?
-* Is complex code commented? 
+* Is complex code commented?
 * Are there Readmes describing higher-level systems in the codebase?
 
- Quality Assurance    
+Quality Assurance    
 * Are code reviews a regular part of your process?
 * Are there any tests?
 * What kind of tests?
