@@ -18,7 +18,7 @@ Before crafting your pitch, ask yourself these questions:
 
 ## Your 60-second life's story
 
-Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  Start with one of the first times you encountered code (or some type of problem solving that is tech-related).  Then describe your transition into web development.  At the end, bring your listener to your current situation -- you are a trained web developer ready to start working for this company.  
+Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  Start with one of the first times you encountered code (or some type of problem solving that is tech-related).  Then describe your transition into web development.  At the end, bring your listener to the present: you are a trained web developer ready to start working for their company.  
 
  A sample outline for your inspiration:
 (beginning)
