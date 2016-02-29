@@ -31,7 +31,7 @@ Notice that each part of the story includes specific details such as time/place,
 
 ## Behavioral Questions
 
-Behavioral questions are interview question that ask about specific situations you've encountered in the past.  For example "Tell me about a time you dealt with an interpersonal issue" is a behavioral question.  The interviewer is trying to get a picture of how you handle yourself at a job.   
+Behavioral questions are a type of interview question that ask about specific situations from your past.  For example "Tell me about a time you dealt with an interpersonal issue" is a behavioral question.  The interviewer is trying to get a picture of how you handle yourself at a job.   
 
 Answers to behavioral questions should also take the form of a story.  Remember to include specifics about time/place. The story should begin with a problem, then describe actions you took, and end with a result. Together, this should take about 30 seconds.  
 * Problem - the situation that required support or intervention
