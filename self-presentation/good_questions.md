@@ -30,7 +30,6 @@ Conventions
 * Do you follow standard conventions for every language in your stack? Do your have your own conventions for the frameworks you use?
 * Is complex code commented? 
 * Are there Readmes describing higher-level systems in the codebase?
- 
 
  Quality Assurance    
 * Are code reviews a regular part of your process?
