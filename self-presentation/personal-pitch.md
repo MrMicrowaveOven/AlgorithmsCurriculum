@@ -2,13 +2,13 @@
 
 "So, tell me about yourself. What have you done in your career and what brought you here?"
 
-Unnatural as it feels, this formality can score you a lot of points at an interview. Its main purpose is to spare your interviewer the burden of reading your résumé carefully. But since your answer will be longer than most things you say through the rest of the conversation, your interviewer is likely to sit back, listen to you talk, and ask him/herself "do I take this candidate seriously?"
+Unnatural as it feels, this formality can score you a lot of points at an interview. Since your answer will be longer than most things you say through the rest of the conversation, your interviewer is likely to sit back, listen to you talk, and decide whether to take your candidacy serioiusly."
 
 If you're good at selling yourself, this is where you shine. Otherwise no worries. A 1 minute, well-rehearsed spiel is all you need to sound prepared and professional.
 
 ## Brainstorming
 
-As you brainstorm talking points about your career trajectory and how you got into web development, ask yourself these questions:
+Before crafting your pitch, ask yourself these questions:
 
 * When did you write your first line of code? Writing BASIC functions on your TI graphing calculator in middle school counts. That’s how a lot of successful programmers got started.
 * Why did you choose to major in X?
@@ -18,16 +18,20 @@ As you brainstorm talking points about your career trajectory and how you got in
 
 ## Your 60-second life's story
 
-Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete.  The beginning is one of the first times you encountered code or some type of problem solving that is tech-related.  
+Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  The "beginning" should be one of the first times you encountered code (or some type of problem solving that is tech-related).  Include the time/place and the project you did.  The "middle" should describe your transition into web development.  The "end" brings your listener to your current state -- you are trained in the full stack and ready to start working for their company.  
 
  A sample outline for your inspiration:
+(beginning)
 * In college I chose to major in [...] // took a lot of classes in [...] because I like working on problems that involve [...]
 * At [company] I accomplished [...] and [...] While I was at it I learned [...].
+(middle)
 * I've always had an affinity for computers so I taught myself HTML and JavaScript for fun.
-* When I picked up Ruby, I immediately got hooked.
+* When I picked up Ruby two years ago, I immediately got hooked.  I was playing around on Ruby Monk every day after work.  
 * I wanted to take it to the next level so I took some classes.
-    * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Ruby Monk.*
+    * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Coursera, Ruby Monk, etc*
+(end)
 * I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  
+* I wanted to join [company] because [...].
 
 
 ## Questions to expect
