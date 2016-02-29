@@ -29,20 +29,36 @@ Your life story should be just that -- *a story.*  It should have a beginning, m
 
 Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.  A few specifics are critical for your listener to fully undestand your story.  
 
-## Other questions to expect
+## Behavioral Questions
 
-After an initial intro, you may be asked any number of questions about your work history. Again, any answers should take the form of a story and include specific details about time/place.  The story should begin with a problem, then describe actions you took, and end with a result. Together, this should take about 30 seconds.  
+Behavioral questions are interview question that ask about specific situations you've encountered in the past.  For example "Tell me about a time you dealt with an interpersonal issue" is a behavioral question.  The interviewer is trying to get a picture of how you handle yourself at a job.   
+
+Answers to behavioral questions should also take the form of a story.  Remember to include specifics about time/place. The story should begin with a problem, then describe actions you took, and end with a result. Together, this should take about 30 seconds.  
 * Problem - the situation that required support or intervention
 * Action - what you did to address the problem
 * Result - the improved situation produced through your actions
 
-An example for the question "Tell me about a time you took initiative to do something that wasn't directly assigned to you."  
-* *Problem:* "When I was at ABC company, we kept all our data on spreadsheets.  There were so many, the sheets were almost impossible to keep updated, and when needed to find information for a client, it sometimes took me 30 minutes to find the numbers I needed."
+An example for the question "Tell me about a time you took initiative to do improve something."  
+* *Problem:* "When I was at ABC company, we kept all our data on spreadsheets.  There were so many, the sheets were almost impossible to keep updated.  And when I tried to find information for a client, it sometimes took me 30 minutes to find the numbers I needed."
 * *Action:* "I started researching better ways to store data, and found a number of database options online. I researched three different options, discussed each with my manager, and ultimately chose Salesforce as the best fit for us." 
 * *Result:* "I worked with our office manager to get the system set up, and two months later, we not only had cleaner data that was easier to update, but were able to keep track of almost twice as many metrics as we were before."  
 
+Answers to these questions can come from your work history, academic projects, or even personal projects.  
+
+Other behavioral questions include:
+* What do you consider your greatest career accomplishment? 
+* Tell me about a time you dealt with an interpersonal issue. 
+* What was the hardest problem your ran into in the job?
+* Tell me about a time you had to teach yourself something in order to reach your goal.  
+* Tell me about the most difficult challenge you encountered on that software project.  
+
+
+## Other questions
+
+You may be asked any number of questions during interviews. Consider the following.  A well reheares response to these will help make you stand out.  
 
 * How did you hear about us?
+* Why do you want to work at our company?
 * Why do you want to be a programmer?
 * Where do you see yourself five years down the road?
 * How did you teach yourself to program?
@@ -50,33 +66,23 @@ An example for the question "Tell me about a time you took initiative to do some
 * How do you go about picking up a new technology?
 * Walk me through your development process for a new project.
     * Pro moves: mapping out database relations, listing specifications for the controllers, writing tests, sketching out the views...
-* Why do you want to work at our company?
 * What kinds of problems do you like to work on?
 * What was the hardest coding project you ever did?
 * What work have you done that you are most proud of?
+
+Some questions can be related to coding
 * What do you like about Ruby?
     * Common answers: readable, object-oriented
 * What do you like about Rails?
     * Common answer: "convention over configuration"
-
-
-## Bonus
-
-We've observed these quirky questions a lot. A quick and enthusiastic response will make you shine.
-
-*"Tell me about an interesting problem you solved."*    
-A lot of great options here. Your answer doesn't have to be from a personal project. For example using the Ruby object as a simple data structure to store association parameters when you were cloning [Active-Record][active-record-lite] was pretty sweet.
-
-*What's your favorite algorithm?*    
-*What's your favorite data structure?*    
-*What's your favorite Ruby gem (other than Rails)?*    
-
-[active-record-lite]: https://github.com/appacademy/sql-curriculum/blob/master/projects/w3d5-build-your-own-ar.md#part-a-storing-association-parameters
+* What's your favorite algorithm?
+* What's your favorite data structure? 
+* What's your favorite Ruby gem (other than Rails)?
 
 
 ## Prep time!
 
-This week's lecture and workshops will help you prepare for this part of an interview.  You can also practice on your own. The more your practice, the better you'll perform.
+This week's lecture and workshops will help you prepare for these parts of an interview.  You can also practice on your own. The more your practice, the better you'll perform.
 
 Outline your 60-second life story following the model above.  Find the student you paired with on W1D1 of App Academy. Pick a famous tech company and ask them the big questions:
 
