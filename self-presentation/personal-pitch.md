@@ -29,9 +29,18 @@ Your life story should be just that -- *a story.*  It should have a beginning, m
 
 Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.  A few specifics are critical for your listener to fully undestand your story.  
 
-## Questions to expect
+## Other questions to expect
 
-Have a 30-second (or less) answer ready for each of these. It looks bad if you hesitate or stammer.
+After an initial intro, you may be asked any number of questions about your work history. Again, any answers should take the form of a story and include specific details about time/place.  The story should begin with a problem, then describe actions you took, and end with a result. Together, this should take about 30 seconds.  
+* Problem - the situation that required support or intervention
+* Action - what you did to address the problem
+* Result - the improved situation produced through your actions
+
+An example for the question "Tell me about a time you took initiative to do something that wasn't directly assigned to you."  
+* *Problem:* "When I was at ABC company, we kept all our data on spreadsheets.  There were so many, the sheets were almost impossible to keep updated, and when needed to find information for a client, it sometimes took me 30 minutes to find the numbers I needed."
+* *Action:* "I started researching better ways to store data, and found a number of database options online. I researched three different options, discussed each with my manager, and ultimately chose Salesforce as the best fit for us." 
+* *Result:* "I worked with our office manager to get the system set up, and two months later, we not only had cleaner data that was easier to update, but were able to keep track of almost twice as many metrics as we were before."  
+
 
 * How did you hear about us?
 * Why do you want to be a programmer?
