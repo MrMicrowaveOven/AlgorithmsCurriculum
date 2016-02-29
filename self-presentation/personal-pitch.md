@@ -2,7 +2,7 @@
 
 "So, tell me about yourself. What have you done in your career and what brought you here?"
 
-Unnatural as it feels, this formality can score you a lot of points at an interview. Its main purpose is to spare your interviewer the burden of reading your résumé carefully. But since your answer will be longer than most things you say through the rest of the conversation, your interviewer is likely to sit back, listen to you talk, and ask him/herself "do I take this candidate seriously?".
+Unnatural as it feels, this formality can score you a lot of points at an interview. Its main purpose is to spare your interviewer the burden of reading your résumé carefully. But since your answer will be longer than most things you say through the rest of the conversation, your interviewer is likely to sit back, listen to you talk, and ask him/herself "do I take this candidate seriously?"
 
 If you're good at selling yourself, this is where you shine. Otherwise no worries. A 1 minute, well-rehearsed spiel is all you need to sound prepared and professional.
 
@@ -18,6 +18,8 @@ As you brainstorm talking points about your career trajectory and how you got in
 
 ## Your 60-second life's story
 
+Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete.  The beginning is one of the first times you encountered code or some type of problem solving that is tech-related.  
+
  A sample outline for your inspiration:
 * In college I chose to major in [...] // took a lot of classes in [...] because I like working on problems that involve [...]
 * At [company] I accomplished [...] and [...] While I was at it I learned [...].
@@ -26,9 +28,6 @@ As you brainstorm talking points about your career trajectory and how you got in
 * I wanted to take it to the next level so I took some classes.
     * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Ruby Monk.*
 * I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  
-
-*Note: if you finished college more than 4 years ago, your life story starts with your first job after graduation (unless you did something really cool before).*
-
 
 
 ## Questions to expect
