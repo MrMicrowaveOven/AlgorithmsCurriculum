@@ -2,7 +2,7 @@
 
 "So, tell me about yourself. What have you done in your career and what brought you here?"
 
-Unnatural as it feels, this formality can score you a lot of points at an interview. Since your answer will be longer than most things you say through the rest of the conversation, your interviewer is likely to sit back, listen to you talk, and decide whether to take your candidacy serioiusly."
+Unnatural as it feels, this formality will likely be the first question you get in an interview.  Since your answer will also be longer than most parts of the conversation, your interviewer is likely to sit back, listen to you talk, and decide whether to take your candidacy serioiusly.  This can significantly affect the outcome of the entire conversation.  
 
 If you're good at selling yourself, this is where you shine. Otherwise no worries. A 1 minute, well-rehearsed spiel is all you need to sound prepared and professional.
 
@@ -18,7 +18,7 @@ Before crafting your pitch, ask yourself these questions:
 
 ## Your 60-second life's story
 
-Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  The "beginning" should be one of the first times you encountered code (or some type of problem solving that is tech-related).  The "middle" should describe your transition into web development.  The "end" brings your listener to your current state -- you are trained in the full stack and ready to start working for their company.  
+Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  Start with one of the first times you encountered code (or some type of problem solving that is tech-related).  Then describe your transition into web development.  At the end, bring your listener to your current situation -- you are a trained web developer ready to start working for this company.  
 
  A sample outline for your inspiration:
 (beginning)
