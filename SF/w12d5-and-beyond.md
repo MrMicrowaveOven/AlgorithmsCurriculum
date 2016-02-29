@@ -3,7 +3,7 @@
 W12D5
 * Take the official coding test from one of App Academy's hiring partners.
 * Attend the Financial Planning lecture this afternoon.  (optional but highly recommended, especially for those that have been working for less than 3 years or have had less than 2 full time jobs)
-* Sign up for the [weekly ongoing mock interview group][pairboarding].
+* Sign up for the [weekly ongoing mock interview group][pairboarding].  Even if you're not sure you'll join, sign up to get the announcements.  Your interview skills will thank you.  
 
 And beyond
 * You are required to come into the office by 10am every day until you are excused by your career coach.  
