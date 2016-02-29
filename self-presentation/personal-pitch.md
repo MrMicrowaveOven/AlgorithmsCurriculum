@@ -64,7 +64,6 @@ A well rehearsed responses to these common questions will help you stand out.
 * How did you teach yourself to program?
     * Here it makes sense to bring up App Academy.
 * How do you go about picking up a new technology?
-
 * What kinds of problems do you like to work on?
 * What was the hardest coding project you ever did?
 * What work have you done that you are most proud of?
