@@ -14,7 +14,7 @@ And beyond
     * Stay sharp using [these tests][algo-specs] after you get through the mock interview questions.
     * Try [Codility][codility] if you want to do more on your own.
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
-* Once you hit 100 applications, come talk to us!
+* After you hit 100 applications, talk to your coach about whether you may be removed from roll call.  
 
 
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
