@@ -2,7 +2,7 @@
 
 "So, tell me about yourself. What have you done in your career and what brought you here?"
 
-Unnatural as it feels, this formality will likely be the first question you get in an interview.  Since your answer will also be longer than most parts of the conversation, your interviewer is likely to sit back, listen to you talk, and decide whether to take your candidacy serioiusly.  This can significantly affect the outcome of the entire conversation.  
+Unnatural as it feels, this formality will likely be the first question you get in an interview.  Since your answer will also be longer than most parts of the conversation, your interviewer is likely to sit back, listen to you talk, and decide whether to take your candidacy serioiusly.  Depending on your interviewer, this can significantly affect the outcome of the entire conversation.  
 
 If you're good at selling yourself, this is where you shine. Otherwise no worries. A 1 minute, well-rehearsed spiel is all you need to sound prepared and professional.
 
