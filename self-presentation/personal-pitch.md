@@ -27,7 +27,7 @@ Your life story should be just that -- *a story.*  It should have a beginning, m
     * Bring up App Academy if they ask for details. Also mention online courses like Coursera, Ruby Monk, etc.
 * *End:* "I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  I want to join [company] because [...]."
 
-Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.
+Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.  A few specifics are critical for your listener to fully undestand your story.  
 
 ## Questions to expect
 
