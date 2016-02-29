@@ -82,7 +82,7 @@ Some questions can be related to coding
 
 ## Prep time!
 
-This week's lecture and workshops will help you prepare for these parts of an interview.  You can also practice on your own. The more you practice, the better you'll perform.
+This week's lectures and workshops will help you prepare for these parts of an interview.  You can also practice on your own. The more you practice, the better you'll perform.
 
 Outline your 60-second life story following the model above.  Find the student you paired with on W1D1 of App Academy. Pick a famous tech company and ask them the big questions:
 
