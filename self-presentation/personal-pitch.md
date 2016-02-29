@@ -18,21 +18,16 @@ Before crafting your pitch, ask yourself these questions:
 
 ## Your 60-second life's story
 
-Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  The "beginning" should be one of the first times you encountered code (or some type of problem solving that is tech-related).  Include the time/place and the project you did.  The "middle" should describe your transition into web development.  The "end" brings your listener to your current state -- you are trained in the full stack and ready to start working for their company.  
+Your life story should be just that -- *a story.*  It should have a beginning, middle, and end.  Each piece should be concrete and specific.  The "beginning" should be one of the first times you encountered code (or some type of problem solving that is tech-related).  The "middle" should describe your transition into web development.  The "end" brings your listener to your current state -- you are trained in the full stack and ready to start working for their company.  
 
  A sample outline for your inspiration:
 (beginning)
-* In college I chose to major in [...] // took a lot of classes in [...] because I like working on problems that involve [...]
-* At [company] I accomplished [...] and [...] While I was at it I learned [...].
-(middle)
-* I've always had an affinity for computers so I taught myself HTML and JavaScript for fun.
-* When I picked up Ruby two years ago, I immediately got hooked.  I was playing around on Ruby Monk every day after work.  
-* I wanted to take it to the next level so I took some classes.
+* (beginning) In college I chose to major in [...] // took a lot of classes in [...] because I like working on problems that involve [...].  At [company] I accomplished [...] and [...] While I was at it I learned [...].
+* (middle) I've always had an affinity for computers so I taught myself HTML and JavaScript for fun.  When I picked up Ruby two years ago, I immediately got hooked.  I was playing around on Ruby Monk every day after work.  I wanted to take it to the next level so I took some classes.
     * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Coursera, Ruby Monk, etc*
-(end)
-* I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  
-* I wanted to join [company] because [...].
+* (end)I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  I wanted to join [company] because [...].
 
+*Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.*
 
 ## Questions to expect
 
