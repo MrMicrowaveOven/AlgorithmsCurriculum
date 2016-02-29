@@ -22,7 +22,7 @@ Your life story should be just that -- *a story.*  It should have a beginning, m
 
  A sample outline for your inspiration:
 (beginning)
-* *Beginning:*"In college I chose to major in [...] // took a lot of classes in [...] because I like working on problems that involve [...].  At [company] I accomplished [...] and [...] While I was at it I learned [...]."
+* *Beginning: *"In college I chose to major in [...] and took a lot of classes in [...] because I like working on problems that involve [...].  At [company] I accomplished [...] and [...]. While I was at it I learned [...]."
 * *Middle:* "I've always had an affinity for computers so I taught myself HTML and JavaScript for fun.  When I picked up Ruby two years ago, I immediately got hooked.  I was playing around on Ruby Monk every day after work.  I wanted to take it to the next level so I took some classes."
     * *Feel free to bring up App Academy if they ask for details. Also mention online courses like Coursera, Ruby Monk, etc*
 * *End:* "I've now built two games in Javascript and one full-stack web app using Bootstrap and Rails.  I want to join [company] because [...]."
