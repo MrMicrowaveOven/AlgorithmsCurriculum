@@ -55,7 +55,7 @@ Other behavioral questions include:
 
 ## Other questions
 
-You may be asked any number of questions during interviews. Consider the following.  A well reheares response to these will help make you stand out.  
+A well rehearsed responses to these common questions will help you stand out.  
 
 * How did you hear about us?
 * Why do you want to work at our company?
