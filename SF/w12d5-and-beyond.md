@@ -7,8 +7,8 @@ W12D5
 
 And beyond
 * You are required to come into the office by 10am every day until you are excused by your career coach.  
-* Even after being excused, continue coming back to a/A.  Students that come into th office benefit from a better work environment, help from a/A staff, plus a supportive community.
-* Continue applying to 10 places and adding 15 companies to your Job Search Roadmap every weekday.
+* Even after being excused, continue coming back to a/A.  Students that come into the office benefit from a better work environment, help from a/A staff, and a supportive community.
+* **Continue applying to 10 places and adding 15 companies to your Job Search Roadmap every weekday.** Not applying to enough companies can result in strikes or other consequences.  
 * There may be additional lectures from a/A staff and alumni. (some may be required)
 * Remember, if you finish the a/A mock interview problems,
     * Stay sharp using [these tests][algo-specs] after you get through the mock interview questions.
