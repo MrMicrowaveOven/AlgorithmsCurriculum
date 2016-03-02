@@ -41,7 +41,7 @@ To be completed by the end of week 10, before sending out applications.
 [linkedin]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/linkedin.md
 [angellist]: https://angel.co/
 
-
+## Week 10
 
 #### [W9D6-7](./SF/w9d6-7.md)
 * Preparation for job search curriculum! Start your JS Game, finish your final project, and bide your energy for Monday. Lots of biding. Bide like an Onix.
@@ -70,6 +70,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W10D5](./SF/w10d5.md)
 * Personal pitch
 
+## Week 11
 
 #### [W10D6-7](./SF/w10d6-7.md)
 * Check out the various job boards and sign up for marketplaces
@@ -98,6 +99,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W11D5](./SF/w11d5.md)
 * Still applying!
 
+## Week 12
 
 #### [W11D6-7](./SF/w11d6-7.md)
 
