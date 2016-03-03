@@ -10,8 +10,8 @@
 
 ## And beyond
 * There may be additional lectures next week. Some may be required.  
-* You are also required to come in by 10am every day until you are excused by your career coach.  
-* Even after being excused, continue coming back to a/A.  Students that search from the office benefit from a better work environment and find jobs faster.
+* Come in by 10am every day until you are excused by your career coach.  
+* Even after being excused, continue coming back.  Students that search from the office have a better work environment and find jobs faster.
 * Continue applying to 10 places and adding 10 companies to Jobberwocky every weekday. Not applying will result in strikes.
 * If you finish the a/A mock interview problems
     * Practice [these tests][algo-specs] 
