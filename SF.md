@@ -70,13 +70,12 @@ To be completed by the end of week 10, before sending out applications.
 #### [W10D5](./SF/w10d5.md)
 * Personal pitch
 
+#### [Week 10 Bonuses](./SF/week-10-bonus.md)
+
 ## Week 11
 
 #### [W10D6-7](./SF/w10d6-7.md)
 * Check out the various job boards and sign up for marketplaces
-
-#### [Week 10 Bonuses](./SF/week-10-bonus.md)
-
 
 #### [W11D1](./SF/w11d1.md)
 * Begin pairboarding and algorithms
@@ -99,13 +98,11 @@ To be completed by the end of week 10, before sending out applications.
 #### [W11D5](./SF/w11d5.md)
 * Still applying!
 
+#### [Week 11 Bonuses](./SF/week-11-bonus.md)
+
 ## Week 12
 
 #### [W11D6-7](./SF/w11d6-7.md)
-
-
-#### [Week 11 Bonuses](./SF/week-11-bonus.md)
-
 
 #### [W12D1](./SF/w12d1.md)
 * Should have hit 30 applications by now!
