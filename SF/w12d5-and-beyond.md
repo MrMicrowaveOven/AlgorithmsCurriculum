@@ -18,7 +18,7 @@
     * Try [Codility][codility] 
     * Find online algorithms lectures or see this [Coursera course][Coursera].
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
-* After you hit 100 applications, talk to your coach about whether you may be removed from roll call.  
+* After you hit 200 applications, talk to your coach about whether you may be removed from roll call.  
 
 [Coursera]: https://www.coursera.org/course/algo
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
