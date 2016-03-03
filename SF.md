@@ -46,29 +46,25 @@ To be completed by the end of week 10, before sending out applications.
 #### [W9D6-7](./SF/w9d6-7.md)
 * Preparation for job search curriculum! Start your JS Game, finish your final project, and bide your energy for Monday. Lots of biding. Bide like an Onix.
 
-
 #### [W10D1](./SF/w10d1.md)
 * **Capstone projects due**
-* Work on resume
-
+* Resumes lecture
+* Work on resume and JS game
 
 #### [W10D2](./SF/w10d2.md)
-* Resumes lecture
-* Work on cover letter, resume
-
+* Peer review
+* Work on cover letter, resume, JS game
 
 #### [W10D3](./SF/w10d3.md)
-* Begin job app materials review
-* Peer reviews
-
+* More peer reviews
 
 #### [W10D4](./SF/w10d4.md)
-* More peer reviews
+* JS games due
 * Clean up LinkedIn and Github
-
+* Personal Pitch
 
 #### [W10D5](./SF/w10d5.md)
-* Personal pitch
+* Behavioral questions
 
 #### [Week 10 Bonuses](./SF/week-10-bonus.md)
 
@@ -78,24 +74,22 @@ To be completed by the end of week 10, before sending out applications.
 * Check out the various job boards and sign up for marketplaces
 
 #### [W11D1](./SF/w11d1.md)
-* Begin pairboarding and algorithms
-* Create job search roadmap
-
+* All materials due
+* Begin mock interviewing and algorithms
+* Build your list of companies
 
 #### [W11D2](./SF/w11d2.md)
 * Getting ready to apply!
 
-
 #### [W11D3](./SF/w11d3.md)
 * About to apply...
 
-
 #### [W11D4](./SF/w11d4.md)
 * APPLY!
-* Negotiate like a boss
 
 
 #### [W11D5](./SF/w11d5.md)
+* Negotiate like a boss
 * Still applying!
 
 #### [Week 11 Bonuses](./SF/week-11-bonus.md)
@@ -107,31 +101,25 @@ To be completed by the end of week 10, before sending out applications.
 #### [W12D1](./SF/w12d1.md)
 * Should have hit 30 applications by now!
 
-
 #### [W12D2](./SF/w12d2.md)
 * Still going strong.
-
 
 #### [W12D3](./SF/w12d3.md)
 * No pain, no gain.
 
-
 #### [W12D4](./SF/w12d4.md)
 * **Graduation day!**
 
-
 #### [W12D5 and BEYOND](./SF/w12d5-and-beyond.md)
+* Official coding challenge
 * Sign up for weekly pairboarding group.
 * Emphasis on the BEYOND.
-
 
 #### [JavaScript Readings](./SF/javascript-readings.md)
 * (re-)learn your JavaScript. Tsk tsk.
 
-
 #### [Ruby/Rails Readings](./SF/ruby-rails-readings.md)
 * Oldies but goodies.
-
 
 #### [Interview Prep](./SF/interview-prep.md)
 * Put on your Sunday best!
