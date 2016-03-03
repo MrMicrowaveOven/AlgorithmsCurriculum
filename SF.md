@@ -88,7 +88,7 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W11D2](./SF/w11d2.md)
 * Getting ready to apply!
-
+* Online practice problems
 
 #### [W11D3](./SF/w11d3.md)
 * About to apply...
