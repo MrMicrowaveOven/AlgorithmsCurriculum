@@ -9,14 +9,14 @@
 
 
 ## And beyond
-* You are required to come into the office by 10am every day until you are excused by your career coach.  
-* Even after being excused, continue coming back to a/A.  Students that come into the office benefit from a better work environment and find jobs faster.
-* **Continue applying to 10 places and adding 10 companies to Jobberwocky every weekday.** Not applying will result in strikes.  
-* There may be additional lectures from a/A staff and alumni. Some may be required. 
-* Remember, if you finish the a/A mock interview problems,
-    * Stay sharp using [these tests][algo-specs] after you get through the mock interview questions.
-    * Try [Codility][codility] if you want to do more on your own.
-    * For more algorithms curriculum, find online lectures or see this [Coursera course][Coursera].
+* You are required to come in by 10am every day until you are excused by your career coach.  
+* Even after being excused, continue coming back to a/A.  Students that search from the office benefit from a better work environment and find jobs faster.
+* Continue applying to 10 places and adding 10 companies to Jobberwocky every weekday. Not applying will result in strikes.
+* There may be additional lectures next week. Some may be required. 
+* If you finish the a/A mock interview problems
+    * Practice [these tests][algo-specs] 
+    * Try [Codility][codility] 
+    * Find online algorithms lectures or see this [Coursera course][Coursera].
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
 * After you hit 100 applications, talk to your coach about whether you may be removed from roll call.  
 
