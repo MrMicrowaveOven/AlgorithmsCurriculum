@@ -3,7 +3,7 @@
 ### Resources
 
 * [Jobberwocky][jobberwocky]
-* [Pairboarding Index][pair-boarding-index]
+* [Mock Interviews & Pairboarding Index][pair-boarding-index]
 * [Interview Questions][interview-questions]
 * [Bay Area Tech Companies][bay-tech-companies]
 * [A Curated List of Job Search Resources][ronnie-list]
