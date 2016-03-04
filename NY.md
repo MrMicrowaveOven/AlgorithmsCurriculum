@@ -15,7 +15,7 @@
 [ronnie-list]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 
 #### [W9D6-7](./NY/w9d6-7.md)
-* Preparation for job search curriculum! Start your JS Game, finish your final project, and conserve your energy for Monday.
+* Preparation for job search curriculum! Start your JS project, finish your final project, and conserve your energy for Monday.
 
 #### [W10D1](./NY/w10d1.md)
 * Capstones
