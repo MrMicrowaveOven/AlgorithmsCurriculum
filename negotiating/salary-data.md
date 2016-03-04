@@ -32,5 +32,5 @@ in 2014 makes between $94,850 and $153,792 in San Francisco. In New York it's be
 [sf-rails]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=san+francisco
 [sf-front-end]: http://www.indeed.com/salary?q1=junior+front+end+developer&l1=san+francisco
 
-[angellist]: https://angel.co/salaries
+[angellist]: ../angel-list-reading.md
 [riviera]: http://rivierapartners.com/engineering-salaries-reviewed/
