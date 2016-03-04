@@ -15,7 +15,7 @@ You want to choose a JS project that's reasonable to complete with about 2 days 
 
 Additionally, you should **not** use online tutorials or the Phaser.js library to create your game.  Tutorials often give you a lot of code snippets -- at best, it looks like you don't actually know how to write it yourself, and at worst, it looks like you plagiarized someone else's work.  Phaser is a useful library for creating games, but that's the only thing it's used for.  No employer is looking for a candidate that knows how to write in Phaser, so it's a waste of your time in terms of job-seeking to learn it.  It is okay to use others' Github repos as guides -- but they should only be guides.  **Do not copy code from another person's repo.**
 
-In summary, here are the checklists of what your game should have:
+In summary, here are the checklists of what your project should have:
 
 ### Live Project
 
