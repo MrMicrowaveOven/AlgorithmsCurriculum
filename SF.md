@@ -21,7 +21,7 @@
 To be completed by the end of week 10, before sending out applications.
 
 * [Capstone Checklist][capstone]
-* [Browser Game][js-game]
+* [Javascript Project][js-game]
 * [Code Intensive][code-intensive]
 * [Resume][resume]
 * [Cover Letter][cover-letter]
@@ -32,7 +32,7 @@ To be completed by the end of week 10, before sending out applications.
 
 
 [capstone]: https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md
-[js-game]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/browser_game.md
+[js-game]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/js_project.md
 [resume]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume.md
 [cover-letter]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter.md
 [portfolio]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/portfolio.md
