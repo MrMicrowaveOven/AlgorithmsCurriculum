@@ -8,7 +8,9 @@
 * [Bay Area Tech Companies][bay-tech-companies]
 * [A Curated List of Job Search Resources][ronnie-list]
 * [Job Boards][job-boards]
+* [Google drive files and lectures slides][drive]
 
+[drive]: https://drive.google.com/folderview?id=0B3noREts_wUyNnhZMTZPMjJhU2M&usp=sharing
 [jobberwocky]: http://progress.appacademy.io/jobberwocky
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [pair-boarding-index]: ../master/interview-prep/pairboarding/index.md#index
