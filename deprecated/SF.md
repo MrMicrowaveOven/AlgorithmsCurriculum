@@ -33,7 +33,7 @@
 [cover-letter]: ./self-presentation/cover_letter.md
 [portfolio]: ./self-presentation/portfolio.md
 [code-intensive]: ./self-presentation/code_intensive.md
-[browser-game]: ./self-presentation/browser_game.md
+[browser-game]: ./self-presentation/js_project.md
 [readme]: ./self-presentation/example_readmes.md
 
 ## W10D1
