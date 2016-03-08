@@ -39,11 +39,6 @@ RSpec, Backbone, and anything you've used. You can follow the major contributors
 to these repos and everybody in class (including instructors). If you all follow 
 each other, you'll also have followers!
 
-## See some example ReadMe's
+## [How to write a README][readme]
 
-Examples by previous a/A grads
-* Capstone project https://github.com/hammeiam/lair-bnb
-* Capstone project https://github.com/DougBlumeyer/Geometrhythm
-* JS game https://github.com/DougBlumeyer/Rainbowbbles
-* Code intensive https://github.com/zhoux10/chess/tree/gh-pages
-* Personal project https://github.com/hammeiam/squawkr
+[readme]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/example_readmes.md
