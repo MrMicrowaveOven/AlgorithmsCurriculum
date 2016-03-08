@@ -1,4 +1,4 @@
-#Writing ReadMe's
+#Writing a README
 
 **Every project on your resume needs a great ReadMe.**
 
