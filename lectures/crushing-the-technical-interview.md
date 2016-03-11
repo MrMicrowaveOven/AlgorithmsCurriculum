@@ -1,6 +1,8 @@
 # How to Crush Technical Interviews
 
 Part 1:
+-1. Prep
+  a. Put on MIC
 0. Overview of how the onsite works (5 mins)
   a. What is the schedule of the day?
   b. You go into four different conference rooms, whiteboard
