@@ -1,8 +1,12 @@
 # How to Crush Technical Interviews
 
 Part 1:
--1. Prep
-  a. Put on MIC
+
+0. Prep
+  a. Print out this page
+  b. Put on MIC
+  c. Put problem on board
+  d. Write that you need pen and paper
 0. Overview of how the onsite works (5 mins)
   a. What is the schedule of the day?
   b. You go into four different conference rooms, whiteboard
@@ -13,29 +17,26 @@ Part 1:
     1. These are usually in initial interviews.  I have actually gotten fizzbuzz
     2. Hired.com and apparently angel.co have some good ones that you can practice if you sign up.
     3. Sometimes they require 2 years of experience. See if that's really the case.
-    4. Make a note to try out Hired (it's also a cheap way of getting interviews if you pass).
 
   2. Can-solve-problems problems (in person)
-    1. Tips: I'm going to cover these quickly, ask questions at the end. (1 min)
-      1. We'll apply as we go.
-      2. Can approach in other ways
-    2. We're going to apply these as we go.
-
-    3. Individual exercise (40 mins)
+    1. Individual exercise (40 mins)
       1.  Singly linked list kth to last question: (3 mins)
         1. You have a linked list ↴ and want to find the kth to last node.
            Write a function kth_to_last_node() that takes an integer k and the head_node of a singly linked list, and returns the kth to last node in the list. (Put this on board BEFORE?).
       2. for tip in tips, we're going to apply them (30 mins)
         0. This is one FRAMEWORK.  You can try other approaches.
         1. Restate the question in different words.  Clarifying questions.
-        2.  Come up with sample inputs and outputs? (2 mins)
+          1. Your brain is going to want to try to start to solve the problem.  HOLD IT BACK FOR NOW.  Don't start, you need to make sure you have the full problem.
+          2. A clarifying question you need: singly or doubly linked list?
+          3. Some companies expect you to ask clarifying questions
+        2. Now write out some SMALL examples of sample inputs and outputs (2 mins)
           1. DRAW ON BOARD
-            a. 0, 1, and 2.  k=2 and head_node is really a ()->()->()->()->()caterpillar
-        2. Now write out some small examples of sample inputs and outputs (2 mins)
-          0. Edge cases.
-          1. DRAW ON BOARD
-          2. Compare to partner
-          3. List on board
+            a. 0, 1, and 2.
+            b. k=2 and head_node is really a ()->()->()->()->()caterpillar
+          2. Edge cases.
+          3. DRAW ON BOARD
+          4. Compare to partner
+          5. List on board
         3. CHECK WITH THE CLASS that everyone knows what the function looks like.
           a. Draw signature (kth_to_last_node(3, head_node)) on board,
         4. Write out possible approaches in english (not even pseudocode) (3 mins)
@@ -58,7 +59,7 @@ Part 1:
     5. Class: List helpful things you did. (4 mins)
       1. Have Shiva (or volunteer) put on the whiteboard.
 
-    6.  Add other example questions (1 minute): determine if a string is a palindrome, SOLVE boggle, solve BART system shortest path and cost, .
+    6.  Add other example questions (1 minute): determine if a string is a palindrome, SOLVE boggle (goodreads), solve BART system shortest path and cost...reverse a linked list (angel.co), compare two strings to see how much of the beginning they share (trying to beat linear time is the tough part).
 
     7.  I think we have a test bank, so try to find it if you haven't yet. (1 minute)
 
@@ -124,8 +125,6 @@ Part 2:
   3. Other example problems (2 mins): Design the BART system schema, schema for Ad Server, how would you set up a rails app that serves 5 million people?.
 
 Break for 5 (5 mins)
-
-
 
 
 ## Concepts:
