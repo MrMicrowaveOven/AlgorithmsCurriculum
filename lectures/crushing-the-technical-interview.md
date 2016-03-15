@@ -7,6 +7,7 @@ Part 1:
   b. Put on MIC
   c. Put problem on board
   d. Write that you need pen and paper
+  e. Song: https://www.youtube.com/watch?v=8kLjxwDywKU
 0. Overview of how the onsite works (5 mins)
   a. What is the schedule of the day?
   b. You go into four different conference rooms, whiteboard
