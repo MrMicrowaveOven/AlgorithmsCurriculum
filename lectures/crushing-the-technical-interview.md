@@ -113,14 +113,14 @@ Part 2:
   1. Overview (4 mins): Learnist did this, Pivotal does this.  Talk about process companies take.
   2. Won't cover, this is what App Academy was.
 
-5. Design Problems (15 mins)
+5. Design Problems (25 mins)
   0. Overview: Learnist, Goodreads, and Minerva did this. (3 mins)
   1. Tips (5 mins):
     1. Clarifying questions are good .
     2. Pictures/shapes, circles are good
 
-  2. Example question (5 mins)
-    1. Show of hands: who designed boggle/chess the first day?
+  2. Example question (10 mins)
+    1. Design boggle/chess with saving game.  Schema.
     2  Take the google request and represent it with boxes and lines database cylinders.
 
   3. Other example problems (2 mins): Design the BART system schema, schema for Ad Server, how would you set up a rails app that serves 5 million people?.
