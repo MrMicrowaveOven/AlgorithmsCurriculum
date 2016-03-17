@@ -98,11 +98,12 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W11D4](./SF/w11d4.md)
 * APPLY!
+* Negotiate like a boss
 
 
 #### [W11D5](./SF/w11d5.md)
-* Negotiate like a boss
 * Still applying!
+* Embrace your inner Architect
 
 
 #### [Week 11 Bonuses](./SF/week-11-bonus.md)
