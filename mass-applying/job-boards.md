@@ -38,11 +38,13 @@ If this list feels too long, start with AngelList and Hired.com.
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
+  * Ask [HackerNews][hackernews]: Who's Hiring?  Once per month posting with tons of YC jobs. 
+  * [Weave][Weave] arranges networking meetings on behalf of job seekers and professionals.  Apply to join and get personalized one-on-one meetings set up for you!   
   * [Hackers & Founders][hackers-&-founders]
     * https://docs.google.com/forms/d/1y3QxRwPhnDk4-c5uzjH-lYLMESfaAT0m1kaOseEfmgE/viewform
     * https://docs.google.com/spreadsheet/ccc?key=0AmQExXr67OcTdF9JZE1RNjItMnZKdTNqSGd3bXJLTXc#gid=0
     * https://docs.google.com/spreadsheet/ccc?key=0AmQExXr67OcTdEVuYWViZngyaUdYRWZ1X1BKQlZMM1E&usp=sharing#gid=0
-  * Ask [HackerNews][hackernews]: Who's Hiring?  Once per month posting with tons of YC jobs.  
+ 
 
 ##Databases
 Good resources to hit your daily quota.
@@ -113,6 +115,7 @@ check 'Show Active' on the left).
 [rubynow]: http://jobs.rubynow.com/
 [simplyhired]: http://www.simplyhired.com/
 [ventureloop]: http://ventureloop.com/ventureloop/home.php
+[weave]: https://weave.in/
 [zurb]: http://zurb.com/jobs#programming
 
 [andreessen]: http://a16z.com/portfolio/
