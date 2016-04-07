@@ -25,7 +25,6 @@
 * Reading: [The Cover Letter](https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter.md)
 * __Lecture__: Application Materials
 * Work on cover letter and resume
-* Begin pairboarding
 
 #### [W10D3](./NY/w10d3.md)
 * __Lecture__: Mechanics of the Job Search
@@ -34,6 +33,7 @@
 #### [W10D4](./NY/w10d4.md)
 * __Lecture__: Technical Interviews & Whiteboarding
 * Resume and Cover Letter peer reviews
+* Begin Pairboarding
 * Clean up LinkedIn and Github
 
 #### [W10D5](./NY/w10d5.md)
