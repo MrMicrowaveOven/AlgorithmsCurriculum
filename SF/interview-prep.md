@@ -28,6 +28,7 @@
 [code wars]: http://www.codewars.com/
 [code-eval]: http://www.codeeval.com
 [hackerrank]: https://www.hackerrank.com/
+[leetcode]: https://www.leetcode.com/
 [talentbuddy]: http://www.talentbuddy.co/
 [top-coder]: http://www.topcoder.com/
 
