@@ -14,6 +14,12 @@ This will come up at interviews. Memorize it.
 0. Browser goes down each HTML element and either paints the DOM or executes the tag
 0. The browser builds a new GET request for each CSS or JS tag, goes through the same steps as above, and runs the code before proceeding.
 
-For more detail, see [this github repo][what happens repo] dedicated to the question.
+Read all of these answers to the question (the more you read, the better you'll understand the important parts of the process):
 
+* [Link 1 (short)][quora scrape]
+* [Link 2 (medium)][igoro]
+* [Link 3 (long)][what happens repo]
+
+[quora scrape]: https://jiangchengl.wordpress.com/2015/08/20/what-happens-when-you-type-www-example-com-in-the-browser-address-and-enter-press-button/
+[igoro]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/comment-page-4/
 [what happens repo]: https://github.com/alex/what-happens-when
