@@ -10,37 +10,6 @@ Read these two articles, then memorize this recap list.
 
 Items in brackets are ones that are good to know about although you can't implement them for your own projects.
 
-## Tools to Find Bottlenecks
-
-**At the DB Layer**
-
-* [lol_dba][lol_dba]
-* [rack-mini-profiler][rack-mini-profiler]
-
-[lol_dba]: https://github.com/plentz/lol_dba
-[rack-mini-profiler]: https://github.com/MiniProfiler/rack-mini-profiler
-
-**At the Application Layer**
-
-* Benchmark module
-* [bullet][bullet]
-
-[bullet]: https://github.com/flyerhzm/bullet
-
-**On the Frontend**
-
-* [TriggerHappy][trigger-happy]
-* [PageSpeed Insights][pagespeed]
-
-[trigger-happy]: https://github.com/drwrchrds/backbone.TriggerHappy
-[pagespeed]: https://developers.google.com/speed/pagespeed/insights/
-
-**Across the Stack**
-
-* Chrome DevTools
-* YSlow
-* New Relic
-
 ## Ways to Improve Performance
 
 **DB layer**
@@ -54,12 +23,12 @@ Items in brackets are ones that are good to know about although you can't implem
 
 * Cache DB queries (see Russian Doll Caching)
 * Use ActiveRecord counter cache
-* Use a faster server (see Thin)
+* Use a faster server (see Unicorn)
 * Trade more space for less time in your code
 * Cache rendered views
 * Avoid N+1 queries
 * Paginate long results
-* Use background jobs (e.g. for email)
+* Use background jobs for anything that doesn't have to be done immediately (e.g. for email)
 * Use Adequate Record (Rails 4.2 only) to add extra caching
 * Favor Model#pluck to avoid the overhead of creating Active Record models when you can avoid it
 * In views, order records by primary key instead of created_at (it’s faster and almost equivalent)
@@ -129,3 +98,38 @@ Items in brackets are ones that are good to know about although you can't implem
 
 * Use loading animations
 * Use progressive JPEGs
+* Use [isomorphic JavaScript][isomorphic] to pre-generate initial DOM on the server-side (e.g., React, Meteor)
+
+[isomorphic]: http://love2dev.com/#!article/What-is-Isomorphic-JavaScript-and-When-Should-it-Be-Used
+
+## Tools to Find Bottlenecks
+
+**At the DB Layer**
+
+* [lol_dba][lol_dba]
+* [rack-mini-profiler][rack-mini-profiler]
+
+[lol_dba]: https://github.com/plentz/lol_dba
+[rack-mini-profiler]: https://github.com/MiniProfiler/rack-mini-profiler
+
+**At the Application Layer**
+
+* Benchmark module
+* [bullet][bullet]
+
+[bullet]: https://github.com/flyerhzm/bullet
+
+**On the Frontend**
+
+* [TriggerHappy][trigger-happy]
+* [PageSpeed Insights][pagespeed]
+
+[trigger-happy]: https://github.com/drwrchrds/backbone.TriggerHappy
+[pagespeed]: https://developers.google.com/speed/pagespeed/insights/
+
+**Across the Stack**
+
+* Chrome DevTools
+* YSlow
+* New Relic
+
