@@ -1,6 +1,6 @@
 # What happens when you navigate to google.com?
 
-This will come up at interviews. Memorize it.
+This is one of the most common interview questions of all time. **It will come up at interviews.** Memorize it.
 
 0. Browser checks its own DNS cache for a corresponding IP address, then your OS’ DNS cache, then (most likely) checks the default router's DNS cache, then ISP / configured DNS server until it gets an answer.
 0. Browser builds HTTP GET string with “http://[url]” as the requested URL
