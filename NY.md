@@ -24,7 +24,6 @@
 * Reading: [Preparing your Resume](https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume.md)
 * Reading: [The Cover Letter](https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/cover_letter.md)
 * __Lecture__: Application Materials
-* Work on cover letter and resume
 
 #### [W10D3](./NY/w10d3.md)
 * __Lecture__: Mechanics of the Job Search
