@@ -147,7 +147,7 @@ vs
 
 *Uses custom-built authentication system, hashing and salting passwords with BCrypt.*
 
-In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more intesting, and suggests that the designer is a capable developer.
+In the first example, the quality of the login process is ambiguous.  The second example describes a specific feature that makes the site sound more interesting, and suggests that the designer is a capable developer.
 
 *Caution:*
 
