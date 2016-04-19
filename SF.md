@@ -151,7 +151,7 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W13D4](./SF/w13d4.md)
 * **[Algorithms Project 7](./SF/algorithms/w13d3/project7) due at 4:29pm PST**
-* Last Algorithms lecture - Next steps!
+* Last Algorithms lecture - [Next steps!](./SF/algorithms/w13d4/next-steps.md)
 
 #### W13D5
 * **Algorithms Project 8 due at 4:29pm PST**
