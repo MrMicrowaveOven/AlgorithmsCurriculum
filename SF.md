@@ -126,7 +126,7 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W12D3](./SF/w12d3.md)
 * No pain, no gain.
-* Algorithms Project 4 due at 4:29pm PST
+* [Algorithms Project 4](./SF/algorithms/w12d2/project4) due at 4:29pm PST
 
 
 #### [W12D4](./SF/w12d4.md)
