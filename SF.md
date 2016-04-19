@@ -116,12 +116,12 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W12D1](./SF/w12d1.md)
 * Should have hit 30 applications by now!
-* Algorithms Project 2 due at 4:29pm PST
+* [Algorithms Project 2](./SF/algorithms/w11d4/project2) due at 4:29pm PST
 
 
 #### [W12D2](./SF/w12d2.md)
 * Still going strong.
-* Algorithms Project 3 due at 4:29pm PST
+* [Algorithms Project 3](./SF/algorithms/w12d1/project3) due at 4:29pm PST
 
 
 #### [W12D3](./SF/w12d3.md)
