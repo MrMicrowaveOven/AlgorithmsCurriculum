@@ -153,7 +153,7 @@ To be completed by the end of week 10, before sending out applications.
 * **[Algorithms Project 7](./SF/algorithms/w13d3/project7) due at 4:29pm PST**
 * Last Algorithms lecture - Next steps!
 
-#### [W13D5]
+#### W13D5
 * **Algorithms Project 8 due at 4:29pm PST**
 
 #### [JavaScript Readings](./SF/javascript-readings.md)
