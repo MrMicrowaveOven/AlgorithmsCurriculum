@@ -101,7 +101,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W11D4](./SF/w11d4.md)
 * APPLY!
 * Negotiate like a boss
-* Algorithms Project 1 due at 4:29pm PST
+* [Algorithms Project 1](./algorithms/w11d3/project1) due at 4:29pm PST
 
 #### [W11D5](./SF/w11d5.md)
 * Still applying!
