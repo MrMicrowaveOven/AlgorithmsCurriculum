@@ -84,13 +84,15 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W11D1](./SF/w11d1.md)
 * All materials due
-* Begin mock interviewing and algorithms
+* Begin mock interviewing
 * Build your list of companies
+* Algorithms begins!
 
 
 #### [W11D2](./SF/w11d2.md)
 * Getting ready to apply!
 * Online practice problems
+* Algorithms Worksheet 1 due at 4:29pm PST
 
 #### [W11D3](./SF/w11d3.md)
 * About to apply...
@@ -99,7 +101,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W11D4](./SF/w11d4.md)
 * APPLY!
 * Negotiate like a boss
-
+* Algorithms Project 1 due at 4:29pm PST
 
 #### [W11D5](./SF/w11d5.md)
 * Still applying!
@@ -114,14 +116,17 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W12D1](./SF/w12d1.md)
 * Should have hit 30 applications by now!
+* Algorithms Project 2 due at 4:29pm PST
 
 
 #### [W12D2](./SF/w12d2.md)
 * Still going strong.
+* Algorithms Project 3 due at 4:29pm PST
 
 
 #### [W12D3](./SF/w12d3.md)
 * No pain, no gain.
+* Algorithms Project 4 due at 4:29pm PST
 
 
 #### [W12D4](./SF/w12d4.md)
@@ -133,6 +138,23 @@ To be completed by the end of week 10, before sending out applications.
 * Sign up for weekly pairboarding group.
 * Emphasis on the BEYOND.
 
+## Week 13
+
+#### [W13D1](#)
+* Algorithms Project 5 due at 4:29pm PST
+
+#### [W13D2](#)
+* Algorithms Worksheet 2 due at 4:29pm PST
+
+#### [W13D3](#)
+* Algorithms Project 6 due at 4:29pm PST
+
+#### [W13D4](#)
+* Algorithms Project 7 due at 4:29pm PST
+
+#### [W13D5](#)
+* Last Algorithms lecture - Next steps!
+* Algorithms Project 8 due at 4:29pm PST
 
 #### [JavaScript Readings](./SF/javascript-readings.md)
 * (re-)learn your JavaScript. Tsk tsk.
