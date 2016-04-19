@@ -1,4 +1,4 @@
-# HeapSort and QuickSort
+# QuickSort
 
 In this project, you'll be implementing __quicksort__.
 
