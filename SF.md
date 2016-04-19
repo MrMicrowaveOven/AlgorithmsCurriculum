@@ -141,20 +141,20 @@ To be completed by the end of week 10, before sending out applications.
 ## Week 13
 
 #### [W13D1](#)
-* [Algorithms Project 5](./SF/algorithms/w12d3/project5) due at 4:29pm PST
+* **[Algorithms Project 5](./SF/algorithms/w12d3/project5) due at 4:29pm PST**
 
 #### [W13D2](#)
-* Algorithms Worksheet 2 due at 4:29pm PST
+* **Algorithms Worksheet 2 due at 4:29pm PST**
 
 #### [W13D3](#)
-* Algorithms Project 6 due at 4:29pm PST
+* **Algorithms Project 6 due at 4:29pm PST**
 
 #### [W13D4](#)
-* Algorithms Project 7 due at 4:29pm PST
+* **Algorithms Project 7 due at 4:29pm PST**
 
 #### [W13D5](#)
 * Last Algorithms lecture - Next steps!
-* Algorithms Project 8 due at 4:29pm PST
+* **Algorithms Project 8 due at 4:29pm PST**
 
 #### [JavaScript Readings](./SF/javascript-readings.md)
 * (re-)learn your JavaScript. Tsk tsk.
