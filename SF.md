@@ -141,7 +141,7 @@ To be completed by the end of week 10, before sending out applications.
 ## Week 13
 
 #### [W13D1](#)
-* Algorithms Project 5 due at 4:29pm PST
+* [Algorithms Project 5](./SF/algorithms/w12d3/project5) due at 4:29pm PST
 
 #### [W13D2](#)
 * Algorithms Worksheet 2 due at 4:29pm PST
