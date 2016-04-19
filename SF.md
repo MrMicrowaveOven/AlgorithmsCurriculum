@@ -101,7 +101,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W11D4](./SF/w11d4.md)
 * APPLY!
 * Negotiate like a boss
-* [Algorithms Project 1](./SF/algorithms/w11d3/project1) due at 4:29pm PST
+* **[Algorithms Project 1](./SF/algorithms/w11d3/project1) due at 4:29pm PST**
 
 #### [W11D5](./SF/w11d5.md)
 * Still applying!
@@ -150,7 +150,7 @@ To be completed by the end of week 10, before sending out applications.
 * **[Algorithms Project 6](./SF/algorithms/w13d2/project6) due at 4:29pm PST**
 
 #### [W13D4](./SF/w13d4.md)
-* **Algorithms Project 7 due at 4:29pm PST**
+* **[Algorithms Project 7](./SF/algorithms/w13d3/project7) due at 4:29pm PST**
 * Last Algorithms lecture - Next steps!
 
 #### [W13D5]
