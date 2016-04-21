@@ -18,14 +18,14 @@ Your layout might look like this:
 
 ## Content
 
-**Headers**
+### Headers
 A profile picture helps viewers feel like they're getting to know you.
 
 Your title is 'web developer' ("full stack" implies a couple years' experience).
 You can add "for hire" or something to that effect in your title. Do not use wishful
 language such as "aspiring web developer".
 
-**Summary**
+### Summary
 
  Make your summary exciting. Show your enthusiasm!
 * Mention that you are looking for opportunities
@@ -36,9 +36,14 @@ These skills are also keywords that will stick out to employers. Throw in a coup
 [CJ's summary][cj-linkedin] is a great example. (For students on the East Coast CJ is a TA in San Francisco.)
 
 
-**Skills and Expertise**
+### Skills and Expertise
+Put the most relevant ones at the top.
 
- Include all web-related skills here.
+Remove skills not related directly to your current search (e.g. MS Word) Don't worry, LinkedIn will preserve your
+endorsements if you add them back in later.
+
+Make sure you include all of these:
+
 * Ruby
 * Ruby on Rails
 * JavaScript
@@ -60,7 +65,7 @@ These skills are also keywords that will stick out to employers. Throw in a coup
 
 Delete non-web- or tech-related skills. You don't want to be a jack of all trades.
 
-**Projects**
+## Projects
 
 LinkedIn makes it easy to link to your personal projects. Employers will love that. It also looks cool if you worked on a project with someone else and list them as a collaborator. It shows you like to work in teams!
 
