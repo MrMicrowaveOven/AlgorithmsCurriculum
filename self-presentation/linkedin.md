@@ -63,8 +63,6 @@ Make sure you include all of these:
 * Object Oriented Design
 * Pair Programming
 
-Delete non-web- or tech-related skills. You don't want to be a jack of all trades.
-
 ## Projects
 
 LinkedIn makes it easy to link to your personal projects. Employers will love that. It also looks cool if you worked on a project with someone else and list them as a collaborator. It shows you like to work in teams!
