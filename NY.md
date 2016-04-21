@@ -58,7 +58,7 @@
 
 #### [W11D4](./NY/w11d4.md)
 * APPLY!
-* __Lecture__: Negotiating
+* __Lecture__: Networking
 
 #### [W11D5](./NY/w11d5.md)
 * Still applying!
@@ -72,7 +72,7 @@
 
 #### [W12D2](./NY/w12d2.md)
 * Still going strong.
-* __Lecture__: Maintaining Momentum
+* __Lecture__: Negotiating
 
 #### [W12D3](./NY/w12d3.md)
 * No pain no gain.
@@ -81,6 +81,7 @@
 * **Graduation Day!**
 
 #### [W12D5 and BEYOND](./NY/w12d5-and-beyond.md)
+* __Lecture__: Maintaining Momentum
 * Emphasis on the BEYOND.
 
 #### [JavaScript Readings](./NY/javascript-readings.md)
