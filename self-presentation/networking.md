@@ -18,7 +18,7 @@ How can you increase your social capital and improve your personal brand?
 6. Get their contact info and follow up
 
 ## Online
-1. LinkedIn
+1. [LinkedIn][linkedin]
 2. Facebook
 3. Twitter
 
@@ -55,3 +55,4 @@ Thanks!
 ```
 
 [meetup]: https://github.com/appacademy/job-search-curriculum/blob/master/engineering-culture/meetups.md
+[linkedin]: https://github.com/appacademy/job-search-curriculum/blob/6225cab2a9b75e94acc26dd036495951aca1f066/self-presentation/linkedin.md
