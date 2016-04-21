@@ -4,7 +4,7 @@ Your network is your net worth.
 How can you increase your social capital and improve your personal brand?
 
 ## In Person
-1. Meetups
+1. [Meetups][meetup]
 2. College alumni events
 3. Job fairs
 4. Social settings
@@ -53,3 +53,5 @@ Please let me know what might work for you.
 
 Thanks!
 ```
+
+[meetup]: https://github.com/appacademy/job-search-curriculum/blob/master/engineering-culture/meetups.md
