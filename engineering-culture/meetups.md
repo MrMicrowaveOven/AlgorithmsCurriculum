@@ -19,7 +19,7 @@
 2. Remember names.
 3. Listen.
 4. Go early to get more face time.
-5. Maintain profile. Facebook integration is great to see which of your friends are going.
+5. Maintain your profile. Facebook integration is great to see which of your friends are going.
 
 [meetup]: http://www.meetup.com
 
