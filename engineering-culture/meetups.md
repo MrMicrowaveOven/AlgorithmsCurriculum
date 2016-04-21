@@ -1,12 +1,25 @@
-# Meetups you should go to
+# Meetups
 
-Create an account on [Meetup.com][meetup] if you don't have one already. Check off the interests that are relevant to you (web development, tech startups, ruby, ...) and sign up for the meetups below.    
+## Why
 
-These Meetups will hold events where you'll find free dinner, great networking and maybe even a job. The key is to show up many times to the same Meetup. Start by attending all of them. Then pick the ones that you find the most interesting and that seem like they have good networking (bad networking is when everyone else there is looking for a job). Then keep showing up to the good ones. You'll feel more and more comfortable as you start recognizing the other regulars and they start recognizing you. That's when the magic happens.    
+1. Great practice for personal pitch
+2. Could lead to an interview!
+3. Increase social capital/personal brand
 
-Showing up early guarantees that you will get the free pizza and talk to more people.    
+## How to start
 
-Stay on top of Meetup events by subscribing to their calendars. On the main page of a Meetup group, open the "Calendar" tab and scroll down to the bottom. The "iCal" link will give you a URL you can subscribe to with iCal or Google Mail. This way all upcoming events for that Meetup group will appear on your calendar.    
+1. Sign up on [Meetup.com][meetup] and join some interesting groups.
+2. Attend 1 meetup per week.
+3. Your mission: Talk to at least 1 organizer or speaker from the event.
+4. Follow up.
+
+## Tips to succeed
+
+1. Practice your personal pitch.
+2. Remember names.
+3. Listen.
+4. Go early to get more face time.
+5. Curated profile. Facebook integration is great to see which of your friends are going.
 
 [meetup]: http://www.meetup.com
 
@@ -18,8 +31,13 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 * [NYC on Rails][nyc-on-rails]
 * [NY JavaScript Meetup][ny-js]
     * Very active jobs board under the "Discussion" tab.
+* [New York Software Engineers][nyse]
+* [NYC JavaScript React Group][nycreact]
+* [NYC.JS][nycjs]
 * [General Assembly Happy Hours][GA-ny]
     * 10 E 21st St, New York, NY
+
+
 
 
 ## Bay Area
@@ -30,6 +48,9 @@ Stay on top of Meetup events by subscribing to their calendars. On the main page
 * [San Francisco Python Meetup][sf-python]
 * [East Bay Javascript Meetup][EBJavaScript]
 
+[nyse]: http://www.meetup.com/nysoftware/
+[nycreact]: http://www.meetup.com/NYC-Javascript-React-Group/
+[nycjs]: http://www.meetup.com/NYC-JS/
 
 [google-nyc]: http://www.meetup.com/google-nyc-tech-talks/
 [hacker-hours]: http://www.meetup.com/hackerhours/
