@@ -1,41 +1,39 @@
-#Negotiation Emails
+# Negotiation Emails
 
 ## After getting an offer
 
 As soon as you get an offer:
-1. Ask for two weeks to think about it. Odds are this is your first job
-   as a web developer so you shouldn't be rushed to decide.
-2. Email every company you've contacted, even if they never got back to
-   you. Tell them you have an offer elsewhere but you really like what
-   their company does. You would love to go through their application
-   process so that you can include them in your final decision.
 
-These are the companies you should absolutely email. If you have a phone
-screen or interview scheduled with a company within three or four days,
-you can wait until then to let them know about your new offer.
+1. Tell your career coach
+2. Get as much as you can to make a decision.
+3. Follow up with your other leads.
+  * "I have an offer elsewhere"
+  * "I really like what your company does"
+  * "I'd love to go through your application process so that you I can include you in my final decision."
+
+These are the companies you should contact:
 
 * Companies you've interviewed with and are waiting to hear back from.
-  If you haven't written your standard thank-you-for-the-interview
+  * If you haven't written your standard thank-you-for-the-interview
   email, consolidate the two messages in the same email.
-* Companies you have a phone screen / interview scheduled with in over
-  four days.
+* Companies where you've scheduled a phone call or interview that falls
+outside your deadline to make a decision on the existing offer.
 * Companies that you haven't heard back from at all that seemed cool.
 
 Here's a sample email for your inspiration.
 
-> Hi [contact person/this company name],
+> Hi {COMPANY CONTACT/COMPANY NAME},
 >
-> I applied to join your team last week and am currently waiting to hear
-> back. I wanted to let you know I've received another offer [from
-> /company name/ if it's a good one]. I have two weeks to get back to
-> them. While it's an interesting offer, I admire what [this company]
-> does and would love to see your application process through before
-> making a final decision. I hope to hear back from your team soon.
->
+> I applied to join your team last week. I wanted to let you know I've
+> received another offer {from COMPANY NAME (if it's a good one)}. I
+> have until {DATE} to get back to them. While it's an interesting offer,
+> I admire what {COMPANY NAME} does and would love to see your application
+> process through before making a final decision. I hope to hear back from
+> your team soon.
 >
 > All the best,
 >
-> Me
+> {YOUR NAME}
 
 ## If they are in a hurry
 
