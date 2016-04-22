@@ -10,7 +10,7 @@ You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) 
 * [Cover Letter](./cover_letter.md)
 * [Javascript Project](./js_project.md)
 * [Capstone Project](https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md)
-* [Code Instensive](./code_intensive.md)
+* [Code Intensive](./code_intensive.md)
 * [Portfolio](./porfolio.md)
 * LinkedIn profile
 * Github Readme's
