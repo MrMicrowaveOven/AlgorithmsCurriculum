@@ -34,8 +34,6 @@
 * [New York Software Engineers][nyse]
 * [NYC JavaScript React Group][nycreact]
 * [NYC.JS][nycjs]
-* [General Assembly Happy Hours][GA-ny]
-    * 10 E 21st St, New York, NY
 
 
 
@@ -58,7 +56,6 @@
 [ny-ruby]: http://www.meetup.com/NYC-rb/
 [nyc-on-rails]: http://www.meetup.com/nyc-on-rails
 [ny-js]: http://www.meetup.com/javascript-7
-[GA-ny]: http://www.quora.com/What-should-every-entrepreneur-in-New-York-City-do
 [google-sv]: http://www.meetup.com/gdg-silicon-valley/
 [sf-ruby]: http://www.meetup.com/sfruby/
 [sf-rails]: http://www.meetup.com/sfrails/
