@@ -23,7 +23,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [StackOverflow][stackoverflow] - great job posts and discussions
   * [Switch][Switch] - connect via an app
   * [Toptal][toptal] - for contract work
-  * [Triplebyte][triplebyte] - code-based matching
+  * [Triplebyte][triplebyte] - code-based matching.  They are an a/A partner, use [this link][triplebyte-code] to get extra attention! 
   * [Underdog][underdog] (New York only)
   * [Untapt][untapt] (New York only)
 
@@ -31,7 +31,7 @@ If this list feels too long, start with AngelList and Hired.com.
 
 \* A Word of caution about AngelList: companies can see how many other companies you've expressed interest in over the last 30 days. Pace yourself.
 
-
+[triplebyte-code]: https://triplebyte.com/?ref=aa
 [hackerrank]: http://hackerrank.com
 [gradberry]: https://gradberry.com/
 [beansprock]: http://www.beansprock.com/
