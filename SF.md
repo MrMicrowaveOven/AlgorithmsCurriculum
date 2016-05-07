@@ -163,7 +163,7 @@ To be completed by the end of week 10, before sending out applications.
 
 #### [W12D1](./SF/w12d1.md)
 * **[Algorithms Project 2](./SF/algorithms/w11d4/project2) due at 4:29pm PST**
-* Mock interviews
+* Mock interviews 10:30am
 * Negotiation readings & lecture
 * Keep applying!
 * Algorithms: Heaps & Heapsort
@@ -197,6 +197,8 @@ To be completed by the end of week 10, before sending out applications.
 * Emphasis on the BEYOND.
 
 ## Week 13
+
+Algorithms & Mock Interviewing curriculum continues!
 
 #### [W13D1](./SF/w13d1.md)
 * **Roll call at 10am here on out**
