@@ -11,12 +11,14 @@ ReadMe breakdown:
 * Technical implementation details for anything worth mentioning
   * Basically anything you had to stop and think about before building
   * Snippets or links to see code for these (make sure it looks good)
-* Screenshots of anything related that looks cool (make sure these link to the live site if applicable) 
+* Screenshots of anything related that looks cool (make sure these link to the live site if applicable)
 * To-dos/future features
 
-Also, 
+Also,
 * No .DS_Stores
 * Organize into /assets and /lib
+
+Use the [sample project production readme][samplereadme] as a general guide, but don't copy it exactly. This will hurt your chances of hearing back from companies.
 
 
 Some examples by previous a/A grads
@@ -27,6 +29,7 @@ Some examples by previous a/A grads
 * [lair-bnb][hamme]
 * [Geometrhythm][blumeyer]
 
+[samplereadme]: https://github.com/appacademy/sample-project-proposal/blob/master/docs/production_readme.md
 [dikowitz]: https://github.com/stevendikowitz/Mintmo
 [zhou]: https://github.com/zhoux10/chess/tree/gh-pages
 [mcmeans]: https://github.com/wmcmeans/cookbook

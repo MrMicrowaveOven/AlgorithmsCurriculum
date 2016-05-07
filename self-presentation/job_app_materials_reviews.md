@@ -4,7 +4,7 @@ The point of this is to get your job application materials as perfect as possibl
 
 ## Instructions
 
-You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) and you'll review all of their job application materials. That includes their resume, cover letter, browser game, capstone project, code_intensive, and portfolio site. Make sure to go through the checklists for each:
+You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) and you'll review all of their job application materials. That includes their resume, cover letter, javascript project, capstone project, code_intensive, and portfolio site. Make sure to go through the checklists for each:
 
 * [Resume](./resume.md)
 * [Cover Letter](./cover_letter.md)
@@ -12,8 +12,8 @@ You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) 
 * [Capstone Project](https://github.com/appacademy/capstone-project-curriculum/blob/master/readings/capstone-checklist.md)
 * [Code Intensive](./code_intensive.md)
 * [Portfolio](./porfolio.md)
-* LinkedIn profile
-* Github Readme's
+* [LinkedIn profile](/linkedin-reading.md)
+* [Github Readme's](./example_readmes.md)
 
 To get the links for everything you need to review, just ask the person you're reviewing to email them to you. You'll need Google Doc URLs for the Resume and Cover Letter, and GitHub and Live URLs for all the other materials.
 
