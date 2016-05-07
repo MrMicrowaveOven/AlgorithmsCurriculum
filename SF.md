@@ -144,11 +144,10 @@ To be completed by the end of week 10, before sending out applications.
 * Technical Interviews Part 2 after lunch
 * Algorithms: Dynamic Arrays
 
-
 #### [W11D4](./SF/w11d4.md)
 * **[Algorithms Project 1](./SF/algorithms/w11d3/project1) due at 4:29pm PST**
-* Mock interviews at 10:30 am
 * Algorithms office hours at 9am
+* Mock interviews at 10:30 am
 * APPLY!
 * Algorithms: Hashmap and LRU Cache
 
@@ -158,32 +157,41 @@ To be completed by the end of week 10, before sending out applications.
 * Embrace your inner Architect
 * Final circle time at 5:30pm
 
-#### [Week 11 Bonuses](./SF/week-11-bonus.md)
+#### [W11D6-7](./SF/w11d6-7.md)
 
 ## Week 12
 
-#### [W11D6-7](./SF/w11d6-7.md)
-
 #### [W12D1](./SF/w12d1.md)
-* Should have hit 30 applications by now!
 * **[Algorithms Project 2](./SF/algorithms/w11d4/project2) due at 4:29pm PST**
-
+* Mock interviews
+* Negotiation readings & lecture
+* Keep applying!
+* Algorithms: Heaps & Heapsort
 
 #### [W12D2](./SF/w12d2.md)
-* Still going strong.
 * **[Algorithms Project 3](./SF/algorithms/w12d1/project3) due at 4:29pm PST**
+* Mock interviews at 9am
+* Algorithms office hours
+* Maintaining Momentum lecture
+* Algorithms: Quicksort & Sorting Performance
 
 
 #### [W12D3](./SF/w12d3.md)
-* No pain, no gain.
 * **[Algorithms Project 4](./SF/algorithms/w12d2/project4) due at 4:29pm PST**
+* Mock interviews at 9am
+* Algorithms office hours
+* Applyathon today!
+* Algorithms: Binary Search Trees
 
 
 #### [W12D4](./SF/w12d4.md)
 * **Graduation day!**
+* Mock interviews 9am
+* Networking lightning talk after lunch
 
 
 #### [W12D5 and BEYOND](./SF/w12d5-and-beyond.md)
+* Mock interviews 9am
 * Official coding challenge
 * Sign up for weekly pairboarding group.
 * Emphasis on the BEYOND.
@@ -193,22 +201,36 @@ To be completed by the end of week 10, before sending out applications.
 #### [W13D1](./SF/w13d1.md)
 * **Roll call at 10am here on out**
 * **[Algorithms Project 5](./SF/algorithms/w12d3/project5) due at 4:29pm PST**
+* Algorithms office hours
+* Mock interviews 10:30am
+* Algorithms: Introduction to Graphs
 
 #### [W13D2](./SF/w13d2.md)
 * **Algorithms Worksheet 2 due at 4:29pm PST**
+* Mock interviews 9am
+* Algorithms office hours
+* Graph Algorithms: Connected Components, Topological Sort
 
 #### [W13D3](./SF/w13d3.md)
 * **[Algorithms Project 6](./SF/algorithms/w13d2/project6) due at 4:29pm PST**
+* Mock interviews 9am
+* Algorithms office hours
+* Graph Algorithms: Dijkstra's Algorithm
 
 #### [W13D4](./SF/w13d4.md)
 * **[Algorithms Project 7](./SF/algorithms/w13d3/project7) due at 4:29pm PST**
-* Last Algorithms lecture - [Next steps!](./SF/algorithms/w13d4/next-steps.md)
+* Mock interviews 9am
+* Algorithms office hours
+* Algorithms: Dynamic Programming & Memoization
 
-#### W13D5
+#### [W13D5](./SF/w13d5.md)
 * **Algorithms Project 8 due at 4:29pm PST**
+* Mock interviews 9am
+* Algorithms office hours
+* Algorithms: Next Steps
 
 #### [JavaScript Readings](./SF/javascript-readings.md)
-* (re-)learn your JavaScript. Tsk tsk.
+* (re-)learn your JavaScript.
 
 
 #### [Ruby/Rails Readings](./SF/ruby-rails-readings.md)
