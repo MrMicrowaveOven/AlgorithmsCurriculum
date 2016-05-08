@@ -37,4 +37,4 @@ __What was the impact or benefit?__: Reduces server load allows for scale.
 __Result__: "Stores image uploads in the cloud using AWS S3, reducing server load and allowing for scale."
 
 
-[keywords]: 
+[keywords]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/resume_keywords.md
