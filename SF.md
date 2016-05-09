@@ -91,6 +91,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W10D2](./SF/w10d2.md)
 * **Roll call back to 9am**
 * Peer reviews start at 9am
+* Attend the Code of Conduct Review after lunch
 * Join the #hunters slack channel
 * Work on cover letter, resume, JS project
 
