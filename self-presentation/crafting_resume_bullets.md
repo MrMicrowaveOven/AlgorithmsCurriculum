@@ -7,7 +7,7 @@ keywords to tell the story.
 ## Steps to take
 
 1. Identify a key skill that you will demonstrate. See [this list][keywords] for ideas.
-2. Answer the follwing for each bullet:
+2. Answer the following for each bullet:
   * What did I do?
   * How does it demonstrate the key skill? (May be apparent from the "what")
   * What was the impact or benefit?
