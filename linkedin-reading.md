@@ -133,6 +133,13 @@ Here are some solid examples of LinkedIn profiles of other bootcamp grads:
 
 - [Minh Nguyen, App Academy August 2015](https://www.linkedin.com/in/minhngocln?authType=NAME_SEARCH&authToken=Kbrk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A212722166%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1454355430699%2Ctas%3Aminh)
 
+### Optional Video
 
+If you're new to LinkedIn, it may be worth spending an hour learning about the platform.  You may consider yourself "new" if you have
+* less than 50 connections
+* sent 2 or fewer messages through the platform
+* never joined a LinkedIn group 
+* not listed or endorsed any LinkedIn Skills before
 
-
+[This 60-min video][linkedin-video] presents LinkedIn to engineering students at Columbia University.  
+[linkedin-video]:https://www.youtube.com/watch?v=KoR9zy3Jge0
