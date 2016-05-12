@@ -114,38 +114,41 @@ both cases.
 **Accetpting an offer**
 
 > Adeline, 
->
 > It is with great excitement that I accept the offer for the position of [role]. I have included the signed offer letter. > I have been communicating with the relocation company and am currently in the process of moving to [city]. I expect to
 > be settled in by the end of the month and ready to start in [timeline]. I will contact you as my start date approaches. > Please feel free to contact me if you have any questions. I look forward to my new position at [company]. 
 >
 > Cheers,
->
 > Mary Barton
 
 
-Dear Jane, 
-
-Thank you for your employment offer for the position of [role]. I would like to reconfirm my acceptance of this position. I look forward to joining the [company] team and am confident in the contributions I will make to your organization. I am excited to apply my passion and skills to this position. Per our phone conversation, I will start work on [date]. I will be out of town until [date] but can be reached at [contact info]. 
-
-Thank you again for this opportunity!
-
-Jesse Lewis
+> Dear Jane, 
+>
+> Thank you for your employment offer for the position of [role]. I would like to reconfirm my acceptance of this
+> position. I look forward to joining the [company] team and am confident in the contributions I will make to your
+> organization. I am excited to apply my passion and skills to this position. Per our phone conversation, I will start 
+> work on [date]. I will be out of town until [date] but can be reached at [contact info]. 
+>
+> Thank you again for this opportunity!
+> Jesse Lewis
 
 
 **Rejecting an offer**
 
-Dear Joseph, 
+> Dear Joseph, 
+> 
+> Thank you for your employment offer to be a [position with company]. Unfortunately, I am writing to inform you that I am > unable to accept the offer. After evaluating all opportunities available to me, I have decided to accept another 
+> position in a different field. I truly enjoyed meeting and speaking with you and other representatives and learning
+> firsthand about your experiences. Best wishes for the continued success of [company]. Thank you again for your
+> consideration. 
+> Sincerely, 
+> Nancy Craft
 
-Thank you for your employment offer to be a [position with company]. Unfortunately, I am writing to inform you that I am unable to accept the offer. After evaluating all opportunities available to me, I have decided to accept another position in a different field. I truly enjoyed meeting and speaking with you and other representatives and learning firsthand about your experiences. Best wishes for the continued success of [company]. Thank you again for your consideration. 
-
-Sincerely, 
-
-Nancy Craft
-
-Fred and Janine, 
-
-I enjoyed meeting with you and your colleagues last week regarding the position of [role]. Thank you for you time and consideration during this process. While I am not sure where you are in the hiring process, I wanted to let you know that I would like to withdraw my application from consideration for this position. I have accepted a similar position at another organization. Thank you again for you consideration and best of luck in your search. 
-
-Sincerely, 
-
-Anne Green
+> Fred and Janine, 
+> I enjoyed meeting with you and your colleagues last week regarding the position of [role]. Thank you for you time and
+> consideration during this process. While I am not sure where you are in the hiring process, I wanted to let you know
+> that I would like to withdraw my application from consideration for this position. I have accepted a similar position at
+> another organization. Thank you again for you consideration and best of luck in your search. 
+>
+> Sincerely, 
+> 
+> Anne Green
