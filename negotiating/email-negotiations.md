@@ -121,6 +121,8 @@ both cases.
 > Mary Barton
 > 
 
+-or-
+
 > 
 > Dear Jane, 
 >
@@ -148,7 +150,7 @@ both cases.
 > Nancy Craft
 > 
 
-
+-or-
 
 > 
 > Fred and Janine, 
