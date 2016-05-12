@@ -91,8 +91,6 @@ both cases.
 
 **Example 2**: Also no competing offers
 
-> Hi Ronald,
-> 
 > Thank you for sending that offer letter over! I really enjoyed getting to meet the whole [company] team and I think the 
 > company is a great cultural fit for me. On top of that, I think [company] is creating a really awesome product and I 
 > would have the opportunity to pick up skills that I won't find at other companies.
@@ -103,15 +101,14 @@ both cases.
 > 
 > I am very eager to join the team at [company], however I do have a small concern with the salary. Given that the average
 > salary for a software engineer in [city] is 130k (link), and though I am just starting out, I see my market value
-> as being 110k. If you were able to offer a salary of 110k, I would cancel all other interviews and sign immediately 
+> as being 110k. I have always performed above average in the past, as indicated by my strong GPA at Dartmouth. I am 
+> confident that I will continue to maintain a high performance level at [company] and  contribute maximally to the
+> company. If you were able to offer a salary of 110k, I would cancel all other interviews and sign immediately 
 > (tonight), without waiting to hear back from other companies.
 > 
 > Again, I am really excited about the opportunity to work with [company], and would love to start on [date], as
 > requested. I'm looking forward to hearing from you soon!
-> 
-> Best,
-> Anand
-> 
+
 
 **Example 2**: with competing offers.
 
