@@ -110,7 +110,7 @@ both cases.
 > requested. I'm looking forward to hearing from you soon!
 
 
-**Example 2**: with competing offers.
+**Example 3**: with competing offers.
 
 > Thanks for sending this over! I think [company name] is a great
 > company, and that I'd be a good fit. My one apprehension right now is
