@@ -56,7 +56,7 @@ you take can inspiration from.
 
  If a verbal offer is made, a response could be, “I’m very excited about the opportunity to work for you and this organization. Since this is such a significant decision for both of us, I’d be more comfortable if the offer was formalized in writing and I could look it over.”  
  
- If you didn't manage to say this, you can consider writing them a followup email where you reiterate the details of the offer and thank them for the offer they've made.  This puts at least parts of the offer down in writing.   
+ (If you didn't manage to say this, you can consider writing them a followup email where you reiterate the details of the offer and thank them for the offer they've made.  This puts at least parts of the offer down in writing.)
 
 
 ## If the offer is low
@@ -88,6 +88,30 @@ both cases.
 > Again, I am really looking forward to joining your team and can't wait
 > to start on 9/23/2013 as you requested. But in order to do that, I
 > need you to make me a more competitive offer.
+
+**Example 2**: Also no competing offers
+
+> Hi Ronald,
+> 
+> Thank you for sending that offer letter over! I really enjoyed getting to meet the whole [company] team and I think the 
+> company is a great cultural fit for me. On top of that, I think [company] is creating a really awesome product and I 
+> would have the opportunity to pick up skills that I won't find at other companies.
+> 
+> After reviewing the offer letter in more detail, I do have a few questions/concerns. First, I'm very excited about the 
+> generous insurance that [company] offers to employees, and I was wondering whether or not that coverage also extends to 
+> an employee's spouse. 
+> 
+> I am very eager to join the team at [company], however I do have a small concern with the salary. Given that the average
+> salary for a software engineer in [city] is 130k (link), and though I am just starting out, I see my market value
+> as being 110k. If you were able to offer a salary of 110k, I would cancel all other interviews and sign immediately 
+> (tonight), without waiting to hear back from other companies.
+> 
+> Again, I am really excited about the opportunity to work with [company], and would love to start on [date], as
+> requested. I'm looking forward to hearing from you soon!
+> 
+> Best,
+> Anand
+> 
 
 **Example 2**: with competing offers.
 
