@@ -106,11 +106,13 @@ Cover the following points, not necessarily in this order:
   project.
 * Tell them why that live project is cool.
 
-
 Addressing the letter when you don't know the name of the person reading it:
 
 * Use *"Hello [company] team"* if they're a laidback company.
 * Use *"Dear Sir or Madam"* if they seem stiff.
+
+**Note** 
+Don't include your life history in your cover letter.  Recruiters want to know your skills and qualifications first, and will ask about your story when they get you on the phone.  Save your story for your personal pitch.
 
 # Emailing like a boss
 
