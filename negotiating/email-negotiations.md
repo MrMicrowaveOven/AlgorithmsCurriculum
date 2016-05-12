@@ -121,6 +121,7 @@ both cases.
 > Mary Barton
 
 
+
 > Dear Jane, 
 >
 > Thank you for your employment offer for the position of [role]. I would like to reconfirm my acceptance of this
@@ -143,7 +144,8 @@ both cases.
 > 
 > Sincerely, 
 > Nancy Craft
-> 
+
+
 
 
 > Fred and Janine, 
@@ -151,7 +153,7 @@ both cases.
 > consideration during this process. While I am not sure where you are in the hiring process, I wanted to let you know
 > that I would like to withdraw my application from consideration for this position. I have accepted a similar position at
 > another organization. Thank you again for you consideration and best of luck in your search. 
->
+> 
 > Sincerely, 
 > 
 > Anne Green
