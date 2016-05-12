@@ -113,13 +113,13 @@ both cases.
 
 **Accetpting an offer**
 
-Adeline, 
-
-It is with great excitement that I accept the offer for the position of [role]. I have included the signed offer letter. I have been communicating with the relocation company and am currently in the process of moving to [city]. I expect to be settled in by the end of the month and ready to start in [timeline]. I will contact you as my start date approaches. Please feel free to contact me if you have any questions. I look forward to my new position at [company]. 
-
-Cheers,
-
-Mary Barton
+> Adeline, 
+>
+>It is with great excitement that I accept the offer for the position of [role]. I have included the signed offer letter. >I have been communicating with the relocation company and am currently in the process of moving to [city]. I expect to be >settled in by the end of the month and ready to start in [timeline]. I will contact you as my start date approaches. >Please feel free to contact me if you have any questions. I look forward to my new position at [company]. 
+>
+>Cheers,
+>
+>Mary Barton
 
 
 Dear Jane, 
