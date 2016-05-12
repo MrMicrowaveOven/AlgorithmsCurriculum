@@ -56,7 +56,7 @@ you take can inspiration from.
 
  If a verbal offer is made, a response could be, “I’m very excited about the opportunity to work for you and this organization. Since this is such a significant decision for both of us, I’d be more comfortable if the offer was formalized in writing and I could look it over.”  
  
- (If you didn't manage to say this, you can consider writing them a followup email where you reiterate the details of the offer and thank them for the offer they've made.  This puts at least parts of the offer down in writing.)
+ (If you didn't manage to say this, you can consider writing a followup email where you reiterate the details of the verbal offer.  This isn't as good as an offer letter, but puts at least some details in writing in the meantime.)
 
 
 ## If the offer is low
