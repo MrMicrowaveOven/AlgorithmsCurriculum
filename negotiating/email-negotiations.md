@@ -162,7 +162,8 @@ both cases.
 
 > Dear Joseph, 
 > 
-> Thank you for your employment offer to be a [position with company]. Unfortunately, I am writing to inform you that I am > unable to accept the offer. After evaluating all opportunities available to me, I have decided to accept another 
+> Thank you for your employment offer to be a [position with company]. Unfortunately, I am writing to inform you that I am
+> unable to accept the offer. After evaluating all opportunities available to me, I have decided to accept another 
 > position in a different field. I truly enjoyed meeting and speaking with you and other representatives and learning
 > firsthand about your experiences. Best wishes for the continued success of [company]. Thank you again for your
 > consideration. 
