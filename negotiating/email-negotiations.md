@@ -89,7 +89,7 @@ both cases.
 > to start on 9/23/2013 as you requested. But in order to do that, I
 > need you to make me a more competitive offer.
 
-**Example 2**: Also no competing offers
+**Example 2**: no competing offers
 
 > Thank you for sending that offer letter over! I really enjoyed getting to meet the whole [company] team and I think the 
 > company is a great cultural fit for me. On top of that, I think [company] is creating a really awesome product and I 
@@ -100,10 +100,10 @@ both cases.
 > an employee's spouse. 
 > 
 > I am very eager to join the team at [company], however I do have a small concern with the salary. Given that the average
-> salary for a software engineer in [city] is 130k (link), and though I am just starting out, I see my market value
-> as being 110k. I have always performed above average in the past, as indicated by my strong GPA at Dartmouth. I am 
+> salary for a software engineer in [city] is 125k (link), and though I am just starting out, I see my market value
+> as being 115k. I have always performed above average in the past, as indicated by my strong GPA at Dartmouth. I am 
 > confident that I will continue to maintain a high performance level at [company] and  contribute maximally to the
-> company. If you were able to offer a salary of 110k, I would cancel all other interviews and sign immediately 
+> company. If you were able to offer a salary of 115k, I would cancel all other interviews and sign immediately 
 > (tonight), without waiting to hear back from other companies.
 > 
 > Again, I am really excited about the opportunity to work with [company], and would love to start on [date], as
