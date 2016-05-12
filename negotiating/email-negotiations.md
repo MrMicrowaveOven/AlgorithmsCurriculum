@@ -140,8 +140,11 @@ both cases.
 > position in a different field. I truly enjoyed meeting and speaking with you and other representatives and learning
 > firsthand about your experiences. Best wishes for the continued success of [company]. Thank you again for your
 > consideration. 
+> 
 > Sincerely, 
 > Nancy Craft
+> 
+
 
 > Fred and Janine, 
 > I enjoyed meeting with you and your colleagues last week regarding the position of [role]. Thank you for you time and
