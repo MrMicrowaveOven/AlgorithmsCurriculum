@@ -119,9 +119,9 @@ both cases.
 >
 > Cheers,
 > Mary Barton
+> 
 
-
-
+> 
 > Dear Jane, 
 >
 > Thank you for your employment offer for the position of [role]. I would like to reconfirm my acceptance of this
@@ -130,6 +130,7 @@ both cases.
 > work on [date]. I will be out of town until [date] but can be reached at [contact info]. 
 >
 > Thank you again for this opportunity!
+>
 > Jesse Lewis
 
 
@@ -143,11 +144,13 @@ both cases.
 > consideration. 
 > 
 > Sincerely, 
+>
 > Nancy Craft
+> 
 
 
 
-
+> 
 > Fred and Janine, 
 > I enjoyed meeting with you and your colleagues last week regarding the position of [role]. Thank you for you time and
 > consideration during this process. While I am not sure where you are in the hiring process, I wanted to let you know
