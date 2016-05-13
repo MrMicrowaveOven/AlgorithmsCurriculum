@@ -13,7 +13,7 @@
 
 
 ## And beyond
-* Tips for how to apply to your very favorite companies in [this article][get-any-job]
+* Tips for applying to your very favorite companies in [this article][get-any-job] (warning: lots of work with this method)
 * There may be additional lectures next week. Some may be required.
 * Come in by 10am every day until you are excused by your career coach.  
 * Even after being excused, continue coming back.  Students that search from the office have a better work environment and find jobs faster.
