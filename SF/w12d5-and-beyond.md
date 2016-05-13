@@ -13,6 +13,7 @@
 
 
 ## And beyond
+* Tips for how to apply to your very favorite companies in [this article][get-any-job]
 * There may be additional lectures next week. Some may be required.
 * Come in by 10am every day until you are excused by your career coach.  
 * Even after being excused, continue coming back.  Students that search from the office have a better work environment and find jobs faster.
@@ -30,3 +31,4 @@
 [systemsdesign]: ../further_readings/systems-design.md
 [hiredintech]: http://www.hiredintech.com/system-design/
 [pairboarding]: https://github.com/appacademy/job-search-curriculum/blob/master/ongoing-education/pairboarding-group.md
+[get-any-job]: https://www.linkedin.com/pulse/how-get-any-job-you-want-even-youre-unqualified-raghav-haran?trk=hp-feed-article-title-like
