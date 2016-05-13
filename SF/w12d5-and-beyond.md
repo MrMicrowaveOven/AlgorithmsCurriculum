@@ -13,11 +13,11 @@
 
 
 ## And beyond
-* Tips for applying to your very favorite companies in [this article][get-any-job] (warning: lots of work with this method)
 * There may be additional lectures next week. Some may be required.
 * Come in by 10am every day until you are excused by your career coach.  
 * Even after being excused, continue coming back.  Students that search from the office have a better work environment and find jobs faster.
 * Continue applying to 10 places and adding 10 companies to Jobberwocky every weekday. Not applying will result in strikes.
+* See tips for applying to your very favorite companies in [this article][get-any-job] 
 * If you finish the a/A mock interview problems
     * Practice [these tests][algo-specs]
     * Try [Codility][codility]
