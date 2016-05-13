@@ -22,6 +22,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Lytmus][lytmus] - pair programming format
   * [StackOverflow][stackoverflow] - great job posts and discussions
   * [Switch][Switch] - connect via an app
+  * [The Muse][themuse] - company profiles with pics and videos
   * [Toptal][toptal] - for contract work
   * [Triplebyte][triplebyte] - code-based matching.  They are an a/A partner, use [this link][triplebyte-code] to get extra attention! 
   * [Underdog][underdog] (New York only)
@@ -35,6 +36,7 @@ If this list feels too long, start with AngelList and Hired.com.
 [hackerrank]: http://hackerrank.com
 [gradberry]: https://gradberry.com/
 [beansprock]: http://www.beansprock.com/
+[themuse]: https://www.themuse.com/
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
