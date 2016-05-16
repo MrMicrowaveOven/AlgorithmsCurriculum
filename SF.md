@@ -43,7 +43,7 @@ To be completed by the end of week 10, before sending out applications.
 [code-intensive]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/code_intensive.md
 [github]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
 [linkedin]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/linkedin.md
-[angellist]: ../angel-list-reading.md
+[angellist]: ../master/angel-list-reading.md
 
 ### Algorithms Projects
 * Algorithms Worksheet 1 Big O Analysis ([Readings][project0readings])
