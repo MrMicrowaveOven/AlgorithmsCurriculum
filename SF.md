@@ -42,7 +42,7 @@ To be completed by the end of week 10, before sending out applications.
 [portfolio]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/portfolio.md
 [code-intensive]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/code_intensive.md
 [github]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
-[linkedin]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/linkedin.md
+[linkedin]: https://github.com/appacademy/job-search-curriculum/blob/master/linkedin-reading.md
 [angellist]: ../master/angel-list-reading.md
 
 ### Algorithms Projects
