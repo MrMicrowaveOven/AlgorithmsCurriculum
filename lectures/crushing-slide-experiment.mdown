@@ -1,0 +1,109 @@
+# How to Crush Technical Interviews
+---
+Part 1:
+
+---
+* Prep
+  * Print out this page
+  * Put on MIC
+  * Put problem on board (and acronym)
+  * Write that you need pen and paper
+  * Song: https://www.youtube.com/watch?v=8kLjxwDywKU
+---
+* Overview of how the onsite works (5 mins)
+  * What is the schedule of the day?
+  * You go into four different conference rooms, whiteboard
+  * People ask you about yourself at the start...
+  * Four major types of problems, we're going to cover the biggest today and the smaller ones on wendesday.
+---
+* Whiteboard Problem (65 mins)
+  * Can-you-code problems (2 mins)
+    * These are usually in initial interviews.  I have actually gotten fizzbuzz
+    * Hired.com and apparently angel.co have some good ones that you can practice if you sign up.
+    * Sometimes they require 2 years of experience. See if that's really the case.
+---
+
+* Can-solve-problems problems (in person)
+  * Draw acronym on board: ReSET A PeTCoT?
+---
+* Individual exercise (40 mins)
+---
+* for tip in tips, we're going to apply them (30 mins)
+  * This is one FRAMEWORK.  You can try other approaches.
+---
+*  Singly linked list kth to last question: (3 mins)
+  * You have a linked list ↴ and want to find the kth to last node.
+  * Write a function kth_to_last_node() that takes an integer k and the head_node of a linked list, and returns the kth to last node in the list. (Put this on board BEFORE?).
+---
+* Restate the question in different words.  Clarifying questions.
+  * Your brain is going to want to try to start to solve the problem.  HOLD IT BACK FOR NOW.  Don't start, you need to make sure you have the full problem.
+  * A clarifying question you need: singly or doubly linked list?
+  * Some companies expect you to ask clarifying questions
+---
+* Now write out some SMALL examples of sample inputs and outputs (2 mins)
+  * DRAW ON BOARD
+    * 0, 1, and 2.
+    * k=2 and head_node is really a ()->()->()->()->()caterpillar
+  * Edge cases.
+    * DRAW ON BOARD
+    * Compare to partner
+    * List on board
+---
+* CHECK WITH THE CLASS that everyone knows what the function looks like.
+  * Draw signature (kth_to_last_node(3, head_node)) on board,
+---
+* English approaches (not even pseudocode) (3 mins)
+  * DRAW ON BOARD
+---
+* Test(does it work with samples visually?)
+  * DRAW ON BOARD
+---
+* Analyze (space, time tradeoffs, edge cases) (3 mins)
+  * DRAW ON BOARD
+---
+* Pseudocode - Pick an approach (2 mins)
+  * DRAW ON BOARD
+
+---
+* Test: run through some sample inputs
+---
+* Real code (4 mins)
+  * DRAW ON BOARD
+  * Interviewers look for small errors and WONT tell you/.
+---
+* Test: Run through it with your sample small inputs (3 mins)
+  * DRAW ON BOARD
+  * Find bugs
+---
+* Show of hands, who thinks they have the solution?
+  * Email me afterwards for a solution.
+  * Ask student up, write on board.
+---
+* Class: List helpful things you did. (4 mins)
+---
+*  Add other example questions (1 minute): determine if a string is a palindrome, SOLVE boggle (goodreads), solve BART system shortest path and cost...reverse a linked list (angel.co), compare two strings to see how much of the beginning they share (trying to beat linear time is the tough part).
+
+---
+*  I think we have a test bank, so try to find it if you haven't yet. (1 minute)
+---
+* Questions (3 mins)
+
+---
+* Google-level (optional) (2 mins):
+  * Can you solve problems and do you have a good grasp of CS fundamentals?
+  * Just means extra study.
+
+---
+* Pairboarding tips
+  * State the problem to your person.  They can ask clarifying questions.  Make them work and explain it.
+  * Be a little rude to your partner (better to prepare for the worst).  Don't help them too much. I don't like that companies interview like this, but it can and does happen.
+  * Give small hints (not array.each)
+  * ??'s
+
+* Questions (10 mins)
+---
+
+---
+
+---
+z
