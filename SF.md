@@ -173,7 +173,7 @@ To be completed by the end of week 10, before sending out applications.
 * **[Algorithms Project 3](./SF/algorithms/w12d1/project3) due at 4:29pm PST**
 * Mock interviews at 9am
 * Algorithms office hours
-* Maintaining Momentum lecture
+* Networking lightning talk after lunch
 * Algorithms: Quicksort & Sorting Performance
 
 
@@ -188,7 +188,7 @@ To be completed by the end of week 10, before sending out applications.
 #### [W12D4](./SF/w12d4.md)
 * **Graduation day!**
 * Mock interviews 9am
-* Networking lightning talk after lunch
+* Maintaining Momentum lecture
 
 
 #### [W12D5 and BEYOND](./SF/w12d5-and-beyond.md)
