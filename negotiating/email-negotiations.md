@@ -130,8 +130,7 @@ both cases.
 > would be a valuable asset to the [company] team. I look forward to
 > hearing from you!
 
-**Template**
-The basic format of these emails is:
+**Template**: a basic format for the emails is:
 * Thanks so much for the offer
 * I'm excited about your company for [specific reason]
 * I have one minor concern about compensation
