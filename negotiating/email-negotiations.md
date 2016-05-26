@@ -131,9 +131,9 @@ both cases.
 > hearing from you!
 
 **Template**
-The basic structure of these emails is:
+The basic format of these emails is:
 * Thanks so much for the offer
-* You're excited about your company for [specific reason]
+* You're excited about the company for [specific reason]
 * You have one minor concern about compensation
 * Compensation you're requesting (higher than your goal so there's room to negotiate)
 * Reason you should be compensated
