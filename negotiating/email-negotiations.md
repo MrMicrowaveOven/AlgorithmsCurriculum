@@ -101,7 +101,7 @@ both cases.
 > 
 > I am very eager to join the team at [company], however I do have a small concern with the salary. Given that the average
 > salary for a software engineer in [city] is 125k (link), and though I am just starting out, I see my market value
-> as being 115k. I have always performed above average in the past, as indicated by my strong GPA at Dartmouth. I am 
+> as being 115k. I have always performed above average in the past, as indicated by my strong GPA at [university]. I am 
 > confident that I will continue to maintain a high performance level at [company] and  contribute maximally to the
 > company. If you were able to offer a salary of 115k, I would cancel all other interviews and sign immediately 
 > (tonight), without waiting to hear back from other companies.
