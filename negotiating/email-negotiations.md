@@ -136,8 +136,7 @@ The basic format of these emails is:
 * You're excited about the company for [specific reason]
 * You have one minor concern about compensation
 * Compensation you're requesting (higher than your goal so there's room to negotiate)
-* Reason you should be compensated
-  * There are lots of reasons you might be a great fit for the company. Consider two things:   
+* Reason you should be compensated.  There are lots of reasons you might be a great fit for the company. Consider two things:   
    * Anything the company has mentioned that makes you a unique fit.  For example:
      * Culture is paramount to them and you fit in perfetly
      * They want someone with a finance background, which you have
