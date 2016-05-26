@@ -133,10 +133,10 @@ both cases.
 **Template**
 The basic format of these emails is:
 * Thanks so much for the offer
-* I'm excited about the company for [specific reason]
+* I'm excited about your company for [specific reason]
 * I have one minor concern about compensation
 * Compensation request (use a specific number that's higher than your goal so there's room to negotiate)
-* Reason I should be compensated.  
+* Reason I feel I should be compensated
   * There are lots of reasons you might be a great fit for the company. Consider two things:   
     * Anything the company has mentioned that makes you a unique fit.  For example:
        * Culture is paramount to them and you fit in perfetly
@@ -146,8 +146,8 @@ The basic format of these emails is:
        * You attended a top school or had a high GPA
        * You were very successful in your previous jobs
        * You bring experience in management/tech/startups 
-* If the offer is lower than average, include comparison to the a/A average or to developer salaries in [city]
-* If these requests are met, you would be delighted to join
+* (If the offer is lower than average) Comparison to the a/A average or to developer salaries in [city]
+* If these requests are met, I would be delighted to join
 
 
 
