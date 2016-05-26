@@ -102,9 +102,14 @@ Part 2:
 0. Prep (5 mins)
   1. Mic
   2. Make sure students have paper and pen/pencil. (Write on board beforehand.)
+  3. Write agenda on board with three types of problems (Interview, Pair, Design)
 
 3. Good ol’ fashioned Interview (10 min)
   1. Overview. (1 min)
+    2.  Example questions (2 mins):
+      a. What is the advantage of jQuery over raw javascript?
+      b. Compare ES5 to ES6, what are the major changes?
+      c. Why is it bad to store plaintext passwords in the database?
   2. Tips (3 mins):
     a. Demonstrate what you know
     b. Admit what you don't know (circle of competence).
@@ -112,6 +117,8 @@ Part 2:
     0. Break into partners
     1. What happens when I type google.com into my web browser and hit enter? (4 mins)
     2. What are the different ways you can make private variables in javascript? (4 mins)
+      - IIFE with closure is pretty much the closest you can get
+      - No @ sign in javascript
 
 4. Pair Programming / Build something while they watch next to you (4 mins)
   1. Overview (4 mins): Learnist did this, Pivotal does this.  Talk about process companies take.
@@ -122,12 +129,14 @@ Part 2:
   1. Tips (5 mins):
     1. Clarifying questions are good .
     2. Pictures/shapes, circles are good
+      a. Know what a database cylinder looks like
 
   2. Example question (10 mins)
     1. Design chess with saving game.  Schema.
-    2  Take the google request and represent it with boxes and lines database cylinders.
+      a. Invite up to board to pick apart.
+    3. Take a request to appacademy.io and represent it with boxes and lines and database cylinders.
+      a. Draw out myself
 
-  3. Other example problems (2 mins): Design the BART system schema, schema for Ad Server, how would you set up a rails app that serves 5 million people?.
-
+  3. Other example problems (2 mins): Design the BART system schema, schema for Ad Server, how would you set up a rails app that serves 5 million people?
 
 4. Questions
