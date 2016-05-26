@@ -130,6 +130,28 @@ both cases.
 > would be a valuable asset to the [company] team. I look forward to
 > hearing from you!
 
+**Template**
+The basic structure of these emails is:
+* Thanks so much for the offer
+* You're excited about your company for [specific reason]
+* You have one minor concern about compensation
+* Compensation you're requesting (higher than your goal so there's room to negotiate)
+* Reason you should be compensated
+  * There are lots of reasons you might be a great fit for the company. Consider two things:   
+   * Anything the company has mentioned that makes you a unique fit.  For example:
+     * Culture is paramount to them and you fit in perfetly
+     * They want someone with a finance background, which you have
+     * Your take-home-project showed that you're a great UI designer and they need UI help
+   * Anything that makes you a strong applicant or employee.  Some examples:
+    * You attended a top school or had a high GPA
+    * You were very successful in your previous jobs
+    * You bring experience in management/tech/startups 
+* Comparison of compensation to a/A average or developer salaries in [city]
+* If these requests are met, you would be delighted to join
+
+
+
+
 ## Accepting or rejecting an offer
 
 **Accetpting an offer**
