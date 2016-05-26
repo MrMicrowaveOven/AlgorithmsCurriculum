@@ -142,9 +142,9 @@ The basic format of these emails is:
      * They want someone with a finance background, which you have
      * Your take-home-project showed that you're a great UI designer and they need UI help
    * Anything that makes you a strong applicant or employee.  Some examples:
-    * You attended a top school or had a high GPA
-    * You were very successful in your previous jobs
-    * You bring experience in management/tech/startups 
+     * You attended a top school or had a high GPA
+     * You were very successful in your previous jobs
+     * You bring experience in management/tech/startups 
 * Comparison of compensation to a/A average or developer salaries in [city]
 * If these requests are met, you would be delighted to join
 
