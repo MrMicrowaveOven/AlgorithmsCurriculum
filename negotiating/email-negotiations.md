@@ -134,7 +134,7 @@ both cases.
 * Thanks so much for the offer
 * I'm excited about your company for [specific reason]
 * I have one minor concern about compensation
-* [Requested compensation] (use a specific number that's higher than your goal so there's room to negotiate)
+* My requested compensation (use a specific number that's higher than your goal so there's room to negotiate)
 * Reason I feel I should be compensated
   * There are lots of reasons you might be a great fit for the company. Consider two things:   
     * Anything the company has mentioned that makes you a unique fit.  For example:
