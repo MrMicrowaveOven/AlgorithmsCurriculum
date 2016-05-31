@@ -2,7 +2,7 @@
 
 Open to all graduates of App Academy, this weekly meetup is intended to give job seekers the chance to keep their whiteboarding skills sharp. It is highly recommend that all job seekers attend, especially those who haven't recently been through the pairboarding curriculum.
 
-We meet at **1:15 pm** on **Thursdays** at App Academy's office:
+We meet at **1:30 pm** on **Thursdays** at App Academy's office:
 
 160 Spear Street, 14th Floor  
 San Francisco
