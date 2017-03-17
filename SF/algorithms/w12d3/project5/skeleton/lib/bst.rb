@@ -1,9 +1,12 @@
+require 'byebug'
+
 class BSTNode
   attr_accessor :left, :right
   attr_reader :value
 
   def initialize(value)
-
+    @value = value
+    @left, @right = nil, nil
   end
 end
 
@@ -49,7 +52,11 @@ class BinarySearchTree
   end
 
   def self.insert!(node, value)
-
+    # debugger
+    return BSTNode.new(value) unless node
+    node.left  = BinarySearchTree.insert!(node.left,  value) if value <=  node.value
+    node.right = BinarySearchTree.insert!(node.right, value) if value > node.value
+    node
   end
 
   def self.find!(node, value)
@@ -73,11 +80,15 @@ class BinarySearchTree
   end
 
   def self.max(node)
-
+    return nil unless node
+    return node unless node.right
+    BinarySearchTree.max(node.right)
   end
 
   def self.min(node)
-
+    return nil unless node
+    return node unless node.left
+    BinarySearchTree.min(node.left)
   end
 
   def self.delete_min!(node)
